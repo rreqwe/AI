@@ -1,28 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 大宗商品: Enphase Energy (ENPH) Climbs 13.7% on Goldman Sachs Upbeat S...",
-    "✓ 综合财经: USA Rare Earth (USAR) Soars 13% on US-China Deal Uncertainti...",
-    "✓ 综合财经: POET Technologies (POET) Goes Aggressive on Expansion, Jumps...",
-    "✗ 综合财经: You’ve Landed Your First Job. Now Don’t Sink Your Career Bef...",
-    "✓ 股市动态: US stocks edge higher following the latest U-turn for oil pr..."
+    "✓ 综合财经: SpaceX: Musk bets heavily on AI, not just rockets, for futur...",
+    "✓ 经济数据: Eagle Capital Management Bet on Danaher (DHR) for Its Mid-Te...",
+    "✓ 综合财经: Target moves to elevate supply chain operations, inventory r...",
+    "✗ 股市动态: Stocks Fall on Doubts Over a US-Iran Peace Deal...",
+    "✓ 货币政策: CDL’s $2.29 annual dividend beats Treasury yields despite ri..."
   ],
-  "positive_count": 9,
+  "positive_count": 8,
   "negative_count": 3,
-  "neutral_count": 18,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-05-22T12:58:04.230394",
+  "analyzed_at": "2026-05-22T21:48:01.504236",
   "categories_distribution": {
-    "大宗商品": 3,
-    "综合财经": 20,
-    "股市动态": 26,
-    "国际贸易": 2,
-    "外汇市场": 1,
-    "经济数据": 1,
-    "数字货币": 1
+    "综合财经": 27,
+    "经济数据": 4,
+    "股市动态": 18,
+    "国际贸易": 1,
+    "货币政策": 5
   },
   "ai_provider": "fallback_rules"
 }
