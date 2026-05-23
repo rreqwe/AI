@@ -1,25 +1,27 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Pre-IPO, Anthropic Shows Up OpenAI with Surprise Profit Proj...",
-    "✓ 经济数据: Walmart Rattles Investors with Slowing Sales-Growth Forecast...",
-    "✓ 股市动态: AMD ramping up Taiwan capacity as global CPU market tightens...",
-    "✗ 股市动态: The new Luddite movement ...",
-    "✓ 经济数据: China Inc goes shopping for western consumer brands..."
+    "✗ 股市动态: Jim Cramer Breaks Down NVIDIA’s Latest Quarter...",
+    "✓ 综合财经: Microsoft’s new responsible tech lead on how to humanize hig...",
+    "✓ 综合财经: Lingering mysteries from Berkshire's portfolio update...",
+    "✓ 经济数据: Americans are feeling inflation's pinch into the holiday wee...",
+    "✓ 综合财经: ‘Blue dot fever’? What's really behind a tricky summer dynam..."
   ],
-  "positive_count": 9,
-  "negative_count": 1,
-  "neutral_count": 20,
+  "positive_count": 5,
+  "negative_count": 2,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-05-23T08:00:18.771594",
+  "analyzed_at": "2026-05-23T15:48:28.628445",
   "categories_distribution": {
+    "股市动态": 17,
     "综合财经": 29,
-    "经济数据": 5,
-    "股市动态": 19,
-    "货币政策": 2
+    "经济数据": 6,
+    "国际贸易": 1,
+    "大宗商品": 1,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
