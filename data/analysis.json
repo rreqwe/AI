@@ -1,27 +1,26 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Morgan Stanley Increases Prices Target on Teradyne, Inc. (TE...",
-    "✗ 综合财经: Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile...",
-    "✗ 货币政策: Here's the One Thing New Fed Chair Kevin Warsh Could Do That...",
-    "✗ 经济数据: Is inflation about to cause a stock market crash? - Yahoo Fi...",
-    "✗ 综合财经: Iran’s Guards used UAE company to buy military satellite equ..."
+    "✓ 综合财经: Another pet supplies store operator files Chapter 11 bankrup...",
+    "✓ 股市动态: Trump traded over $50 million in 'Magnificent 7' stocks last...",
+    "✓ 股市动态: Stocks and earnings surge, and Iran deal may be imminent: Wh...",
+    "✓ 股市动态: Stocks and earnings surge, and Iran deal may be imminent: Wh...",
+    "✓ 综合财经: Xi railed against Japan’s ‘remilitarisation’ at Trump summit..."
   ],
-  "positive_count": 4,
-  "negative_count": 4,
-  "neutral_count": 22,
+  "positive_count": 11,
+  "negative_count": 2,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-05-24T09:10:26.949869",
+  "analyzed_at": "2026-05-24T15:48:25.725359",
   "categories_distribution": {
-    "综合财经": 29,
-    "股市动态": 16,
+    "股市动态": 24,
     "货币政策": 2,
-    "经济数据": 5,
-    "国际贸易": 1,
-    "大宗商品": 1
+    "综合财经": 26,
+    "外汇市场": 1,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
