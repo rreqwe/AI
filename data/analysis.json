@@ -1,26 +1,27 @@
 {
-  "temperature_score": 65.0,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Another pet supplies store operator files Chapter 11 bankrup...",
-    "✓ 股市动态: Trump traded over $50 million in 'Magnificent 7' stocks last...",
-    "✓ 股市动态: Stocks and earnings surge, and Iran deal may be imminent: Wh...",
-    "✓ 股市动态: Stocks and earnings surge, and Iran deal may be imminent: Wh...",
-    "✓ 综合财经: Xi railed against Japan’s ‘remilitarisation’ at Trump summit..."
+    "✓ 股市动态: Walmart Stock Fell After Its Earnings Beat. Is the Post-Earn...",
+    "✓ 综合财经: Maxim Upgrades Gilead Sciences (GILD) to ‘Buy’...",
+    "✓ 综合财经: Analyst Upgrades Automatic Data Processing (ADP) to ‘Equal W...",
+    "✗ 综合财经: Duke Energy (DUK) Price Target Lowered by $5...",
+    "✓ 综合财经: Shell (SHEL) Upgraded to Buy Following ARC Resources Deal..."
   ],
-  "positive_count": 11,
+  "positive_count": 12,
   "negative_count": 2,
-  "neutral_count": 17,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-05-24T15:48:25.725359",
+  "analyzed_at": "2026-05-24T20:40:14.097868",
   "categories_distribution": {
-    "股市动态": 24,
+    "股市动态": 21,
+    "综合财经": 27,
     "货币政策": 2,
-    "综合财经": 26,
-    "外汇市场": 1,
-    "经济数据": 2
+    "大宗商品": 1,
+    "经济数据": 3,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
