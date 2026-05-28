@@ -1,28 +1,27 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Will Inflation Derail the Stock Market Rally? - ETF Database...",
-    "✓ 综合财经: Snowflake rockets 36% on earnings beat and plan to spend $6 ...",
-    "✗ 经济数据: Amazon's top health exec is stepping down, will be replaced ...",
-    "✗ 大宗商品: Trump says rising economic costs will not force him into Ira...",
-    "✓ 综合财经: Zscaler tanks 31% for worst day ever on 'prudent' guidance, ..."
+    "✓ 综合财经: Cincinnati Financial (CINF) Gets Higher Price Target from Pi...",
+    "✓ 经济数据: Snowflake Surges On Earnings, AI Product Growth, New Amazon ...",
+    "✓ 股市动态: Freight market pushes another wave of trucking firms into ba...",
+    "✗ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures drop follow...",
+    "✓ 货币政策: Fed's inflation gauge heated up in April, cementing that int..."
   ],
-  "positive_count": 6,
-  "negative_count": 4,
-  "neutral_count": 20,
+  "positive_count": 8,
+  "negative_count": 5,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-05-27T23:03:40.856772",
+  "analyzed_at": "2026-05-28T12:50:02.269630",
   "categories_distribution": {
-    "综合财经": 22,
-    "外汇市场": 2,
-    "股市动态": 20,
+    "股市动态": 22,
+    "综合财经": 17,
     "经济数据": 5,
-    "国际贸易": 1,
-    "大宗商品": 2,
-    "货币政策": 3
+    "货币政策": 5,
+    "大宗商品": 4,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
