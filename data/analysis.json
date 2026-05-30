@@ -1,26 +1,26 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Mass retailers draw level with supermarkets as primary groce...",
-    "✓ 综合财经: Trump can't rename Kennedy Center or close it for renovation...",
-    "✗ 股市动态: Brent oil price posts biggest monthly loss in six years as m...",
-    "✓ 经济数据: Dell stock skyrockets 32% for its best day ever as AI server...",
-    "✓ 综合财经: Iran war cost: Average U.S. household paying $450 more on ga..."
+    "✓ 外汇市场: Wipro Ltd. (WIT) Soars 18% on Billion-Dollar Buyback...",
+    "✓ 经济数据: Amprius (AMPX) Soars as Battery Market Poised for 51% Growth...",
+    "✓ 综合财经: Ondas Inc (ONDS) Soars 22.7% as Oppenheimer Issues ‘Buy’ Cal...",
+    "✓ 综合财经: Snowflake (SNOW) Soars 36% as AI Propels Q1 Earnings...",
+    "✗ 股市动态: 5 lessons for investors from 6 stock market crashes - Yahoo ..."
   ],
-  "positive_count": 6,
+  "positive_count": 12,
   "negative_count": 3,
-  "neutral_count": 21,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-05-29T20:41:14.773822",
+  "analyzed_at": "2026-05-30T08:43:26.684537",
   "categories_distribution": {
-    "综合财经": 27,
-    "股市动态": 20,
-    "经济数据": 2,
-    "货币政策": 4,
-    "外汇市场": 1,
+    "外汇市场": 2,
+    "经济数据": 4,
+    "综合财经": 24,
+    "股市动态": 21,
+    "货币政策": 2,
     "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
