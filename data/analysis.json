@@ -1,27 +1,28 @@
 {
-  "temperature_score": 65.0,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 外汇市场: Wipro Ltd. (WIT) Soars 18% on Billion-Dollar Buyback...",
-    "✓ 经济数据: Amprius (AMPX) Soars as Battery Market Poised for 51% Growth...",
-    "✓ 综合财经: Ondas Inc (ONDS) Soars 22.7% as Oppenheimer Issues ‘Buy’ Cal...",
-    "✓ 综合财经: Snowflake (SNOW) Soars 36% as AI Propels Q1 Earnings...",
-    "✗ 股市动态: 5 lessons for investors from 6 stock market crashes - Yahoo ..."
+    "✓ 综合财经: Some Working Seniors Could See a Social Security Boost in 20...",
+    "✓ 综合财经: Jim Cramer on Realty Income (O): “I Think It’s Going to Go H...",
+    "✓ 综合财经: At least 3.5 million people have lost food stamp access as T...",
+    "✓ 股市动态: Stock Market Week Ahead: Chipmaker Aims For 9th Straight Tri...",
+    "✗ 股市动态: ‘Ticking time bomb’: Peter Schiff issues stark warning over ..."
   ],
-  "positive_count": 12,
-  "negative_count": 3,
-  "neutral_count": 15,
+  "positive_count": 5,
+  "negative_count": 1,
+  "neutral_count": 24,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-05-30T08:43:26.684537",
+  "analyzed_at": "2026-05-30T15:55:36.255159",
   "categories_distribution": {
+    "综合财经": 26,
+    "股市动态": 20,
+    "国际贸易": 3,
     "外汇市场": 2,
-    "经济数据": 4,
-    "综合财经": 24,
-    "股市动态": 21,
-    "货币政策": 2,
-    "国际贸易": 1
+    "大宗商品": 1,
+    "经济数据": 1,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
