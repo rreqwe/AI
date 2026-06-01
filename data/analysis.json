@@ -1,28 +1,26 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 经济数据: United Rentals: The Industrial Stock Workhorse I'd Happily H...",
-    "✗ 股市动态: JPMorgan doubles down on stock market message for 2026 - the...",
-    "✓ 综合财经: Ritz-Carlton Yacht lenders ease terms to keep luxury cruise ...",
-    "✗ 股市动态: U.S. and Iran still without deal to end war after Trump says...",
-    "✗ 综合财经: The end of cheap..."
+    "✗ 综合财经: Trump administration plans to drop DOJ's $1.8B 'lawfare' fun...",
+    "✓ 大宗商品: Trump claims Israel and Hizbollah agree ceasefire after Iran...",
+    "✓ 股市动态: SpaceX sets aside up to 5% of shares in IPO for certain empl...",
+    "✓ 经济数据: Anthropic confidentially files IPO prospectus with SEC, prep...",
+    "✓ 大宗商品: Oil prices spike and bond yields jump after Iran says it's s..."
   ],
-  "positive_count": 8,
-  "negative_count": 5,
-  "neutral_count": 17,
+  "positive_count": 7,
+  "negative_count": 2,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-05-31T21:38:06.733633",
+  "analyzed_at": "2026-06-01T19:30:20.580919",
   "categories_distribution": {
-    "货币政策": 2,
-    "综合财经": 19,
-    "经济数据": 5,
-    "股市动态": 13,
-    "国际贸易": 1,
-    "外汇市场": 3,
-    "大宗商品": 1
+    "综合财经": 28,
+    "股市动态": 21,
+    "大宗商品": 3,
+    "经济数据": 2,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
