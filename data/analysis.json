@@ -1,27 +1,25 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
+    "✓ 综合财经: T1 Energy (TE) Powers to 3-Year High on Strong Q2 Hopes...",
+    "✓ 综合财经: Lightwave Logic (LWLG) Rides on Nvidia Optimism, Soars 15%...",
     "✓ 综合财经: 69-year-old furniture store chain files for Chapter 11 bankr...",
-    "✓ 综合财经: Morning Bid: Equity supply shock?...",
-    "✓ 股市动态: Is Altria Group Stock Underperforming the Dow?...",
-    "✓ 综合财经: Senate GOP strips up to $1B for Trump ballroom security from...",
-    "✓ 经济数据: Bessent says US inflation jump will be ‘short-term blip’..."
+    "✓ 综合财经: Eli Manning's private equity firm acquires licensing company...",
+    "✓ 股市动态: SpaceX IPO hype has traders flocking to this mid-cap stock..."
   ],
-  "positive_count": 9,
-  "negative_count": 5,
-  "neutral_count": 16,
+  "positive_count": 10,
+  "negative_count": 2,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-03T20:00:05.673507",
+  "analyzed_at": "2026-06-04T11:36:49.974692",
   "categories_distribution": {
-    "外汇市场": 2,
-    "股市动态": 25,
-    "综合财经": 25,
-    "数字货币": 1,
-    "经济数据": 1,
-    "大宗商品": 1
+    "综合财经": 26,
+    "股市动态": 23,
+    "经济数据": 3,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
