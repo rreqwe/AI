@@ -1,28 +1,27 @@
 {
-  "temperature_score": 56.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 48.33,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比3/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✗ 数字货币: Bitcoin crash triggers billions in liquidations...",
-    "✓ 综合财经: 69-year-old furniture store chain files for Chapter 11 bankr...",
-    "✓ 综合财经: Ships stranded in Persian Gulf quietly coordinate with U.S. ...",
-    "✓ 股市动态: Confirmed screwworm case in Texas sends two biotech stocks h...",
-    "✓ 股市动态: The Stock Market Has Been Here Precisely Once Before. Buckle..."
+    "✗ 股市动态: Is the housing market going to crash in 2026?...",
+    "✗ 股市动态: The Stock Market Is Flashing the Same Two Warning Signals It...",
+    "✓ 股市动态: A bull market grows up: Investors are finally separating AI ...",
+    "✓ 经济数据: May jobs report expected to show growth in an economy squeez...",
+    "✗ 股市动态: I suspect this will trigger a stock market crash! - Yahoo Fi..."
   ],
-  "positive_count": 7,
+  "positive_count": 2,
   "negative_count": 3,
-  "neutral_count": 20,
+  "neutral_count": 25,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-04T19:48:53.494499",
+  "analyzed_at": "2026-06-05T11:51:30.547921",
   "categories_distribution": {
-    "股市动态": 27,
-    "综合财经": 20,
-    "数字货币": 1,
+    "综合财经": 28,
+    "股市动态": 20,
+    "外汇市场": 2,
     "经济数据": 3,
     "国际贸易": 1,
-    "大宗商品": 2,
-    "外汇市场": 1
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
