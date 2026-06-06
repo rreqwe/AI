@@ -1,25 +1,24 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: This Dividend Stock Has Gained 18% While the Rest of its Sec...",
-    "✗ 综合财经: Remote work career risks for Gen Z are 'subtle, but material...",
+    "✓ 股市动态: TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock...",
     "✓ 股市动态: Dow Jones Futures: What To Do As Market Rally Faces First Re...",
-    "✓ 综合财经: How ‘Backrooms’ producer Peter Chernin thinks Hollywood need...",
-    "✓ 股市动态: Wall Street's 'fear gauge' punches back as the 'crash up' in..."
+    "✗ 股市动态: The U.S. stock market is facing historic downside risk — the...",
+    "✗ 综合财经: Remote work career risks for Gen Z are 'subtle, but material...",
+    "✓ 综合财经: How ‘Backrooms’ producer Peter Chernin thinks Hollywood need..."
   ],
   "positive_count": 5,
-  "negative_count": 3,
-  "neutral_count": 22,
+  "negative_count": 4,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-06T15:59:26.656795",
+  "analyzed_at": "2026-06-06T21:44:20.115772",
   "categories_distribution": {
-    "股市动态": 21,
-    "综合财经": 24,
-    "国际贸易": 2,
-    "大宗商品": 2,
+    "股市动态": 27,
+    "综合财经": 20,
+    "国际贸易": 1,
     "数字货币": 1,
     "经济数据": 3,
     "货币政策": 1
