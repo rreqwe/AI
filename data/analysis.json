@@ -1,27 +1,28 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Brookfield Renewable Partners (BEP) Price Target Raised Amid...",
-    "✓ 货币政策: Stocks slump as Big Tech sinks and a strong May jobs report ...",
-    "✗ 数字货币: Bitcoin Sinks to Four-Month Lows as Investors Eye Sparkly IP...",
-    "✓ 综合财经: Nearly 1 in 5 Couples Leave Money on the Table in Retirement...",
-    "✓ 综合财经: The power games that paved the way for Trump’s World Cup..."
+    "✓ 股市动态: This Dividend Stock Has Gained 18% While the Rest of its Sec...",
+    "✗ 综合财经: Remote work career risks for Gen Z are 'subtle, but material...",
+    "✓ 股市动态: Dow Jones Futures: What To Do As Market Rally Faces First Re...",
+    "✓ 综合财经: How ‘Backrooms’ producer Peter Chernin thinks Hollywood need...",
+    "✓ 股市动态: Wall Street's 'fear gauge' punches back as the 'crash up' in..."
   ],
-  "positive_count": 8,
-  "negative_count": 5,
-  "neutral_count": 17,
+  "positive_count": 5,
+  "negative_count": 3,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-06T09:13:53.680185",
+  "analyzed_at": "2026-06-06T15:59:26.656795",
   "categories_distribution": {
-    "综合财经": 26,
-    "股市动态": 19,
-    "货币政策": 4,
-    "数字货币": 2,
+    "股市动态": 21,
+    "综合财经": 24,
+    "国际贸易": 2,
+    "大宗商品": 2,
+    "数字货币": 1,
     "经济数据": 3,
-    "大宗商品": 1
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
