@@ -1,26 +1,26 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
+    "✓ 股市动态: Is FinVolution Group (FINV) A Good Stock To Buy Now?...",
+    "✗ 综合财经: Fragile ceasefire in jeopardy as Iran reportedly fires missi...",
+    "✗ 综合财经: Iran launches ballistic missiles at Israel...",
     "✓ 货币政策: Trump piles pressure on Warsh with call for rate cut...",
-    "✓ 综合财经: Futures Due As Rally Faces First Real Test: What To Do Now -...",
-    "✓ 股市动态: Stock Funds Are Up 11.5% This Year Thanks to Tech Rally - WS...",
-    "✓ 经济数据: Inflation inside the electronics you buy may soon become a b...",
-    "✓ 综合财经: Are we at the start of a new investment super-cycle?..."
+    "✗ 股市动态: Israel attacks Beirut days after Trump’s showdown with Netan..."
   ],
-  "positive_count": 8,
-  "negative_count": 0,
+  "positive_count": 5,
+  "negative_count": 3,
   "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-07T16:54:09.769817",
+  "analyzed_at": "2026-06-07T21:52:19.404648",
   "categories_distribution": {
-    "股市动态": 26,
+    "股市动态": 24,
+    "数字货币": 1,
+    "综合财经": 25,
     "货币政策": 2,
-    "综合财经": 23,
-    "经济数据": 3,
-    "国际贸易": 1
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
