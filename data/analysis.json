@@ -2,26 +2,27 @@
   "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq jump as chip stocks...",
-    "✓ 股市动态: Corning shares jump 4% after company strikes deal to power A...",
-    "✓ 综合财经: Food supply 'not at risk' after new Texas screwworm cases, U...",
-    "✗ 股市动态: Wall Street stocks rebound after AI-led rout...",
-    "✓ 国际贸易: Iran announces 'end of military operations' against Israel, ..."
+    "✗ 综合财经: Americans Still Owe $1.25 Trillion on Credit Cards as Intere...",
+    "✓ 综合财经: Trump’s $100,000 H-1B visa fee blocked by judge ...",
+    "✗ 股市动态: Stock Market Today, June 8: Apple Falls After Unveiling AI S...",
+    "✓ 综合财经: Apple partnering with Google and Nvidia for most advanced AI...",
+    "✗ 国际贸易: Nvidia CEO Jensen Huang declines Senate testimony on AI, Chi..."
   ],
-  "positive_count": 5,
-  "negative_count": 4,
-  "neutral_count": 21,
+  "positive_count": 4,
+  "negative_count": 3,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-08T14:41:00.560294",
+  "analyzed_at": "2026-06-08T23:03:03.916436",
   "categories_distribution": {
-    "股市动态": 25,
-    "数字货币": 1,
-    "综合财经": 23,
-    "国际贸易": 2,
+    "股市动态": 19,
+    "综合财经": 26,
+    "外汇市场": 2,
     "经济数据": 3,
-    "外汇市场": 1
+    "国际贸易": 2,
+    "货币政策": 1,
+    "数字货币": 2
   },
   "ai_provider": "fallback_rules"
 }
