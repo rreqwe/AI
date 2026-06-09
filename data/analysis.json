@@ -1,28 +1,28 @@
 {
-  "temperature_score": 51.67,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: Americans Still Owe $1.25 Trillion on Credit Cards as Intere...",
-    "✓ 综合财经: Trump’s $100,000 H-1B visa fee blocked by judge ...",
-    "✗ 股市动态: Stock Market Today, June 8: Apple Falls After Unveiling AI S...",
-    "✓ 综合财经: Apple partnering with Google and Nvidia for most advanced AI...",
-    "✗ 国际贸易: Nvidia CEO Jensen Huang declines Senate testimony on AI, Chi..."
+    "✗ 综合财经: The $600/month Medicare mistake too many 65-year-old retiree...",
+    "✗ 经济数据: Gold prices today, Tuesday, June 9: Prices settling into a l...",
+    "✓ 综合财经: 'You are some rich guy's exit strategy': Vivian Tu says 'you...",
+    "✗ 大宗商品: Silver prices today, Tuesday, June 9: Settling into a lower ...",
+    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures rise as AI ..."
   ],
-  "positive_count": 4,
+  "positive_count": 10,
   "negative_count": 3,
-  "neutral_count": 23,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-08T23:03:03.916436",
+  "analyzed_at": "2026-06-09T11:44:17.563585",
   "categories_distribution": {
-    "股市动态": 19,
-    "综合财经": 26,
-    "外汇市场": 2,
-    "经济数据": 3,
-    "国际贸易": 2,
-    "货币政策": 1,
-    "数字货币": 2
+    "综合财经": 22,
+    "经济数据": 2,
+    "股市动态": 25,
+    "大宗商品": 1,
+    "外汇市场": 3,
+    "国际贸易": 1,
+    "数字货币": 1
   },
   "ai_provider": "fallback_rules"
 }
