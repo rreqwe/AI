@@ -1,27 +1,28 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: The $600/month Medicare mistake too many 65-year-old retiree...",
-    "✗ 经济数据: Gold prices today, Tuesday, June 9: Prices settling into a l...",
-    "✓ 综合财经: 'You are some rich guy's exit strategy': Vivian Tu says 'you...",
-    "✗ 大宗商品: Silver prices today, Tuesday, June 9: Settling into a lower ...",
-    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures rise as AI ..."
+    "✓ 综合财经: 64-Year-Old Retired Teacher With $1.1M 403(b) and State Pens...",
+    "✓ 经济数据: Stock Index Futures Climb as Tech Stocks Rebound, U.S. Infla...",
+    "✓ 综合财经: Five ways Elon Musk's SpaceX upended Wall Street's IPO playb...",
+    "✓ 综合财经: White House border czar Tom Homan blames New York Gov. Hochu...",
+    "✗ 股市动态: Trump says U.S. must 'respond' after Iran shoots down helico..."
   ],
-  "positive_count": 10,
-  "negative_count": 3,
-  "neutral_count": 17,
+  "positive_count": 6,
+  "negative_count": 6,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-09T11:44:17.563585",
+  "analyzed_at": "2026-06-09T19:35:27.720324",
   "categories_distribution": {
-    "综合财经": 22,
+    "大宗商品": 2,
+    "股市动态": 28,
+    "外汇市场": 1,
+    "综合财经": 19,
     "经济数据": 2,
-    "股市动态": 25,
-    "大宗商品": 1,
-    "外汇市场": 3,
     "国际贸易": 1,
+    "货币政策": 1,
     "数字货币": 1
   },
   "ai_provider": "fallback_rules"
