@@ -1,27 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures sink as tec...",
+    "✗ 综合财经: GSK Just Dropped $10.6 Billion on a Lung Cancer Bet...",
+    "✓ 综合财经: US consumers are still spending, but JPMorgan says the cushi...",
     "✓ 国际贸易: National mall footwear giant closes 82 stores as shoppers tr...",
-    "✓ 经济数据: Oil prices jump after Trump says Iran will 'pay the price' f...",
-    "✓ 股市动态: Consumer prices rose 4.2% annually in May, highest in three ...",
-    "✓ 经济数据: US inflation jumped to 4.2% in May amid Middle East energy s..."
+    "✓ 经济数据: Inflation heats up to highest pace in three years, fueled by...",
+    "✓ 综合财经: Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss..."
   ],
-  "positive_count": 10,
-  "negative_count": 6,
-  "neutral_count": 14,
+  "positive_count": 6,
+  "negative_count": 5,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-10T12:40:42.598507",
+  "analyzed_at": "2026-06-10T23:15:58.027686",
   "categories_distribution": {
-    "股市动态": 24,
-    "国际贸易": 3,
-    "综合财经": 19,
-    "货币政策": 4,
-    "经济数据": 3,
-    "大宗商品": 1,
+    "综合财经": 20,
+    "股市动态": 20,
+    "国际贸易": 4,
+    "经济数据": 7,
+    "大宗商品": 2,
+    "货币政策": 1,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
