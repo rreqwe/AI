@@ -1,28 +1,28 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 国际贸易: Why the economics makes this the craziest world cup ever...",
-    "✓ 综合财经: My friends always want to split the bill equally, how do I s...",
-    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures rise as inv...",
-    "✓ 综合财经: From startup to $1.8 trillion: The investors who took a chan...",
-    "✓ 股市动态: Musk’s SpaceX raises $75bn in world’s biggest IPO..."
+    "✓ 综合财经: DigitalBridge Group Inc (DBRG) to Acquire ArcLight. Here Are...",
+    "✓ 综合财经: Digital Realty Trust Inc (DLR) Teams Up With ePlus. The Focu...",
+    "✓ 综合财经: UAW Reaches Tentative Deal to End Strike at Supplier to GM T...",
+    "✗ 经济数据: Equities drop, oil rallies with Iran-US tensions and high in...",
+    "✓ 综合财经: Small investors scrambled to get in on the SpaceX IPO, even ..."
   ],
-  "positive_count": 8,
-  "negative_count": 1,
-  "neutral_count": 21,
+  "positive_count": 6,
+  "negative_count": 2,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-11T23:10:58.466384",
+  "analyzed_at": "2026-06-12T12:39:10.485965",
   "categories_distribution": {
+    "股市动态": 24,
     "综合财经": 22,
-    "股市动态": 21,
-    "国际贸易": 1,
-    "大宗商品": 4,
-    "货币政策": 2,
-    "经济数据": 3,
-    "外汇市场": 2
+    "经济数据": 1,
+    "大宗商品": 3,
+    "货币政策": 3,
+    "数字货币": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
