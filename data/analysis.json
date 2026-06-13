@@ -1,27 +1,26 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极2条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极2条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
+    "✓ 综合财经: 70-Year-Old Couple With $1.8M Just Got a Stage 2 Cancer Diag...",
     "✗ 综合财经: How Wall Street pulled off the biggest IPO in history for Sp...",
-    "✓ 股市动态: How smart investors cashed in on yesterday’s stock market ra...",
-    "✗ 股市动态: Here’s how a stock market crash could help you retire over 1...",
     "✓ 综合财经: AI is disrupting investment..."
   ],
   "positive_count": 2,
-  "negative_count": 2,
-  "neutral_count": 26,
+  "negative_count": 1,
+  "neutral_count": 27,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-13T17:01:52.144629",
+  "analyzed_at": "2026-06-13T21:53:27.719126",
   "categories_distribution": {
-    "股市动态": 32,
-    "综合财经": 15,
+    "股市动态": 29,
+    "综合财经": 19,
     "外汇市场": 1,
     "货币政策": 1,
     "国际贸易": 3,
     "经济数据": 1,
-    "大宗商品": 2
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
