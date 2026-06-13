@@ -1,27 +1,27 @@
 {
-  "temperature_score": 65.0,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极2条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: How Can I Lower Taxes on My $2,800 Monthly Social Security B...",
-    "✓ 综合财经: Exclusive-U.S. bank regulators ramp up scrutiny of AI use at...",
-    "✓ 国际贸易: South Korean import sales rise 6% in May...",
-    "✓ 股市动态: SpaceX surges past $2 trillion in Nasdaq debut, closes in on...",
-    "✓ 综合财经: How AI is disrupting investment..."
+    "✗ 综合财经: How Wall Street pulled off the biggest IPO in history for Sp...",
+    "✓ 股市动态: How smart investors cashed in on yesterday’s stock market ra...",
+    "✗ 股市动态: Here’s how a stock market crash could help you retire over 1...",
+    "✓ 综合财经: AI is disrupting investment..."
   ],
-  "positive_count": 11,
+  "positive_count": 2,
   "negative_count": 2,
-  "neutral_count": 17,
+  "neutral_count": 26,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-13T10:13:57.822401",
+  "analyzed_at": "2026-06-13T17:01:52.144629",
   "categories_distribution": {
-    "股市动态": 22,
-    "综合财经": 19,
-    "国际贸易": 5,
-    "大宗商品": 4,
+    "股市动态": 32,
+    "综合财经": 15,
     "外汇市场": 1,
-    "货币政策": 4
+    "货币政策": 1,
+    "国际贸易": 3,
+    "经济数据": 1,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
