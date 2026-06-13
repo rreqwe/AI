@@ -2,25 +2,26 @@
   "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Waymo Is Doubling Down on Self-Driving Car Ambitions. What T...",
-    "✓ 大宗商品: Crude Oil Prices Climb as US-Iran Tensions Escalate...",
-    "✓ 股市动态: Elon Musk becomes world's first trillionaire as SpaceX soars...",
-    "✓ 股市动态: Small investors scrambled to get in on the SpaceX IPO, even ...",
-    "✓ 综合财经: Top House Republican’s family investment poised to benefit f..."
+    "✗ 综合财经: How Can I Lower Taxes on My $2,800 Monthly Social Security B...",
+    "✓ 综合财经: Exclusive-U.S. bank regulators ramp up scrutiny of AI use at...",
+    "✓ 国际贸易: South Korean import sales rise 6% in May...",
+    "✓ 股市动态: SpaceX surges past $2 trillion in Nasdaq debut, closes in on...",
+    "✓ 综合财经: How AI is disrupting investment..."
   ],
-  "positive_count": 10,
-  "negative_count": 1,
-  "neutral_count": 19,
+  "positive_count": 11,
+  "negative_count": 2,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-12T23:03:18.481869",
+  "analyzed_at": "2026-06-13T10:13:57.822401",
   "categories_distribution": {
-    "股市动态": 26,
-    "国际贸易": 4,
-    "大宗商品": 3,
+    "股市动态": 22,
     "综合财经": 19,
-    "货币政策": 3
+    "国际贸易": 5,
+    "大宗商品": 4,
+    "外汇市场": 1,
+    "货币政策": 4
   },
   "ai_provider": "fallback_rules"
 }
