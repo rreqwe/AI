@@ -1,27 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Market Update: MDT...",
-    "✓ 股市动态: U.S. stock market climbs the wall of worry as corporate earn...",
-    "✓ 股市动态: Stock Market Today, June 15: SpaceX Surges at Midday After B...",
-    "✗ 货币政策: Warsh's Fed is likely to hold rates steady — what the leader...",
-    "✓ 股市动态: Stocks surge as US-Iran deal ignites global rally..."
+    "✓ 综合财经: Modine Manufacturing (MOD) Just Beat Earnings, But Analysts ...",
+    "✓ 股市动态: Market Update: TEVA, APD, DG...",
+    "✓ 综合财经: As Demand Continues To Grow, Nvidia (NVDA) Has 46% Upside Ac...",
+    "✓ 综合财经: SpaceX set to extend rally after record Wall Street debut...",
+    "✗ 股市动态: Odds that a proposed billionaire tax appears on California b..."
   ],
-  "positive_count": 6,
-  "negative_count": 1,
-  "neutral_count": 23,
+  "positive_count": 9,
+  "negative_count": 3,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-15T18:09:57.422471",
+  "analyzed_at": "2026-06-16T18:19:46.964981",
   "categories_distribution": {
-    "股市动态": 21,
+    "股市动态": 24,
     "综合财经": 24,
-    "大宗商品": 2,
-    "国际贸易": 3,
-    "货币政策": 4,
-    "经济数据": 1
+    "外汇市场": 2,
+    "国际贸易": 1,
+    "货币政策": 3,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
