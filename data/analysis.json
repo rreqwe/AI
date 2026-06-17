@@ -1,28 +1,27 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 货币政策: Dow Jones Futures: Techs Rebound, SpaceX Rises Despite Trump...",
-    "✓ 综合财经: SpaceX's near $3 trillion rally comes with one big catch: Ch...",
-    "✗ 股市动态: Netflix's stock slide is getting worse...",
-    "✓ 货币政策: Stock Market Today: Dow Waffles Ahead Of Fed Decision, Warsh...",
-    "✓ 大宗商品: Futures Mixed, Oil Rises On Trump's New Iran Threat - Invest..."
+    "✓ 综合财经: Here’s What Boosted Lumentum Holdings (LITE) in Q1...",
+    "✓ 综合财经: 'We had to get out of the way': The backlash over delivery r...",
+    "✓ 货币政策: Interest rates expected to be held by Bank of England...",
+    "✗ 综合财经: US and Iran sign deal as Trump vows to release frozen funds ...",
+    "✓ 股市动态: Stock-market pessimists have one less reason to worry as sha..."
   ],
   "positive_count": 7,
-  "negative_count": 4,
-  "neutral_count": 19,
+  "negative_count": 2,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-17T13:02:09.789794",
+  "analyzed_at": "2026-06-17T23:08:42.789148",
   "categories_distribution": {
-    "股市动态": 18,
-    "货币政策": 8,
-    "综合财经": 22,
-    "数字货币": 1,
+    "股市动态": 17,
+    "综合财经": 21,
+    "货币政策": 14,
     "大宗商品": 1,
-    "经济数据": 3,
-    "外汇市场": 2
+    "经济数据": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
