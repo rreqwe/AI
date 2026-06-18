@@ -1,27 +1,28 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Here’s What Boosted Lumentum Holdings (LITE) in Q1...",
-    "✓ 综合财经: 'We had to get out of the way': The backlash over delivery r...",
-    "✓ 货币政策: Interest rates expected to be held by Bank of England...",
-    "✗ 综合财经: US and Iran sign deal as Trump vows to release frozen funds ...",
-    "✓ 股市动态: Stock-market pessimists have one less reason to worry as sha..."
+    "✓ 经济数据: MDU Resource Group Offers Growth Prospects In Utility Space...",
+    "✓ 货币政策: Stock market today: Dow, S&P 500, Nasdaq futures climb with ...",
+    "✓ 股市动态: Stock Market Today: Dow Rises Ahead Of Jobless Claims; Intel...",
+    "✗ 综合财经: Women have better retirement savings habits but lower 401(k)...",
+    "✓ 货币政策: Futures Rise After Fed Hits Market; These AI Stocks Flash Bu..."
   ],
   "positive_count": 7,
-  "negative_count": 2,
-  "neutral_count": 21,
+  "negative_count": 3,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-17T23:08:42.789148",
+  "analyzed_at": "2026-06-18T12:32:52.236015",
   "categories_distribution": {
     "股市动态": 17,
     "综合财经": 21,
-    "货币政策": 14,
-    "大宗商品": 1,
-    "经济数据": 1,
-    "外汇市场": 1
+    "经济数据": 4,
+    "货币政策": 8,
+    "外汇市场": 2,
+    "大宗商品": 2,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
