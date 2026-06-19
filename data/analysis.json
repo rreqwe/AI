@@ -1,27 +1,26 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Why Super Micro Computer (SMCI) Needs Fresh Capital to Suppo...",
-    "✓ 货币政策: Fed Warsh era kicks off with big surprise no one saw coming...",
-    "✓ 经济数据: Why Dell Technologies (DELL) Is Turning Rack-Scale AI System...",
-    "✓ 综合财经: Why Amphenol (APH) Is Becoming a Core Picks-and-Shovels Supp...",
-    "✗ 大宗商品: Israel and Hizbollah agree ceasefire..."
+    "✓ 货币政策: US banks to make final push on capital rule changes as Fed w...",
+    "✓ 综合财经: Best CD rates today, Thursday, June 18, 2026: Lock in up to ...",
+    "✓ 股市动态: Best money market account rates today, Thursday, June 18, 20...",
+    "✗ 大宗商品: Israel and Hizbollah agree ceasefire...",
+    "✗ 股市动态: Futures Fall With U.S. Markets Shut; Watch For This SpaceX M..."
   ],
-  "positive_count": 9,
-  "negative_count": 5,
-  "neutral_count": 16,
+  "positive_count": 7,
+  "negative_count": 4,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-19T14:56:46.551922",
+  "analyzed_at": "2026-06-19T19:44:50.550930",
   "categories_distribution": {
-    "综合财经": 30,
     "货币政策": 6,
-    "经济数据": 1,
-    "大宗商品": 3,
-    "股市动态": 14,
-    "国际贸易": 1
+    "股市动态": 20,
+    "综合财经": 25,
+    "国际贸易": 1,
+    "大宗商品": 3
   },
   "ai_provider": "fallback_rules"
 }
