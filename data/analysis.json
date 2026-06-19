@@ -1,28 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: The stock market's next leg higher may not come from AI: Cha...",
-    "✓ 综合财经: Plans to end gazumping with binding agreements in house sale...",
-    "✗ 综合财经: Five ways the Iran peace deal could affect you and your mone...",
-    "✗ 综合财经: Reaching a nuclear deal with Iran will be much harder than i...",
-    "✓ 综合财经: Warning over 'fragile' public finances as borrowing rises..."
+    "✓ 综合财经: Why Super Micro Computer (SMCI) Needs Fresh Capital to Suppo...",
+    "✓ 货币政策: Fed Warsh era kicks off with big surprise no one saw coming...",
+    "✓ 经济数据: Why Dell Technologies (DELL) Is Turning Rack-Scale AI System...",
+    "✓ 综合财经: Why Amphenol (APH) Is Becoming a Core Picks-and-Shovels Supp...",
+    "✗ 大宗商品: Israel and Hizbollah agree ceasefire..."
   ],
-  "positive_count": 7,
-  "negative_count": 2,
-  "neutral_count": 21,
+  "positive_count": 9,
+  "negative_count": 5,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-19T10:20:36.324917",
+  "analyzed_at": "2026-06-19T14:56:46.551922",
   "categories_distribution": {
-    "股市动态": 15,
-    "货币政策": 5,
     "综合财经": 30,
-    "大宗商品": 1,
-    "国际贸易": 1,
-    "经济数据": 2,
-    "外汇市场": 1
+    "货币政策": 6,
+    "经济数据": 1,
+    "大宗商品": 3,
+    "股市动态": 14,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
