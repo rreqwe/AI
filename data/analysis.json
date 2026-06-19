@@ -1,27 +1,28 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: SpaceX's near $3 trillion rally comes with one big catch: Ch...",
-    "✓ 货币政策: Dow Jones Futures: Techs Rebound, SpaceX Rises Despite Trump...",
-    "✗ 货币政策: HELOC and home equity loan interest rates today, Wednesday, ...",
-    "✓ 综合财经: Best CD rates today, Wednesday, June 17, 2026: Earn up to 4%...",
-    "✗ 股市动态: Stock Market Today, June 18: Pfizer Falls as CFO Transition ..."
+    "✓ 股市动态: The stock market's next leg higher may not come from AI: Cha...",
+    "✓ 综合财经: Plans to end gazumping with binding agreements in house sale...",
+    "✗ 综合财经: Five ways the Iran peace deal could affect you and your mone...",
+    "✗ 综合财经: Reaching a nuclear deal with Iran will be much harder than i...",
+    "✓ 综合财经: Warning over 'fragile' public finances as borrowing rises..."
   ],
-  "positive_count": 12,
-  "negative_count": 4,
-  "neutral_count": 14,
+  "positive_count": 7,
+  "negative_count": 2,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-19T00:12:30.898366",
+  "analyzed_at": "2026-06-19T10:20:36.324917",
   "categories_distribution": {
-    "综合财经": 24,
-    "货币政策": 11,
     "股市动态": 15,
-    "经济数据": 3,
-    "外汇市场": 1,
-    "大宗商品": 1
+    "货币政策": 5,
+    "综合财经": 30,
+    "大宗商品": 1,
+    "国际贸易": 1,
+    "经济数据": 2,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
