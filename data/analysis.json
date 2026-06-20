@@ -1,26 +1,26 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 货币政策: US banks to make final push on capital rule changes as Fed w...",
-    "✓ 综合财经: Best CD rates today, Thursday, June 18, 2026: Lock in up to ...",
-    "✓ 股市动态: Best money market account rates today, Thursday, June 18, 20...",
-    "✗ 大宗商品: Israel and Hizbollah agree ceasefire...",
-    "✗ 股市动态: Futures Fall With U.S. Markets Shut; Watch For This SpaceX M..."
+    "✓ 综合财经: Microsoft Corp (MSFT): Teams Getting Another Feature Boost...",
+    "✓ 经济数据: Cathie Wood dumps nearly $60 million in popular growth stock...",
+    "✓ 股市动态: Stock Market Forecast For Next Six Months: Why More Gains Ma...",
+    "✓ 股市动态: SpaceX IPO, Peace Hopes Fuel Rally in Asia Stock Markets - B...",
+    "✓ 大宗商品: Oil tanker traffic in Strait of Hormuz jumps after U.S. and ..."
   ],
-  "positive_count": 7,
-  "negative_count": 4,
+  "positive_count": 8,
+  "negative_count": 3,
   "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-19T19:44:50.550930",
+  "analyzed_at": "2026-06-20T02:57:02.710322",
   "categories_distribution": {
-    "货币政策": 6,
-    "股市动态": 20,
-    "综合财经": 25,
-    "国际贸易": 1,
-    "大宗商品": 3
+    "综合财经": 29,
+    "股市动态": 19,
+    "经济数据": 1,
+    "大宗商品": 2,
+    "货币政策": 4
   },
   "ai_provider": "fallback_rules"
 }
