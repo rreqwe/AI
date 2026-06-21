@@ -1,26 +1,27 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Poll: US boomers support tax hikes on young workers to keep ...",
-    "✓ 货币政策: Best high-yield savings interest rates today, Saturday, June...",
-    "✓ 货币政策: HELOC and home equity loan rates Saturday, June 20, 2026: Fe...",
-    "✓ 经济数据: Cathie Wood dumps nearly $60 million in popular growth stock...",
-    "✓ 股市动态: Holiday bookings surge in markets hit by Iran crisis..."
+    "✗ 股市动态: Microsoft Corporation (MSFT): One of the Best Falling Stocks...",
+    "✗ 股市动态: Berenberg Affirms Why Accenture plc (ACN) is one of the Best...",
+    "✗ 股市动态: Netflix, Inc. (NFLX) Still One of the Best Falling Stocks to...",
+    "✗ 股市动态: Here’s why Palantir Technologies Inc. (PLTR) is Still One of...",
+    "✓ 股市动态: If you're surprised by how well the stock market is doing, s..."
   ],
-  "positive_count": 10,
-  "negative_count": 0,
-  "neutral_count": 20,
+  "positive_count": 4,
+  "negative_count": 4,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-21T09:43:49.493340",
+  "analyzed_at": "2026-06-21T14:01:33.069038",
   "categories_distribution": {
-    "综合财经": 26,
-    "股市动态": 20,
-    "货币政策": 7,
-    "经济数据": 1,
-    "数字货币": 1
+    "股市动态": 25,
+    "国际贸易": 1,
+    "综合财经": 24,
+    "数字货币": 1,
+    "外汇市场": 1,
+    "货币政策": 3
   },
   "ai_provider": "fallback_rules"
 }
