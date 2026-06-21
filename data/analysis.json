@@ -1,27 +1,26 @@
 {
-  "temperature_score": 68.33,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Is Interactive Brokers Group, Inc. (IBKR) A Good Stock To Bu...",
-    "✓ 股市动态: Is Covenant Logistics Group, Inc. (CVLG) A Good Stock To Buy...",
+    "✓ 综合财经: Poll: US boomers support tax hikes on young workers to keep ...",
+    "✓ 货币政策: Best high-yield savings interest rates today, Saturday, June...",
+    "✓ 货币政策: HELOC and home equity loan rates Saturday, June 20, 2026: Fe...",
     "✓ 经济数据: Cathie Wood dumps nearly $60 million in popular growth stock...",
-    "✓ 综合财经: Iran reportedly closes Strait of Hormuz again as Vance heads...",
-    "✓ 综合财经: Tens of thousands of Albanians join ‘Flamingo Revolution’ pr..."
+    "✓ 股市动态: Holiday bookings surge in markets hit by Iran crisis..."
   ],
-  "positive_count": 11,
+  "positive_count": 10,
   "negative_count": 0,
-  "neutral_count": 19,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-21T03:44:11.572478",
+  "analyzed_at": "2026-06-21T09:43:49.493340",
   "categories_distribution": {
-    "股市动态": 25,
-    "综合财经": 24,
+    "综合财经": 26,
+    "股市动态": 20,
+    "货币政策": 7,
     "经济数据": 1,
-    "数字货币": 1,
-    "货币政策": 2,
-    "国际贸易": 1
+    "数字货币": 1
   },
   "ai_provider": "fallback_rules"
 }
