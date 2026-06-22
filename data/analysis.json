@@ -1,26 +1,26 @@
 {
-  "temperature_score": 48.33,
+  "temperature_score": 41.67,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比2/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✗ 经济数据: SpaceX stock falls premarket, continuing selloff after rally...",
-    "✓ 大宗商品: Oil prices mixed as Qatar, Pakistan announce 60-day roadmap ...",
-    "✗ 股市动态: Keir Starmer steps down as UK prime minister..."
+    "✗ 股市动态: Stocks steady, oil falls as rate worries offset Iran talks o...",
+    "✗ 股市动态: Google Stock Falls As Top AI Scientists Defect To OpenAI, An...",
+    "✓ 综合财经: Senate poised to advance housing bill to limit private equit...",
+    "✗ 综合财经: Alphabet paces for worst day in a year on AI concerns after ...",
+    "✓ 大宗商品: Treasury Department authorizes Iranian oil sales through Aug..."
   ],
-  "positive_count": 1,
-  "negative_count": 2,
-  "neutral_count": 27,
+  "positive_count": 3,
+  "negative_count": 8,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-22T11:46:46.627015",
+  "analyzed_at": "2026-06-22T16:49:03.066451",
   "categories_distribution": {
-    "综合财经": 28,
-    "股市动态": 15,
-    "大宗商品": 3,
-    "经济数据": 3,
-    "货币政策": 4,
-    "国际贸易": 1,
-    "外汇市场": 1
+    "股市动态": 19,
+    "综合财经": 29,
+    "大宗商品": 2,
+    "经济数据": 1,
+    "货币政策": 4
   },
   "ai_provider": "fallback_rules"
 }
