@@ -1,27 +1,28 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Wars trigger $12bn venture capital rush into defence tech...",
-    "✗ 货币政策: Warsh’s push to axe Fed guidance may lift US borrowing costs...",
-    "✗ 综合财经: Raising the minimum wage has been a big political winner. No...",
-    "✓ 股市动态: If you're surprised by how well the stock market is doing, s...",
-    "✓ 货币政策: 'Regime change but in a velvet glove': How Kevin Warsh has s..."
+    "✓ 经济数据: Is Cosan (CSAN) One of the Penny Stocks With Explosive Growt...",
+    "✓ 经济数据: Alvotech (ALVO): 10 Penny Stocks With Explosive Growth Poten...",
+    "✓ 综合财经: I spent $200K upgrading my elderly parents' home — here's wh...",
+    "✓ 国际贸易: China imposes trade curbs on dozens of U.S. firms in retalia...",
+    "✗ 股市动态: Dow Jones Futures Fall After U.S.-Iran Talks; Nvidia, SpaceX..."
   ],
-  "positive_count": 5,
-  "negative_count": 2,
-  "neutral_count": 23,
+  "positive_count": 10,
+  "negative_count": 3,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-21T19:25:22.585094",
+  "analyzed_at": "2026-06-22T03:51:14.244649",
   "categories_distribution": {
-    "综合财经": 28,
-    "货币政策": 7,
-    "国际贸易": 1,
+    "综合财经": 25,
+    "经济数据": 3,
+    "大宗商品": 2,
     "股市动态": 17,
+    "国际贸易": 1,
     "外汇市场": 1,
-    "数字货币": 1
+    "货币政策": 4
   },
   "ai_provider": "fallback_rules"
 }
