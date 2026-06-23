@@ -1,27 +1,28 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Why This Analyst Thinks Nano Nuclear Energy Stock Can Gain 7...",
-    "✓ 股市动态: BABA Stock: The Physical AI Race Heats Up as Alibaba Release...",
-    "✗ 股市动态: Why This Mega-Cap Stock Might Be the Best Crash Warning We H...",
-    "✗ 综合财经: Korea regulator blasts Samsung, SK Hynix leveraged- ETFs as ...",
-    "✗ 股市动态: Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amaz..."
+    "✗ 股市动态: Tech rout intensifies as selloff grips global stocks...",
+    "✓ 综合财经: Can you keep your kids off school or refuse to work during a...",
+    "✗ 股市动态: US Stock Market Today: S&P 500 Futures Edge Lower As Rate An...",
+    "✗ 股市动态: A brutal tech sell-off sends South Korea's Kospi down 10% - ...",
+    "✗ 大宗商品: Oil prices fall as investors continue to watch U.S.-Iran mov..."
   ],
-  "positive_count": 8,
-  "negative_count": 6,
-  "neutral_count": 16,
+  "positive_count": 5,
+  "negative_count": 4,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-23T02:51:26.217151",
+  "analyzed_at": "2026-06-23T09:32:37.884657",
   "categories_distribution": {
-    "大宗商品": 4,
-    "综合财经": 26,
-    "股市动态": 18,
-    "外汇市场": 1,
-    "货币政策": 4,
-    "经济数据": 2
+    "综合财经": 21,
+    "股市动态": 19,
+    "经济数据": 5,
+    "大宗商品": 2,
+    "外汇市场": 2,
+    "国际贸易": 1,
+    "货币政策": 4
   },
   "ai_provider": "fallback_rules"
 }
