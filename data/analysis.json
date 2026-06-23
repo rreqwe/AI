@@ -1,26 +1,27 @@
 {
-  "temperature_score": 40.0,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比10/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 53.33,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Goldman Sachs Lowers PT on Chewy (CHWY) Stock...",
-    "✗ 货币政策: Tesla crash that killed a woman under US federal investigati...",
-    "✗ 经济数据: SpaceX stock tanks 16%, extending slump following post-IPO r...",
-    "✗ 股市动态: Nvidia's stock struggles as Kalshi traders bet chip prices a...",
-    "✗ 综合财经: Alphabet paces for worst day in a year on AI concerns after ..."
+    "✓ 股市动态: Why This Analyst Thinks Nano Nuclear Energy Stock Can Gain 7...",
+    "✓ 股市动态: BABA Stock: The Physical AI Race Heats Up as Alibaba Release...",
+    "✗ 股市动态: Why This Mega-Cap Stock Might Be the Best Crash Warning We H...",
+    "✗ 综合财经: Korea regulator blasts Samsung, SK Hynix leveraged- ETFs as ...",
+    "✗ 股市动态: Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amaz..."
   ],
-  "positive_count": 4,
-  "negative_count": 10,
+  "positive_count": 8,
+  "negative_count": 6,
   "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-22T20:41:22.815381",
+  "analyzed_at": "2026-06-23T02:51:26.217151",
   "categories_distribution": {
-    "股市动态": 21,
-    "综合财经": 22,
-    "货币政策": 7,
-    "经济数据": 2,
-    "大宗商品": 3
+    "大宗商品": 4,
+    "综合财经": 26,
+    "股市动态": 18,
+    "外汇市场": 1,
+    "货币政策": 4,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
