@@ -1,28 +1,27 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: AbbVie's $10.9 Billion Apogee Deal Will Extend Its Immunolog...",
-    "✓ 综合财经: BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI ...",
-    "✓ 经济数据: As Qualcomm Diversifies, Growth Acceleration Will Support St...",
-    "✓ 综合财经: ETF Zoo: The Leveraged ETF Frenzy Picks Up Momentum...",
-    "✗ 大宗商品: Brent falls below $76, notching its lowest level since day b..."
+    "✗ 综合财经: Repligen Corporation (RGEN) Dropped Following the Earnings R...",
+    "✗ 综合财经: Fulcrum Metals reports pre-tax loss for FY25...",
+    "✓ 经济数据: The Brown Capital Management Small Company Fund Picked Credo...",
+    "✓ 股市动态: SpaceX stock slips again as it announces $25 billion bond of...",
+    "✓ 股市动态: New meme stock Wendy's soars 30% with trading halted at one ..."
   ],
-  "positive_count": 6,
-  "negative_count": 4,
-  "neutral_count": 20,
+  "positive_count": 9,
+  "negative_count": 3,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-24T09:21:54.976085",
+  "analyzed_at": "2026-06-24T14:22:53.332012",
   "categories_distribution": {
-    "综合财经": 23,
+    "股市动态": 17,
+    "综合财经": 28,
     "经济数据": 4,
     "货币政策": 3,
-    "大宗商品": 4,
-    "股市动态": 19,
-    "外汇市场": 1,
-    "国际贸易": 1
+    "外汇市场": 2,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
