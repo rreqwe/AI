@@ -1,28 +1,27 @@
 {
-  "temperature_score": 48.33,
+  "temperature_score": 46.67,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比6/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比7/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✓ 综合财经: U.K. Nuclear: Scaling Up at Home & Abroad...",
+    "✗ 综合财经: Namibia's communication regulator dismisses Starlink appeal ...",
+    "✓ 综合财经: Bulls Are in Control of Cattle Prices. USDA Data and the Scr...",
     "✓ 大宗商品: Chubb CEO flags threat disrupting global oil supply...",
-    "✓ 综合财经: Core Alpha, Mass Scale: How Capital Group Shifted the Active...",
-    "✗ 股市动态: Meta is building a prediction markets app. These stocks are ...",
-    "✓ 综合财经: Acclaimed bankruptcy lawyer James Sprayregen set to join Pau..."
+    "✗ 股市动态: Nasdaq closes down more than 2% as global tech sell-off deep...",
+    "✗ 股市动态: MSCI keeps South Korea as emerging market, delays Indonesia ..."
   ],
   "positive_count": 5,
-  "negative_count": 6,
-  "neutral_count": 19,
+  "negative_count": 7,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-23T19:56:38.997623",
+  "analyzed_at": "2026-06-24T02:52:03.030801",
   "categories_distribution": {
-    "综合财经": 24,
+    "综合财经": 21,
+    "股市动态": 26,
     "大宗商品": 3,
-    "国际贸易": 1,
-    "股市动态": 21,
-    "货币政策": 3,
-    "外汇市场": 2,
-    "经济数据": 1
+    "经济数据": 2,
+    "货币政策": 2,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
