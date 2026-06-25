@@ -1,27 +1,26 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: AI Upstart Cerebras Beats Q1 Sales Target, Guides Higher...",
-    "✗ 股市动态: Tech selloff drags global stocks lower...",
-    "✗ 股市动态: The $200 Million Reason AMC Stock Is Down Today...",
-    "✗ 股市动态: Cathie Wood Just Doubled Down on SpaceX. Instead of Panickin...",
-    "✓ 综合财经: Price cuts on family summer days out come into force..."
+    "✓ 股市动态: Micron stock soars after blowout earnings expose AI's memory...",
+    "✗ 股市动态: Leopold Aschenbrenner’s Situational Awareness Likes This Cry...",
+    "✓ 综合财经: Sandisk, Western Digital and others soar as Micron results  ...",
+    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq rise as Micron ease...",
+    "✓ 综合财经: Micron is up 10% after blockbuster earnings, but has pulled ..."
   ],
-  "positive_count": 7,
+  "positive_count": 11,
   "negative_count": 5,
-  "neutral_count": 18,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-25T08:55:30.358349",
+  "analyzed_at": "2026-06-25T14:23:36.638814",
   "categories_distribution": {
     "综合财经": 26,
-    "数字货币": 1,
-    "股市动态": 19,
-    "大宗商品": 5,
+    "股市动态": 20,
+    "经济数据": 5,
     "货币政策": 2,
-    "经济数据": 2
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
