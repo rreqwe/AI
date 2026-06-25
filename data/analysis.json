@@ -1,26 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Micron stock soars after blowout earnings expose AI's memory...",
-    "✗ 股市动态: Leopold Aschenbrenner’s Situational Awareness Likes This Cry...",
-    "✓ 综合财经: Sandisk, Western Digital and others soar as Micron results  ...",
-    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq rise as Micron ease...",
-    "✓ 综合财经: Micron is up 10% after blockbuster earnings, but has pulled ..."
+    "✗ 股市动态: 4 Airdropped Tokens Won Big in Q2 Despite Market Volatility...",
+    "✗ 货币政策: Chicago Fed President Goolsbee says inflation is too high; W...",
+    "✓ 综合财经: Apple hikes prices on some products by nearly 20% while Xbox...",
+    "✓ 股市动态: Micron shares jump as blockbuster results spark Wall Street ...",
+    "✓ 综合财经: Democrats probe Trump's troubled $16 million reflecting pool..."
   ],
   "positive_count": 11,
-  "negative_count": 5,
-  "neutral_count": 14,
+  "negative_count": 2,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-25T14:23:36.638814",
+  "analyzed_at": "2026-06-25T19:54:38.436813",
   "categories_distribution": {
-    "综合财经": 26,
-    "股市动态": 20,
+    "综合财经": 30,
+    "股市动态": 15,
+    "货币政策": 4,
     "经济数据": 5,
-    "货币政策": 2,
-    "大宗商品": 1
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
