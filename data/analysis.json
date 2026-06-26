@@ -1,25 +1,26 @@
 {
-  "temperature_score": 65.0,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 46.67,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✗ 股市动态: 4 Airdropped Tokens Won Big in Q2 Despite Market Volatility...",
-    "✗ 货币政策: Chicago Fed President Goolsbee says inflation is too high; W...",
-    "✓ 综合财经: Apple hikes prices on some products by nearly 20% while Xbox...",
-    "✓ 股市动态: Micron shares jump as blockbuster results spark Wall Street ...",
-    "✓ 综合财经: Democrats probe Trump's troubled $16 million reflecting pool..."
+    "✗ 股市动态: How Semiconductor Stocks Could Drop 50% From Here, And How T...",
+    "✗ 综合财经: Pfizer dismissed from US states' drug price-fixing lawsuit...",
+    "✗ 股市动态: JPMorgan raises S&P 500 target to 7,800 but warns of 'flash ...",
+    "✗ 综合财经: Futures Fall After Mixed Signals; What To Do Now - Investor'...",
+    "✗ 股市动态: SoftBank sinks 12% as Asia tech rout tracks declines in the ..."
   ],
-  "positive_count": 11,
-  "negative_count": 2,
-  "neutral_count": 17,
+  "positive_count": 6,
+  "negative_count": 8,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-25T19:54:38.436813",
+  "analyzed_at": "2026-06-26T02:57:05.144023",
   "categories_distribution": {
-    "综合财经": 30,
-    "股市动态": 15,
-    "货币政策": 4,
-    "经济数据": 5,
+    "股市动态": 23,
+    "国际贸易": 1,
+    "综合财经": 23,
+    "货币政策": 3,
+    "经济数据": 4,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
