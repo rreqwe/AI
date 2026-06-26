@@ -1,27 +1,28 @@
 {
-  "temperature_score": 46.67,
+  "temperature_score": 45.0,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
   "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✗ 股市动态: How Semiconductor Stocks Could Drop 50% From Here, And How T...",
-    "✗ 综合财经: Pfizer dismissed from US states' drug price-fixing lawsuit...",
-    "✗ 股市动态: JPMorgan raises S&P 500 target to 7,800 but warns of 'flash ...",
-    "✗ 综合财经: Futures Fall After Mixed Signals; What To Do Now - Investor'...",
-    "✗ 股市动态: SoftBank sinks 12% as Asia tech rout tracks declines in the ..."
+    "✓ 综合财经: Cathie Wood Loads Up On Palantir, Cerebras, These Mag 7 Play...",
+    "✗ 股市动态: Stock Market Today: Dow Pops Nearly 200 Points; AI Firm Cere...",
+    "✗ 货币政策: Fed says large US banks well-positioned to weather hypotheti...",
+    "✓ 股市动态: IBM Shares Jumped 5% After JPMorgan Upgraded the Stock on So...",
+    "✓ 经济数据: Stock Market Today, June 24: Amazon Gains as Investors Monit..."
   ],
-  "positive_count": 6,
+  "positive_count": 5,
   "negative_count": 8,
-  "neutral_count": 16,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-26T02:57:05.144023",
+  "analyzed_at": "2026-06-26T08:57:44.848090",
   "categories_distribution": {
+    "综合财经": 20,
     "股市动态": 23,
-    "国际贸易": 1,
-    "综合财经": 23,
-    "货币政策": 3,
-    "经济数据": 4,
-    "外汇市场": 1
+    "数字货币": 1,
+    "货币政策": 2,
+    "经济数据": 5,
+    "外汇市场": 1,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
