@@ -1,28 +1,27 @@
 {
-  "temperature_score": 45.0,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 50.0,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Cathie Wood Loads Up On Palantir, Cerebras, These Mag 7 Play...",
-    "✗ 股市动态: Stock Market Today: Dow Pops Nearly 200 Points; AI Firm Cere...",
-    "✗ 货币政策: Fed says large US banks well-positioned to weather hypotheti...",
-    "✓ 股市动态: IBM Shares Jumped 5% After JPMorgan Upgraded the Stock on So...",
-    "✓ 经济数据: Stock Market Today, June 24: Amazon Gains as Investors Monit..."
+    "✗ 股市动态: Stock market today: Dow, S&P 500, Nasdaq slide as report of ...",
+    "✗ 股市动态: Stock Market Today: Nasdaq Slides Amid Global Technology Sel...",
+    "✗ 大宗商品: Oil set for big weekly losses as tankers exit Strait of Horm...",
+    "✓ 综合财经: Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out ...",
+    "✗ 综合财经: Small plane crashes into Beijing’s tallest building ..."
   ],
-  "positive_count": 5,
-  "negative_count": 8,
-  "neutral_count": 17,
+  "positive_count": 7,
+  "negative_count": 7,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-26T08:57:44.848090",
+  "analyzed_at": "2026-06-26T14:15:51.524586",
   "categories_distribution": {
-    "综合财经": 20,
-    "股市动态": 23,
-    "数字货币": 1,
-    "货币政策": 2,
-    "经济数据": 5,
-    "外汇市场": 1,
-    "大宗商品": 1
+    "综合财经": 25,
+    "股市动态": 18,
+    "大宗商品": 3,
+    "货币政策": 4,
+    "经济数据": 4,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
