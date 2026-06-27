@@ -1,28 +1,28 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: After Anthropic shutdown, China's Z.ai closes frontier gap a...",
-    "✗ 货币政策: Lower oil prices may be the Fed's next problem: Chart of the...",
-    "✓ 综合财经: What to Expect From UnitedHealth Group's Q2 2026 Earnings Re...",
-    "✓ 大宗商品: Tertiary Minerals MD on Zambia exploration upside as drillin...",
-    "✓ 国际贸易: Trump threatens 100% tariffs on countries putting 'Digital S..."
+    "✓ 股市动态: Qualcomm Stock Rises As Chipmaker Jumps Into AI Data Center ...",
+    "✗ 股市动态: Stocks Settle Mixed on Apple Weakness and Chipmaker Strength...",
+    "✗ 股市动态: Morgan Stanley Just Downgraded Affirm Stock. Here's Why....",
+    "✓ 股市动态: Micron Sends Upbeat Signal For Memory Chips As Stock Jumps...",
+    "✓ 经济数据: Dow Jones Futures: Market At Tipping Point, Here's What To D..."
   ],
-  "positive_count": 7,
-  "negative_count": 4,
-  "neutral_count": 19,
+  "positive_count": 9,
+  "negative_count": 5,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-26T19:42:41.865125",
+  "analyzed_at": "2026-06-27T02:46:24.362358",
   "categories_distribution": {
-    "综合财经": 25,
-    "股市动态": 19,
-    "外汇市场": 1,
-    "货币政策": 3,
-    "大宗商品": 2,
+    "综合财经": 21,
+    "股市动态": 25,
+    "外汇市场": 2,
     "国际贸易": 3,
-    "数字货币": 1
+    "经济数据": 2,
+    "货币政策": 1,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
