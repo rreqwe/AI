@@ -1,27 +1,27 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Here is Why Samsara (IOT) is One of the High Growth Stocks t...",
-    "✓ 经济数据: Is Hudbay Minerals (HBM) One of the High Growth Stocks to Bu...",
-    "✓ 股市动态: Barclays Raises S&P 500 Forecast on Stronger Earnings Expect...",
-    "✓ 股市动态: Eli Lilly Leads 5 Stocks Near Buy Points As The Market Rally...",
-    "✓ 股市动态: Nvidia Owns This Under-the-Radar $20 Stock Poised to Disrupt..."
+    "✗ 综合财经: ASML Holding N.V. (ASML) Denies Selling EUV Chipmaking Tool ...",
+    "✓ 股市动态: Intel Corporation (INTC)’s Stock Has Surged but Needs an Eng...",
+    "✓ 综合财经: Piper Sandler Upgrades “Overweight” from Neutral on Synopsys...",
+    "✓ 综合财经: Is QUALCOMM Incorporated (QCOM) Set to Acquire a Startup?...",
+    "✓ 经济数据: SoFi's Latest Innovation Could Transform Its Growth Trajecto..."
   ],
-  "positive_count": 10,
-  "negative_count": 2,
+  "positive_count": 7,
+  "negative_count": 5,
   "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-28T13:28:44.790349",
+  "analyzed_at": "2026-06-28T19:13:19.212913",
   "categories_distribution": {
-    "大宗商品": 3,
-    "经济数据": 5,
-    "综合财经": 26,
+    "综合财经": 29,
     "股市动态": 19,
+    "经济数据": 2,
+    "外汇市场": 2,
     "货币政策": 1,
-    "外汇市场": 1
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
