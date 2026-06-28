@@ -1,27 +1,28 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: US carries out second day of strikes against Iran...",
-    "✓ 综合财经: U.S. military attacks Iranian targets after commercial tanke...",
-    "✓ 货币政策: Javier Milei’s top aide resigns over corruption scandal in A...",
-    "✓ 综合财经: Venezuela earthquake death toll climbs amid anger over slow ...",
-    "✗ 综合财经: The AI bubble has further to run despite the looming crash -..."
+    "✓ 综合财经: APA Corporation (APA) Upgraded at Roth Capital. Here is Why...",
+    "✓ 综合财经: TD Cowen Trims Price Target on CME Group (CME). Here is Why...",
+    "✓ 综合财经: Diamondback Energy (FANG) Upgraded at Roth Capital. Here is ...",
+    "✓ 综合财经: Xcel Energy (XEL) Price Target Boosted at Morgan Stanley. He...",
+    "✓ 经济数据: Scott Bessent Defends Tariff Reboot, Unveils ‘3 Through 3’ P..."
   ],
-  "positive_count": 12,
+  "positive_count": 11,
   "negative_count": 2,
-  "neutral_count": 16,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-28T03:26:31.317709",
+  "analyzed_at": "2026-06-28T08:46:45.466334",
   "categories_distribution": {
-    "综合财经": 25,
-    "股市动态": 22,
-    "经济数据": 2,
-    "货币政策": 2,
-    "外汇市场": 1,
-    "大宗商品": 1
+    "股市动态": 19,
+    "综合财经": 26,
+    "经济数据": 4,
+    "国际贸易": 1,
+    "大宗商品": 2,
+    "货币政策": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
