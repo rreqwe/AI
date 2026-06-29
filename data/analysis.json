@@ -1,27 +1,27 @@
 {
-  "temperature_score": 68.33,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Amazon Stock's Climb Leads Strong Day For Magnificent Seven...",
-    "✓ 股市动态: Stocks and oil prices edge up with eyes on Iran; yen touches...",
     "✗ 综合财经: BlackRock IBIT investors are now nursing a 40% loss...",
-    "✓ 货币政策: Supreme Court rules Trump cannot fire Fed Governor Lisa Cook...",
-    "✓ 大宗商品: Oil prices rise as U.S. and Iran reach deal to halt attacks,..."
+    "✓ 经济数据: Will Andy Burnham's devolution plan raise economic growth?...",
+    "✓ 货币政策: ECB does not need to fight inflation with ‘same force’ as in...",
+    "✓ 综合财经: Comcast's NBCUniversal spinoff raises hope for more deals. T...",
+    "✓ 国际贸易: Micron's monster post-earnings rally is almost gone. Traders..."
   ],
-  "positive_count": 12,
+  "positive_count": 11,
   "negative_count": 1,
-  "neutral_count": 17,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-29T15:40:16.868171",
+  "analyzed_at": "2026-06-29T19:51:32.780762",
   "categories_distribution": {
-    "综合财经": 24,
-    "股市动态": 18,
-    "货币政策": 5,
-    "大宗商品": 1,
+    "股市动态": 22,
+    "综合财经": 20,
+    "经济数据": 3,
+    "货币政策": 7,
     "国际贸易": 1,
-    "经济数据": 4,
+    "大宗商品": 1,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
