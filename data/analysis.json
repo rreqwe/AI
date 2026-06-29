@@ -2,26 +2,27 @@
   "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: ASML Holding N.V. (ASML) Denies Selling EUV Chipmaking Tool ...",
-    "✓ 股市动态: Intel Corporation (INTC)’s Stock Has Surged but Needs an Eng...",
-    "✓ 综合财经: Piper Sandler Upgrades “Overweight” from Neutral on Synopsys...",
-    "✓ 综合财经: Is QUALCOMM Incorporated (QCOM) Set to Acquire a Startup?...",
-    "✓ 经济数据: SoFi's Latest Innovation Could Transform Its Growth Trajecto..."
+    "✓ 综合财经: Taiwan Semiconductor (TSM), Amkor (AMKR) Form 10-Year Partne...",
+    "✓ 国际贸易: Microchip Tech (MCHP) Armenia Office Receives U.S. Export Li...",
+    "✓ 经济数据: U.S., Iran pause hostilities as Hormuz shipping resumes afte...",
+    "✓ 大宗商品: Oil jumps back above $70 as fresh U.S.-Iran clashes reignite...",
+    "✓ 股市动态: Stock market today: S&P 500, Nasdaq, Dow futures climb as a ..."
   ],
-  "positive_count": 7,
-  "negative_count": 5,
-  "neutral_count": 18,
+  "positive_count": 8,
+  "negative_count": 6,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-28T19:13:19.212913",
+  "analyzed_at": "2026-06-29T03:31:46.478780",
   "categories_distribution": {
-    "综合财经": 29,
+    "综合财经": 26,
     "股市动态": 19,
+    "国际贸易": 2,
     "经济数据": 2,
+    "大宗商品": 3,
     "外汇市场": 2,
-    "货币政策": 1,
-    "大宗商品": 2
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
