@@ -1,28 +1,27 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Taiwan Semiconductor (TSM), Amkor (AMKR) Form 10-Year Partne...",
-    "✓ 国际贸易: Microchip Tech (MCHP) Armenia Office Receives U.S. Export Li...",
-    "✓ 经济数据: U.S., Iran pause hostilities as Hormuz shipping resumes afte...",
-    "✓ 大宗商品: Oil jumps back above $70 as fresh U.S.-Iran clashes reignite...",
-    "✓ 股市动态: Stock market today: S&P 500, Nasdaq, Dow futures climb as a ..."
+    "✓ 综合财经: Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC...",
+    "✓ 综合财经: Analysis-Cheaper AI is better: Soaring bills are reshaping h...",
+    "✓ 综合财经: AMD (AMD) Commits £2 Billion to the UK and Helps Build Two A...",
+    "✓ 经济数据: Is NVIDIA (NVDA) the Best Fast Growth Stock to Buy as It Tar...",
+    "✓ 国际贸易: Comcast soars 23% after announcing it will spin off media an..."
   ],
-  "positive_count": 8,
-  "negative_count": 6,
+  "positive_count": 12,
+  "negative_count": 2,
   "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-29T03:31:46.478780",
+  "analyzed_at": "2026-06-29T10:49:42.019789",
   "categories_distribution": {
-    "综合财经": 26,
-    "股市动态": 19,
-    "国际贸易": 2,
-    "经济数据": 2,
-    "大宗商品": 3,
-    "外汇市场": 2,
-    "货币政策": 1
+    "综合财经": 31,
+    "股市动态": 12,
+    "经济数据": 4,
+    "货币政策": 4,
+    "国际贸易": 1,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
