@@ -1,27 +1,27 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Oil Markets Are Pricing A Supply Surge That Isn’t Guaranteed...",
-    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures climb after...",
-    "✓ 股市动态: Shell Sees Global LNG Demand Rising 65% by 2050 Despite Mark...",
-    "✓ 外汇市场: Strong dollar pushes yen to 40-year low as traders test Japa...",
-    "✗ 股市动态: Digital Realty falls 4% after taking $3.5 billion stake in B..."
+    "✓ 综合财经: Do You Believe in the Long-Term Earnings Potential of Formul...",
+    "✓ 股市动态: Stock Market Today: Dow Wobbles Amid Key Economic Data; Aero...",
+    "✓ 综合财经: Analyst Report: MDU Resources Group Inc...",
+    "✓ 经济数据: Madison Mid Cap Fund Bets on Bentley Systems (BSY) for Years...",
+    "✓ 综合财经: AeroVironment skyrockets 21% as dronemaker capitalizes on de..."
   ],
   "positive_count": 9,
-  "negative_count": 3,
-  "neutral_count": 18,
+  "negative_count": 4,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-30T09:27:34.235354",
+  "analyzed_at": "2026-06-30T14:10:53.030372",
   "categories_distribution": {
-    "综合财经": 21,
-    "股市动态": 24,
-    "外汇市场": 3,
-    "经济数据": 2,
+    "综合财经": 20,
+    "股市动态": 26,
+    "经济数据": 3,
     "货币政策": 3,
-    "大宗商品": 1
+    "大宗商品": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
