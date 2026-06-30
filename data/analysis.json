@@ -1,27 +1,27 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Newmont Corporation (NEM) Provides Update Following Seismic ...",
-    "✓ 大宗商品: China factory activity grows faster than expected in June on...",
-    "✗ 货币政策: Yen weakens to 40-year low...",
-    "✗ 外汇市场: Japanese yen sinks to 40-year low, keeping intervention risk...",
-    "✓ 外汇市场: Apple supplier Luxshare seeks up to $3.1 billion in Hong Kon..."
+    "✓ 股市动态: Oil Markets Are Pricing A Supply Surge That Isn’t Guaranteed...",
+    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures climb after...",
+    "✓ 股市动态: Shell Sees Global LNG Demand Rising 65% by 2050 Despite Mark...",
+    "✓ 外汇市场: Strong dollar pushes yen to 40-year low as traders test Japa...",
+    "✗ 股市动态: Digital Realty falls 4% after taking $3.5 billion stake in B..."
   ],
-  "positive_count": 6,
+  "positive_count": 9,
   "negative_count": 3,
-  "neutral_count": 21,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-30T02:55:42.231808",
+  "analyzed_at": "2026-06-30T09:27:34.235354",
   "categories_distribution": {
-    "综合财经": 23,
-    "股市动态": 21,
-    "大宗商品": 1,
-    "货币政策": 6,
-    "外汇市场": 2,
-    "经济数据": 2
+    "综合财经": 21,
+    "股市动态": 24,
+    "外汇市场": 3,
+    "经济数据": 2,
+    "货币政策": 3,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
