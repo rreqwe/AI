@@ -1,27 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Ipsen to Buy Kartos Therapeutics for Up to $1.75 Billion...",
-    "✓ 股市动态: Stocks Set to Open Higher as Tech Bounces, U.S. Jobs Data an...",
-    "✗ 股市动态: FDA lets Philip Morris market Zyn nicotine pouches as less h...",
-    "✗ 综合财经: Australia sues Amazon for making allegedly unfair contracts ...",
-    "✓ 股市动态: Why did the stock market soar in the first half of 2026? Exp..."
+    "✗ 股市动态: Comcast Sets Company Split. Is More M&A Coming? Telecom Stoc...",
+    "✓ 股市动态: Micron Stock Jumps After Blockbuster Earnings. Its Long-Term...",
+    "✓ 股市动态: MRNA Stock Spikes as Moderna Shares mRNA Pipeline Update...",
+    "✓ 大宗商品: Crude Oil Prices Climb as Tanker Traffic Slows Through Strai...",
+    "✓ 综合财经: Klarna Group PLC (KLAR) Fell Amid Management’s Cautious Guid..."
   ],
-  "positive_count": 8,
+  "positive_count": 13,
   "negative_count": 3,
-  "neutral_count": 19,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-06-30T19:49:46.264187",
+  "analyzed_at": "2026-07-01T03:27:00.126212",
   "categories_distribution": {
-    "股市动态": 24,
-    "综合财经": 25,
-    "经济数据": 2,
-    "货币政策": 2,
+    "股市动态": 23,
+    "综合财经": 23,
+    "大宗商品": 3,
     "数字货币": 1,
-    "外汇市场": 1
+    "国际贸易": 3,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
