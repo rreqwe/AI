@@ -1,28 +1,28 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: This Lesser-Known Dividend Stock Is Beating the S&P 500 in 2...",
-    "✗ 综合财经: After a 50% Decline, What to Know About Accelerant's $459,00...",
-    "✗ 综合财经: Best secured personal loans and lenders of July 2026: Get lo...",
-    "✗ 货币政策: Gold prices fall further after worst quarter in 13 years as ...",
-    "✗ 股市动态: Oil prices wobble as breakdown in U.S.-Iran talks casts doub..."
+    "✓ 经济数据: Here’s Why TimesSquare Mid Cap Growth Strategy Added Insmed ...",
+    "✓ 综合财经: General Mills Q4 2026 earnings beat, targets $3B in cost sav...",
+    "✗ 股市动态: Nasdaq Opens Lower, Warsh Dodges Questions on July Rate Deci...",
+    "✓ 综合财经: Up to 150 ex-WHSmith High Street stores to close as rescue d...",
+    "✓ 股市动态: Tech leads first half stock gains — but the biggest winners ..."
   ],
   "positive_count": 5,
-  "negative_count": 5,
-  "neutral_count": 20,
+  "negative_count": 4,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-01T09:39:02.812181",
+  "analyzed_at": "2026-07-01T14:27:06.752503",
   "categories_distribution": {
-    "综合财经": 22,
-    "数字货币": 3,
-    "股市动态": 20,
-    "货币政策": 4,
-    "经济数据": 1,
+    "经济数据": 2,
+    "综合财经": 29,
+    "股市动态": 16,
+    "数字货币": 2,
     "国际贸易": 3,
-    "外汇市场": 2
+    "外汇市场": 2,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
