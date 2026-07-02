@@ -1,27 +1,27 @@
 {
-  "temperature_score": 51.67,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Everpure Stock Jumps After Report Of New Activist Investor...",
-    "✗ 外汇市场: Google loses fight over record $4.7 billion EU antitrust fin...",
-    "✗ 综合财经: Russia unleashes huge bombardment of Kyiv...",
-    "✓ 股市动态: Tank maker KNDS postpones IPO amid market struggles for defe...",
-    "✗ 大宗商品: Oil prices on pace for fourth straight weekly loss as Trump ..."
+    "✓ 经济数据: Here’s Emerald Wealth Growth Equity Strategy’s Views on Orac...",
+    "✓ 综合财经: Targa Resources Corp. (TRGP) Gains from Geopolitical Tension...",
+    "✓ 大宗商品: Oil Price Rally Boosted Permian Resources (PR) in Q1...",
+    "✓ 股市动态: Stock Market Today: Dow Climbs After Surprise Jobs Report; T...",
+    "✗ 综合财经: Ford Q2 sales drop 10.3% due to F-Series supplier issue, fal..."
   ],
-  "positive_count": 6,
-  "negative_count": 5,
-  "neutral_count": 19,
+  "positive_count": 11,
+  "negative_count": 4,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-02T08:50:38.717082",
+  "analyzed_at": "2026-07-02T13:50:54.449758",
   "categories_distribution": {
-    "股市动态": 24,
-    "综合财经": 23,
+    "经济数据": 3,
+    "综合财经": 26,
+    "大宗商品": 2,
+    "股市动态": 17,
     "外汇市场": 4,
-    "大宗商品": 1,
-    "国际贸易": 2,
-    "货币政策": 1
+    "国际贸易": 2
   },
   "ai_provider": "fallback_rules"
 }
