@@ -1,29 +1,27 @@
 {
-  "temperature_score": 65.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: America's Greatest Opportunities: This Company Was A Major T...",
-    "✓ 综合财经: Here’s What to Expect From PulteGroup’s Next Earnings Report...",
-    "✓ 股市动态: PLTR Stock Watch: What to Know as Palantir Teams Up With Nvi...",
-    "✓ 股市动态: Signs of Economic Resilience Boost Stocks...",
-    "✗ 大宗商品: Oil falls as easing Middle East tensions send Brent to its w..."
+    "✓ 股市动态: Everpure Stock Jumps After Report Of New Activist Investor...",
+    "✗ 外汇市场: Google loses fight over record $4.7 billion EU antitrust fin...",
+    "✗ 综合财经: Russia unleashes huge bombardment of Kyiv...",
+    "✓ 股市动态: Tank maker KNDS postpones IPO amid market struggles for defe...",
+    "✗ 大宗商品: Oil prices on pace for fourth straight weekly loss as Trump ..."
   ],
-  "positive_count": 12,
-  "negative_count": 3,
-  "neutral_count": 15,
+  "positive_count": 6,
+  "negative_count": 5,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-02T02:52:33.446832",
+  "analyzed_at": "2026-07-02T08:50:38.717082",
   "categories_distribution": {
-    "综合财经": 22,
-    "股市动态": 23,
+    "股市动态": 24,
+    "综合财经": 23,
+    "外汇市场": 4,
     "大宗商品": 1,
-    "外汇市场": 3,
-    "经济数据": 1,
     "国际贸易": 2,
-    "数字货币": 1,
-    "货币政策": 2
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
