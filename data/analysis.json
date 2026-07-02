@@ -1,28 +1,29 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: After Gaining 800% in 1 Year, Wall Street Just Upgraded Micr...",
-    "✓ 股市动态: Stock Index Futures Gain at Quarter-End, U.S. JOLTS Report a...",
-    "✓ 股市动态: Trump says he’s profiting ‘because the stock market’s going ...",
-    "✓ 综合财经: Trump wants delay but E. Jean Carroll wants to gets paid — n...",
-    "✓ 股市动态: Shares in AOL Owner Soar in Stock-Market Debut - WSJ..."
+    "✓ 综合财经: America's Greatest Opportunities: This Company Was A Major T...",
+    "✓ 综合财经: Here’s What to Expect From PulteGroup’s Next Earnings Report...",
+    "✓ 股市动态: PLTR Stock Watch: What to Know as Palantir Teams Up With Nvi...",
+    "✓ 股市动态: Signs of Economic Resilience Boost Stocks...",
+    "✗ 大宗商品: Oil falls as easing Middle East tensions send Brent to its w..."
   ],
-  "positive_count": 5,
-  "negative_count": 1,
-  "neutral_count": 24,
+  "positive_count": 12,
+  "negative_count": 3,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-01T19:48:33.370389",
+  "analyzed_at": "2026-07-02T02:52:33.446832",
   "categories_distribution": {
-    "综合财经": 23,
-    "货币政策": 5,
-    "股市动态": 19,
-    "国际贸易": 3,
-    "外汇市场": 2,
-    "数字货币": 2,
-    "经济数据": 1
+    "综合财经": 22,
+    "股市动态": 23,
+    "大宗商品": 1,
+    "外汇市场": 3,
+    "经济数据": 1,
+    "国际贸易": 2,
+    "数字货币": 1,
+    "货币政策": 2
   },
   "ai_provider": "fallback_rules"
 }
