@@ -1,141 +1,309 @@
 {
-  "updated_at": "2026-07-03T13:54:45.043298",
-  "total_count": 55,
+  "updated_at": "2026-07-03T19:14:33.195439",
+  "total_count": 54,
   "news": [
     {
-      "id": -2412890815859180093,
-      "title": "Inside Wall Street’s Leveraged ETF Frenzy",
+      "id": 1291050246081829726,
+      "title": "Takeda, Insilico Strike AI Drug-Discovery Deal Worth Up to $600 Million",
       "description": "",
-      "url": "https://finance.yahoo.com/news/inside-wall-street-leveraged-etf-040200190.html",
+      "url": "https://www.wsj.com/tech/biotech/takeda-insilico-strike-ai-drug-discovery-deal-worth-up-to-600-million-e0891dfd?siteid=yhoof2&yptr=yahoo",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-03T13:54:37.966111",
+      "published_at": "2026-07-03T19:14:26.156029",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-07-03T19:14:26.156038"
+    },
+    {
+      "id": 8326145774022711514,
+      "title": "Is Constellation Energy Corporation (CEG) Among the Best AI Power Grid Stocks to Buy According to Analysts?",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-corporation-ceg-among-084939644.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-03T19:14:26.156015",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-07-03T19:14:26.156021"
+    },
+    {
+      "id": 804496987941392095,
+      "title": "GLJ Research’s Analyst Upgrades Vertiv Holdings Co (VRT)",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/glj-research-analyst-upgrades-vertiv-085048291.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-03T19:14:26.155999",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:26.156010"
+    },
+    {
+      "id": -9132818085015354763,
+      "title": "Citi  Starts Coverage of Energy Vault Holdings, Inc. (NRGV)",
+      "description": "",
+      "url": "https://finance.yahoo.com/energy/articles/citi-starts-coverage-energy-vault-085025532.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-03T19:14:26.155984",
       "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-07-03T13:54:37.966121"
+      "fetched_at": "2026-07-03T19:14:26.155993"
     },
     {
-      "id": 7122330516166980460,
-      "title": "Why America’s Bull Market Is Still Running, 250 Years Later",
+      "id": 4763862811250796898,
+      "title": "Here is What Analysts Think About Vistra Corp. (VST)",
       "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-america-bull-market-still-040100078.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-think-vistra-corp-vst-084955115.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-03T13:54:37.966098",
-      "category": "股市动态",
+      "published_at": "2026-07-03T19:14:26.155968",
+      "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:37.966104"
+      "fetched_at": "2026-07-03T19:14:26.155978"
     },
     {
-      "id": -2999179638685526185,
-      "title": "Budget-Conscious Shoppers Splurge on General Mills’ Cat Treats While Skipping Cereal",
+      "id": -1904525858664939022,
+      "title": "National Fuel Gas Company (NFG)’s Seneca Resources and Evolution Well Services announces Strategic Alignment",
       "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/budget-conscious-shoppers-splurge-general-040100929.html",
+      "url": "https://finance.yahoo.com/energy/articles/national-fuel-gas-company-nfg-085033159.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-03T13:54:37.966083",
-      "category": "经济数据",
+      "published_at": "2026-07-03T19:14:26.155947",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:26.155961"
+    },
+    {
+      "id": -8982349413982956207,
+      "title": "BTIG Raises its Price Target on Core Scientific, Inc. (CORZ)",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/btig-raises-price-target-core-085111752.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-03T19:14:26.155930",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-07-03T19:14:26.155940"
+    },
+    {
+      "id": 6961855991088313912,
+      "title": "RBC Capital Increased its Price Target on Cameco Corporation (CCJ)",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-increased-price-target-085102217.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-03T19:14:26.155913",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-07-03T19:14:26.155923"
+    },
+    {
+      "id": 6918654991584142234,
+      "title": "Powell Industries, Inc. (POWL) Declares Quarterly Cash Dividend",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/powell-industries-inc-powl-declares-085127585.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-03T19:14:26.155893",
+      "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-07-03T13:54:37.966091"
+      "fetched_at": "2026-07-03T19:14:26.155905"
     },
     {
-      "id": -4986855685111666694,
-      "title": "New Fed Chair Noncommittal on Interest Rates, Emphatic on Central Bank Independence",
+      "id": -8148503863390815401,
+      "title": "Trading in Perpetual Futures Hit $1 Billion on Kalshi in the First Week. Here's What That Means for the Crypto Market",
       "description": "",
-      "url": "https://finance.yahoo.com/news/fed-chair-noncommittal-interest-rates-040100873.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/trading-perpetual-futures-hit-1-091800515.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-03T13:54:37.966072",
+      "published_at": "2026-07-03T19:14:26.155860",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:26.155879"
+    },
+    {
+      "id": 8259192990604486152,
+      "title": "Extreme heat wave threatens U.S. power grids and July 4 travel",
+      "description": "The heat wave threatens to overwhelm U.S. grids and may force some to change their plans on one of the busiest travel weeks of the year.",
+      "url": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html",
+      "source": "CNBC",
+      "published_at": "2026-07-03T19:00:44",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-07-03T19:14:29.708692"
+    },
+    {
+      "id": -3934157668624941527,
+      "title": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals - Investor's Business Daily",
+      "description": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals  Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSTlkeGlrRkNTbk91M0UtZ1EwYzlheDg1TWNDSExPRHQyTndYWGJtRnVXb3lfV0Y1SGZBSzJPeHpIejRiX0NPbjVXNERJNUhJWGhhbGQ3bmR1Uk90TEhiQVJGWHFMMEVXRG1RN0YtZEtLS0NoSGZES0pkdmVoVnpzX3puTk9OMWtsQnB0bEtWUjlwQnV4eC1CYTRTbFZ4a3o3TmVjanJlY0Q1M3lSRE56dTNqZ3FqUHk5MFFaQ3NiRXNMZ3loQlFKMXlVTjdON0U?oc=5",
+      "source": "Google News",
+      "published_at": "2026-07-03T18:34:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:23.973542"
+    },
+    {
+      "id": 1441378285158387900,
+      "title": "Romanians sentenced in London for Iran-directed attack on journalist",
+      "description": "The two men were found to have stabbed opposition-supporting Pouria Zeraati on a Wimbledon street",
+      "url": "https://www.ft.com/content/12d30929-9e32-4344-80fd-fc53fc43ff8d",
+      "source": "Financial Times",
+      "published_at": "2026-07-03T18:20:17",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-07-03T19:14:31.034776"
+    },
+    {
+      "id": -4215874664079353937,
+      "title": "First known congressional SpaceX stock buys surface after record IPO",
+      "description": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
+      "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+      "source": "CNBC",
+      "published_at": "2026-07-03T18:16:43",
       "category": "货币政策",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:37.966076"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-07-03T19:14:29.708419"
     },
     {
-      "id": 2260957847871401001,
-      "title": "AeroVironment Stock Soared on a Blowout Quarter. Is the Drone Boom Just Getting Started?",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-stock-soared-blowout-quarter-014600372.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-03T13:54:37.966056",
-      "category": "股市动态",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:37.966061"
-    },
-    {
-      "id": 2463145884125602917,
-      "title": "Guggenheim Calls Time on SaaSpocalypse Fears",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/guggenheim-calls-time-saaspocalypse-fears-040100126.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-03T13:54:37.966040",
+      "id": 2150573642205432749,
+      "title": "American Express and Chase move luxury lounge wars beyond the airport",
+      "description": "Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders.",
+      "url": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
+      "source": "CNBC",
+      "published_at": "2026-07-03T18:03:34",
       "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:37.966049"
+      "fetched_at": "2026-07-03T19:14:29.709094"
     },
     {
-      "id": -7160451446727026096,
-      "title": "Microsoft partners with Singapore's Lightstorm to build India-Southeast Asia undersea cable",
-      "description": "",
-      "url": "https://finance.yahoo.com/technology/articles/microsoft-partners-singapores-lightstorm-build-033554631.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-03T13:54:37.966023",
+      "id": -2935522411038844,
+      "title": "Acting DNI Pulte fires dozens of intelligence officials: MS Now",
+      "description": "President Donald Trump's controversial pick to lead the office of the Director of National Intelligence has begun firing intel officials, MS NOW reported.",
+      "url": "https://www.cnbc.com/2026/07/03/acting-dni-pulte-fires-dozens-of-intelligence-officials-ms-now.html",
+      "source": "CNBC",
+      "published_at": "2026-07-03T17:44:28",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:37.966033"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:29.708853"
     },
     {
-      "id": 4436469362609671777,
-      "title": "Alumni Stay Proud But Grow Distant As B-School Grads Demand More",
-      "description": "",
-      "url": "https://finance.yahoo.com/small-business/articles/alumni-stay-proud-grow-distant-030412837.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-03T13:54:37.966005",
+      "id": 1689947793067596041,
+      "title": "An American birthday worth celebrating",
+      "description": "Though its founding ideals are threatened, the US has the capacity for renewal",
+      "url": "https://www.ft.com/content/010b7867-1bf3-4a32-aeee-a3e6a67e4b0b",
+      "source": "Financial Times",
+      "published_at": "2026-07-03T17:12:29",
       "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:37.966015"
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:31.034448"
     },
     {
-      "id": 6890416066376042866,
-      "title": "SK Hynix to spend $64 billion on memory chip plants under broader AI investment plan",
-      "description": "",
-      "url": "https://finance.yahoo.com/technology/articles/sk-hynix-build-51-billion-020427999.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-03T13:54:37.965984",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:37.965996"
-    },
-    {
-      "id": -2538007643100350866,
-      "title": "Retail giant exits U.S. fashion after multi-million-dollar scandal",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/retail-giant-exits-u-fashion-031700615.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-03T13:54:37.965946",
-      "category": "外汇市场",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:37.965969"
-    },
-    {
-      "id": 6353741899036339543,
-      "title": "Security staff to go on strike at Aberdeen Airport ",
-      "description": "The strikes, involving baggage screening staff, are set to begin on Monday with the Unite union warning of \"significant delays\".",
-      "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-07-03T13:48:58",
+      "id": 6450840012210404579,
+      "title": "Iran begins mourning for Khamenei under tight security",
+      "description": "Dignitaries from more than 100 nations pay respects to slain supreme leader ahead of official funeral",
+      "url": "https://www.ft.com/content/a23d758d-3b48-4ea4-a08c-5dba88543d08",
+      "source": "Financial Times",
+      "published_at": "2026-07-03T17:00:39",
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:40.222056"
+      "fetched_at": "2026-07-03T19:14:31.034695"
     },
     {
-      "id": 599666234639097273,
+      "id": -7806607638960934548,
+      "title": "Security staff to go on strike at Aberdeen Airport",
+      "description": "The strikes, involving baggage screening staff, are set to begin on Monday with the Unite union warning of \"significant delays\".",
+      "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-07-03T16:46:51",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-07-03T19:14:28.482433"
+    },
+    {
+      "id": -278953233817227304,
+      "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+      "description": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-07-03T16:13:14",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:28.481735"
+    },
+    {
+      "id": 414473705029671307,
+      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+      "description": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-07-03T15:01:27",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:28.482345"
+    },
+    {
+      "id": -4232142239827655670,
+      "title": "Trump will oppose heavy US AI regulation, says outgoing tech adviser",
+      "description": "Sriram Krishnan tells the FT the president is against a centralised regulator as AI backlash grows",
+      "url": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
+      "source": "Financial Times",
+      "published_at": "2026-07-03T14:32:49",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-07-03T19:14:31.034615"
+    },
+    {
+      "id": 3380086442670186113,
+      "title": "‘It’s whack-a-mole’: how Europe’s smart border melted down ",
+      "description": "Automated system first mooted in 2008 was meant to keep out criminals — instead, it is delaying travellers",
+      "url": "https://www.ft.com/content/3ed70f64-7443-4241-ac0f-38eabe218913",
+      "source": "Financial Times",
+      "published_at": "2026-07-03T14:00:58",
+      "category": "股市动态",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:31.034236"
+    },
+    {
+      "id": 4259919662239908185,
+      "title": "John Roberts, the US chief justice playing the long game",
+      "description": "Under him the Supreme Court has defied Trump, while at the same time expanding the scope of presidential power",
+      "url": "https://www.ft.com/content/054c4a16-e7b6-4bed-a0d0-7ee0ae3e1251",
+      "source": "Financial Times",
+      "published_at": "2026-07-03T13:51:23",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:31.034353"
+    },
+    {
+      "id": 2206479927009895246,
+      "title": "Fasten your seat belts: Korea’s chip titans turn Kospi into roller coaster - The Korea Economic Daily Global Edition",
+      "description": "Fasten your seat belts: Korea’s chip titans turn Kospi into roller coaster  The Korea Economic Daily Global Edition",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NUkt6eEVvbXRlWDg4Z3ZUS21NcHIyLW9xRXRPNlNoLWFoekFvVjVoa3RCMm5RZU5vX2lmWkdaQ1g3dmJJSTZkRlhVck44aXg0M2kzTFdhODQ2QmNBNDJEMThtNzJRalVSVmZTX2FRd00weDQ1aFBPa2RB?oc=5",
+      "source": "Google News",
+      "published_at": "2026-07-03T13:35:00",
+      "category": "综合财经",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:23.974477"
+    },
+    {
+      "id": -24717707761914709,
       "title": "Don't throw away your shot to speak to an AI Alexander Hamilton at Boston's new finance museum",
       "description": "Nearly a decade after leaving its former home, the Museum of American Finance is opening its new doors to the public.",
       "url": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
@@ -143,35 +311,11 @@
       "published_at": "2026-07-03T13:16:09",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:41.428996"
-    },
-    {
-      "id": 4746592047020770324,
-      "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-      "description": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-07-03T13:14:52",
-      "category": "综合财经",
-      "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:40.221346"
+      "fetched_at": "2026-07-03T19:14:29.709177"
     },
     {
-      "id": 6456277814636778576,
-      "title": "US Stock Market Holiday: Is Wall Street Closed For Trading Today? - NDTV Profit",
-      "description": "US Stock Market Holiday: Is Wall Street Closed For Trading Today?  NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX003UThvU2otN0Jmempsa1lLd1BVTndvTTltT1h5WEFLLVFpU25IdTJfck5mY0NaUkV1bVhkS3hSX2p1a2RhNGltcm4zYkl0MkhuZExEZ3U0N1lUX1o1UFhJbEJNSW9ndTdKeEtpcW1kSHpzUWRIUF91VFhqRWRESlBPaTdpX3lsemRISkZxV1NRRjg1cDlpSFBVM0VfWjZTdkZtQlN0aVVaQ3PSAbMBQVVfeXFMTndRVkdzampxWm9hZHY1U0w3b1RNbUFwbFNIbHBHSjhUTVFWVG5lWmRtQTd6dnBDZXZGQlRlVzBmOWRCTXFFWUQtWFp6SmlMZUdndldJMEFObDFoM1N4c2gxdFVuSmZndEFxNm8yeG9DSzkwXzRkbVBmeXdkWEV1bGxlU0hwVk9VVk5zRFowakJpQmNEaWVSczBEQmxkc2lMa3Y4c0k0YlVMTGhuVFZxNkN0akU?oc=5",
-      "source": "Google News",
-      "published_at": "2026-07-03T13:06:22",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:35.799343"
-    },
-    {
-      "id": 4623460951192206786,
+      "id": -730732629991654971,
       "title": "Burnham says there is some room for movement on tax",
       "description": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
       "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
@@ -179,11 +323,11 @@
       "published_at": "2026-07-03T12:44:09",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:40.221610"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:28.482001"
     },
     {
-      "id": -5993420280649248589,
+      "id": -5261993205798679917,
       "title": "How crowds become stupider",
       "description": "Prediction markets suffer when we all think the same way",
       "url": "https://www.ft.com/content/927dde1c-4476-4d22-8fa0-f546506ecd6d",
@@ -191,11 +335,11 @@
       "published_at": "2026-07-03T12:40:21",
       "category": "股市动态",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:42.841124"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:31.034530"
     },
     {
-      "id": -5747770525334827299,
+      "id": -1781245436875014709,
       "title": "Are banks open today? What's open and closed this July 3, 2026, across Tampa Bay - wtsp.com",
       "description": "Are banks open today? What's open and closed this July 3, 2026, across Tampa Bay  wtsp.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTByNzE0dmtkbEhHZEV1d1dvbmFHNGRueFVIX2M4U3dHemx2ZkJwVU1NVS16d1hqNmNmWGNQU3ljNmQtdGxwN3hib1ZHZS1VOXMzc3F3RlpUYXJYdk5BRjU4U1FiQURhOEZBanpqaVJCejllRGF0SUVNNzdhYnJyMWd3Vi1zZ1NOUEY5R2ctMVBkVmcyMS1oaGFLb1h2cGRSUERUQWNHYjV3V0Yta2cwNXlEejBFVUxoR3JtT2YtY0NZTE4ydTlKTDNB?oc=5",
@@ -204,10 +348,10 @@
       "category": "综合财经",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:35.798406"
+      "fetched_at": "2026-07-03T19:14:23.973345"
     },
     {
-      "id": -4047874687191985049,
+      "id": -3324992210188612914,
       "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
       "description": "Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation.",
       "url": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
@@ -215,11 +359,11 @@
       "published_at": "2026-07-03T12:08:21",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:41.428369"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:29.708603"
     },
     {
-      "id": 5716163041200677530,
+      "id": 3910609774706438221,
       "title": "Monaco bomb suspect is a woman from Ukraine",
       "description": "Prosecutors issue international arrest warrant for woman believed to have fled to Germany",
       "url": "https://www.ft.com/content/5fdf37f2-9217-4490-beaa-7e1baab4b94c",
@@ -228,10 +372,10 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:42.841467"
+      "fetched_at": "2026-07-03T19:14:31.034855"
     },
     {
-      "id": 1144986166663749043,
+      "id": 2837738371973299938,
       "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
       "description": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
       "url": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
@@ -239,35 +383,23 @@
       "published_at": "2026-07-03T12:00:01",
       "category": "货币政策",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:41.428537"
-    },
-    {
-      "id": -4560128457663028191,
-      "title": "Manhattan luxury real estate sales hold firm despite fears of a 'Mamdani effect'",
-      "description": "A month after the passage of a tax on second homes in New York City, brokers and analysts said sales of luxury real estate remain strong.",
-      "url": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html",
-      "source": "CNBC",
-      "published_at": "2026-07-03T12:00:01",
-      "category": "综合财经",
-      "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:41.428912"
+      "fetched_at": "2026-07-03T19:14:29.708769"
     },
     {
-      "id": 9056449041157757173,
-      "title": "American Express and Chase move luxury lounge wars beyond the airport",
-      "description": "Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders.",
-      "url": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
+      "id": 6004013842486675491,
+      "title": "As ACA enrollment falls by millions, Trump administration and policy gurus disagree on why",
+      "description": "Affordable Care Act marketplace enrollment has declined by 3 million people. The Trump administration points to fraud controls. Policy experts point to cost.",
+      "url": "https://www.cnbc.com/2026/07/03/aca-enrollment-enhanced-subsidies-lapse-fraud.html",
       "source": "CNBC",
       "published_at": "2026-07-03T12:00:01",
-      "category": "综合财经",
+      "category": "股市动态",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:41.429078"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:29.708929"
     },
     {
-      "id": -370595159867014492,
+      "id": 1545549712647615706,
       "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
       "description": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
       "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
@@ -275,11 +407,11 @@
       "published_at": "2026-07-03T11:24:03",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-07-03T13:54:40.221886"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-07-03T19:14:28.482243"
     },
     {
-      "id": 4791916699542745242,
+      "id": 1872125495068983554,
       "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
       "description": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
       "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
@@ -287,23 +419,11 @@
       "published_at": "2026-07-03T10:46:34",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:40.221446"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:28.481834"
     },
     {
-      "id": 2720824123837672273,
-      "title": "This is nuts upon nuts. When’s the crash?",
-      "description": "An earnings/valuation double bubble of Pleistocene proportions",
-      "url": "https://www.ft.com/content/8e9337f8-9191-48e9-9289-a8defda89431",
-      "source": "Financial Times",
-      "published_at": "2026-07-03T10:40:37",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:42.841387"
-    },
-    {
-      "id": 1912374340942798158,
+      "id": 7069183924864309289,
       "title": "Is the stock market closed today? Why you can't trade stocks on July 3 - Detroit Free Press",
       "description": "Is the stock market closed today? Why you can't trade stocks on July 3  Detroit Free Press",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDJVTHozV0Z1ekxTNHZORjkwX0hYZkVBX2JTb091Z000bGpyNU1iNkxYYko5TEREUnFHakNwVm5QZThxeFlrQWJITjFUUXFtcHk2N1NfR3FZeFA4OEtUR0FwMTNZSWhiUXY3NmZodEoweU1wYzREZXNHd1B1blNkZktsNlBNYUhUQk5kMGN6TzdjTl96WDJVSGduRnZBcVhXaFhjRmxoMHY3ejg?oc=5",
@@ -312,22 +432,10 @@
       "category": "股市动态",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-07-03T13:54:35.798175"
+      "fetched_at": "2026-07-03T19:14:23.973102"
     },
     {
-      "id": -4904099146636047185,
-      "title": "Albania’s flamingos meet the Trump family bulldozers",
-      "description": "Jared Kushner and Ivanka Trump plan a luxury residential complex that locals say will threaten a natural reserve",
-      "url": "https://www.ft.com/content/55fe7ae6-c973-4382-a0b5-2cbdbcdc587b",
-      "source": "Financial Times",
-      "published_at": "2026-07-03T09:55:32",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:42.841209"
-    },
-    {
-      "id": 5352356954458880595,
+      "id": 7119314111381847017,
       "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
       "description": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
       "url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
@@ -335,11 +443,11 @@
       "published_at": "2026-07-03T09:50:56",
       "category": "经济数据",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:40.221525"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:28.481914"
     },
     {
-      "id": 3540677377770104069,
+      "id": 5996277689928620590,
       "title": "Is stock market open today, Friday, July 3, 2026? Is stock market closed for 4th of July holiday? - IndyStar",
       "description": "Is stock market open today, Friday, July 3, 2026? Is stock market closed for 4th of July holiday?  IndyStar",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNzFSVm9BdjNJRl84b0dJZURlTTRYa0RhamxCM1R4bXVQdkJ0Y3JsWlg4SFlvbXFyRW5feXpsUHNOLUg1eUlSR1pPOVF4VzI4Nk9vN3Jnc3BjNXZOZ3g5OE1XWnBLQVRsa1BNVGFaZi1YVXZFUm9ZaXA2cWQ3c1EtUEJJSVNBbVg3U2RzRzRrVjl4ZExDY0RlWG1IVlRfbDdvaUdSZjRSai1ab1pFMHJoM3FTdURFcExyVGhyZThfc3dzUkpIZlJVUEllUXFWZ1lXUjdqUFJNS2pwNlplMG93T2NVQVFKbnFRdWZEWEh5anJzbTg?oc=5",
@@ -347,47 +455,11 @@
       "published_at": "2026-07-03T09:11:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:35.798591"
-    },
-    {
-      "id": -7139456323882615113,
-      "title": "Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets",
-      "description": "The metal was boosted as investors scaled back their bets on a looming rate hike.",
-      "url": "https://www.cnbc.com/2026/07/03/gold-silver-price-inflation-fed-rate-hike.html",
-      "source": "CNBC",
-      "published_at": "2026-07-03T08:58:19",
-      "category": "货币政策",
-      "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-07-03T13:54:41.428695"
+      "fetched_at": "2026-07-03T19:14:23.973893"
     },
     {
-      "id": 4978537967874507765,
-      "title": "US Stock Market Today: S&P 500 Futures Slip On Cooling Jobs And Rate Jitters - Yahoo Finance",
-      "description": "US Stock Market Today: S&P 500 Futures Slip On Cooling Jobs And Rate Jitters  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGUzTDJKSGRNYWx0VzYxLXBLTm9PbGh0MWd1N3pGUHJyLXZpWUFYcWk4RE5KRnFxaENWVGhfRVc4T3BHOGxBOWpzYVFReHdnWmpRaVRjUFlYbWlrejVtdWcydnctTmhKeEZhdDVjbmdMZVJNeER6Z1JMT0tsM2JLX2tMY01RT1NRZTJCc0dUckxWZw?oc=5",
-      "source": "Google News",
-      "published_at": "2026-07-03T08:15:07",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-07-03T13:54:35.799171"
-    },
-    {
-      "id": 1340782381836213468,
-      "title": "Extreme heat wave threatens U.S. power grids and July 4 travel",
-      "description": "The heat wave threatens to overwhelm U.S. grids and may force some to change their plans on one of the busiest travel weeks of the year.",
-      "url": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html",
-      "source": "CNBC",
-      "published_at": "2026-07-03T08:06:40",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:41.428264"
-    },
-    {
-      "id": 5753810650107300146,
+      "id": 505850280696048574,
       "title": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets",
       "description": "Oman is using strategic ambiguity as talks over possible Strait of Hormuz fees raise legal, diplomatic and oil market concerns.",
       "url": "https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html",
@@ -395,11 +467,11 @@
       "published_at": "2026-07-03T07:59:34",
       "category": "股市动态",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:41.428621"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-07-03T19:14:29.709010"
     },
     {
-      "id": 44649619207533663,
+      "id": -3668124118387802105,
       "title": "The Stock Market Is Flashing a Clear Warning to Investors: Here's What History Says Could Happen in 2026 and Beyond - Yahoo Finance",
       "description": "The Stock Market Is Flashing a Clear Warning to Investors: Here's What History Says Could Happen in 2026 and Beyond  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWRzTDcxd0s2UV8xeW9nT1JJRE81OU9Zd0dfeFE2SWxhZ1BrRm9GVmRUWnJBdDlaRDhFSnlqUWFGYlpfU0REN0pQTDZ2QnB4U3VhRjRwZVhWMnlySVN4M0hFY0xCRElETzhzTm1Pdk1SdUNDRGZSY1RFMDA1U3FRZ3EwR1M5c1EwMmZBWmNSODRFSWJIWEtUME9jVmtZTkFuZEE?oc=5",
@@ -407,11 +479,11 @@
       "published_at": "2026-07-03T06:58:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:35.799511"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:23.975182"
     },
     {
-      "id": 4035149895943257780,
+      "id": 9151772849436628283,
       "title": "Is the stock market open today? Here’s how Fourth of July weekend affects trading hours. - MarketWatch",
       "description": "Is the stock market open today? Here’s how Fourth of July weekend affects trading hours.  MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTEQ5X2xvQUl3U2xLSjZ5TXVNMThweE04UW5YbEZwMDQ1UnFQelJpaXVkUnVDT0NZdTRXbm1LX0dTUFExcFRJSmRUa1NybHZhS1VnQjF3bDJSYTNXZU5hdndaeE1uUGIzZjdkV3FKdWFyaEctMWpsUXNaSFp1Y0pvUExyMjZkYU5DZXpKOWNXT2MtVWtURmVONDRDamllYXNMbmoyZV9nbC0tTVhrTVdBT2cyQjFFVTN2dkIxTVBuakI?oc=5",
@@ -419,11 +491,11 @@
       "published_at": "2026-07-03T04:09:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:35.798987"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:23.974077"
     },
     {
-      "id": 3476955819510968574,
+      "id": 3268161735176688878,
       "title": "Is the Stock Market Open Today? Here Are the Trading Hours Ahead of the Fourth of July. - Barron's",
       "description": "Is the Stock Market Open Today? Here Are the Trading Hours Ahead of the Fourth of July.  Barron's",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdVZBcHNESlZUc1I2YXpGYTJ0NG1FaThzLU9LMWhNXzM5MjdFSUttMng4bEZjUEk4Znkxbl9ObWpZTjNSSHZHaFJhWGM3cVJpUHFGWUxCMTFOT1NjOTlnMHoxdUhqcW9kdUw5UWItYWtBZlRfc3hNR0VRRUMtcXZEOHdxaUZaZTJha0dDVEdQaFVDTjVicGt1dnduSDJaR0V3bnJnQ0VQSHFpcE4za1E0Vw?oc=5",
@@ -432,106 +504,22 @@
       "category": "股市动态",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:35.798792"
+      "fetched_at": "2026-07-03T19:14:23.973719"
     },
     {
-      "id": 4501516772255547171,
-      "title": "Anthropic moves to close loopholes that allow Chinese access to Claude",
-      "description": "Engineers are still finding ways to use AI models despite stringent restrictions",
-      "url": "https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60",
-      "source": "Financial Times",
-      "published_at": "2026-07-03T04:00:37",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:42.840939"
-    },
-    {
-      "id": -1559058608007023911,
-      "title": "How Jamie Dimon’s long succession race claimed another victim",
-      "description": "Marianne Lake spent years as a contender for the CEO job at JPMorgan. Last week, she was abruptly axed",
-      "url": "https://www.ft.com/content/4ab13dd4-b71d-45cf-bc44-8b17cb0ee8e0",
-      "source": "Financial Times",
-      "published_at": "2026-07-03T04:00:37",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:42.841043"
-    },
-    {
-      "id": 261433196852721722,
-      "title": "Surging Wall Street profit forecasts fuel fears of ‘earnings bubble’",
-      "description": "Analysts’ expectations for S&P 500 earnings are rising at fastest rate since rebound from Covid pandemic",
-      "url": "https://www.ft.com/content/1d3da122-c043-4e51-bb95-ac68d41ab838",
-      "source": "Financial Times",
-      "published_at": "2026-07-03T04:00:37",
-      "category": "股市动态",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:42.841304"
-    },
-    {
-      "id": -6766587221394885629,
-      "title": "England-Mexico ticket prices soar to $36,000 ",
-      "description": "Football-obsessed Mexico fans have paid the highest prices throughout the tournament",
-      "url": "https://www.ft.com/content/c40423b9-d469-45e0-bb1f-7a543c74f376",
-      "source": "Financial Times",
-      "published_at": "2026-07-03T04:00:37",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:42.841626"
-    },
-    {
-      "id": 4780132530600870978,
-      "title": "World Cup goals spree by star players proves costly for gambling companies",
-      "description": "Performance of top strikers and victories for popular teams have cost DraftKings as much as $50mn",
-      "url": "https://www.ft.com/content/fb195a38-0717-4745-bf69-4b3cdbee31fe",
-      "source": "Financial Times",
-      "published_at": "2026-07-03T04:00:24",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:42.841547"
-    },
-    {
-      "id": 6722770373518732738,
-      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-      "description": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-07-03T03:50:18",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:40.221974"
-    },
-    {
-      "id": 2936801201509479678,
-      "title": "Venezuela quake toll climbs to 2,595 as damage estimates mount after strongest tremor in a century",
-      "description": "Death toll from twin earthquakes that struck Venezuela jumped to 2,595, as rescue operations continued after the country's strongest tremors in over a century.",
-      "url": "https://www.cnbc.com/2026/07/03/venezuela-earthquakes-death-toll-rises-rescue-efforts-continue.html",
+      "id": 8791313886599693456,
+      "title": "5 takeaways from President Donald Trump's interview with CNBC",
+      "description": "The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments.",
+      "url": "https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html",
       "source": "CNBC",
-      "published_at": "2026-07-03T03:46:27",
+      "published_at": "2026-07-02T23:20:58",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:41.428817"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-07-03T19:14:29.708304"
     },
     {
-      "id": 1883881978825286550,
-      "title": "Why Micron (MU) Stock Is Falling Today - Yahoo Finance",
-      "description": "Why Micron (MU) Stock Is Falling Today  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3VySzAwRDdvLWVLY2VGb2k5Z0p1NTNyZE14RWhVb2pmUFBodnVGTEI2X01vVGJEQnZzckIzWlJvaU14YTNKTVVpV0R6Vmp1clctVDhXMWxCeFRfVnh1NE14TzZBZ0dFdmF4MmJPWDFWZzBRVjNsQkxQM1Z5S0cybUNDSjJzRk1UMjlhaTZuVDJHazE5QS1r?oc=5",
-      "source": "Google News",
-      "published_at": "2026-07-03T00:36:00",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-07-03T13:54:35.800576"
-    },
-    {
-      "id": -7109396381970398095,
+      "id": 6816071527062247756,
       "title": "AI is 'not smart' so what's next in artificial intelligence?",
       "description": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
       "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
@@ -539,11 +527,11 @@
       "published_at": "2026-07-02T23:02:09",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:40.221798"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-07-03T19:14:28.482164"
     },
     {
-      "id": 4099727861941929438,
+      "id": -5028158883709986666,
       "title": "UK finds lost US Declaration of Independence copy after 250 years",
       "description": "Document revealed by National Archives ahead of its anniversary on Saturday",
       "url": "https://www.ft.com/content/4fd21282-82f3-443c-9270-c1efb401fe97",
@@ -551,11 +539,11 @@
       "published_at": "2026-07-02T23:01:06",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:42.841704"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:31.034933"
     },
     {
-      "id": 3091692275331689678,
+      "id": 8404008838442407404,
       "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "description": "The government had initially said it would not relax licensing laws further for the World Cup.",
       "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
@@ -563,23 +551,11 @@
       "published_at": "2026-07-02T20:49:17",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-07-03T13:54:40.221695"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:28.482084"
     },
     {
-      "id": 6967329398361696592,
-      "title": "Amazon has deployed enough satellites to launch Leo service later this year",
-      "description": "Leo will compete with SpaceX's Starlink, which had a four-year start over Amazon and has more than 10,000 satellites in its constellation.",
-      "url": "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html",
-      "source": "CNBC",
-      "published_at": "2026-07-02T18:28:35",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-07-03T13:54:41.429160"
-    },
-    {
-      "id": 4637451413726973925,
+      "id": -5172895282514729136,
       "title": "Ryanair warns of 'queue chaos' from new EU border system",
       "description": "The airline calls on European governments to postpone the EES system until after the summer holiday period.",
       "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
@@ -587,11 +563,11 @@
       "published_at": "2026-07-02T17:17:36",
       "category": "外汇市场",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:40.222134"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-07-03T19:14:28.482510"
     },
     {
-      "id": 7937194354089497015,
+      "id": 6036994212237542789,
       "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver ahead of jobs report - Yahoo Finance",
       "description": "Stock market today: Dow, S&P 500, Nasdaq futures waver ahead of jobs report  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2JzamV5ZHM2alNocnZhblRrS2l2OWFUb25JbUt1Q2RzX0M3c0JqN0NPcG5xMHI1cWt2UEtTVTQ3ZlRRR09Pb0tpVDY5YUJsbDZLVjIyQ0FkWG1GSjRibFZTdjM4TzJQejdmOFM3RW0ycW15RXpJSF95bUZ3dG8yaFBKdEc5aVV4eG1sVUtXeU1ZQQ?oc=5",
@@ -599,11 +575,23 @@
       "published_at": "2026-07-02T06:03:25",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:35.800068"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-07-03T19:14:23.974259"
     },
     {
-      "id": -864419655455723539,
+      "id": -3332550034794944600,
+      "title": "Shares in AOL Owner Jump 40% in Stock-Market Debut - WSJ",
+      "description": "Shares in AOL Owner Jump 40% in Stock-Market Debut  WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0FoNXJEQVVPTU5HX3lMSHluWVhmZ1dEaXJneUk2ckR3TEpNdFJBdHA1eUJ4bzhPdEFTcUlLZlNTM3dXVHM2emY0QU5YMjZCU1JpV05MeDV4TDJEQ0g2cWR6ZUFGcXdOU0Q4U2FEazdjUVIxR3Nrc1M3ZkpWeWNxbHFCbDMzR05qRTNQVUNuZXh3MWpIanNTMThuYw?oc=5",
+      "source": "Google News",
+      "published_at": "2026-07-01T21:15:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-07-03T19:14:23.975365"
+    },
+    {
+      "id": -1640199926066467748,
       "title": "Stock market today: Nasdaq dips, Dow and S&P 500 rise as markets weigh Kevin Warsh's remarks - Yahoo Finance",
       "description": "Stock market today: Nasdaq dips, Dow and S&P 500 rise as markets weigh Kevin Warsh's remarks  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcWhTSWlhSGUwcmpCTi1sdnUtREl0djVBN2xTbENXTy1QalpBd2ZaZzQ3VkxrRWlZNDhPdk1ZdjRaT2pZejJOYzItNk51a1Z0Rlpmc3M5TWtRS1VlcjZjTnFJZE1JNkNNMHJ2NTFBaklHSHcxaVl6UFVudVZ6ejZDeEVyLTBucnd0RGd3TV9YbzVGZ2dpSFFXUmRWaGc4ZEtyVjQwMWQ5RXZKQkdUQUJpMV9XY1NsUF96NW9aWnNCZF82eXVzYkpWdEZLeEY5c3RZR2h4T2tYbDM0QQ?oc=5",
@@ -611,11 +599,11 @@
       "published_at": "2026-07-01T16:01:27",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:35.800238"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-07-03T19:14:23.974668"
     },
     {
-      "id": -8601948535356708658,
+      "id": -8690738645494230380,
       "title": "Stock market today: Dow, S&P 500, Nasdaq futures pull back as focus turns to jobs report - Yahoo Finance",
       "description": "Stock market today: Dow, S&P 500, Nasdaq futures pull back as focus turns to jobs report  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObkVNdXBUdGh5bzNYR2ZfaXh1NlNHRFROM2QxTHB4bXNweW1yeHNXY0pXMkp3dlJRaWt6TTlZcUhPR2VsSHU4ZUtYbzV2d2twM2MwSVhoZ1VWQ183MGtnYjlRT0NUMmw1OXdoY0I1RXhvTlBTNUU2NGdTNzNTa1JsWVpfb0pMSGF1WXJRU3ItSmZLdDNzVWEzRDBoZG8xRldaTnVvTnI2a04tR3dkQVg4SXBjSGJ4c0VfaW40Nk8xTW8xYjgyak1ibm8xdlF4RUFpTXFPWg?oc=5",
@@ -623,35 +611,35 @@
       "published_at": "2026-07-01T09:55:19",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-07-03T13:54:35.800753"
-    },
-    {
-      "id": -3068210027041320714,
-      "title": "Stock market today: Dow hits record, S&P 500 jumps to cap best quarter since 2020 amid massive chip rally - Yahoo Finance",
-      "description": "Stock market today: Dow hits record, S&P 500 jumps to cap best quarter since 2020 amid massive chip rally  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObVhOMHZ6bXFMU0lFU2J6S2R4b2w5YkthUmRYdWh1ZmRna3Nqck9QVzJUU0RESmtJQ1ZyeHRZelhBaEQwMFVYcjlpbkgxWGtnejJ3NVE5ZHo1MHdndE0yRm11ZmptWXk4Yk5yTnlFdGh0ckh5bVJlRU9zNFhFb0QyOHBOZGp5NXVadFA5RUFDZ0JOSVlzckpqc2FDb21YbG1YZTJyVjFIcHJHdXFXOFdRRHNvSlQ5R2JMQzJxdTNBRV9IZjhKck5SeHpXWC1IY1JlTE9tVHc4SWdDMVZEcEl0Tk45bXFwcDBRYUp4RA?oc=5",
-      "source": "Google News",
-      "published_at": "2026-06-30T20:03:21",
-      "category": "股市动态",
-      "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-07-03T13:54:35.799694"
+      "fetched_at": "2026-07-03T19:14:23.974846"
     },
     {
-      "id": -644706203972018069,
-      "title": "Stock market today: S&P 500, Nasdaq rise, Dow eyes fresh record to wrap up standout quarter - Yahoo Finance",
-      "description": "Stock market today: S&P 500, Nasdaq rise, Dow eyes fresh record to wrap up standout quarter  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaG5KdFcxZlpaMmZQbWtHXzZnckpGQnhzVlViVWJkQjFsTVdlZVlBQWU5aW9UbzBZLW9JRGxTdlZlc3NtNlZ6YTdMUFk2Ml9JTTY1VHRxd25Kd1JxZl83TmFGQkZvdW5qblBremZPWnRDdVdCQ0U3Tk45TC1NZjRRYWFpb3hWUm9KSXFpLWFhVVRhc1VOdmZSVFRLa18yTVkteDVQc1hzVnQ5OE1PUjMyR05VUlVzV19tZ0dYd1Zra2VZbVd2T3ZhSzJoUHNjWExzNnZiQ2dxQU0?oc=5",
+      "id": -2766088331407427989,
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures pull back after AI rally regains its mojo - Yahoo Finance",
+      "description": "Stock market today: Dow, S&P 500, Nasdaq futures pull back after AI rally regains its mojo  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTV6alFnbzB3WWVuejVYOHZDeEdiWkFJR3M1QUFlbWVDcmtNZ05rd0ZEZnQzd0tuTnZaS0V1RS1QX05PMlV6ek4wQnFfalhvYmpxVFlvT3lMbDZReXNmYjZQX3kxRF8zTDNGazY4aXk4WTVDaVNRUGNCcVJzMTYxZW5BMzRfT2FCS1g1ajlFa1gydlREMGVDNWtPa19VZTBkVEtlS0RwWkh0SDZTN3pMYWxmb0dpTmFRNjFVVlQyNzFXQnZRR2JmMnJVU1M1S3ZqY3ZQLUE4VQ?oc=5",
       "source": "Google News",
-      "published_at": "2026-06-30T19:19:23",
+      "published_at": "2026-07-01T07:34:04",
       "category": "股市动态",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:35.800410"
+      "fetched_at": "2026-07-03T19:14:23.975548"
     },
     {
-      "id": 3797426889891410699,
+      "id": -6455740268747762791,
+      "title": "Stock market today: S&P 500, Nasdaq rise, Dow eyes fresh record to wrap up standout quarter - Yahoo Finance",
+      "description": "Stock market today: S&P 500, Nasdaq rise, Dow eyes fresh record to wrap up standout quarter  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWZnZ2pZLTR3R0U1R2xzVUpFWXFPRldKd1FvX0RoRUJiMldxZXVEYUhDN01lRFcyeHhQSlltUGFqS3JYMTRsVU84eFlsbFVIYW1LbzNjVVJKQVE0M2tneERoMndYSlhLaGt0ZVo4WWtMNXIxbktqaWstdnNPdHVkRVhCZXVxWlFkSmtlcUppX0lPcWtrLXo5cUZsbmtET19uMWt5LW11Ym9iNmNyOUpjNVVjNy1mMGd6LXNmNQ?oc=5",
+      "source": "Google News",
+      "published_at": "2026-06-30T14:27:17",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-07-03T19:14:23.975728"
+    },
+    {
+      "id": 2120983613375571600,
       "title": "The Trillion-Dollar Borrowing Binge Lifting the Stock Market to Risky Heights - WSJ",
       "description": "The Trillion-Dollar Borrowing Binge Lifting the Stock Market to Risky Heights  WSJ",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSW8zSlFmUjI2U3MzMXNaaXgzRnVXeU10ZFR5eEU2SnQzSFNsVHZJZEI2TXhzaDVtRVY3R3ZhZzBfMHNWQ2tmX0NnRTY3eVRGdmt3U05IVnR4ckYyOGk3dnRYemZOVWtoSWxNb3lOT1lycy15S2o5dXo2SFRCM0tLMlN5UWNVc3NBMExzaGZsRVJUcFpNVU1lc1hCWnA5OFFEMFJpVXdKMm5weE1KLS13Q1V5c2ozbmhRR24wV0xn?oc=5",
@@ -659,8 +647,8 @@
       "published_at": "2026-06-29T01:00:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-07-03T13:54:35.799893"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-07-03T19:14:23.975014"
     }
   ]
 }

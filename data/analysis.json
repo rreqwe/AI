@@ -1,26 +1,26 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: AeroVironment Stock Soared on a Blowout Quarter. Is the Dron...",
-    "✓ 股市动态: How crowds become stupider...",
-    "✓ 综合财经: Manhattan luxury real estate sales hold firm despite fears o...",
-    "✓ 经济数据: Tackle workplace sickness to unlock hidden growth, former Jo...",
-    "✓ 货币政策: Gold prices set for first weekly rise in a month as investor..."
+    "✓ 综合财经: Takeda, Insilico Strike AI Drug-Discovery Deal Worth Up to $...",
+    "✓ 综合财经: GLJ Research’s Analyst Upgrades Vertiv Holdings Co (VRT)...",
+    "✓ 综合财经: RBC Capital Increased its Price Target on Cameco Corporation...",
+    "✓ 股市动态: Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; A...",
+    "✓ 综合财经: Romanians sentenced in London for Iran-directed attack on jo..."
   ],
-  "positive_count": 5,
-  "negative_count": 0,
-  "neutral_count": 25,
+  "positive_count": 9,
+  "negative_count": 1,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-03T13:54:45.043198",
+  "analyzed_at": "2026-07-03T19:14:33.195313",
   "categories_distribution": {
-    "综合财经": 29,
+    "综合财经": 31,
     "股市动态": 19,
-    "经济数据": 2,
-    "货币政策": 3,
-    "外汇市场": 2
+    "货币政策": 2,
+    "经济数据": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
