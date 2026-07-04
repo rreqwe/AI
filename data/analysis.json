@@ -1,26 +1,26 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Tesla Sales Jump, but Stock Suffers Worst Day Since Last Jul...",
-    "✗ 股市动态: Tesla's Latest Deliveries Report Exceeded Expectations. TSLA...",
-    "✗ 货币政策: Feds seek lower prison term for $100M New Jersey deli frauds...",
-    "✗ 股市动态: Wells Fargo doubles down on stock market and AI - Yahoo Fina...",
-    "✓ 股市动态: Dow Jones Futures: Tech Futures' Rise Show AI Bulls Still Fi..."
+    "✓ 经济数据: India's June services growth slips to 17-month low as demand...",
+    "✓ 综合财经: Exclusive-Japan shifts to ambush intervention tactics agains...",
+    "✓ 股市动态: Why AppLovin Stock Was Racing Higher This Week...",
+    "✓ 综合财经: India coal-fired power output in June rises to highest since...",
+    "✓ 综合财经: Trump uses Mount Rushmore speech to warn of ‘communist menac..."
   ],
-  "positive_count": 7,
-  "negative_count": 4,
-  "neutral_count": 19,
+  "positive_count": 8,
+  "negative_count": 1,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-04T02:32:45.753975",
+  "analyzed_at": "2026-07-04T08:31:56.314514",
   "categories_distribution": {
-    "股市动态": 25,
-    "综合财经": 23,
-    "货币政策": 4,
-    "经济数据": 1,
-    "外汇市场": 1
+    "综合财经": 30,
+    "经济数据": 2,
+    "股市动态": 17,
+    "外汇市场": 2,
+    "货币政策": 4
   },
   "ai_provider": "fallback_rules"
 }
