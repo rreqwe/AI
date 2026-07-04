@@ -1,26 +1,26 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: India's June services growth slips to 17-month low as demand...",
-    "✓ 综合财经: Exclusive-Japan shifts to ambush intervention tactics agains...",
-    "✓ 股市动态: Why AppLovin Stock Was Racing Higher This Week...",
-    "✓ 综合财经: India coal-fired power output in June rises to highest since...",
-    "✓ 综合财经: Trump uses Mount Rushmore speech to warn of ‘communist menac..."
+    "✓ 综合财经: 57% of retirees carry debt and 27% live on Social Security a...",
+    "✓ 经济数据: Vanguard S&P 500 Growth vs. Invesco SmallCap Revenue: How Do...",
+    "✓ 股市动态: The World Cup sends prediction market volumes soaring to rec...",
+    "✓ 综合财经: Tech Futures Jump Into Holiday Weekend - Investor's Business...",
+    "✓ 综合财经: Iran mourners demand revenge at ayatollah’s funeral ..."
   ],
-  "positive_count": 8,
+  "positive_count": 7,
   "negative_count": 1,
-  "neutral_count": 21,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-04T08:31:56.314514",
+  "analyzed_at": "2026-07-04T13:16:12.420480",
   "categories_distribution": {
-    "综合财经": 30,
-    "经济数据": 2,
+    "综合财经": 32,
     "股市动态": 17,
-    "外汇市场": 2,
-    "货币政策": 4
+    "经济数据": 2,
+    "货币政策": 3,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
