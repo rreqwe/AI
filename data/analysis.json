@@ -1,24 +1,24 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Takeda, Insilico Strike AI Drug-Discovery Deal Worth Up to $...",
-    "✓ 综合财经: GLJ Research’s Analyst Upgrades Vertiv Holdings Co (VRT)...",
-    "✓ 综合财经: RBC Capital Increased its Price Target on Cameco Corporation...",
-    "✓ 股市动态: Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; A...",
-    "✓ 综合财经: Romanians sentenced in London for Iran-directed attack on jo..."
+    "✓ 股市动态: Tesla Sales Jump, but Stock Suffers Worst Day Since Last Jul...",
+    "✗ 股市动态: Tesla's Latest Deliveries Report Exceeded Expectations. TSLA...",
+    "✗ 货币政策: Feds seek lower prison term for $100M New Jersey deli frauds...",
+    "✗ 股市动态: Wells Fargo doubles down on stock market and AI - Yahoo Fina...",
+    "✓ 股市动态: Dow Jones Futures: Tech Futures' Rise Show AI Bulls Still Fi..."
   ],
-  "positive_count": 9,
-  "negative_count": 1,
-  "neutral_count": 20,
+  "positive_count": 7,
+  "negative_count": 4,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-03T19:14:33.195313",
+  "analyzed_at": "2026-07-04T02:32:45.753975",
   "categories_distribution": {
-    "综合财经": 31,
-    "股市动态": 19,
-    "货币政策": 2,
+    "股市动态": 25,
+    "综合财经": 23,
+    "货币政策": 4,
     "经济数据": 1,
     "外汇市场": 1
   },
