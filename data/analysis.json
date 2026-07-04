@@ -1,24 +1,25 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: 57% of retirees carry debt and 27% live on Social Security a...",
-    "✓ 经济数据: Vanguard S&P 500 Growth vs. Invesco SmallCap Revenue: How Do...",
-    "✓ 股市动态: The World Cup sends prediction market volumes soaring to rec...",
-    "✓ 综合财经: Tech Futures Jump Into Holiday Weekend - Investor's Business...",
-    "✓ 综合财经: Iran mourners demand revenge at ayatollah’s funeral ..."
+    "✓ 经济数据: Jim Cramer Believes “Micron’s Become a Secular Growth Story,...",
+    "✗ 综合财经: Jim Cramer on Dell: “I Missed One of the Greatest Stories Ev...",
+    "✗ 大宗商品: Jim Cramer Says He Likes Agnico Eagle But Believes Gold Is G...",
+    "✓ 综合财经: Higher-for-Longer Rates Are a Gift for Life Insurers. MetLif...",
+    "✓ 综合财经: Tech Futures Jump Into Holiday Weekend - Investor's Business..."
   ],
   "positive_count": 7,
-  "negative_count": 1,
-  "neutral_count": 22,
+  "negative_count": 2,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-04T13:16:12.420480",
+  "analyzed_at": "2026-07-04T19:05:14.753459",
   "categories_distribution": {
-    "综合财经": 32,
-    "股市动态": 17,
     "经济数据": 2,
+    "股市动态": 19,
+    "综合财经": 27,
+    "大宗商品": 1,
     "货币政策": 3,
     "外汇市场": 1
   },
