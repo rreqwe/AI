@@ -4,24 +4,25 @@
   "sentiment_emoji": "😐",
   "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Why I'm Loading Up on QQQ in 2026...",
-    "✗ 股市动态: Trump Accounts for kids launched July 4: What parents need t...",
-    "✓ 股市动态: Top Wall Street analysts prefer these dividend stocks for bo...",
-    "✓ 综合财经: Iran leadership shows unity at ayatollah’s funeral, but succ...",
-    "✗ 股市动态: US voters say Trump’s Iran war not worth the cost — FT poll..."
+    "✓ 综合财经: Best CD rates today, Sunday, July 5, 2026: Lock in up to 4.1...",
+    "✗ 大宗商品: 7 OPEC+ countries agree to expand monthly oil production mod...",
+    "✓ 综合财经: EasyJet reaches outline agreement on £5.5bn takeover by Cast...",
+    "✓ 综合财经: Netanyahu government defies Israel’s top court over TV regul...",
+    "✗ 股市动态: If a Stock Market Crash Is Coming, This ETF Could Be the Sma..."
   ],
   "positive_count": 6,
   "negative_count": 4,
   "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-05T13:22:43.651027",
+  "analyzed_at": "2026-07-05T19:11:30.760541",
   "categories_distribution": {
     "综合财经": 27,
     "股市动态": 22,
+    "大宗商品": 1,
     "国际贸易": 1,
+    "外汇市场": 1,
     "经济数据": 2,
-    "货币政策": 2,
-    "外汇市场": 1
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
