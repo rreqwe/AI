@@ -1,26 +1,27 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极14条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 货币政策: FedEx Is Abandoning Its Supply Chain Business. FDX Stock Inv...",
-    "✓ 股市动态: Why Did Nebius Stock Jump 20% in June?...",
-    "✓ 综合财经: AMD Beats NVDA in 1H26 Returns. Here’s What's Next for 2H26....",
-    "✓ 股市动态: AeroVironment Posted Solid Earnings and the Stock Reacted Sh...",
-    "✓ 综合财经: Trump asked FIFA to review Balogun's World Cup game suspensi..."
+    "✓ 综合财经: Ciena (CIEN) Names New Supply Chain and Product Technology C...",
+    "✓ 股市动态: Stock market today: Nasdaq leads S&P 500, Dow futures higher...",
+    "✗ 综合财经: Indian IT firms face muted Q1 as AI shift, weak demand weigh...",
+    "✓ 综合财经: Besins Healthcare boosts drug delivery portfolio with UniD d...",
+    "✓ 综合财经: Mortgage and refinance rates today, Monday, July 6: Purchase..."
   ],
-  "positive_count": 11,
-  "negative_count": 3,
-  "neutral_count": 16,
+  "positive_count": 14,
+  "negative_count": 4,
+  "neutral_count": 12,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-06T02:48:21.779592",
+  "analyzed_at": "2026-07-06T10:11:09.012735",
   "categories_distribution": {
-    "股市动态": 27,
-    "货币政策": 1,
-    "综合财经": 22,
-    "国际贸易": 1,
-    "经济数据": 2
+    "综合财经": 30,
+    "股市动态": 16,
+    "外汇市场": 1,
+    "经济数据": 4,
+    "大宗商品": 2,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
