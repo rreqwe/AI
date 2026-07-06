@@ -2,26 +2,25 @@
   "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极14条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Ciena (CIEN) Names New Supply Chain and Product Technology C...",
-    "✓ 股市动态: Stock market today: Nasdaq leads S&P 500, Dow futures higher...",
-    "✗ 综合财经: Indian IT firms face muted Q1 as AI shift, weak demand weigh...",
-    "✓ 综合财经: Besins Healthcare boosts drug delivery portfolio with UniD d...",
-    "✓ 综合财经: Mortgage and refinance rates today, Monday, July 6: Purchase..."
+    "✓ 综合财经: Is ServiceNow (NOW) Turning AI Disruption to Expansion?...",
+    "✓ 股市动态: TeraWulf, Anthropic Sign $19 Billion Data Center Lease. Neoc...",
+    "✓ 外汇市场: Dollar edges up, keeps yen pinned near 40-year lows...",
+    "✓ 综合财经: Netflix (NFLX) Gained From Multiple Tailwinds...",
+    "✓ 股市动态: Stock market today: Dow slips, Nasdaq and S&P 500 rise as te..."
   ],
-  "positive_count": 14,
-  "negative_count": 4,
-  "neutral_count": 12,
+  "positive_count": 11,
+  "negative_count": 1,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-06T10:11:09.012735",
+  "analyzed_at": "2026-07-06T15:23:28.719585",
   "categories_distribution": {
-    "综合财经": 30,
-    "股市动态": 16,
+    "综合财经": 28,
+    "股市动态": 24,
     "外汇市场": 1,
-    "经济数据": 4,
-    "大宗商品": 2,
-    "货币政策": 1
+    "数字货币": 1,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
