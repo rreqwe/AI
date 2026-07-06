@@ -1,26 +1,25 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Is ServiceNow (NOW) Turning AI Disruption to Expansion?...",
-    "✓ 股市动态: TeraWulf, Anthropic Sign $19 Billion Data Center Lease. Neoc...",
-    "✓ 外汇市场: Dollar edges up, keeps yen pinned near 40-year lows...",
-    "✓ 综合财经: Netflix (NFLX) Gained From Multiple Tailwinds...",
-    "✓ 股市动态: Stock market today: Dow slips, Nasdaq and S&P 500 rise as te..."
+    "✓ 股市动态: Palo Alto Networks (PANW) Shares Up Significantly After Jim ...",
+    "✓ 股市动态: Market Update: IQV...",
+    "✗ 综合财经: Robert Kiyosaki says the ‘everything bubble’ is about to pop...",
+    "✓ 股市动态: Stock market today: Nasdaq leads S&P 500, Dow higher as tech...",
+    "✓ 综合财经: Wall Street climbs as Broadcom and other chipmakers rally - ..."
   ],
-  "positive_count": 11,
-  "negative_count": 1,
-  "neutral_count": 18,
+  "positive_count": 8,
+  "negative_count": 2,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-06T15:23:28.719585",
+  "analyzed_at": "2026-07-06T19:50:47.349618",
   "categories_distribution": {
-    "综合财经": 28,
-    "股市动态": 24,
-    "外汇市场": 1,
-    "数字货币": 1,
-    "经济数据": 1
+    "股市动态": 28,
+    "综合财经": 25,
+    "货币政策": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
