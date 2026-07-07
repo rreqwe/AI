@@ -1,25 +1,27 @@
 {
-  "temperature_score": 58.33,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 73.33,
+  "sentiment": "乐观",
+  "sentiment_emoji": "😊",
+  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比15/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
   "key_factors": [
-    "✗ 股市动态: Mark Zuckerberg Doubles Down on Raw Computing Power to Chall...",
-    "✓ 综合财经: World Cup in photos: Belgium beats U.S. 4-1 after Balogun co...",
-    "✓ 综合财经: Trump heads to Turkey as NATO is strained by Russian attacks...",
-    "✓ 综合财经: Fifa’s red card scandal crosses ‘Rubicon’ on to the pitch...",
-    "✓ 综合财经: Samsung profits jump 1,800% as AI boom drives chip sales..."
+    "✓ 综合财经: Why Auna’s (AUNA) Analyst Upside Depends on Latin American H...",
+    "✓ 经济数据: Why Oncology Institute’s (TOI) Analyst Upgrades Put Its Comm...",
+    "✓ 综合财经: NYSE president optimistic about forthcoming IPOs, says econo...",
+    "✓ 货币政策: ECB tells banks to draw up plans against AI attacks amid dis...",
+    "✓ 股市动态: Shell Flags Stronger Trading Despite Middle East Impact on Q..."
   ],
-  "positive_count": 7,
-  "negative_count": 2,
-  "neutral_count": 21,
+  "positive_count": 15,
+  "negative_count": 1,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-07T02:43:32.173668",
+  "analyzed_at": "2026-07-07T09:34:51.010735",
   "categories_distribution": {
-    "股市动态": 23,
-    "综合财经": 30,
-    "外汇市场": 1,
-    "货币政策": 1
+    "综合财经": 28,
+    "经济数据": 2,
+    "货币政策": 1,
+    "股市动态": 20,
+    "大宗商品": 1,
+    "外汇市场": 3
   },
   "ai_provider": "fallback_rules"
 }
