@@ -1,27 +1,28 @@
 {
-  "temperature_score": 73.33,
-  "sentiment": "乐观",
-  "sentiment_emoji": "😊",
-  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比15/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
+  "temperature_score": 48.33,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比4/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✓ 综合财经: Why Auna’s (AUNA) Analyst Upside Depends on Latin American H...",
-    "✓ 经济数据: Why Oncology Institute’s (TOI) Analyst Upgrades Put Its Comm...",
-    "✓ 综合财经: NYSE president optimistic about forthcoming IPOs, says econo...",
-    "✓ 货币政策: ECB tells banks to draw up plans against AI attacks amid dis...",
-    "✓ 股市动态: Shell Flags Stronger Trading Despite Middle East Impact on Q..."
+    "✗ 股市动态: Stock Market Today: Nasdaq Slides As Samsung Tumbles On Earn...",
+    "✗ 股市动态: Rivian stock falls more than 10% as company sells 75 million...",
+    "✓ 大宗商品: Oil prices rise after report of Iranian attack on commercial...",
+    "✗ 股市动态: US market outlook: NVIDIA shares declined following reports ...",
+    "✓ 综合财经: Trump arrives in Turkey as NATO is strained by Russian attac..."
   ],
-  "positive_count": 15,
-  "negative_count": 1,
-  "neutral_count": 14,
+  "positive_count": 3,
+  "negative_count": 4,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-07T09:34:51.010735",
+  "analyzed_at": "2026-07-07T14:23:09.543331",
   "categories_distribution": {
-    "综合财经": 28,
-    "经济数据": 2,
+    "综合财经": 26,
+    "股市动态": 22,
+    "数字货币": 1,
     "货币政策": 1,
-    "股市动态": 20,
-    "大宗商品": 1,
-    "外汇市场": 3
+    "大宗商品": 2,
+    "外汇市场": 2,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
