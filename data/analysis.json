@@ -1,27 +1,28 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Why This Biotech, Up 12% Since Its Breakout, Yo-Yoed On A Ke...",
-    "✗ 综合财经: Freight car builder Greenbrier sees weaker Q2 earnings...",
-    "✓ 股市动态: Bank Stocks Rally Ahead Of Earnings. Why Bullishness Is Grow...",
-    "✓ 综合财经: SambaNova hits $11 billion valuation as investors back Nvidi...",
-    "✓ 大宗商品: Oil jumps as U.S. 'powerful strikes' against Iran risk stoke..."
+    "✗ 股市动态: Bitcoin and ethereum prices today, Wednesday, July 8, 2026: ...",
+    "✓ 综合财经: AI disruption is the hot topic of earnings calls...",
+    "✗ 股市动态: CoreWeave stock sinks as mag 7 move rattles investors...",
+    "✓ 综合财经: Daily Spotlight: Equities Post Strong First Half...",
+    "✗ 综合财经: Citi Lowers SLB Price Target Due to Ongoing Weakness in the ..."
   ],
-  "positive_count": 7,
-  "negative_count": 2,
-  "neutral_count": 21,
+  "positive_count": 5,
+  "negative_count": 5,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-08T08:21:46.266552",
+  "analyzed_at": "2026-07-08T13:54:00.802175",
   "categories_distribution": {
-    "股市动态": 18,
     "综合财经": 29,
-    "大宗商品": 3,
+    "股市动态": 19,
+    "国际贸易": 2,
     "货币政策": 1,
-    "外汇市场": 3,
-    "经济数据": 1
+    "经济数据": 2,
+    "外汇市场": 1,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
