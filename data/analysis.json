@@ -1,28 +1,27 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Soybeans Post Late Session Gains on Tuesday...",
-    "✓ 综合财经: Corn Extend Gains to Tuesday...",
-    "✗ 货币政策: Mortgage & refinance interest rates today, Tuesday, July 7: ...",
-    "✓ 股市动态: Amazon Stocks Climbs As AI Push Drives $25 Billion Bond Sale...",
-    "✗ 股市动态: Will the housing market crash in 2026? What the numbers say..."
+    "✓ 综合财经: What the Plaintiff Attorney Who Won at the Supreme Court Loo...",
+    "✓ 股市动态: Stock Market Today: Dow Inches Up Amid U.S.-Iran News; Arm J...",
+    "✓ 综合财经: New York Times-led group asks court to sanction OpenAI in US...",
+    "✓ 股市动态: Stock market today: S&P 500, Dow, Nasdaq edge up as focus tu...",
+    "✓ 货币政策: Fed's Williams doesn't expect sustained surge in energy pric..."
   ],
-  "positive_count": 11,
-  "negative_count": 4,
+  "positive_count": 12,
+  "negative_count": 3,
   "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-09T09:31:58.610674",
+  "analyzed_at": "2026-07-09T14:49:22.288505",
   "categories_distribution": {
-    "综合财经": 29,
-    "货币政策": 3,
-    "数字货币": 2,
+    "综合财经": 26,
     "股市动态": 16,
-    "经济数据": 2,
-    "大宗商品": 2,
-    "国际贸易": 1
+    "货币政策": 3,
+    "经济数据": 5,
+    "外汇市场": 3,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
