@@ -1,28 +1,27 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 外汇市场: Dollar Climbs on Escalation of Middle East Hostilities...",
-    "✓ 综合财经: AT&T leaves rivals flat-footed as bankrupt carrier folds...",
-    "✓ 综合财经: US strikes Iranian railway bridges on route to city of Khame...",
-    "✓ 货币政策: New Fed task force members share Chairman Kevin Warsh's embr...",
-    "✓ 股市动态: Fact-check: Trump credits stock market for $2B increase in w..."
+    "✗ 股市动态: When will gas prices go down? What to know as you plan your ...",
+    "✓ 综合财经: The US-Iran conflict could still drive up food prices. How t...",
+    "✗ 大宗商品: World oil demand set for first annual decline since 2020, IE...",
+    "✓ 股市动态: 3 things risk derailing a summer stock market rally, Morgan ...",
+    "✓ 综合财经: EasyJet agrees to surprise takeover bid as rival US firm swo..."
   ],
-  "positive_count": 8,
-  "negative_count": 1,
-  "neutral_count": 21,
+  "positive_count": 9,
+  "negative_count": 3,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-10T02:37:51.372580",
+  "analyzed_at": "2026-07-10T09:28:05.803550",
   "categories_distribution": {
-    "综合财经": 23,
-    "货币政策": 6,
-    "股市动态": 20,
-    "外汇市场": 2,
+    "股市动态": 22,
+    "综合财经": 20,
+    "大宗商品": 5,
+    "货币政策": 4,
     "经济数据": 1,
-    "国际贸易": 1,
-    "大宗商品": 2
+    "外汇市场": 3
   },
   "ai_provider": "fallback_rules"
 }
