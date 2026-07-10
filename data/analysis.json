@@ -1,26 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: When will gas prices go down? What to know as you plan your ...",
-    "✓ 综合财经: The US-Iran conflict could still drive up food prices. How t...",
-    "✗ 大宗商品: World oil demand set for first annual decline since 2020, IE...",
-    "✓ 股市动态: 3 things risk derailing a summer stock market rally, Morgan ...",
-    "✓ 综合财经: EasyJet agrees to surprise takeover bid as rival US firm swo..."
+    "✓ 综合财经: Alphabet (GOOG) Surged as Investors’ Confidence Boosted Amid...",
+    "✓ 股市动态: Zenas BioPharma (ZBIO): Best IPO Stocks with Huge Upside Pot...",
+    "✓ 股市动态: Here is Why Figure Tech (FIGR) is One of the Best IPO Stocks...",
+    "✓ 股市动态: Is Venture Global (VG) One of the Best IPO Stocks with Huge ...",
+    "✓ 股市动态: Stablecoin issuer Circle just got the greenlight to operate ..."
   ],
-  "positive_count": 9,
-  "negative_count": 3,
+  "positive_count": 11,
+  "negative_count": 1,
   "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-10T09:28:05.803550",
+  "analyzed_at": "2026-07-10T14:13:35.044817",
   "categories_distribution": {
-    "股市动态": 22,
-    "综合财经": 20,
-    "大宗商品": 5,
-    "货币政策": 4,
-    "经济数据": 1,
+    "综合财经": 23,
+    "股市动态": 21,
+    "大宗商品": 3,
+    "货币政策": 2,
+    "经济数据": 3,
     "外汇市场": 3
   },
   "ai_provider": "fallback_rules"
