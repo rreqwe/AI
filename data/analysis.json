@@ -1,28 +1,28 @@
 {
-  "temperature_score": 61.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 41.67,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比6/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✗ 综合财经: AstraZeneca Plunges After New Heart Disease Drug Fails Trial...",
-    "✓ 经济数据: Slowing Costco Sales Growth Unnerves Investors...",
-    "✗ 综合财经: SK Hynix advisors win big fee windfall after modest SpaceX p...",
-    "✓ 综合财经: Tencent in talks to become AI startup Manus' largest shareho...",
-    "✗ 货币政策: Prepare for a perilous summer in markets ..."
+    "✗ 综合财经: The best states to live in for 2026: No. 1 has a six-year wi...",
+    "✗ 综合财经: Trump threatens to 'decimate' Iran if it tries to kill him, ...",
+    "✗ 综合财经: Democrats’ strategic misfires laid bare by Platner’s implosi...",
+    "✗ 综合财经: A tiny GLP-1 implant is the latest bet to help patients main...",
+    "✗ 股市动态: If a Stock Market Crash Is Brewing, History Says Investors W..."
   ],
-  "positive_count": 10,
-  "negative_count": 3,
-  "neutral_count": 17,
+  "positive_count": 1,
+  "negative_count": 6,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-11T07:48:51.527676",
+  "analyzed_at": "2026-07-11T13:09:38.527255",
   "categories_distribution": {
-    "综合财经": 21,
-    "股市动态": 21,
-    "经济数据": 3,
+    "综合财经": 22,
     "大宗商品": 2,
-    "外汇市场": 4,
+    "股市动态": 22,
+    "经济数据": 2,
     "国际贸易": 2,
-    "货币政策": 2
+    "外汇市场": 4,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
