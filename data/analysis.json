@@ -1,28 +1,29 @@
 {
-  "temperature_score": 41.67,
+  "temperature_score": 45.0,
   "sentiment": "谨慎",
   "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比6/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✗ 综合财经: The best states to live in for 2026: No. 1 has a six-year wi...",
-    "✗ 综合财经: Trump threatens to 'decimate' Iran if it tries to kill him, ...",
-    "✗ 综合财经: Democrats’ strategic misfires laid bare by Platner’s implosi...",
-    "✗ 综合财经: A tiny GLP-1 implant is the latest bet to help patients main...",
-    "✗ 股市动态: If a Stock Market Crash Is Brewing, History Says Investors W..."
+    "✗ 大宗商品: Can Colombia’s New Government Reverse the Nation’s Oil and G...",
+    "✗ 数字货币: Bitcoin dropped 2% then rebounded after Trump said he's 'a b...",
+    "✓ 股市动态: Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood ...",
+    "✓ 股市动态: Morgan Stanley says stock market rally faces $1.2 trillion q...",
+    "✓ 综合财经: How AI rebrands fail to deliver a lasting share price boost ..."
   ],
-  "positive_count": 1,
-  "negative_count": 6,
-  "neutral_count": 23,
+  "positive_count": 5,
+  "negative_count": 8,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-11T13:09:38.527255",
+  "analyzed_at": "2026-07-11T18:56:07.654500",
   "categories_distribution": {
-    "综合财经": 22,
+    "综合财经": 20,
+    "股市动态": 24,
     "大宗商品": 2,
-    "股市动态": 22,
-    "经济数据": 2,
-    "国际贸易": 2,
-    "外汇市场": 4,
-    "货币政策": 1
+    "数字货币": 1,
+    "国际贸易": 3,
+    "经济数据": 1,
+    "货币政策": 1,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
