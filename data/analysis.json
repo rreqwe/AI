@@ -1,28 +1,28 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: The Surprising Reason Guardant Health, A Top 3% Stock, Soare...",
-    "✓ 股市动态: Analyst Boosts SpaceX Valuation On Blue Origin News; ARK Buy...",
-    "✓ 国际贸易: Trump admin eases export controls for UAE; Warren blasts 'co...",
-    "✓ 股市动态: JD.com, Inc. (JD) Outpaces Stock Market Gains: What You Shou...",
-    "✓ 股市动态: U.S. Stock Market Ticks Higher With Memory Chip Maker’s Big ..."
+    "✗ 综合财经: AstraZeneca Plunges After New Heart Disease Drug Fails Trial...",
+    "✓ 经济数据: Slowing Costco Sales Growth Unnerves Investors...",
+    "✗ 综合财经: SK Hynix advisors win big fee windfall after modest SpaceX p...",
+    "✓ 综合财经: Tencent in talks to become AI startup Manus' largest shareho...",
+    "✗ 货币政策: Prepare for a perilous summer in markets ..."
   ],
-  "positive_count": 11,
-  "negative_count": 1,
-  "neutral_count": 18,
+  "positive_count": 10,
+  "negative_count": 3,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-11T02:13:15.991576",
+  "analyzed_at": "2026-07-11T07:48:51.527676",
   "categories_distribution": {
-    "综合财经": 19,
-    "股市动态": 24,
-    "国际贸易": 3,
-    "货币政策": 2,
-    "大宗商品": 2,
+    "综合财经": 21,
+    "股市动态": 21,
     "经济数据": 3,
-    "外汇市场": 1
+    "大宗商品": 2,
+    "外汇市场": 4,
+    "国际贸易": 2,
+    "货币政策": 2
   },
   "ai_provider": "fallback_rules"
 }
