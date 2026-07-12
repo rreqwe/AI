@@ -1,28 +1,26 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 外汇市场: Dollar Recovers as T-note Yields Rise...",
-    "✓ 股市动态: Chip giant SK Hynix jumps 13% in US market debut...",
-    "✓ 股市动态: Stifel Just Upgraded Twilio Stock. Here's Why....",
+    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq rise to cap choppy ...",
+    "✗ 股市动态: Tech stocks live: SK Hynix begins trading on Nasdaq, SpaceX ...",
     "✓ 综合财经: Big fast-food burger chain franchisee files Chapter 11 bankr...",
-    "✓ 股市动态: How to Play DAL Stock After Delta's Strong Q2 Earnings Resul..."
+    "✓ 综合财经: U.S. launches airstrikes against Iran after Tehran attacks c...",
+    "✓ 股市动态: How Aldi is taking on US supermarkets with its $4 almond but..."
   ],
-  "positive_count": 10,
-  "negative_count": 6,
-  "neutral_count": 14,
+  "positive_count": 7,
+  "negative_count": 5,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-12T02:23:51.848456",
+  "analyzed_at": "2026-07-12T08:10:31.124881",
   "categories_distribution": {
-    "股市动态": 26,
-    "外汇市场": 3,
-    "综合财经": 19,
+    "综合财经": 21,
+    "数字货币": 1,
+    "股市动态": 29,
     "国际贸易": 2,
-    "经济数据": 1,
-    "货币政策": 1,
-    "大宗商品": 2
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
