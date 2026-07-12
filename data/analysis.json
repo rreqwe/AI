@@ -1,25 +1,26 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: Average car payment are now $770/month — could a credit unio...",
-    "✓ 综合财经: Here’s the minimum net worth you need to be considered ‘uppe...",
+    "✓ 综合财经: Why Western Digital (WDC) Is Benefiting From AI-Driven Stora...",
     "✓ 综合财经: Big fast-food burger chain franchisee files Chapter 11 bankr...",
-    "✓ 股市动态: The stock-market rally now hinges more on AI than oil - Mark...",
-    "✓ 综合财经: U.S. launches airstrikes against Iran after Tehran attacks c..."
+    "✓ 综合财经: Elon Musk and Sam Altman spar on X after Apple files OpenAI ...",
+    "✓ 股市动态: Warren Buffett Is Piling Up Cash as the Stock Market Wobbles...",
+    "✓ 股市动态: The stock-market rally now hinges more on AI than oil - Mark..."
   ],
-  "positive_count": 12,
-  "negative_count": 4,
-  "neutral_count": 14,
+  "positive_count": 7,
+  "negative_count": 0,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-12T13:11:27.512648",
+  "analyzed_at": "2026-07-12T18:59:47.738989",
   "categories_distribution": {
-    "综合财经": 25,
-    "股市动态": 25,
-    "经济数据": 1,
+    "综合财经": 29,
+    "大宗商品": 1,
+    "股市动态": 21,
     "国际贸易": 2,
+    "经济数据": 1,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
