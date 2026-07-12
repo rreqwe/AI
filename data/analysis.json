@@ -1,29 +1,28 @@
 {
-  "temperature_score": 45.0,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 56.67,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 大宗商品: Can Colombia’s New Government Reverse the Nation’s Oil and G...",
-    "✗ 数字货币: Bitcoin dropped 2% then rebounded after Trump said he's 'a b...",
-    "✓ 股市动态: Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood ...",
-    "✓ 股市动态: Morgan Stanley says stock market rally faces $1.2 trillion q...",
-    "✓ 综合财经: How AI rebrands fail to deliver a lasting share price boost ..."
+    "✓ 外汇市场: Dollar Recovers as T-note Yields Rise...",
+    "✓ 股市动态: Chip giant SK Hynix jumps 13% in US market debut...",
+    "✓ 股市动态: Stifel Just Upgraded Twilio Stock. Here's Why....",
+    "✓ 综合财经: Big fast-food burger chain franchisee files Chapter 11 bankr...",
+    "✓ 股市动态: How to Play DAL Stock After Delta's Strong Q2 Earnings Resul..."
   ],
-  "positive_count": 5,
-  "negative_count": 8,
-  "neutral_count": 17,
+  "positive_count": 10,
+  "negative_count": 6,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-11T18:56:07.654500",
+  "analyzed_at": "2026-07-12T02:23:51.848456",
   "categories_distribution": {
-    "综合财经": 20,
-    "股市动态": 24,
-    "大宗商品": 2,
-    "数字货币": 1,
-    "国际贸易": 3,
+    "股市动态": 26,
+    "外汇市场": 3,
+    "综合财经": 19,
+    "国际贸易": 2,
     "经济数据": 1,
     "货币政策": 1,
-    "外汇市场": 2
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
