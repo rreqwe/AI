@@ -1,27 +1,28 @@
 {
-  "temperature_score": 48.33,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比6/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 51.67,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 外汇市场: Dollar wavers amid renewed Iran attacks, yen slides on pensi...",
+    "✓ 综合财经: Alternative Power Demand Drives Bloom Energy (BE) Higher...",
     "✗ 综合财经: Spectrum makes significant decision as customer losses mount...",
-    "✗ 综合财经: Why KeyBanc Lowered Its Price Target on Atlassian Corporatio...",
-    "✓ 股市动态: Fact check: Trump says stock market drove his 2025 income ga...",
-    "✗ 股市动态: Will the Stock Market Crash in 2026? History Says It May Hap..."
+    "✓ 综合财经: Increased Demand Lifted Comfort Systems (FIX) in Q2...",
+    "✗ 股市动态: SK Hynix stock falls, leads broader chip sector declines as ...",
+    "✓ 股市动态: U.S. oil jumps above $75 a barrel after Trump reinstates Str..."
   ],
   "positive_count": 5,
-  "negative_count": 6,
-  "neutral_count": 19,
+  "negative_count": 4,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-13T09:18:21.125823",
+  "analyzed_at": "2026-07-13T14:25:08.939354",
   "categories_distribution": {
-    "外汇市场": 2,
-    "综合财经": 29,
-    "股市动态": 21,
-    "经济数据": 1,
+    "综合财经": 28,
+    "数字货币": 2,
+    "股市动态": 19,
     "国际贸易": 1,
-    "货币政策": 1
+    "货币政策": 2,
+    "外汇市场": 2,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
