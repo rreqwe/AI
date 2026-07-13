@@ -4,25 +4,24 @@
   "sentiment_emoji": "😐",
   "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Alternative Power Demand Drives Bloom Energy (BE) Higher...",
-    "✗ 综合财经: Spectrum makes significant decision as customer losses mount...",
-    "✓ 综合财经: Increased Demand Lifted Comfort Systems (FIX) in Q2...",
-    "✗ 股市动态: SK Hynix stock falls, leads broader chip sector declines as ...",
-    "✓ 股市动态: U.S. oil jumps above $75 a barrel after Trump reinstates Str..."
+    "✓ 综合财经: Best CD rates today, Sunday, July 12, 2026: Lock in up to 4....",
+    "✗ 货币政策: Mortgage and refinance interest rates today, Sunday, July 12...",
+    "✓ 综合财经: Paramount, WBD hit with lawsuit from 12 states, including Ca...",
+    "✓ 综合财经: Judge says Trump sued IRS for 'improper purpose'; refers his...",
+    "✗ 货币政策: US appeals court revives lawsuits linking painkiller Tylenol..."
   ],
   "positive_count": 5,
   "negative_count": 4,
   "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-13T14:25:08.939354",
+  "analyzed_at": "2026-07-13T19:18:50.523683",
   "categories_distribution": {
-    "综合财经": 28,
-    "数字货币": 2,
-    "股市动态": 19,
-    "国际贸易": 1,
-    "货币政策": 2,
+    "综合财经": 27,
+    "货币政策": 5,
+    "经济数据": 2,
+    "股市动态": 17,
     "外汇市场": 2,
-    "经济数据": 1
+    "国际贸易": 2
   },
   "ai_provider": "fallback_rules"
 }
