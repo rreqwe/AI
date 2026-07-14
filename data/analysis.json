@@ -1,25 +1,26 @@
 {
-  "temperature_score": 51.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 48.33,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✗ 股市动态: IBM stock crashes after major warning...",
-    "✓ 经济数据: Stock Market Today: S&P Climbs On Surprise CPI Inflation Rep...",
-    "✓ 综合财经: Trump says everyone in America is ‘profiting’ from his presi...",
-    "✓ 综合财经: 'Dirty Jobs' host Mike Rowe: Gen Z electricians are making u...",
-    "✓ 综合财经: World Cup's biggest spenders show up late as semifinals driv..."
+    "✓ 综合财经: CI&T Inc (CINT) Close to All-Time Lows, Wall Street Sees Mor...",
+    "✗ 综合财经: Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) De...",
+    "✗ 股市动态: Planet Labs (PL) Down 12% Over the Past Month, Wedbush Initi...",
+    "✗ 股市动态: Li Auto (LI) Down 17% in a Month, Can It Rebound?...",
+    "✗ 股市动态: Lucid dismisses report that it is weighing filing for bankru..."
   ],
   "positive_count": 7,
-  "negative_count": 6,
-  "neutral_count": 17,
+  "negative_count": 8,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-14T13:25:08.394036",
+  "analyzed_at": "2026-07-14T19:13:23.222579",
   "categories_distribution": {
-    "股市动态": 17,
-    "经济数据": 4,
+    "综合财经": 23,
     "货币政策": 6,
-    "综合财经": 26,
+    "股市动态": 18,
+    "经济数据": 6,
+    "国际贸易": 1,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
