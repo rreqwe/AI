@@ -4,23 +4,25 @@
   "sentiment_emoji": "😐",
   "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Stocks Settle Lower as Chipmakers Routed and US-Iran Tension...",
-    "✓ 综合财经: Taiwan Semiconductor Posts Stronger-Than-Expected June Sales...",
-    "✓ 股市动态: ASML raises forecasts as AI boom drives chipmaking demand...",
-    "✓ 综合财经: ASML jumps over 7% after hiking sales forecast for second ti...",
-    "✓ 大宗商品: Oil rises after another round of U.S. strikes against Iran, ..."
+    "✓ 股市动态: Healthcare Bellwether J&J Beats And Raises, But Shares Dip...",
+    "✓ 股市动态: Earnings live: BlackRock, Morgan Stanley stocks rise on stro...",
+    "✓ 股市动态: Why Elevance Earnings Gave Health Insurance Stocks A Cold; U...",
+    "✗ 数字货币: BlackRock's Crypto Assets Declined 39% In Second Quarter...",
+    "✗ 综合财经: US producer prices unexpectedly fall in June..."
   ],
   "positive_count": 10,
   "negative_count": 4,
   "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-15T08:01:37.258216",
+  "analyzed_at": "2026-07-15T13:27:53.557399",
   "categories_distribution": {
-    "综合财经": 18,
-    "大宗商品": 4,
-    "股市动态": 9,
-    "经济数据": 4,
-    "外汇市场": 3,
+    "股市动态": 21,
+    "综合财经": 19,
+    "数字货币": 1,
+    "经济数据": 8,
+    "大宗商品": 2,
+    "货币政策": 2,
+    "外汇市场": 1,
     "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
