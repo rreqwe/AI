@@ -1,27 +1,28 @@
 {
-  "temperature_score": 51.67,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Market Update: MS, NKE, W...",
-    "✗ 股市动态: SpaceX share price drops below stock market debut...",
-    "✓ 外汇市场: Uber nears €12.5bn deal to acquire Delivery Hero...",
-    "✗ 股市动态: SpaceX share price drops below stock market debut - BBC...",
-    "✓ 股市动态: Anthropic moves closer to mega-IPO as bankers line up invest..."
+    "✓ 股市动态: Tripadvisor (TRIP) Advanced as Market Accepted Asset Sale...",
+    "✓ 股市动态: Citigroup profit beats estimates on trading, dealmaking stre...",
+    "✗ 股市动态: SK Hynix shares plunge 11% as Asia sees tech rout, tracking ...",
+    "✓ 大宗商品: US hits tanker heading for Kharg Island under renewed Iran b...",
+    "✓ 综合财经: US will not win Iran war from the air, Trump’s ex-defence ch..."
   ],
-  "positive_count": 4,
-  "negative_count": 3,
-  "neutral_count": 23,
+  "positive_count": 12,
+  "negative_count": 2,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-15T19:05:07.436119",
+  "analyzed_at": "2026-07-16T02:11:41.661775",
   "categories_distribution": {
-    "综合财经": 22,
-    "经济数据": 7,
-    "股市动态": 17,
-    "外汇市场": 2,
-    "货币政策": 5,
-    "大宗商品": 2
+    "综合财经": 25,
+    "股市动态": 19,
+    "货币政策": 4,
+    "大宗商品": 2,
+    "经济数据": 3,
+    "国际贸易": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
