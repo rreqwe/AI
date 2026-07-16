@@ -1,28 +1,27 @@
 {
-  "temperature_score": 66.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 70.0,
+  "sentiment": "乐观",
+  "sentiment_emoji": "😊",
+  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比15/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
   "key_factors": [
-    "✓ 股市动态: Tripadvisor (TRIP) Advanced as Market Accepted Asset Sale...",
-    "✓ 股市动态: Citigroup profit beats estimates on trading, dealmaking stre...",
-    "✗ 股市动态: SK Hynix shares plunge 11% as Asia sees tech rout, tracking ...",
-    "✓ 大宗商品: US hits tanker heading for Kharg Island under renewed Iran b...",
-    "✓ 综合财经: US will not win Iran war from the air, Trump’s ex-defence ch..."
+    "✗ 股市动态: IBM Stock’s 25% Plunge Just Proved the Market Is Incredibly ...",
+    "✓ 大宗商品: Goldman Sachs profits soar amid roaring Wall Street activity...",
+    "✓ 股市动态: Lucid Stock Dives As Much As 56% On Bankruptcy, Take-Private...",
+    "✓ 综合财经: AMD Looks Set for a Beat-and-Raise Quarter on Surging AI Ser...",
+    "✓ 综合财经: Ukraine's Zelenskyy ousts defense minister in surprise shake..."
   ],
-  "positive_count": 12,
-  "negative_count": 2,
-  "neutral_count": 16,
+  "positive_count": 15,
+  "negative_count": 3,
+  "neutral_count": 12,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-16T02:11:41.661775",
+  "analyzed_at": "2026-07-16T08:05:59.646407",
   "categories_distribution": {
-    "综合财经": 25,
-    "股市动态": 19,
-    "货币政策": 4,
+    "股市动态": 22,
     "大宗商品": 2,
-    "经济数据": 3,
-    "国际贸易": 1,
-    "外汇市场": 1
+    "国际贸易": 2,
+    "综合财经": 20,
+    "经济数据": 4,
+    "货币政策": 4
   },
   "ai_provider": "fallback_rules"
 }
