@@ -1,27 +1,27 @@
 {
-  "temperature_score": 70.0,
-  "sentiment": "乐观",
-  "sentiment_emoji": "😊",
-  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比15/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
+  "temperature_score": 56.67,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: IBM Stock’s 25% Plunge Just Proved the Market Is Incredibly ...",
-    "✓ 大宗商品: Goldman Sachs profits soar amid roaring Wall Street activity...",
-    "✓ 股市动态: Lucid Stock Dives As Much As 56% On Bankruptcy, Take-Private...",
-    "✓ 综合财经: AMD Looks Set for a Beat-and-Raise Quarter on Surging AI Ser...",
-    "✓ 综合财经: Ukraine's Zelenskyy ousts defense minister in surprise shake..."
+    "✓ 综合财经: Abbott Bounds Higher After Hiking 2026 Profit View On Second...",
+    "✗ 股市动态: Stock Market Today: Tech Futures Slide As Sandisk, SK Hynix ...",
+    "✗ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures mixed as ch...",
+    "✓ 综合财经: Japanese food group Nichirei hit by cyberattack...",
+    "✓ 综合财经: Prologis ups earnings outlook amid record lease signings..."
   ],
-  "positive_count": 15,
-  "negative_count": 3,
-  "neutral_count": 12,
+  "positive_count": 10,
+  "negative_count": 6,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-16T08:05:59.646407",
+  "analyzed_at": "2026-07-16T13:41:20.769424",
   "categories_distribution": {
-    "股市动态": 22,
-    "大宗商品": 2,
-    "国际贸易": 2,
-    "综合财经": 20,
+    "综合财经": 27,
+    "股市动态": 19,
     "经济数据": 4,
-    "货币政策": 4
+    "货币政策": 3,
+    "国际贸易": 1,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
