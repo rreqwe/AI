@@ -1,27 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Abbott Bounds Higher After Hiking 2026 Profit View On Second...",
-    "✗ 股市动态: Stock Market Today: Tech Futures Slide As Sandisk, SK Hynix ...",
-    "✗ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures mixed as ch...",
-    "✓ 综合财经: Japanese food group Nichirei hit by cyberattack...",
-    "✓ 综合财经: Prologis ups earnings outlook amid record lease signings..."
+    "✓ 股市动态: Why Kopin Corporation (KOPN) is One of the Best Strong Buy P...",
+    "✓ 股市动态: Why Grab Holdings (GRAB) is One of the Best Strong Buy Penny...",
+    "✗ 综合财经: IBM Plunged After Issuing a Warning on the Software Sector. ...",
+    "✓ 综合财经: Prime Medicine (PRME) Reaches Positive Resolution to Arbitra...",
+    "✓ 股市动态: Why Sable Offshore (SOC) is One of the Best Strong Buy Penny..."
   ],
-  "positive_count": 10,
+  "positive_count": 13,
   "negative_count": 6,
-  "neutral_count": 14,
+  "neutral_count": 11,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-16T13:41:20.769424",
+  "analyzed_at": "2026-07-16T19:03:33.695830",
   "categories_distribution": {
     "综合财经": 27,
     "股市动态": 19,
-    "经济数据": 4,
-    "货币政策": 3,
-    "国际贸易": 1,
-    "大宗商品": 1
+    "大宗商品": 2,
+    "货币政策": 2,
+    "国际贸易": 2,
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
