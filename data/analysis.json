@@ -1,26 +1,26 @@
 {
-  "temperature_score": 46.67,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 65.0,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Nvidia Stock Falls as It Fights to Stay Above $5 Trillion Ma...",
-    "✓ 经济数据: Stocks Supported By Favorable Inflation News...",
-    "✓ 经济数据: Bitcoin and ethereum prices today, Wednesday, July 15, 2026:...",
-    "✗ 股市动态: SoftBank sinks 8% as Asia chip stocks track Wall Street AI s...",
-    "✓ 大宗商品: Oil rises as Iran threatens retaliation if Trump targets cou..."
+    "✓ 股市动态: Canada’s Big Five Banks All Just Hit New 52-Week Highs. Up 2...",
+    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq rise as Apple notch...",
+    "✓ 综合财经: After Spicy Breakout, This Fund Favorite Cooks Up New Entry...",
+    "✓ 综合财经: PayPal Surges Amid Stripe, Private Equity Takeover Report. W...",
+    "✓ 股市动态: IBM Stock Suffers Worst Day in Decades, Wiping Out Billions...."
   ],
-  "positive_count": 6,
-  "negative_count": 8,
-  "neutral_count": 16,
+  "positive_count": 11,
+  "negative_count": 2,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-17T02:16:09.452772",
+  "analyzed_at": "2026-07-17T08:02:56.703043",
   "categories_distribution": {
+    "股市动态": 29,
     "综合财经": 21,
-    "股市动态": 25,
-    "经济数据": 3,
-    "大宗商品": 5,
-    "国际贸易": 1
+    "外汇市场": 2,
+    "大宗商品": 2,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
