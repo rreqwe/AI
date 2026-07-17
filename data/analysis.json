@@ -1,24 +1,25 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Hyundai Motor Group to own Boston Dynamics in full with Soft...",
-    "✓ 国际贸易: Import prices post surprise gain as costs of goods from Chin...",
-    "✓ 综合财经: Inside the Chinese fraud rings stealing billions from banks ...",
-    "✗ 股市动态: The Club's 10 things to watch in the stock market Friday...",
-    "✗ 股市动态: Andy Burnham will find that hope is not enough to govern..."
+    "✓ 综合财经: What to Expect From DuPont’s Q2 2026 Earnings Report...",
+    "✓ 综合财经: What to Expect From Public Service Enterprise’s Next Quarter...",
+    "✓ 综合财经: Explainer-What are leveraged ETFs and how are they driving t...",
+    "✓ 综合财经: Space startup funding holds near record highs as SpaceX IPO ...",
+    "✓ 综合财经: Meta and Anthropic in talks for up to $10bn data centre deal..."
   ],
-  "positive_count": 6,
-  "negative_count": 6,
-  "neutral_count": 18,
+  "positive_count": 8,
+  "negative_count": 5,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-17T13:19:24.998173",
+  "analyzed_at": "2026-07-17T19:01:20.245469",
   "categories_distribution": {
-    "综合财经": 27,
-    "股市动态": 26,
-    "国际贸易": 2
+    "综合财经": 30,
+    "国际贸易": 2,
+    "大宗商品": 2,
+    "股市动态": 20
   },
   "ai_provider": "fallback_rules"
 }
