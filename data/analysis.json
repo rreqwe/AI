@@ -1,26 +1,24 @@
 {
-  "temperature_score": 65.0,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Canada’s Big Five Banks All Just Hit New 52-Week Highs. Up 2...",
-    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq rise as Apple notch...",
-    "✓ 综合财经: After Spicy Breakout, This Fund Favorite Cooks Up New Entry...",
-    "✓ 综合财经: PayPal Surges Amid Stripe, Private Equity Takeover Report. W...",
-    "✓ 股市动态: IBM Stock Suffers Worst Day in Decades, Wiping Out Billions...."
+    "✓ 综合财经: Hyundai Motor Group to own Boston Dynamics in full with Soft...",
+    "✓ 国际贸易: Import prices post surprise gain as costs of goods from Chin...",
+    "✓ 综合财经: Inside the Chinese fraud rings stealing billions from banks ...",
+    "✗ 股市动态: The Club's 10 things to watch in the stock market Friday...",
+    "✗ 股市动态: Andy Burnham will find that hope is not enough to govern..."
   ],
-  "positive_count": 11,
-  "negative_count": 2,
-  "neutral_count": 17,
+  "positive_count": 6,
+  "negative_count": 6,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-17T08:02:56.703043",
+  "analyzed_at": "2026-07-17T13:19:24.998173",
   "categories_distribution": {
-    "股市动态": 29,
-    "综合财经": 21,
-    "外汇市场": 2,
-    "大宗商品": 2,
-    "经济数据": 1
+    "综合财经": 27,
+    "股市动态": 26,
+    "国际贸易": 2
   },
   "ai_provider": "fallback_rules"
 }
