@@ -4,24 +4,24 @@
   "sentiment_emoji": "😐",
   "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: These 7 Stocks Are Analyst Favorites For Magnificent Earning...",
-    "✓ 综合财经: I left my husband with $3 in my account after he racked up $...",
-    "✓ 股市动态: Love Stock Market Gains But Hate Risk? Here's 1 ETF Worth Lo...",
-    "✓ 股市动态: Kalshi adds 3 million new users as prediction market capital...",
-    "✗ 综合财经: Housing costs is the top political issue for young voters, C..."
+    "✓ 综合财经: Best CD rates today, Sunday, July 19, 2026: Lock in up to 4....",
+    "✗ 货币政策: Mortgage and refinance interest rates today, Saturday, July ...",
+    "✓ 综合财经: A couple with $6.1 million can't agree on when to retire — R...",
+    "✓ 大宗商品: Is Burnham promising a new dawn for North Sea oil and gas?...",
+    "✓ 综合财经: EU faces crumbling support for new Russia sanctions..."
   ],
   "positive_count": 7,
   "negative_count": 3,
   "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-19T13:08:18.771865",
+  "analyzed_at": "2026-07-19T19:00:33.017137",
   "categories_distribution": {
-    "经济数据": 2,
-    "综合财经": 27,
-    "股市动态": 20,
+    "综合财经": 25,
+    "货币政策": 2,
+    "股市动态": 21,
     "大宗商品": 1,
-    "外汇市场": 1,
-    "货币政策": 1
+    "外汇市场": 2,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
