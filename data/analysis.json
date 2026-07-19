@@ -1,27 +1,26 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Dave Ramsey: 'You can't outearn stupidity' — here's why teac...",
-    "✓ 综合财经: Iran supreme leader vows 'unforgettable lessons in store' fo...",
-    "✓ 经济数据: Korean beauty products are becoming mainstream in the U.S. W...",
-    "✓ 外汇市场: Trump to fund Maga-aligned projects in Europe as he reorders...",
-    "✗ 股市动态: Surrogacy controversy sparks resignation of Merz’s parliamen..."
+    "✓ 股市动态: JPM Stock Just Staged a Record Bull Run. 1 Analyst Thinks It...",
+    "✓ 大宗商品: Hormuz Escalation Pressures Gold as $4,000 Support Comes Int...",
+    "✓ 股市动态: Financial Stocks Rally To New Highs. JPMorgan Is One Of Them...",
+    "✗ 股市动态: ISRG Stock Sinks as Analysts Cut Price Targets on Intuitive ...",
+    "✓ 综合财经: Apple Knows Cash is King Which is Why I Keep Loading Up..."
   ],
-  "positive_count": 7,
+  "positive_count": 11,
   "negative_count": 4,
-  "neutral_count": 19,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-18T18:57:34.096872",
+  "analyzed_at": "2026-07-19T02:21:02.851692",
   "categories_distribution": {
-    "综合财经": 24,
-    "大宗商品": 1,
-    "股市动态": 22,
-    "国际贸易": 1,
-    "经济数据": 1,
-    "货币政策": 3,
+    "股市动态": 24,
+    "综合财经": 23,
+    "经济数据": 2,
+    "大宗商品": 2,
+    "货币政策": 2,
     "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
