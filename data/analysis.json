@@ -1,27 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Best CD rates today, Sunday, July 19, 2026: Lock in up to 4....",
-    "✗ 货币政策: Mortgage and refinance interest rates today, Saturday, July ...",
-    "✓ 综合财经: A couple with $6.1 million can't agree on when to retire — R...",
-    "✓ 大宗商品: Is Burnham promising a new dawn for North Sea oil and gas?...",
-    "✓ 综合财经: EU faces crumbling support for new Russia sanctions..."
+    "✓ 综合财经: Mark Cuban Says If You’ve Got $100,000, You’ll Get The ‘Best...",
+    "✓ 股市动态: 14 S&P 500 Stocks Are Up Over 100% in 2026. Why Micron Is My...",
+    "✓ 综合财经: Brent breaches $90 as Middle East risks mount with U.S-Iran ...",
+    "✓ 综合财经: Samsung Biologics to acquire Switzerland's PolyPeptide Group...",
+    "✓ 综合财经: Spain outplay Messi’s Argentina to reach World Cup summit..."
   ],
-  "positive_count": 7,
-  "negative_count": 3,
-  "neutral_count": 20,
+  "positive_count": 11,
+  "negative_count": 1,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-19T19:00:33.017137",
+  "analyzed_at": "2026-07-20T02:36:40.135767",
   "categories_distribution": {
+    "大宗商品": 2,
+    "股市动态": 22,
     "综合财经": 25,
-    "货币政策": 2,
-    "股市动态": 21,
-    "大宗商品": 1,
-    "外汇市场": 2,
-    "经济数据": 1
+    "经济数据": 1,
+    "货币政策": 1,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
