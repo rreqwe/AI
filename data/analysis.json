@@ -1,26 +1,27 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Mark Cuban Says If You’ve Got $100,000, You’ll Get The ‘Best...",
-    "✓ 股市动态: 14 S&P 500 Stocks Are Up Over 100% in 2026. Why Micron Is My...",
-    "✓ 综合财经: Brent breaches $90 as Middle East risks mount with U.S-Iran ...",
-    "✓ 综合财经: Samsung Biologics to acquire Switzerland's PolyPeptide Group...",
-    "✓ 综合财经: Spain outplay Messi’s Argentina to reach World Cup summit..."
+    "✓ 综合财经: Best CD rates today, Sunday, July 19, 2026: Lock in up to 4....",
+    "✓ 综合财经: We put $50,000 in medical bills on our credit cards — now we...",
+    "✓ 经济数据: Aehr Test (AEHR) Rockets as Traders Buy Into Triple Revenue ...",
+    "✗ 货币政策: Mortgage and refinance interest rates today, Saturday, July ...",
+    "✓ 综合财经: SpaceX (SPCX) Loses Its IPO Premium as a Bigger Supply Test ..."
   ],
-  "positive_count": 11,
-  "negative_count": 1,
-  "neutral_count": 18,
+  "positive_count": 12,
+  "negative_count": 4,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-20T02:36:40.135767",
+  "analyzed_at": "2026-07-20T08:50:59.286727",
   "categories_distribution": {
-    "大宗商品": 2,
-    "股市动态": 22,
     "综合财经": 25,
-    "经济数据": 1,
+    "经济数据": 3,
     "货币政策": 1,
+    "股市动态": 17,
+    "大宗商品": 5,
+    "国际贸易": 1,
     "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
