@@ -1,26 +1,27 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: We put $50,000 in medical bills on our credit cards — now we...",
-    "✓ 综合财经: Best CD rates today, Sunday, July 19, 2026: Lock in up to 4....",
-    "✓ 综合财经: AI recruitment startup Refer can help find you a job instead...",
-    "✗ 综合财经: Paramount and Warner Bros. merger hit with temporary restrai...",
-    "✓ 大宗商品: Oil prices rise after Trump says Iran will pay for killing U..."
+    "✗ 股市动态: Oppenheimer Downgraded IBM Following Its Sharp Post-Earnings...",
+    "✓ 综合财经: A couple with $6.1 million can't agree on when to retire — R...",
+    "✗ 综合财经: Netflix Tanks on Lower Margins and Flat Outlook - Time to Bu...",
+    "✓ 综合财经: Pro-Trump Super Pac Maga Inc builds $400mn war chest ahead o...",
+    "✗ 股市动态: Dow Jones Futures: Trump Comments Spark Stock Market Losses;..."
   ],
-  "positive_count": 9,
-  "negative_count": 2,
-  "neutral_count": 19,
+  "positive_count": 7,
+  "negative_count": 3,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-20T19:39:13.689677",
+  "analyzed_at": "2026-07-21T02:14:58.766333",
   "categories_distribution": {
-    "综合财经": 32,
-    "股市动态": 16,
-    "大宗商品": 4,
-    "货币政策": 2,
-    "经济数据": 1
+    "股市动态": 20,
+    "综合财经": 27,
+    "国际贸易": 3,
+    "经济数据": 1,
+    "大宗商品": 3,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
