@@ -1,27 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Oppenheimer Downgraded IBM Following Its Sharp Post-Earnings...",
-    "✓ 综合财经: A couple with $6.1 million can't agree on when to retire — R...",
-    "✗ 综合财经: Netflix Tanks on Lower Margins and Flat Outlook - Time to Bu...",
-    "✓ 综合财经: Pro-Trump Super Pac Maga Inc builds $400mn war chest ahead o...",
-    "✗ 股市动态: Dow Jones Futures: Trump Comments Spark Stock Market Losses;..."
+    "✓ 股市动态: Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, T...",
+    "✓ 股市动态: Trump Media (DJT) Climbs on Paid Early-Access to Market-Movi...",
+    "✓ 综合财经: Venture Global (VG) Soars as Geopolitical Tensions Fuel Natu...",
+    "✓ 外汇市场: Europe Was Supposed to Run Out of Jet Fuel by June. It Didn’...",
+    "✗ 综合财经: UK government borrowing lower than expected in June..."
   ],
-  "positive_count": 7,
+  "positive_count": 8,
   "negative_count": 3,
-  "neutral_count": 20,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-21T02:14:58.766333",
+  "analyzed_at": "2026-07-21T08:21:10.158864",
   "categories_distribution": {
-    "股市动态": 20,
-    "综合财经": 27,
-    "国际贸易": 3,
-    "经济数据": 1,
-    "大宗商品": 3,
-    "货币政策": 1
+    "综合财经": 18,
+    "股市动态": 23,
+    "外汇市场": 2,
+    "国际贸易": 6,
+    "经济数据": 4,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
