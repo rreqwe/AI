@@ -1,26 +1,27 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Novartis Bounds For Buy Point. Why Shares Are On The Rise....",
-    "✓ 股市动态: Stocks advance on tech strength; Mideast in focus...",
-    "✓ 股市动态: Stock Market Today: Dow Rises As GM Surges On Earnings Repor...",
-    "✓ 股市动态: Nasdaq Futures Rise as Tech Stocks Follow Asia's Lead...",
-    "✗ 股市动态: Earnings live: Charles Schwab stock dips, Halliburton Middle..."
+    "✓ 股市动态: Stocks Set to Open Higher as Chipmakers Rebound, Corporate E...",
+    "✓ 股市动态: Jim Cramer says it may be time to trim comeback stock after ...",
+    "✓ 综合财经: Chipmakers head for big profit gains, but will it be enough?...",
+    "✗ 综合财经: $100M New Jersey deli fraudster James Patten sentenced to 21...",
+    "✗ 综合财经: IRS chief Frank Bisignano dismisses JPMorgan spying allegati..."
   ],
-  "positive_count": 11,
-  "negative_count": 1,
+  "positive_count": 6,
+  "negative_count": 6,
   "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-21T13:38:51.325917",
+  "analyzed_at": "2026-07-21T19:14:35.902283",
   "categories_distribution": {
+    "综合财经": 26,
     "股市动态": 24,
-    "综合财经": 19,
-    "国际贸易": 7,
-    "经济数据": 4,
-    "大宗商品": 1
+    "国际贸易": 1,
+    "大宗商品": 2,
+    "经济数据": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
