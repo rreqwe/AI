@@ -1,27 +1,28 @@
 {
-  "temperature_score": 65.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Stock Market Today: Dow Sinks, Nasdaq Gives Up Gains After T...",
-    "✓ 综合财经: Lumentum Just Scored a New Upgrade. Here's What to Know....",
-    "✓ 股市动态: Tempus AI Scoops Up Personalis For $1.5 Billion; But Shares ...",
-    "✗ 股市动态: 1 Metric That Could Determine Whether SoFi Stock Rallies or ...",
-    "✓ 大宗商品: Oil prices jump 4% as Rubio says Iran 'not serious' about pe..."
+    "✓ 综合财经: AT&T Earnings Beat, Revenue Light As Wireless Subscribers To...",
+    "✗ 股市动态: Marvell Already Crashed 40% — It May Be the Best Deal to Buy...",
+    "✗ 股市动态: Daily Spotlight: Gold Prices Down from the Clouds...",
+    "✓ 经济数据: Arista Networks (ANET) Strengthens from Exponential Growth i...",
+    "✗ 股市动态: GE Vernova stock drops despite surging AI-driven orders as w..."
   ],
-  "positive_count": 11,
-  "negative_count": 2,
-  "neutral_count": 17,
+  "positive_count": 9,
+  "negative_count": 7,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-22T08:21:46.096615",
+  "analyzed_at": "2026-07-22T13:42:12.217463",
   "categories_distribution": {
-    "股市动态": 20,
-    "综合财经": 27,
-    "货币政策": 1,
-    "大宗商品": 5,
-    "经济数据": 1,
-    "国际贸易": 1
+    "国际贸易": 2,
+    "综合财经": 23,
+    "股市动态": 23,
+    "经济数据": 2,
+    "货币政策": 2,
+    "大宗商品": 2,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
