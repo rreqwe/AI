@@ -1,26 +1,27 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Stocks Set to Open Higher as Chipmakers Rebound, Corporate E...",
-    "✓ 股市动态: Jim Cramer says it may be time to trim comeback stock after ...",
-    "✓ 综合财经: Chipmakers head for big profit gains, but will it be enough?...",
-    "✗ 综合财经: $100M New Jersey deli fraudster James Patten sentenced to 21...",
-    "✗ 综合财经: IRS chief Frank Bisignano dismisses JPMorgan spying allegati..."
+    "✓ 股市动态: Stocks Edge Higher as Chipmakers Rebound...",
+    "✓ 股市动态: Newmont Stock Suddenly Offers a Double-Sided Debit Trade on ...",
+    "✓ 综合财经: U.S. Gasoline Prices Climb Back Above $4 Per Gallon...",
+    "✓ 大宗商品: Trump vows to attack Iranian nuclear facility as Middle East...",
+    "✓ 股市动态: Investors fear Japanese bond bets risk becoming new ‘widow-m..."
   ],
-  "positive_count": 6,
-  "negative_count": 6,
+  "positive_count": 10,
+  "negative_count": 2,
   "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-21T19:14:35.902283",
+  "analyzed_at": "2026-07-22T02:12:49.717664",
   "categories_distribution": {
-    "综合财经": 26,
-    "股市动态": 24,
-    "国际贸易": 1,
+    "综合财经": 23,
+    "股市动态": 21,
+    "货币政策": 2,
     "大宗商品": 2,
-    "经济数据": 1,
+    "国际贸易": 2,
+    "经济数据": 3,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
