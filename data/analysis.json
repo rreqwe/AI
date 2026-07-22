@@ -1,28 +1,28 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: AT&T Earnings Beat, Revenue Light As Wireless Subscribers To...",
-    "✗ 股市动态: Marvell Already Crashed 40% — It May Be the Best Deal to Buy...",
-    "✗ 股市动态: Daily Spotlight: Gold Prices Down from the Clouds...",
-    "✓ 经济数据: Arista Networks (ANET) Strengthens from Exponential Growth i...",
-    "✗ 股市动态: GE Vernova stock drops despite surging AI-driven orders as w..."
+    "✓ 股市动态: Stock Index Futures Climb as Chipmakers Extend Rebound, Earn...",
+    "✓ 综合财经: Hasbro raises annual forecasts on digital gaming demand, 'Ma...",
+    "✓ 综合财经: Worldcoin’s WLD Jumps 8% on Grayscale ETF Filing...",
+    "✗ 货币政策: Mortgage and refinance interest rates today, Tuesday, July 2...",
+    "✓ 综合财经: Best CD rates today, Tuesday, July 21, 2026: Lock in up to 4..."
   ],
   "positive_count": 9,
-  "negative_count": 7,
-  "neutral_count": 14,
+  "negative_count": 2,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-22T13:42:12.217463",
+  "analyzed_at": "2026-07-22T19:09:12.738969",
   "categories_distribution": {
-    "国际贸易": 2,
-    "综合财经": 23,
-    "股市动态": 23,
-    "经济数据": 2,
-    "货币政策": 2,
+    "股市动态": 20,
+    "综合财经": 26,
+    "货币政策": 3,
+    "数字货币": 1,
+    "外汇市场": 1,
     "大宗商品": 2,
-    "外汇市场": 1
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
