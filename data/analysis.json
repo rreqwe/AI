@@ -1,28 +1,27 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Stocks Edge Higher as Chipmakers Rebound...",
-    "✓ 股市动态: Newmont Stock Suddenly Offers a Double-Sided Debit Trade on ...",
-    "✓ 综合财经: U.S. Gasoline Prices Climb Back Above $4 Per Gallon...",
-    "✓ 大宗商品: Trump vows to attack Iranian nuclear facility as Middle East...",
-    "✓ 股市动态: Investors fear Japanese bond bets risk becoming new ‘widow-m..."
+    "✓ 股市动态: Stock Market Today: Dow Sinks, Nasdaq Gives Up Gains After T...",
+    "✓ 综合财经: Lumentum Just Scored a New Upgrade. Here's What to Know....",
+    "✓ 股市动态: Tempus AI Scoops Up Personalis For $1.5 Billion; But Shares ...",
+    "✗ 股市动态: 1 Metric That Could Determine Whether SoFi Stock Rallies or ...",
+    "✓ 大宗商品: Oil prices jump 4% as Rubio says Iran 'not serious' about pe..."
   ],
-  "positive_count": 10,
+  "positive_count": 11,
   "negative_count": 2,
-  "neutral_count": 18,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-22T02:12:49.717664",
+  "analyzed_at": "2026-07-22T08:21:46.096615",
   "categories_distribution": {
-    "综合财经": 23,
-    "股市动态": 21,
-    "货币政策": 2,
-    "大宗商品": 2,
-    "国际贸易": 2,
-    "经济数据": 3,
-    "外汇市场": 1
+    "股市动态": 20,
+    "综合财经": 27,
+    "货币政策": 1,
+    "大宗商品": 5,
+    "经济数据": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
