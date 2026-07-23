@@ -1,28 +1,27 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: The UFO ETF Is Crashing Back to Earth as SpaceX Stock Treads...",
-    "✓ 股市动态: These 2 Analysts Just Upped Their AMD Stock Price Targets. H...",
-    "✓ 股市动态: Super Micro sees strong margins, books $60 billion in orders...",
-    "✓ 股市动态: Stock Market Today: Nasdaq Pops As S&P 500 Finds Key Support...",
-    "✓ 综合财经: Tornado watch issued for NYC area. How to insure your home a..."
+    "✗ 股市动态: Google Stock Falls 5% Amid Questions Over AI Leadership, Gem...",
+    "✗ 股市动态: These high-flying tech stocks are down 60% — here's how to s...",
+    "✓ 大宗商品: Oil hits $100 after Houthi attack on Saudi tankers worsens o...",
+    "✓ 股市动态: ServiceNow stock jumps on strong revenue as company shrugs o...",
+    "✗ 股市动态: Albertsons stock plunges as it says weaker grocery spending ..."
   ],
-  "positive_count": 13,
-  "negative_count": 3,
-  "neutral_count": 14,
+  "positive_count": 9,
+  "negative_count": 6,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-23T08:23:45.434680",
+  "analyzed_at": "2026-07-23T13:47:50.394755",
   "categories_distribution": {
-    "股市动态": 25,
-    "综合财经": 17,
+    "股市动态": 23,
+    "综合财经": 20,
     "大宗商品": 5,
-    "数字货币": 1,
-    "货币政策": 2,
-    "国际贸易": 2,
-    "经济数据": 3
+    "货币政策": 3,
+    "经济数据": 3,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
