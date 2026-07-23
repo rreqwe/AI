@@ -1,27 +1,28 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Here’s What Boosted Marvell Technology (MRVL) in Q2...",
-    "✗ 经济数据: Why Persistent Inflation Isn’t Enough to Prevent a Plunge in...",
-    "✓ 大宗商品: Dollar Supported by Higher Crude Prices...",
-    "✓ 综合财经: China's Moonshot AI stole from Anthropic, Trump tech adviser...",
-    "✓ 经济数据: Alphabet and Tesla test Wall Street's patience as AI spendin..."
+    "✗ 股市动态: The UFO ETF Is Crashing Back to Earth as SpaceX Stock Treads...",
+    "✓ 股市动态: These 2 Analysts Just Upped Their AMD Stock Price Targets. H...",
+    "✓ 股市动态: Super Micro sees strong margins, books $60 billion in orders...",
+    "✓ 股市动态: Stock Market Today: Nasdaq Pops As S&P 500 Finds Key Support...",
+    "✓ 综合财经: Tornado watch issued for NYC area. How to insure your home a..."
   ],
-  "positive_count": 8,
-  "negative_count": 2,
-  "neutral_count": 20,
+  "positive_count": 13,
+  "negative_count": 3,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-23T02:24:16.559887",
+  "analyzed_at": "2026-07-23T08:23:45.434680",
   "categories_distribution": {
-    "股市动态": 19,
-    "综合财经": 28,
-    "经济数据": 4,
-    "大宗商品": 2,
+    "股市动态": 25,
+    "综合财经": 17,
+    "大宗商品": 5,
     "数字货币": 1,
-    "货币政策": 1
+    "货币政策": 2,
+    "国际贸易": 2,
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
