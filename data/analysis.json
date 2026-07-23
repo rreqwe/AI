@@ -1,27 +1,28 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Google Stock Falls 5% Amid Questions Over AI Leadership, Gem...",
-    "✗ 股市动态: These high-flying tech stocks are down 60% — here's how to s...",
-    "✓ 大宗商品: Oil hits $100 after Houthi attack on Saudi tankers worsens o...",
-    "✓ 股市动态: ServiceNow stock jumps on strong revenue as company shrugs o...",
-    "✗ 股市动态: Albertsons stock plunges as it says weaker grocery spending ..."
+    "✓ 综合财经: Intel results to test if AI-fueled rally has room to run...",
+    "✓ 综合财经: Zcash Price Warning: Multiple ZEC Technical Setups Point to ...",
+    "✓ 大宗商品: The oil spike everyone feared never showed up...",
+    "✓ 股市动态: Cerebras stock gains on AMD partnership...",
+    "✓ 货币政策: Odds of Federal Reserve rate hike surge as oil prices rip hi..."
   ],
   "positive_count": 9,
-  "negative_count": 6,
-  "neutral_count": 15,
+  "negative_count": 5,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-23T13:47:50.394755",
+  "analyzed_at": "2026-07-23T19:08:44.541196",
   "categories_distribution": {
-    "股市动态": 23,
-    "综合财经": 20,
+    "数字货币": 1,
+    "综合财经": 26,
     "大宗商品": 5,
-    "货币政策": 3,
-    "经济数据": 3,
-    "国际贸易": 1
+    "股市动态": 19,
+    "货币政策": 2,
+    "国际贸易": 1,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
