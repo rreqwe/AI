@@ -1,27 +1,27 @@
 {
-  "temperature_score": 70.0,
-  "sentiment": "乐观",
-  "sentiment_emoji": "😊",
-  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比14/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
+  "temperature_score": 56.67,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: AMD, Anthropic announce strategic AI infrastructure partners...",
-    "✓ 综合财经: Here’s What Propelled AmpliTech Group (AMPG) Higher...",
+    "✗ 综合财经: Tesla Profit Misses as Elon’s Costs Outrun Record Revenue...",
+    "✓ 综合财经: Super Micro (SMCI) Climbs 27% as Orders Surge to $60B; More ...",
     "✓ 大宗商品: The oil spike everyone feared never showed up...",
-    "✓ 股市动态: Oil hits $100 as Trump weighs ‘massive attack’...",
-    "✓ 经济数据: Japan core inflation rate in June creeps up from 4-year low ..."
+    "✗ 股市动态: Volkswagen CFO addresses plant closures, job losses as profi...",
+    "✓ 大宗商品: Oil hovers near $100 as Trump weighs ‘massive attack’..."
   ],
-  "positive_count": 14,
-  "negative_count": 2,
+  "positive_count": 10,
+  "negative_count": 6,
   "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-24T02:21:16.458103",
+  "analyzed_at": "2026-07-24T08:20:41.517286",
   "categories_distribution": {
     "综合财经": 18,
-    "股市动态": 26,
-    "大宗商品": 3,
-    "经济数据": 4,
-    "外汇市场": 1,
-    "国际贸易": 1
+    "大宗商品": 5,
+    "股市动态": 23,
+    "国际贸易": 3,
+    "经济数据": 2,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
