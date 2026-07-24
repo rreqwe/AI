@@ -1,27 +1,26 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Dell Technologies (DELL) Climbs 9.3% on Booming Demand for N...",
-    "✓ 综合财经: Regulatory cleanup fuels Knight-Swift’s bullish outlook...",
-    "✓ 综合财经: Santos Narrows 2026 Output Guidance as Barossa and Pikka Ram...",
-    "✓ 大宗商品: The oil spike everyone feared never showed up...",
-    "✓ 股市动态: The Club's top 10 things to watch in the stock market Friday..."
+    "✓ 大宗商品: TotalEnergies Profit Soars 68% as Oil Price Surge Lifts Earn...",
+    "✓ 股市动态: Segro Shares Rise After Board Yields to Prologis’s Final $18...",
+    "✗ 综合财经: World’s quietest metal just dropped a huge bullish signal...",
+    "✗ 大宗商品: Oil falls on report Pakistan is pushing for new U.S.-Iran ta...",
+    "✓ 综合财经: Trump vows to investigate EU over fining of US tech companie..."
   ],
   "positive_count": 9,
-  "negative_count": 4,
-  "neutral_count": 17,
+  "negative_count": 3,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-24T13:27:52.674882",
+  "analyzed_at": "2026-07-24T19:18:54.721311",
   "categories_distribution": {
-    "综合财经": 25,
-    "国际贸易": 4,
+    "综合财经": 23,
+    "大宗商品": 6,
+    "股市动态": 18,
     "外汇市场": 3,
-    "大宗商品": 5,
-    "股市动态": 16,
-    "经济数据": 1
+    "国际贸易": 5
   },
   "ai_provider": "fallback_rules"
 }
