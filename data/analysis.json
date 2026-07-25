@@ -1,26 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Medpace Notches A Big Bookings Beat, And Reverses Its First-...",
-    "✓ 综合财经: Quest Diagnostics Surges After Hims- And Oura-Tied Beat...",
-    "✓ 股市动态: Here's Why Honeywell Shares Popped Higher Today...",
-    "✓ 股市动态: LMT Stock Soars as Lockheed Martin Raises Annual Forecast...",
-    "✓ 综合财经: Outdoor giant now closing 91 stores in Chapter 11 bankruptcy..."
+    "✓ 综合财经: IMAX Corp (IMAX) Rockets 11.86% on Earnings Beat, H2 Optimis...",
+    "✗ 综合财经: Uniswap Opens Permissioned Pools for Tokenized Funds and Equ...",
+    "✓ 经济数据: Exclusive-BOJ likely to keep inflation warning but expect no...",
+    "✓ 综合财经: Thermo Fisher (TMO) Climbs 8.7% on Solid Earnings, Price Tar...",
+    "✗ 综合财经: World’s quietest metal just dropped a huge bullish signal..."
   ],
-  "positive_count": 11,
+  "positive_count": 9,
   "negative_count": 5,
-  "neutral_count": 14,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-25T02:15:07.444592",
+  "analyzed_at": "2026-07-25T08:00:55.801492",
   "categories_distribution": {
     "综合财经": 25,
-    "股市动态": 21,
-    "经济数据": 2,
+    "股市动态": 19,
+    "经济数据": 3,
     "外汇市场": 2,
-    "国际贸易": 2,
+    "国际贸易": 3,
     "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
