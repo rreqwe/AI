@@ -2,25 +2,26 @@
   "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 大宗商品: TotalEnergies Profit Soars 68% as Oil Price Surge Lifts Earn...",
-    "✓ 股市动态: Segro Shares Rise After Board Yields to Prologis’s Final $18...",
-    "✗ 综合财经: World’s quietest metal just dropped a huge bullish signal...",
-    "✗ 大宗商品: Oil falls on report Pakistan is pushing for new U.S.-Iran ta...",
-    "✓ 综合财经: Trump vows to investigate EU over fining of US tech companie..."
+    "✓ 综合财经: Medpace Notches A Big Bookings Beat, And Reverses Its First-...",
+    "✓ 综合财经: Quest Diagnostics Surges After Hims- And Oura-Tied Beat...",
+    "✓ 股市动态: Here's Why Honeywell Shares Popped Higher Today...",
+    "✓ 股市动态: LMT Stock Soars as Lockheed Martin Raises Annual Forecast...",
+    "✓ 综合财经: Outdoor giant now closing 91 stores in Chapter 11 bankruptcy..."
   ],
-  "positive_count": 9,
-  "negative_count": 3,
-  "neutral_count": 18,
+  "positive_count": 11,
+  "negative_count": 5,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-24T19:18:54.721311",
+  "analyzed_at": "2026-07-25T02:15:07.444592",
   "categories_distribution": {
-    "综合财经": 23,
-    "大宗商品": 6,
-    "股市动态": 18,
-    "外汇市场": 3,
-    "国际贸易": 5
+    "综合财经": 25,
+    "股市动态": 21,
+    "经济数据": 2,
+    "外汇市场": 2,
+    "国际贸易": 2,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
