@@ -1,27 +1,27 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: HELOC and home equity loan rates today, Friday, July 24, 202...",
+    "✗ 大宗商品: Oil Prices Fall Back as Red Sea Oil Shipments Continue...",
+    "✗ 股市动态: HIMS Stock Sinks as FDA Gives Hims & Hers Peptide the Cold S...",
+    "✗ 大宗商品: Dollar Little Changed as Oil Prices Fall Back...",
     "✓ 综合财经: Outdoor giant now closing 91 stores in Chapter 11 bankruptcy...",
-    "✓ 综合财经: Imax 70 mm screenings become the biggest star for Christophe...",
-    "✗ 股市动态: The August stock-market slump is a myth — so why does Wall S...",
-    "✓ 经济数据: Trump sued hours after new tariffs take effect, as experts s..."
+    "✗ 综合财经: Rental searches for pet friendly properties drop after law c..."
   ],
-  "positive_count": 8,
-  "negative_count": 1,
-  "neutral_count": 21,
+  "positive_count": 5,
+  "negative_count": 5,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-25T19:01:55.747094",
+  "analyzed_at": "2026-07-26T02:25:47.577921",
   "categories_distribution": {
-    "综合财经": 24,
-    "股市动态": 16,
-    "货币政策": 4,
-    "经济数据": 5,
+    "大宗商品": 2,
+    "股市动态": 18,
+    "综合财经": 21,
+    "货币政策": 2,
+    "经济数据": 6,
     "国际贸易": 3,
-    "大宗商品": 1,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
