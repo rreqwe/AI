@@ -1,28 +1,27 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: You’ve got a leg up on about 50% of Americans if you check o...",
-    "✓ 综合财经: AT&T’s Q2 Beat Suggests the Wireless Giants Still Have Room ...",
-    "✓ 综合财经: GE Aerospace (GE) Just Beat and Dropped Again — Is the Third...",
-    "✓ 综合财经: Elon Musk Warns Short Sellers as $25 Billion Bet Builds Agai...",
-    "✓ 综合财经: Water supply issue affects Gatwick Airport..."
+    "✓ 股市动态: Oil Market's Glut Narrative Just Blew Up...",
+    "✓ 综合财经: Social Security Spousal Benefits Can Add Up to $10,000 a Yea...",
+    "✗ 综合财经: Google spent $490 million a day on AI and burned $5.9 billio...",
+    "✓ 大宗商品: Water returning to Gatwick Airport after major outage...",
+    "✓ 股市动态: Inside the S&P 500 AI boom, industrials are getting as rich ..."
   ],
-  "positive_count": 10,
-  "negative_count": 2,
-  "neutral_count": 18,
+  "positive_count": 7,
+  "negative_count": 1,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-26T13:11:32.512284",
+  "analyzed_at": "2026-07-26T19:04:36.282159",
   "categories_distribution": {
-    "综合财经": 25,
-    "数字货币": 1,
-    "股市动态": 19,
-    "货币政策": 1,
-    "经济数据": 4,
-    "国际贸易": 3,
-    "大宗商品": 1
+    "股市动态": 16,
+    "综合财经": 24,
+    "货币政策": 3,
+    "大宗商品": 2,
+    "经济数据": 6,
+    "国际贸易": 3
   },
   "ai_provider": "fallback_rules"
 }
