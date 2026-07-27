@@ -1,28 +1,27 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Shein swings to a loss as Trump tariffs hit sales...",
-    "✓ 经济数据: China industrial profit growth slows again in June as retrea...",
-    "✓ 股市动态: Chinese chipmaker CXMT soars almost 500% in market debut...",
-    "✗ 大宗商品: Oil prices fall as Iran and US pause strikes over Strait of ...",
-    "✓ 货币政策: Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple..."
+    "✓ 经济数据: RBI to hold rates through 2026 as growth risks outweigh infl...",
+    "✓ 股市动态: Corporate America is the most optimistic it's been in 15 yea...",
+    "✓ 货币政策: Brace for volatility: The Fed and Big Tech earnings are pois...",
+    "✗ 股市动态: Consumer confidence weakens on stock market crash - Focus Ta...",
+    "✓ 股市动态: US Stock Market Today S&P 500 Futures Inch Higher As Housing..."
   ],
-  "positive_count": 5,
-  "negative_count": 3,
-  "neutral_count": 22,
+  "positive_count": 8,
+  "negative_count": 2,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-27T02:33:09.604714",
+  "analyzed_at": "2026-07-27T09:42:24.658262",
   "categories_distribution": {
-    "综合财经": 18,
-    "货币政策": 5,
-    "股市动态": 20,
-    "外汇市场": 1,
-    "经济数据": 6,
-    "大宗商品": 4,
-    "国际贸易": 1
+    "经济数据": 4,
+    "综合财经": 19,
+    "货币政策": 3,
+    "股市动态": 25,
+    "国际贸易": 1,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
