@@ -1,27 +1,27 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: RBI to hold rates through 2026 as growth risks outweigh infl...",
-    "✓ 股市动态: Corporate America is the most optimistic it's been in 15 yea...",
-    "✓ 货币政策: Brace for volatility: The Fed and Big Tech earnings are pois...",
-    "✗ 股市动态: Consumer confidence weakens on stock market crash - Focus Ta...",
-    "✓ 股市动态: US Stock Market Today S&P 500 Futures Inch Higher As Housing..."
+    "✓ 综合财经: Will LSB Industries (LXU) be Able to Generate Strong Free Ca...",
+    "✓ 综合财经: Porsche ramps up job cuts to 9,000 by 2035...",
+    "✓ 综合财经: Sam Altman to meet with Trump administration, Senators this ...",
+    "✓ 股市动态: Chipmaker CXMT’s 466% market debut surge makes it the most v...",
+    "✓ 货币政策: Brace for volatility: The Fed and Big Tech earnings are pois..."
   ],
-  "positive_count": 8,
+  "positive_count": 6,
   "negative_count": 2,
-  "neutral_count": 20,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-27T09:42:24.658262",
+  "analyzed_at": "2026-07-27T14:23:57.317138",
   "categories_distribution": {
-    "经济数据": 4,
-    "综合财经": 19,
-    "货币政策": 3,
-    "股市动态": 25,
-    "国际贸易": 1,
-    "大宗商品": 2
+    "综合财经": 18,
+    "大宗商品": 6,
+    "股市动态": 21,
+    "外汇市场": 2,
+    "货币政策": 2,
+    "经济数据": 4
   },
   "ai_provider": "fallback_rules"
 }
