@@ -1,27 +1,28 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Oil Market's Glut Narrative Just Blew Up...",
-    "✓ 综合财经: Social Security Spousal Benefits Can Add Up to $10,000 a Yea...",
-    "✗ 综合财经: Google spent $490 million a day on AI and burned $5.9 billio...",
-    "✓ 大宗商品: Water returning to Gatwick Airport after major outage...",
-    "✓ 股市动态: Inside the S&P 500 AI boom, industrials are getting as rich ..."
+    "✗ 股市动态: Shein swings to a loss as Trump tariffs hit sales...",
+    "✓ 经济数据: China industrial profit growth slows again in June as retrea...",
+    "✓ 股市动态: Chinese chipmaker CXMT soars almost 500% in market debut...",
+    "✗ 大宗商品: Oil prices fall as Iran and US pause strikes over Strait of ...",
+    "✓ 货币政策: Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple..."
   ],
-  "positive_count": 7,
-  "negative_count": 1,
+  "positive_count": 5,
+  "negative_count": 3,
   "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-26T19:04:36.282159",
+  "analyzed_at": "2026-07-27T02:33:09.604714",
   "categories_distribution": {
-    "股市动态": 16,
-    "综合财经": 24,
-    "货币政策": 3,
-    "大宗商品": 2,
+    "综合财经": 18,
+    "货币政策": 5,
+    "股市动态": 20,
+    "外汇市场": 1,
     "经济数据": 6,
-    "国际贸易": 3
+    "大宗商品": 4,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
