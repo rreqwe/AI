@@ -1,27 +1,26 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: South Korea's Naver jumps 10% on Nvidia's $1 billion investm...",
-    "✗ 综合财经: Tesla Missed by 38% But Elon Musk Is Not Worried. Here’s Wha...",
-    "✓ 综合财经: U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again...",
-    "✓ 综合财经: Schools to offer technical subjects to pupils from age 14 in...",
-    "✗ 股市动态: AI stock sell-off deepens as investors dump chipmakers..."
+    "✓ 综合财经: Lam Research Corporation (LRCX) Rose on Strong Semiconductor...",
+    "✓ 综合财经: Advanced Micro Devices (AMD) Surged on an Agentic AI-Driven ...",
+    "✗ 股市动态: SpaceX stock poised for another all-time low as stock sinks ...",
+    "✓ 综合财经: Boeing Q2 revenue tops estimates as jet deliveries climb, ca...",
+    "✓ 综合财经: Is it safe to travel to France and Spain right now?..."
   ],
-  "positive_count": 9,
+  "positive_count": 8,
   "negative_count": 6,
-  "neutral_count": 15,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-28T08:27:25.056021",
+  "analyzed_at": "2026-07-28T13:55:42.391523",
   "categories_distribution": {
-    "综合财经": 22,
-    "货币政策": 4,
-    "股市动态": 24,
+    "综合财经": 27,
     "大宗商品": 2,
-    "国际贸易": 1,
-    "经济数据": 2
+    "股市动态": 21,
+    "经济数据": 3,
+    "货币政策": 2
   },
   "ai_provider": "fallback_rules"
 }
