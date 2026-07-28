@@ -1,26 +1,27 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: Google spent $490 million a day on AI and burned $5.9 billio...",
-    "✓ 股市动态: Oil Market's Glut Narrative Just Blew Up...",
-    "✓ 综合财经: Johnson & Johnson offers up to $5.5bn to settle baby powder ...",
-    "✗ 股市动态: Shares of SK Hynix plunge 10% in Seoul as semiconductor sell...",
-    "✓ 股市动态: U.S. and Korean tech stocks are now tightly linked — and tha..."
+    "✓ 综合财经: South Korea's Naver jumps 10% on Nvidia's $1 billion investm...",
+    "✗ 综合财经: Tesla Missed by 38% But Elon Musk Is Not Worried. Here’s Wha...",
+    "✓ 综合财经: U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again...",
+    "✓ 综合财经: Schools to offer technical subjects to pupils from age 14 in...",
+    "✗ 股市动态: AI stock sell-off deepens as investors dump chipmakers..."
   ],
-  "positive_count": 11,
-  "negative_count": 3,
-  "neutral_count": 16,
+  "positive_count": 9,
+  "negative_count": 6,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-28T02:08:04.117016",
+  "analyzed_at": "2026-07-28T08:27:25.056021",
   "categories_distribution": {
-    "综合财经": 23,
-    "股市动态": 23,
+    "综合财经": 22,
     "货币政策": 4,
-    "经济数据": 2,
-    "大宗商品": 2
+    "股市动态": 24,
+    "大宗商品": 2,
+    "国际贸易": 1,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
