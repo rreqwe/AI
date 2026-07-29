@@ -1,27 +1,26 @@
 {
-  "temperature_score": 43.33,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比10/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 51.67,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极8条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: This AI startup has roughly 50 employees, no product and has...",
+    "✗ 股市动态: Semiconductor stock charts just formed this bearish shape th...",
+    "✓ 股市动态: Mercedes gets shares boost on stable second quarter despite ...",
     "✗ 股市动态: Secretary Bessent cracks down on non-profit tax loopholes...",
-    "✗ 货币政策: Stock market today: Dow, S&P 500, Nasdaq slip in countdown t...",
-    "✗ 综合财经: ARK Buys Millions In Falling Space Names. SpaceX Preps Class...",
-    "✗ 股市动态: Stock Market Today: Dow Falls As Iran Hostilities Ignite Aga..."
+    "✓ 综合财经: Best CD rates today, Tuesday, July 28, 2026: Lock in up to 4...",
+    "✓ 综合财经: A 'Super El Niño' is expected to squeeze commodities even fu..."
   ],
-  "positive_count": 6,
-  "negative_count": 10,
-  "neutral_count": 14,
+  "positive_count": 9,
+  "negative_count": 8,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-29T14:00:36.445317",
+  "analyzed_at": "2026-07-29T19:08:37.781484",
   "categories_distribution": {
-    "综合财经": 25,
-    "数字货币": 1,
     "股市动态": 23,
-    "货币政策": 3,
+    "综合财经": 22,
+    "货币政策": 6,
     "大宗商品": 2,
-    "经济数据": 1
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
