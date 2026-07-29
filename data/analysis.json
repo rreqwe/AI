@@ -1,26 +1,26 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: What to Expect From Hewlett Packard Enterprise's Next Quarte...",
-    "✗ 综合财经: Why Did Northrop Grumman (NOC) Fall After Raising Its 2026 F...",
-    "✓ 综合财经: Best CD rates today, Monday, July 27, 2026: Lock in up to 4....",
-    "✓ 股市动态: Elon Musk stocks take $1.5 trillion hit with fresh test in S...",
-    "✓ 综合财经: Fifa plans $20bn commercial vehicle to lure external investo..."
+    "✓ 综合财经: Data Centre Cooling Demand Boosted AAON (AAON)...",
+    "✗ 股市动态: Toyota doubles down on EVs while rivals retreat...",
+    "✓ 综合财经: JFrog Ltd. (FROG) Overcomes AI Challenges and Gains Momentum...",
+    "✓ 综合财经: Everus Construction Group (ECG) Strengthens from Long-Term I...",
+    "✓ 综合财经: Trump, DOJ ask Supreme Court to toss $83.3M defamation award..."
   ],
   "positive_count": 11,
-  "negative_count": 6,
-  "neutral_count": 13,
+  "negative_count": 3,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-28T19:16:59.012180",
+  "analyzed_at": "2026-07-29T02:11:21.432905",
   "categories_distribution": {
-    "外汇市场": 1,
-    "综合财经": 26,
-    "股市动态": 24,
-    "货币政策": 2,
-    "经济数据": 2
+    "股市动态": 20,
+    "综合财经": 32,
+    "数字货币": 1,
+    "大宗商品": 1,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
