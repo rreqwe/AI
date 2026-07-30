@@ -1,26 +1,28 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Analysis-Trump's diversity crackdown reverberates through US...",
-    "✓ 综合财经: Aris Mining Corporation (ARIS): An Undervalued Opportunity w...",
-    "✗ 股市动态: Secretary Bessent cracks down on non-profit tax loopholes...",
-    "✓ 综合财经: EBay, former executives to pay $56 million to settle couple'...",
-    "✓ 股市动态: Paypal stock rises as CEO keeps door open on potential deals..."
+    "✓ 国际贸易: Logitech beats forecasts after US tariff refund...",
+    "✓ 经济数据: Qualcomm’s (QCOM) Samsung Expansion and AI Deals Could Resha...",
+    "✓ 经济数据: Navios Maritime Shipping, Stock Of The Day, Eyes Buy Point A...",
+    "✓ 综合财经: National beer and wine distributor files Chapter 11 bankrupt...",
+    "✓ 大宗商品: Shell posts best quarterly profit in four years as Iran war ..."
   ],
-  "positive_count": 12,
-  "negative_count": 5,
-  "neutral_count": 13,
+  "positive_count": 11,
+  "negative_count": 1,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-07-30T02:00:46.659185",
+  "analyzed_at": "2026-07-30T08:18:28.844914",
   "categories_distribution": {
-    "股市动态": 24,
-    "综合财经": 18,
-    "货币政策": 10,
-    "国际贸易": 1,
-    "经济数据": 2
+    "国际贸易": 2,
+    "股市动态": 21,
+    "综合财经": 10,
+    "大宗商品": 2,
+    "经济数据": 2,
+    "货币政策": 7,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
