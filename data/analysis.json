@@ -1,27 +1,26 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Meta stock sinks on earnings miss, 'barely passable' quarter...",
-    "✓ 股市动态: The $6 Billion Reason MarketAxess Stock Is Up Today...",
-    "✗ 经济数据: CVNA Stock Is Dropping After a Record Quarter. Here's Why....",
-    "✓ 综合财经: Apple disappoints with forecast dogged by supply chain strug...",
-    "✓ 综合财经: Pirro moves to drop case against Olympian, says Reflecting P..."
+    "✓ 综合财经: California Water Service Group Q2 2026 Earnings Call Summary...",
+    "✓ 经济数据: Iran's overlapping power centers make ending the war more co...",
+    "✓ 综合财经: The war dividend...",
+    "✓ 综合财经: Pirro moves to drop case against Olympian, says Reflecting P...",
+    "✓ 货币政策: Bond sell-off sent warning on Fed’s credibility, says top ce..."
   ],
-  "positive_count": 10,
-  "negative_count": 7,
-  "neutral_count": 13,
+  "positive_count": 8,
+  "negative_count": 0,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-01T02:27:05.266448",
+  "analyzed_at": "2026-08-01T08:13:37.402959",
   "categories_distribution": {
-    "股市动态": 19,
-    "数字货币": 1,
+    "综合财经": 26,
+    "外汇市场": 3,
     "经济数据": 2,
-    "外汇市场": 2,
-    "综合财经": 21,
-    "货币政策": 7,
+    "股市动态": 16,
+    "货币政策": 5,
     "大宗商品": 3
   },
   "ai_provider": "fallback_rules"
