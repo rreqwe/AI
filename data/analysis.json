@@ -1,26 +1,28 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Visa Stock Looks Attractive After Layoffs, Strong Earnings...",
-    "✗ 综合财经: Hoping for Lower Prices at the Gas Pump? After Exxon Doubles...",
-    "✓ 综合财经: US and Japan jointly intervene to prop up yen in rare move...",
-    "✗ 经济数据: Trump says Iran talks to resume after US called off major at...",
-    "✓ 股市动态: Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On I..."
+    "✓ 综合财经: Once-bankrupt Atari returns to profit with decade-high reven...",
+    "✓ 国际贸易: Yen climbs for third straight session with traders on alert ...",
+    "✗ 大宗商品: Oil slides on Iran peace deal hopes and yen firms after inte...",
+    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures rise as Tru...",
+    "✓ 经济数据: US GDP Growth Is Stronger Than It Looks, but There’s a Red F..."
   ],
-  "positive_count": 8,
+  "positive_count": 9,
   "negative_count": 4,
-  "neutral_count": 18,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-03T02:26:53.095223",
+  "analyzed_at": "2026-08-03T09:35:41.027838",
   "categories_distribution": {
-    "综合财经": 28,
-    "股市动态": 20,
-    "经济数据": 2,
+    "股市动态": 18,
+    "综合财经": 26,
+    "国际贸易": 1,
     "大宗商品": 2,
-    "外汇市场": 2
+    "经济数据": 3,
+    "外汇市场": 3,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
