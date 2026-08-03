@@ -1,28 +1,25 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Once-bankrupt Atari returns to profit with decade-high reven...",
-    "✓ 国际贸易: Yen climbs for third straight session with traders on alert ...",
-    "✗ 大宗商品: Oil slides on Iran peace deal hopes and yen firms after inte...",
-    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq futures rise as Tru...",
-    "✓ 经济数据: US GDP Growth Is Stronger Than It Looks, but There’s a Red F..."
+    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq rise as Trump calls...",
+    "✓ 综合财经: Wall St starts the month strong as Mideast deal hopes rise...",
+    "✓ 综合财经: Visa to buy cybersecurity firm BioCatch for $2.4 billion ami...",
+    "✓ 综合财经: Why the U.S. stepped in after decades to prop up Japan's yen...",
+    "✗ 综合财经: SpaceX's post-IPO plunge sets tense backdrop for first earni..."
   ],
-  "positive_count": 9,
-  "negative_count": 4,
-  "neutral_count": 17,
+  "positive_count": 6,
+  "negative_count": 5,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-03T09:35:41.027838",
+  "analyzed_at": "2026-08-03T14:29:46.474215",
   "categories_distribution": {
-    "股市动态": 18,
-    "综合财经": 26,
-    "国际贸易": 1,
-    "大宗商品": 2,
-    "经济数据": 3,
-    "外汇市场": 3,
-    "货币政策": 1
+    "股市动态": 23,
+    "综合财经": 27,
+    "经济数据": 2,
+    "外汇市场": 3
   },
   "ai_provider": "fallback_rules"
 }
