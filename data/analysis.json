@@ -1,27 +1,28 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Carmelo Anthony breaks down how a $100M contract shrinks to ...",
-    "✗ 股市动态: Why Steel Stocks Are the Perfect Blend Between a Hot AI Trad...",
-    "✓ 综合财经: Why is Trump Media selling early access to Trump's Truth Soc...",
-    "✓ 综合财经: Palantir forecasts greater demand from US groups for its AI ...",
-    "✓ 综合财经: Half price rail travel extended to 18-year-olds..."
+    "✓ 经济数据: Can Palantir’s Sizzling Growth Win Over Market Bears?...",
+    "✗ 股市动态: How Corgi Funds Plans to Chase Down Wall Street’s Top Dogs...",
+    "✓ 大宗商品: Saudi Aramco profits jump 33% in second quarter as Iran war ...",
+    "✓ 大宗商品: BP profit more than doubles as Trump blasts Big Oil for ‘mak...",
+    "✗ 股市动态: South Korean bodybuilder’s dream of home ownership crushed b..."
   ],
-  "positive_count": 13,
-  "negative_count": 3,
-  "neutral_count": 14,
+  "positive_count": 10,
+  "negative_count": 2,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-04T02:06:49.147900",
+  "analyzed_at": "2026-08-04T08:30:16.209918",
   "categories_distribution": {
-    "综合财经": 24,
-    "股市动态": 26,
+    "综合财经": 22,
+    "经济数据": 2,
+    "股市动态": 21,
+    "货币政策": 1,
     "国际贸易": 1,
-    "货币政策": 2,
-    "经济数据": 1,
-    "外汇市场": 1
+    "大宗商品": 4,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
