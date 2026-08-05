@@ -1,27 +1,26 @@
 {
-  "temperature_score": 48.33,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比7/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 65.0,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 国际贸易: ‘Thank you, Mr. Tariff!’: Trump says his tariffs led to the ...",
-    "✗ 大宗商品: Oil prices fall on hopes Strait of Hormuz could reopen...",
-    "✗ 大宗商品: Oil prices tumble after Bessent says Strait of Hormuz deal m...",
-    "✗ 股市动态: SpaceX is down nearly 40% ahead of Tuesday's earnings—how to...",
-    "✗ 综合财经: Trump’s ex-lawyer poised to become attorney-general after ‘s..."
+    "✓ 股市动态: Stocks Supported by Easing Middle East Tensions...",
+    "✗ 综合财经: Tyson Foods expects steeper losses in beef as third-quarter ...",
+    "✓ 综合财经: Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash C...",
+    "✓ 经济数据: SoftBank jumps 10% as Asia tech stocks track Wall Street AI ...",
+    "✗ 大宗商品: Oil prices fall on hopes Strait of Hormuz could reopen..."
   ],
-  "positive_count": 6,
-  "negative_count": 7,
+  "positive_count": 11,
+  "negative_count": 2,
   "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-04T19:25:45.426264",
+  "analyzed_at": "2026-08-05T02:06:03.814493",
   "categories_distribution": {
-    "综合财经": 23,
-    "股市动态": 21,
-    "国际贸易": 2,
-    "大宗商品": 6,
-    "货币政策": 1,
-    "经济数据": 2
+    "股市动态": 23,
+    "综合财经": 22,
+    "外汇市场": 2,
+    "大宗商品": 3,
+    "经济数据": 4
   },
   "ai_provider": "fallback_rules"
 }
