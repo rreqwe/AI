@@ -2,26 +2,27 @@
   "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Meta Platforms Stock Plunges On Earnings; This Bearish Optio...",
-    "✓ 经济数据: O’Reilly Automotive (ORLY) Raises Guidance—Can Margins Keep ...",
-    "✓ 股市动态: Stocks Settle Sharply Higher as Middle East Tensions Ease...",
-    "✓ 综合财经: SpaceX dives 10% after AI spending surge rattles investors...",
-    "✗ 股市动态: SpaceX shares sink after first earnings report reveals huge ..."
+    "✓ 股市动态: Stocks get AI boost; investors on tenterhooks over Mideast p...",
+    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq climb as Trump says...",
+    "✓ 综合财经: US court overturns Amazon injunction against Perplexity AI...",
+    "✗ 股市动态: Galaxy Digital’s Stock Drops 5% As Financial Results Disappo...",
+    "✓ 股市动态: AMD sinks 5% despite earnings beat, strong data center reven..."
   ],
-  "positive_count": 9,
-  "negative_count": 3,
-  "neutral_count": 18,
+  "positive_count": 10,
+  "negative_count": 4,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-05T08:29:12.064362",
+  "analyzed_at": "2026-08-05T13:58:47.343547",
   "categories_distribution": {
-    "经济数据": 7,
-    "综合财经": 15,
-    "股市动态": 25,
+    "股市动态": 27,
+    "综合财经": 19,
     "大宗商品": 2,
     "货币政策": 1,
-    "外汇市场": 4
+    "数字货币": 1,
+    "外汇市场": 3,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
