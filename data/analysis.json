@@ -1,27 +1,29 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Caterpillar lifts 2026 sales growth forecast as AI buildout ...",
-    "✓ 股市动态: Market Update: FIS, HIG, HON, TT, SON, BUD, ABBV, ANET...",
-    "✓ 股市动态: Nasdaq Futures Climb as Tech Rally Continues on Palantir Boo...",
-    "✓ 大宗商品: BP Earnings Surge to $5.7 Billion on Oil Price and Refining ...",
-    "✓ 股市动态: Spotify's higher spending on marketing, AI features to hit p..."
+    "✗ 综合财经: Wheat Prices Are Heading Lower. Sell Here....",
+    "✓ 综合财经: Dave Ramsey says this 'really, extremely' stupid purchase is...",
+    "✗ 综合财经: Baron Capital Added to Mettler-Toledo (MTD) After Its Sharp ...",
+    "✗ 综合财经: Meta says AI model accessed the internet and hacked another ...",
+    "✓ 股市动态: JPMorgan's Jamie Dimon warns of high leverage: 'Somebody wil..."
   ],
-  "positive_count": 11,
-  "negative_count": 4,
-  "neutral_count": 15,
+  "positive_count": 6,
+  "negative_count": 5,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-05T19:23:56.323435",
+  "analyzed_at": "2026-08-06T02:09:44.654409",
   "categories_distribution": {
-    "综合财经": 14,
-    "经济数据": 4,
-    "股市动态": 30,
-    "外汇市场": 2,
-    "大宗商品": 3,
-    "国际贸易": 2
+    "股市动态": 23,
+    "数字货币": 1,
+    "综合财经": 22,
+    "大宗商品": 2,
+    "经济数据": 3,
+    "货币政策": 1,
+    "国际贸易": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
