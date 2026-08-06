@@ -1,27 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: SpaceX's first quarterly results as a public company beat ex...",
-    "✓ 股市动态: A $20 Billion Reason Why Caterpillar Stock Is Soaring Today...",
-    "✓ 股市动态: Stocks Finish Sharply Higher on Strong Earnings and Push to ...",
-    "✓ 综合财经: AMD tops Q2 earnings estimates and provides strong outlook, ...",
-    "✓ 综合财经: SpaceX Spends $18.4 Billion, Somehow Beats Estimates In Firs..."
+    "✓ 综合财经: SpaceX's share lockup ends today, and it could trigger more ...",
+    "✓ 股市动态: Greg Abel's Berkshire Hathaway May Have Repurchased Up to $1...",
+    "✓ 股市动态: Daily Spotlight: Value Stocks Surge...",
+    "✓ 股市动态: Stock market today: Nasdaq slips, Dow and S&P 500 futures in...",
+    "✓ 股市动态: Tech stocks today: SpaceX lockup ends, Google faces AI leade..."
   ],
-  "positive_count": 8,
-  "negative_count": 4,
-  "neutral_count": 18,
+  "positive_count": 9,
+  "negative_count": 2,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-06T08:28:11.236032",
+  "analyzed_at": "2026-08-06T13:56:37.586167",
   "categories_distribution": {
-    "股市动态": 27,
-    "综合财经": 20,
-    "国际贸易": 2,
+    "综合财经": 23,
+    "股市动态": 24,
+    "数字货币": 1,
+    "货币政策": 1,
     "经济数据": 2,
-    "大宗商品": 1,
-    "外汇市场": 1
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
