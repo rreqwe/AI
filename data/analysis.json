@@ -1,27 +1,28 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: SpaceX's share lockup ends today, and it could trigger more ...",
-    "✓ 股市动态: Greg Abel's Berkshire Hathaway May Have Repurchased Up to $1...",
-    "✓ 股市动态: Daily Spotlight: Value Stocks Surge...",
-    "✓ 股市动态: Stock market today: Nasdaq slips, Dow and S&P 500 futures in...",
-    "✓ 股市动态: Tech stocks today: SpaceX lockup ends, Google faces AI leade..."
+    "✓ 综合财经: From birth to brokerage: Why South Korea is seeing a surge i...",
+    "✓ 综合财经: Meta fined $567m in largest child safety ruling against soci...",
+    "✓ 股市动态: Airbnb stock soars 9% on earnings and revenue beat, strong g...",
+    "✗ 股市动态: Stock Market Today, Aug. 6: Datadog Plummets 19%, Leading So...",
+    "✗ 股市动态: Stock Market Today, Aug. 6: Trade Desk Plummets After Hours ..."
   ],
-  "positive_count": 9,
+  "positive_count": 5,
   "negative_count": 2,
-  "neutral_count": 19,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-06T13:56:37.586167",
+  "analyzed_at": "2026-08-06T23:54:24.557314",
   "categories_distribution": {
-    "综合财经": 23,
-    "股市动态": 24,
-    "数字货币": 1,
-    "货币政策": 1,
+    "综合财经": 24,
+    "股市动态": 22,
+    "国际贸易": 2,
+    "货币政策": 3,
     "经济数据": 2,
-    "大宗商品": 2
+    "大宗商品": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
