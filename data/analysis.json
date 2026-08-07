@@ -4,25 +4,24 @@
   "sentiment_emoji": "😐",
   "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: AAON’s (AAON) Growth Strategy Positions It for Long-Term Str...",
-    "✗ 股市动态: Bank of America doubles down on Micron stock price for 2026...",
-    "✓ 经济数据: Matador Resources Co.’s (MTDR) Disciplined Capital Allocatio...",
-    "✓ 大宗商品: What Makes Magnolia Oil & Gas Corp. (MGY) a Strong Investmen...",
-    "✓ 货币政策: US euro sale to prop up yen blindsided ECB..."
+    "✓ 股市动态: This AI Marketing Stock Hits A Buy Zone In Scorching Four-Da...",
+    "✓ 综合财经: Nat-Gas Prices Edge Higher on Warmer US Weather Forecasts...",
+    "✗ 股市动态: Why ViaSat Stock Dropped After Earnings...",
+    "✓ 经济数据: China's exports growth beats estimates in July, as AI-driven...",
+    "✗ 经济数据: Treasury Secretary Scott Bessent downplayed the impact of in..."
   ],
   "positive_count": 12,
   "negative_count": 3,
   "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-07T02:27:58.219503",
+  "analyzed_at": "2026-08-07T07:08:22.507250",
   "categories_distribution": {
-    "经济数据": 5,
-    "综合财经": 18,
-    "股市动态": 25,
+    "股市动态": 23,
     "大宗商品": 3,
+    "综合财经": 21,
+    "经济数据": 3,
     "货币政策": 2,
-    "国际贸易": 1,
-    "外汇市场": 1
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
