@@ -1,27 +1,27 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极8条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: U.S. economy unexpectedly lost 23,000 jobs in July ...",
-    "✓ 综合财经: How a 90-second power outage sparked  chaos for rail commute...",
-    "✓ 股市动态: K-shaped economy shows up in housing: Luxury sales rise as s...",
-    "✓ 股市动态: Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains Ah...",
-    "✓ 综合财经: Meta fined $567m in largest child safety ruling against soci..."
+    "✗ 综合财经: Nutrien misses profit estimates as lower volumes blunt highe...",
+    "✗ 综合财经: July layoffs plunged to lowest monthly level in two years: C...",
+    "✗ 股市动态: US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD a...",
+    "✓ 综合财经: SunTrust's $240 million overdraft fee settlement could pay y...",
+    "✗ 国际贸易: OpenAI seeks dismissal of Apple's trade secrets lawsuit..."
   ],
-  "positive_count": 6,
-  "negative_count": 0,
-  "neutral_count": 24,
+  "positive_count": 9,
+  "negative_count": 8,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-07T12:53:51.922070",
+  "analyzed_at": "2026-08-07T18:49:38.834767",
   "categories_distribution": {
-    "综合财经": 28,
-    "货币政策": 7,
-    "股市动态": 15,
-    "经济数据": 3,
-    "大宗商品": 1,
-    "国际贸易": 1
+    "综合财经": 24,
+    "大宗商品": 4,
+    "股市动态": 16,
+    "国际贸易": 3,
+    "货币政策": 5,
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
