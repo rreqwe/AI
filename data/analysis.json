@@ -1,26 +1,26 @@
 {
-  "temperature_score": 65.0,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: This AI Marketing Stock Hits A Buy Zone In Scorching Four-Da...",
-    "✓ 综合财经: Nat-Gas Prices Edge Higher on Warmer US Weather Forecasts...",
-    "✗ 股市动态: Why ViaSat Stock Dropped After Earnings...",
-    "✓ 经济数据: China's exports growth beats estimates in July, as AI-driven...",
-    "✗ 经济数据: Treasury Secretary Scott Bessent downplayed the impact of in..."
+    "✓ 经济数据: U.S. economy unexpectedly lost 23,000 jobs in July ...",
+    "✓ 综合财经: How a 90-second power outage sparked  chaos for rail commute...",
+    "✓ 股市动态: K-shaped economy shows up in housing: Luxury sales rise as s...",
+    "✓ 股市动态: Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains Ah...",
+    "✓ 综合财经: Meta fined $567m in largest child safety ruling against soci..."
   ],
-  "positive_count": 12,
-  "negative_count": 3,
-  "neutral_count": 15,
+  "positive_count": 6,
+  "negative_count": 0,
+  "neutral_count": 24,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-07T07:08:22.507250",
+  "analyzed_at": "2026-08-07T12:53:51.922070",
   "categories_distribution": {
-    "股市动态": 23,
-    "大宗商品": 3,
-    "综合财经": 21,
+    "综合财经": 28,
+    "货币政策": 7,
+    "股市动态": 15,
     "经济数据": 3,
-    "货币政策": 2,
+    "大宗商品": 1,
     "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
