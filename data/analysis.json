@@ -1,27 +1,28 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: When will mortgage rates go down from a more than one-year h...",
-    "✓ 股市动态: Goldman Sachs sees 168% upside in this controversial power s...",
+    "✗ 货币政策: Want to give a stuffed boar to charity? It may be more curse...",
+    "✓ 股市动态: Cloudflare shares jump after forecast raise on higher AI-dri...",
     "✗ 股市动态: Palantir CEO drops 11-word bombshell for stock market invest...",
-    "✓ 综合财经: Inside the startup drone maker powering Ukraine's deep-strik...",
-    "✗ 综合财经: The US bares its financial weak spot..."
+    "✓ 综合财经: How cleaning up space debris could grow to become a big busi...",
+    "✓ 综合财经: Hugging Face hack marks start of dangerous AI cyber era and ..."
   ],
-  "positive_count": 10,
-  "negative_count": 3,
-  "neutral_count": 17,
+  "positive_count": 11,
+  "negative_count": 6,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-08T06:43:15.811853",
+  "analyzed_at": "2026-08-08T12:38:26.544606",
   "categories_distribution": {
+    "股市动态": 23,
     "综合财经": 23,
-    "股市动态": 20,
-    "货币政策": 5,
-    "大宗商品": 1,
+    "货币政策": 2,
     "经济数据": 3,
-    "国际贸易": 1
+    "数字货币": 2,
+    "国际贸易": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
