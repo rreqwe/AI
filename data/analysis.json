@@ -1,27 +1,28 @@
 {
-  "temperature_score": 51.67,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极8条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: Nutrien misses profit estimates as lower volumes blunt highe...",
-    "✗ 综合财经: July layoffs plunged to lowest monthly level in two years: C...",
-    "✗ 股市动态: US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD a...",
-    "✓ 综合财经: SunTrust's $240 million overdraft fee settlement could pay y...",
-    "✗ 国际贸易: OpenAI seeks dismissal of Apple's trade secrets lawsuit..."
+    "✓ 综合财经: Will AT&T (T)’s Expanded Quantum Deal Turn D-Wave (QBTS) Int...",
+    "✓ 综合财经: Flagstar Bank data breach settlement: Find out if you qualif...",
+    "✓ 股市动态: SOUN Stock Surges as SoundHound AI Posts Record Revenue...",
+    "✗ 综合财经: Hiring slumped unexpectedly in July, as the economy shed 23,...",
+    "✓ 股市动态: Dow Jones Futures: What To Do As Stock Market Revs Up; Warre..."
   ],
-  "positive_count": 9,
-  "negative_count": 8,
-  "neutral_count": 13,
+  "positive_count": 13,
+  "negative_count": 3,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-07T18:49:38.834767",
+  "analyzed_at": "2026-08-08T01:15:35.936753",
   "categories_distribution": {
     "综合财经": 24,
-    "大宗商品": 4,
-    "股市动态": 16,
-    "国际贸易": 3,
-    "货币政策": 5,
-    "经济数据": 3
+    "股市动态": 21,
+    "货币政策": 3,
+    "大宗商品": 1,
+    "经济数据": 3,
+    "数字货币": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
