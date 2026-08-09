@@ -1,28 +1,28 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Berkshire Hathaway Beats Earnings Views, Ends 14 Quarters Of...",
-    "✓ 大宗商品: Google's AI claimed Flock cameras hold $650 in gold and 23 p...",
-    "✓ 综合财经: Performance raises are back for 2027, but increases will be ...",
-    "✓ 经济数据: Why Aurora Cannabis Looks Cheaper Than Its International Gro...",
-    "✓ 综合财经: Xanadu Accelerates Chip Production as Investors Await Next C..."
+    "✓ 国际贸易: Nat-Gas Prices Supported by Stronger US LNG Exports...",
+    "✗ 股市动态: Palantir CEO drops 11-word bombshell for stock market invest...",
+    "✓ 股市动态: One of the Best Values in the Market, Pinterest Stock Is a B...",
+    "✓ 综合财经: Inside the startup drone maker powering Ukraine's deep-strik...",
+    "✓ 货币政策: Next big push in ETF industry? Why these risk assets are gai..."
   ],
-  "positive_count": 11,
-  "negative_count": 6,
-  "neutral_count": 13,
+  "positive_count": 5,
+  "negative_count": 4,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-08T18:31:07.705680",
+  "analyzed_at": "2026-08-09T01:20:44.506011",
   "categories_distribution": {
-    "综合财经": 29,
     "大宗商品": 1,
-    "经济数据": 5,
-    "股市动态": 15,
+    "国际贸易": 3,
+    "股市动态": 19,
+    "综合财经": 26,
     "货币政策": 1,
     "数字货币": 1,
-    "国际贸易": 1
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
