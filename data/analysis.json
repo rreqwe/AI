@@ -1,28 +1,27 @@
 {
-  "temperature_score": 51.67,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 国际贸易: Nat-Gas Prices Supported by Stronger US LNG Exports...",
-    "✗ 股市动态: Palantir CEO drops 11-word bombshell for stock market invest...",
-    "✓ 股市动态: One of the Best Values in the Market, Pinterest Stock Is a B...",
-    "✓ 综合财经: Inside the startup drone maker powering Ukraine's deep-strik...",
-    "✓ 货币政策: Next big push in ETF industry? Why these risk assets are gai..."
+    "✓ 货币政策: Stock market today: Dow, S&P 500, Nasdaq jump to cap winning...",
+    "✓ 股市动态: Tech stocks today: Shares climb after rocky week...",
+    "✓ 大宗商品: Oil Traders Stay Bearish Despite Deepening Middle East Disru...",
+    "✓ 股市动态: Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% ...",
+    "✗ 综合财经: Turkey’s cyber law shifts sweeping powers to presidency..."
   ],
-  "positive_count": 5,
+  "positive_count": 9,
   "negative_count": 4,
-  "neutral_count": 21,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-09T01:20:44.506011",
+  "analyzed_at": "2026-08-09T06:49:32.258457",
   "categories_distribution": {
+    "货币政策": 3,
+    "股市动态": 20,
+    "国际贸易": 2,
     "大宗商品": 1,
-    "国际贸易": 3,
-    "股市动态": 19,
-    "综合财经": 26,
-    "货币政策": 1,
     "数字货币": 1,
-    "经济数据": 1
+    "综合财经": 25
   },
   "ai_provider": "fallback_rules"
 }
