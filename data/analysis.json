@@ -1,27 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 货币政策: Stock market today: Dow, S&P 500, Nasdaq jump to cap winning...",
-    "✓ 股市动态: Tech stocks today: Shares climb after rocky week...",
-    "✓ 大宗商品: Oil Traders Stay Bearish Despite Deepening Middle East Disru...",
-    "✓ 股市动态: Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% ...",
-    "✗ 综合财经: Turkey’s cyber law shifts sweeping powers to presidency..."
+    "✓ 综合财经: The Numbers Behind ON Semiconductor’s (ON) Higher Target and...",
+    "✓ 大宗商品: US wages plummet to 43% of national income — lowest since th...",
+    "✓ 股市动态: JPMorgan Has Consistently Beaten Its Own 17% Return Target U...",
+    "✓ 经济数据: Palantir (PLTR) Posted Record 93% Growth, Here’s Why Analyst...",
+    "✓ 综合财经: The AI boom ripples into regional banks as lending picks up..."
   ],
-  "positive_count": 9,
-  "negative_count": 4,
-  "neutral_count": 17,
+  "positive_count": 8,
+  "negative_count": 2,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-09T06:49:32.258457",
+  "analyzed_at": "2026-08-09T12:40:29.586960",
   "categories_distribution": {
-    "货币政策": 3,
-    "股市动态": 20,
     "国际贸易": 2,
+    "综合财经": 25,
     "大宗商品": 1,
-    "数字货币": 1,
-    "综合财经": 25
+    "股市动态": 20,
+    "经济数据": 3,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
