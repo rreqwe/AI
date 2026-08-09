@@ -1,27 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: The Numbers Behind ON Semiconductor’s (ON) Higher Target and...",
-    "✓ 大宗商品: US wages plummet to 43% of national income — lowest since th...",
-    "✓ 股市动态: JPMorgan Has Consistently Beaten Its Own 17% Return Target U...",
-    "✓ 经济数据: Palantir (PLTR) Posted Record 93% Growth, Here’s Why Analyst...",
-    "✓ 综合财经: The AI boom ripples into regional banks as lending picks up..."
+    "✗ 股市动态: Scott Galloway warned the US stock market could crash within...",
+    "✓ 经济数据: Dividend King Coca-Cola is suddenly acting like a growth sto...",
+    "✓ 股市动态: Ford’s (F) $28,350 Electric Pickup Bet Meets A Cheap Stock...",
+    "✓ 综合财经: Trump is dismantling US guardrails, warn former security off...",
+    "✗ 股市动态: If a Stock Market Crash Is on the Horizon, History Says Inve..."
   ],
-  "positive_count": 8,
-  "negative_count": 2,
-  "neutral_count": 20,
+  "positive_count": 5,
+  "negative_count": 3,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-09T12:40:29.586960",
+  "analyzed_at": "2026-08-09T18:33:42.992198",
   "categories_distribution": {
-    "国际贸易": 2,
-    "综合财经": 25,
-    "大宗商品": 1,
-    "股市动态": 20,
-    "经济数据": 3,
-    "货币政策": 1
+    "综合财经": 22,
+    "货币政策": 2,
+    "股市动态": 24,
+    "经济数据": 2,
+    "国际贸易": 2
   },
   "ai_provider": "fallback_rules"
 }
