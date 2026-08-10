@@ -1,26 +1,27 @@
 {
-  "temperature_score": 70.0,
-  "sentiment": "乐观",
-  "sentiment_emoji": "😊",
-  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比12/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
+  "temperature_score": 60.0,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Global stocks tick up with Hormuz and inflation in focus...",
-    "✓ 经济数据: Intel raises $15 billion in stock offering for AI chip growt...",
-    "✓ 股市动态: Archer shares surge after Boeing stake, electric aircraft su...",
-    "✓ 股市动态: Intel plans $15 billion stock offering as AI demand accelera...",
-    "✓ 货币政策: Interest rates may stay higher for longer. What that means f..."
+    "✓ 国际贸易: Borderlands Mexico: USMCA gives Mexico an edge as global tra...",
+    "✓ 综合财经: AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its ...",
+    "✓ 经济数据: Eli Lilly (LLY) Posts Blowout Growth And Raises Its Outlook...",
+    "✗ 综合财经: What Do Cost of Carry Tables Tell Us Heading Into Fall Harve...",
+    "✓ 综合财经: Rhode Is Fueling e.l.f.'s Latest Surge. Is It Time to Jump I..."
   ],
-  "positive_count": 12,
-  "negative_count": 0,
-  "neutral_count": 18,
+  "positive_count": 10,
+  "negative_count": 4,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-10T12:57:54.792307",
+  "analyzed_at": "2026-08-10T18:51:32.488909",
   "categories_distribution": {
-    "经济数据": 8,
-    "综合财经": 25,
-    "大宗商品": 4,
-    "股市动态": 14,
-    "货币政策": 3
+    "国际贸易": 1,
+    "综合财经": 26,
+    "股市动态": 16,
+    "货币政策": 2,
+    "经济数据": 5,
+    "大宗商品": 5
   },
   "ai_provider": "fallback_rules"
 }
