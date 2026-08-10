@@ -1,27 +1,26 @@
 {
-  "temperature_score": 56.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 70.0,
+  "sentiment": "乐观",
+  "sentiment_emoji": "😊",
+  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比12/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
   "key_factors": [
-    "✓ 经济数据: SentinelOne (S) Deepens AWS Ties As Growth Accelerates...",
-    "✓ 综合财经: Jim Cramer Praises Exchange Duopoly CME Group (CME) and Cboe...",
-    "✓ 综合财经: Australian rare earth miner surges as much as 29% after U.S....",
-    "✓ 综合财经: Tech leaders say AI means less work - their staff say they w...",
-    "✓ 综合财经: German economy minister warns AfD’s rise could deter investo..."
+    "✓ 经济数据: Global stocks tick up with Hormuz and inflation in focus...",
+    "✓ 经济数据: Intel raises $15 billion in stock offering for AI chip growt...",
+    "✓ 股市动态: Archer shares surge after Boeing stake, electric aircraft su...",
+    "✓ 股市动态: Intel plans $15 billion stock offering as AI demand accelera...",
+    "✓ 货币政策: Interest rates may stay higher for longer. What that means f..."
   ],
-  "positive_count": 7,
-  "negative_count": 3,
-  "neutral_count": 20,
+  "positive_count": 12,
+  "negative_count": 0,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-10T07:23:37.073261",
+  "analyzed_at": "2026-08-10T12:57:54.792307",
   "categories_distribution": {
-    "股市动态": 18,
-    "综合财经": 28,
-    "经济数据": 4,
-    "大宗商品": 1,
-    "外汇市场": 1,
-    "国际贸易": 1
+    "经济数据": 8,
+    "综合财经": 25,
+    "大宗商品": 4,
+    "股市动态": 14,
+    "货币政策": 3
   },
   "ai_provider": "fallback_rules"
 }
