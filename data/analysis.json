@@ -1,28 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: UPS Completed Its Amazon Volume Pullback. Is the Turnaround ...",
-    "✓ 经济数据: ServiceNow (NOW) Unveils Autonomous Security to Accelerate G...",
-    "✓ 外汇市场: She Returned to a Classroom at 64. Her Wages Earned No Socia...",
-    "✗ 数字货币: Trump Media reports $238m loss as crypto falls...",
-    "✓ 综合财经: The AI threat to India’s IT jobs machine..."
+    "✓ 综合财经: Fortrea (FTRE) Gains Traction in Turnaround...",
+    "✓ 综合财经: Immunic advances MS drug toward key Phase 3 data, expects re...",
+    "✓ 股市动态: Stock Market Today: Dow Rises On Iran Claim; SpaceX Rival Ro...",
+    "✓ 股市动态: Oil firm as US-Iran impasse drags on; stocks edge up...",
+    "✓ 综合财经: Intel's huge rally is helping pay for its AI comeback: Chart..."
   ],
   "positive_count": 7,
-  "negative_count": 3,
-  "neutral_count": 20,
+  "negative_count": 4,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-11T06:59:33.735256",
+  "analyzed_at": "2026-08-11T12:54:12.067926",
   "categories_distribution": {
     "综合财经": 25,
-    "外汇市场": 2,
-    "大宗商品": 2,
-    "股市动态": 20,
+    "股市动态": 21,
     "经济数据": 3,
-    "数字货币": 2,
-    "货币政策": 1
+    "大宗商品": 2,
+    "货币政策": 2,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
