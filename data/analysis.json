@@ -1,27 +1,28 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Fortrea (FTRE) Gains Traction in Turnaround...",
-    "✓ 综合财经: Immunic advances MS drug toward key Phase 3 data, expects re...",
-    "✓ 股市动态: Stock Market Today: Dow Rises On Iran Claim; SpaceX Rival Ro...",
-    "✓ 股市动态: Oil firm as US-Iran impasse drags on; stocks edge up...",
-    "✓ 综合财经: Intel's huge rally is helping pay for its AI comeback: Chart..."
+    "✓ 股市动态: Kalshi ties up with Nasdaq to bolster trade surveillance...",
+    "✓ 综合财经: Longtime OpenAI executive Brad Lightcap leaves as shake-up a...",
+    "✓ 大宗商品: U.S. oil rises above $83 a barrel as Iran says Strait of Hor...",
+    "✓ 货币政策: An inflation report Wednesday should be a big deal for the F...",
+    "✗ 货币政策: US judge cites ‘concerning’ irregularities in Adani fraud ca..."
   ],
-  "positive_count": 7,
-  "negative_count": 4,
+  "positive_count": 8,
+  "negative_count": 3,
   "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-11T12:54:12.067926",
+  "analyzed_at": "2026-08-11T18:56:35.703488",
   "categories_distribution": {
-    "综合财经": 25,
-    "股市动态": 21,
-    "经济数据": 3,
-    "大宗商品": 2,
-    "货币政策": 2,
-    "外汇市场": 1
+    "综合财经": 22,
+    "股市动态": 22,
+    "数字货币": 1,
+    "大宗商品": 3,
+    "货币政策": 3,
+    "经济数据": 1,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
