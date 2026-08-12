@@ -1,27 +1,28 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 数字货币: Hedge Funds Start To Bet On A Bitcoin Rally...",
-    "✓ 综合财经: Factbox-Global drugmakers invest billions to boost US presen...",
-    "✓ 综合财经: Sen. Darline Graham advances to Republican special primary r...",
-    "✓ 综合财经: First 'pounds for pylons' energy bill discount sites reveale...",
-    "✗ 综合财经: Sun-tanned cauliflowers and knobbly spuds - the heatwave veg..."
+    "✗ 股市动态: Another grocery chain quietly shuts down more stores...",
+    "✓ 大宗商品: Crude Prices Soar as Strait of Hormuz Reopening in Doubt...",
+    "✗ 股市动态: Datadog (DDOG) Grows Fast, Then Gets Punished For Slowing Do...",
+    "✓ 综合财经: Homes near pylons to get £250 a year off energy bills – firs...",
+    "✓ 综合财经: Sen. Darline Graham advances to Republican special primary r..."
   ],
-  "positive_count": 7,
-  "negative_count": 3,
-  "neutral_count": 20,
+  "positive_count": 8,
+  "negative_count": 5,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-12T01:29:05.528961",
+  "analyzed_at": "2026-08-12T07:17:51.443147",
   "categories_distribution": {
-    "货币政策": 4,
-    "数字货币": 2,
-    "股市动态": 19,
-    "综合财经": 24,
+    "股市动态": 18,
+    "数字货币": 1,
+    "综合财经": 27,
+    "大宗商品": 3,
     "经济数据": 3,
-    "大宗商品": 3
+    "外汇市场": 1,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
