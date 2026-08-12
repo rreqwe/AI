@@ -1,26 +1,27 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: SpaceX Supplier Sinks On Earnings; Aerospace Parts Vendor So...",
-    "✓ 经济数据: Stock Market Today: Dow Rises On Key Inflation Data; Nvidia ...",
-    "✓ 综合财经: Here are the Compelling Reasons to Own Advanced Drainage Sys...",
-    "✓ 综合财经: On Aug. 26, Nvidia CEO Jensen Huang Will Provide an Update o...",
-    "✓ 经济数据: Stock market today: Dow, S&P 500, Nasdaq futures rise after ..."
+    "✗ 综合财经: Trump Media's quarterly loss widens to $238 million from $20...",
+    "✓ 股市动态: Jupiter Lend v2 Links Lending Returns to Trading Fees...",
+    "✓ 股市动态: UnitedHealth Group Stock Outlook: Is Wall Street Bullish or ...",
+    "✓ 大宗商品: China’s Teapot Refiners Poised to Ramp Up Iranian Oil Buying...",
+    "✓ 综合财经: U.S. budget deficit surged in July to highest level since Ma..."
   ],
-  "positive_count": 11,
-  "negative_count": 5,
-  "neutral_count": 14,
+  "positive_count": 8,
+  "negative_count": 7,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-12T12:59:22.043367",
+  "analyzed_at": "2026-08-12T18:56:18.167889",
   "categories_distribution": {
-    "综合财经": 23,
-    "股市动态": 20,
-    "经济数据": 8,
-    "货币政策": 3,
-    "大宗商品": 1
+    "股市动态": 17,
+    "综合财经": 24,
+    "大宗商品": 1,
+    "经济数据": 10,
+    "货币政策": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
