@@ -1,28 +1,27 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Stock market today: Dow, S&P 500, Nasdaq trending higher on ...",
-    "✗ 数字货币: Bitcoin and ethereum prices today, Thursday, August 13, 2026...",
-    "✓ 股市动态: Wholesale prices were flat in July, below expectations for 0...",
-    "✓ 货币政策: Iran looks to ramp up economic alliance with BRICS nations a...",
-    "✗ 综合财经: The Iran war risks bringing the G7's fastest-growing economy..."
+    "✓ 货币政策: Mortgage and refinance interest rates today, Wednesday, Augu...",
+    "✓ 综合财经: Best CD rates today, Wednesday, August 12, 2026: Earn up to ...",
+    "✓ 综合财经: CoreWeave, Super Micro surge on signs of sustained AI buildo...",
+    "✓ 综合财经: Hedge funds upped short AI bets in July, Hazeltree says...",
+    "✓ 综合财经: E.ON Reaffirms 2026 Outlook as First-Half Earnings Edge High..."
   ],
-  "positive_count": 8,
-  "negative_count": 5,
-  "neutral_count": 17,
+  "positive_count": 11,
+  "negative_count": 4,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-13T12:59:59.981987",
+  "analyzed_at": "2026-08-13T18:57:18.424105",
   "categories_distribution": {
-    "综合财经": 21,
-    "股市动态": 19,
-    "数字货币": 1,
+    "货币政策": 2,
+    "综合财经": 23,
     "经济数据": 7,
-    "货币政策": 3,
+    "股市动态": 19,
     "大宗商品": 2,
-    "国际贸易": 1
+    "国际贸易": 2
   },
   "ai_provider": "fallback_rules"
 }
