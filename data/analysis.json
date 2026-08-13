@@ -1,25 +1,25 @@
 {
-  "temperature_score": 51.67,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: Trump Media's quarterly loss widens to $238 million from $20...",
-    "✓ 股市动态: Jupiter Lend v2 Links Lending Returns to Trading Fees...",
-    "✓ 股市动态: UnitedHealth Group Stock Outlook: Is Wall Street Bullish or ...",
-    "✓ 大宗商品: China’s Teapot Refiners Poised to Ramp Up Iranian Oil Buying...",
-    "✓ 综合财经: U.S. budget deficit surged in July to highest level since Ma..."
+    "✓ 股市动态: Stocks Supported by Renewed Middle East Optimism...",
+    "✓ 综合财经: Powerball jackpot climbs to $975 million. What you'd pocket ...",
+    "✓ 综合财经: Home sales slipped again in July as rising mortgage rates di...",
+    "✗ 综合财经: US existing homes fall 1.7% in July as record prices, high m...",
+    "✓ 大宗商品: Trump says 401(k)s are up ‘double and triple’ as America ent..."
   ],
-  "positive_count": 8,
+  "positive_count": 11,
   "negative_count": 7,
-  "neutral_count": 15,
+  "neutral_count": 12,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-12T18:56:18.167889",
+  "analyzed_at": "2026-08-13T01:38:58.538210",
   "categories_distribution": {
-    "股市动态": 17,
+    "股市动态": 18,
     "综合财经": 24,
-    "大宗商品": 1,
-    "经济数据": 10,
+    "大宗商品": 3,
+    "经济数据": 8,
     "货币政策": 1,
     "国际贸易": 1
   },
