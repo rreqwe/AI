@@ -1,27 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Stocks Supported by Renewed Middle East Optimism...",
-    "✓ 综合财经: Powerball jackpot climbs to $975 million. What you'd pocket ...",
-    "✓ 综合财经: Home sales slipped again in July as rising mortgage rates di...",
-    "✗ 综合财经: US existing homes fall 1.7% in July as record prices, high m...",
-    "✓ 大宗商品: Trump says 401(k)s are up ‘double and triple’ as America ent..."
+    "✓ 股市动态: Rivian Automotive, Inc. (RIVN) vs. Ferrari N.V. (RACE): A Ma...",
+    "✓ 综合财经: The M7 By The Numbers 2026: MBA Hiring Rebounds, Pay Holds S...",
+    "✓ 经济数据: Economy grew in April to June as sun and World Cup helped so...",
+    "✓ 经济数据: Asian Stocks Poised to Gain on Benign US Inflation: Markets ...",
+    "✗ 综合财经: ‘Hormuz remains blocked’: Iran disputes Trump claims as traf..."
   ],
   "positive_count": 11,
-  "negative_count": 7,
-  "neutral_count": 12,
+  "negative_count": 3,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-13T01:38:58.538210",
+  "analyzed_at": "2026-08-13T07:20:13.127450",
   "categories_distribution": {
-    "股市动态": 18,
-    "综合财经": 24,
-    "大宗商品": 3,
-    "经济数据": 8,
     "货币政策": 1,
-    "国际贸易": 1
+    "综合财经": 27,
+    "股市动态": 17,
+    "经济数据": 7,
+    "国际贸易": 1,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
