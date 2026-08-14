@@ -2,26 +2,26 @@
   "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Nat-Gas Prices Close Higher on Warm Forecasts...",
-    "✓ 股市动态: NBIS Stock Surges 30% After Earnings, Defying Michael Burry'...",
-    "✗ 综合财经: Can Ryanair’s (RYAAY) New AI Deal Offset Its Falling Fares?...",
-    "✓ 综合财经: Investigation into Farage to resume after he wins Clacton by...",
-    "✗ 股市动态: JPMorgan debanked Polymarket over regulatory concerns..."
+    "✓ 大宗商品: Goldman Sachs Bets Again on Options ETFs With NEOS Deal...",
+    "✓ 综合财经: Resort destination mall and hotel file Chapter 11 bankruptcy...",
+    "✗ 综合财经: 10-year Treasury yield is little changed after weak retail s...",
+    "✗ 股市动态: NATO aircraft shoot down drone over Latvia, which blames 'Ru...",
+    "✓ 股市动态: Anthropic's investor talks, Workday's stock surge, Apple's n..."
   ],
-  "positive_count": 5,
-  "negative_count": 3,
-  "neutral_count": 22,
+  "positive_count": 7,
+  "negative_count": 5,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-14T07:18:08.696864",
+  "analyzed_at": "2026-08-14T12:56:22.125598",
   "categories_distribution": {
-    "综合财经": 22,
-    "股市动态": 22,
-    "大宗商品": 1,
+    "综合财经": 20,
+    "大宗商品": 2,
+    "股市动态": 12,
     "外汇市场": 3,
     "国际贸易": 2,
-    "经济数据": 4
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
