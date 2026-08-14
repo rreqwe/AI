@@ -1,27 +1,29 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 大宗商品: Goldman Sachs Bets Again on Options ETFs With NEOS Deal...",
-    "✓ 综合财经: Resort destination mall and hotel file Chapter 11 bankruptcy...",
-    "✗ 综合财经: 10-year Treasury yield is little changed after weak retail s...",
-    "✗ 股市动态: NATO aircraft shoot down drone over Latvia, which blames 'Ru...",
-    "✓ 股市动态: Anthropic's investor talks, Workday's stock surge, Apple's n..."
+    "✓ 经济数据: Rise of AI shopping pushes merchants to protect loyalty, Ady...",
+    "✓ 股市动态: Are Wall Street Analysts Predicting PulteGroup Stock Will Cl...",
+    "✓ 综合财经: Resort destination mall and hotel seek Chapter 11 bankruptcy...",
+    "✗ 综合财经: OpenAI talent exodus raises 'huge red flag' ahead of IPO ...",
+    "✗ 综合财经: U.S. retail sales unexpectedly post largest drop in more tha..."
   ],
-  "positive_count": 7,
-  "negative_count": 5,
-  "neutral_count": 18,
+  "positive_count": 8,
+  "negative_count": 2,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-14T12:56:22.125598",
+  "analyzed_at": "2026-08-14T18:46:58.534940",
   "categories_distribution": {
-    "综合财经": 20,
-    "大宗商品": 2,
-    "股市动态": 12,
-    "外汇市场": 3,
-    "国际贸易": 2,
-    "经济数据": 1
+    "股市动态": 22,
+    "经济数据": 4,
+    "数字货币": 1,
+    "综合财经": 19,
+    "货币政策": 3,
+    "国际贸易": 3,
+    "大宗商品": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
