@@ -1,28 +1,25 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Viatris (VTRS) is Selling Tyrvaya, but Could Harrow (HROW) T...",
-    "✓ 股市动态: Doximity Doubled, Then Gave Most of It Back. Here’s Why the ...",
-    "✓ 经济数据: e.l.f Beauty, Inc. (ELF) Crushes Q1 2027 Estimates as Rhode ...",
-    "✓ 股市动态: H&R Block Posted Strong Earnings and Boosted Its Dividend by...",
-    "✓ 综合财经: Resort destination mall and hotel seek Chapter 11 bankruptcy..."
+    "✓ 股市动态: S&P Futures Tick Higher With Focus on U.S. Retail Sales Data...",
+    "✗ 股市动态: Suze Orman warns retirees 'everything can go down' — urges k...",
+    "✓ 综合财经: Resort destination mall and hotel seek Chapter 11 bankruptcy...",
+    "✓ 股市动态: US aircraft carrier furore is emblem of growing disquiet ove...",
+    "✓ 综合财经: I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving sys..."
   ],
-  "positive_count": 11,
-  "negative_count": 1,
-  "neutral_count": 18,
+  "positive_count": 7,
+  "negative_count": 3,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-15T06:30:25.200772",
+  "analyzed_at": "2026-08-15T12:28:40.254329",
   "categories_distribution": {
+    "股市动态": 27,
     "综合财经": 24,
-    "国际贸易": 3,
-    "经济数据": 2,
-    "股市动态": 21,
-    "数字货币": 1,
-    "货币政策": 1,
-    "大宗商品": 1
+    "国际贸易": 2,
+    "数字货币": 1
   },
   "ai_provider": "fallback_rules"
 }
