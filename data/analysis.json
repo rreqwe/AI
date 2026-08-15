@@ -1,25 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: S&P Futures Tick Higher With Focus on U.S. Retail Sales Data...",
-    "✗ 股市动态: Suze Orman warns retirees 'everything can go down' — urges k...",
-    "✓ 综合财经: Resort destination mall and hotel seek Chapter 11 bankruptcy...",
-    "✓ 股市动态: US aircraft carrier furore is emblem of growing disquiet ove...",
-    "✓ 综合财经: I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving sys..."
+    "✓ 股市动态: SanDisk CEO reveals what's next after explosive 3,150% stock...",
+    "✓ 经济数据: Anthropic revenue reportedly jumps to more than $11.5 billio...",
+    "✗ 股市动态: Depleted strategic oil reserve nears level that raises conce...",
+    "✓ 股市动态: Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidi...",
+    "✗ 股市动态: Why US boomers seriously need to prepare for a stock market ..."
   ],
-  "positive_count": 7,
+  "positive_count": 5,
   "negative_count": 3,
-  "neutral_count": 20,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-15T12:28:40.254329",
+  "analyzed_at": "2026-08-15T18:22:15.341157",
   "categories_distribution": {
-    "股市动态": 27,
-    "综合财经": 24,
-    "国际贸易": 2,
-    "数字货币": 1
+    "综合财经": 26,
+    "股市动态": 23,
+    "经济数据": 3,
+    "货币政策": 1,
+    "数字货币": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
