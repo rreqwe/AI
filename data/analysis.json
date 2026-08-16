@@ -1,27 +1,27 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 外汇市场: Eli Lilly’s Weight-Loss Pill Just Got Its First Foothold in ...",
-    "✓ 股市动态: SanDisk CEO reveals what's next after explosive 3,150% stock...",
-    "✓ 经济数据: AppLovin’s Real Problem Isn’t Revenue – It’s How the Growth ...",
-    "✓ 国际贸易: AMD, Intel and NVIDIA All Rally as Super Micro’s Blowout Num...",
-    "✓ 综合财经: The sports billionaire threatening to upend Wall Street..."
+    "✓ 股市动态: Bill Ackman's $5 billion fund trades 20% below its NAV as S&...",
+    "✓ 股市动态: Bending Spoons Beats on Earnings in Its Public Market Debut ...",
+    "✗ 股市动态: Billionaire Bill Ackman doubles down on these stocks in Q2...",
+    "✓ 综合财经: California billionaires add millions to bolster fight agains...",
+    "✓ 经济数据: Canadian business braced for 50% US tariffs..."
   ],
   "positive_count": 5,
-  "negative_count": 3,
-  "neutral_count": 22,
+  "negative_count": 2,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-16T12:30:46.354172",
+  "analyzed_at": "2026-08-16T18:22:00.220252",
   "categories_distribution": {
-    "综合财经": 26,
-    "外汇市场": 2,
-    "股市动态": 20,
+    "股市动态": 28,
+    "综合财经": 22,
     "经济数据": 2,
-    "国际贸易": 2,
-    "货币政策": 1
+    "外汇市场": 1,
+    "货币政策": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
