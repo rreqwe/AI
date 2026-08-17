@@ -1,26 +1,25 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Nebius Just Gave Bloom Energy a Big Boost. What It Means for...",
     "✗ 股市动态: Billionaire Bill Ackman doubles down on these stocks in Q2...",
-    "✓ 经济数据: Japan second-quarter GDP grows 1.1% on an annualized basis, ...",
-    "✓ 股市动态: Tech Futures Rise With Five Stocks In Buy Zones - Investor's...",
-    "✗ 综合财经: Japan's economy grows slower than expected in April-June - R..."
+    "✗ 股市动态: This chart shows the stock market is ready to crash - The Te...",
+    "✓ 综合财经: Japanese automakers vulnerable to one-two punch of Iran war,...",
+    "✓ 股市动态: The new AI super-rich are reshaping the market for jets, yac...",
+    "✓ 股市动态: Tech Futures Rise With Five Stocks In Buy Zones - Investor's..."
   ],
-  "positive_count": 4,
+  "positive_count": 5,
   "negative_count": 4,
-  "neutral_count": 22,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-17T01:00:28.449657",
+  "analyzed_at": "2026-08-17T06:44:05.327208",
   "categories_distribution": {
-    "股市动态": 26,
-    "综合财经": 23,
-    "国际贸易": 2,
-    "经济数据": 2,
-    "货币政策": 1
+    "综合财经": 26,
+    "股市动态": 22,
+    "外汇市场": 2,
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
