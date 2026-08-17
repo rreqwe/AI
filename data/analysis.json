@@ -1,26 +1,28 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Local Bounti’s Network Yields at Record Levels, Retail Momen...",
-    "✓ 股市动态: Micron stock heats up again, crossing $1,000...",
-    "✓ 股市动态: Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip S...",
-    "✗ 股市动态: Billionaire Bill Ackman doubles down on these stocks in Q2...",
-    "✗ 股市动态: 'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits..."
+    "✓ 经济数据: Apple: For Investors, the 3 Things That Matter Now Are AI, G...",
+    "✓ 综合财经: Jim Cramer Discusses Restaurant Brands (QSR) Q2 Earnings and...",
+    "✓ 国际贸易: 30-year Treasury yield tops 5.31%, the highest in 19 years...",
+    "✓ 大宗商品: Brent oil rises to $91 as Iran rules out interim deal extens...",
+    "✗ 股市动态: Billionaire investor Leon Cooperman sees a recession in 2027..."
   ],
   "positive_count": 7,
-  "negative_count": 3,
-  "neutral_count": 20,
+  "negative_count": 2,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-17T12:35:18.691839",
+  "analyzed_at": "2026-08-17T18:32:32.859108",
   "categories_distribution": {
-    "外汇市场": 3,
-    "综合财经": 21,
-    "股市动态": 13,
-    "经济数据": 1,
-    "货币政策": 1
+    "综合财经": 26,
+    "经济数据": 3,
+    "国际贸易": 1,
+    "大宗商品": 2,
+    "股市动态": 16,
+    "货币政策": 4,
+    "外汇市场": 3
   },
   "ai_provider": "fallback_rules"
 }
