@@ -1,27 +1,26 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Bill Ackman's $5 billion fund trades 20% below its NAV as S&...",
-    "✓ 股市动态: Bending Spoons Beats on Earnings in Its Public Market Debut ...",
+    "✓ 股市动态: Nebius Just Gave Bloom Energy a Big Boost. What It Means for...",
     "✗ 股市动态: Billionaire Bill Ackman doubles down on these stocks in Q2...",
-    "✓ 综合财经: California billionaires add millions to bolster fight agains...",
-    "✓ 经济数据: Canadian business braced for 50% US tariffs..."
+    "✓ 经济数据: Japan second-quarter GDP grows 1.1% on an annualized basis, ...",
+    "✓ 股市动态: Tech Futures Rise With Five Stocks In Buy Zones - Investor's...",
+    "✗ 综合财经: Japan's economy grows slower than expected in April-June - R..."
   ],
-  "positive_count": 5,
-  "negative_count": 2,
-  "neutral_count": 23,
+  "positive_count": 4,
+  "negative_count": 4,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-16T18:22:00.220252",
+  "analyzed_at": "2026-08-17T01:00:28.449657",
   "categories_distribution": {
-    "股市动态": 28,
-    "综合财经": 22,
+    "股市动态": 26,
+    "综合财经": 23,
+    "国际贸易": 2,
     "经济数据": 2,
-    "外汇市场": 1,
-    "货币政策": 1,
-    "国际贸易": 1
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
