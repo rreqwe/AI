@@ -1,27 +1,27 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Jim Cramer Tells Caller to Average Down on Netflix (NFLX)...",
-    "✓ 综合财经: Wendy’s Jumps on Report That Nelson Peltz Wants to Take His ...",
-    "✓ 综合财经: Nvidia’s Financing Platform Will Support the AI Investment B...",
-    "✓ 经济数据: 1 Growth Stock Trading at More Than Half Off Its Peak Could ...",
-    "✓ 股市动态: CoreWeave vs Nebius: Both Companies Reported Strong Earnings..."
+    "✓ 综合财经: Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet...",
+    "✗ 大宗商品: Oil Majors Reap $93 Billion Windfall From the Iran War...",
+    "✓ 综合财经: The 30-year Treasury yield just hit a 19-year high. Three th...",
+    "✓ 综合财经: Disabled people in England to get 24-hour free bus travel ...",
+    "✗ 综合财经: Can canned cocktails revive the booze business?..."
   ],
-  "positive_count": 8,
-  "negative_count": 6,
-  "neutral_count": 16,
+  "positive_count": 4,
+  "negative_count": 4,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-18T00:58:38.346650",
+  "analyzed_at": "2026-08-18T06:35:44.305866",
   "categories_distribution": {
+    "综合财经": 26,
+    "外汇市场": 3,
     "股市动态": 20,
-    "综合财经": 22,
-    "经济数据": 2,
-    "货币政策": 5,
-    "国际贸易": 3,
-    "外汇市场": 2
+    "大宗商品": 1,
+    "国际贸易": 2,
+    "货币政策": 2
   },
   "ai_provider": "fallback_rules"
 }
