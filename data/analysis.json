@@ -1,28 +1,27 @@
 {
-  "temperature_score": 71.67,
-  "sentiment": "乐观",
-  "sentiment_emoji": "😊",
-  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比16/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
+  "temperature_score": 66.67,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Supply Chain Fraud: $111M Theft Shows New Sophistication...",
-    "✓ 经济数据: Arrow Electronics (ARW) Finds New Fuel For Its Growth Story...",
-    "✓ 综合财经: Italian chain closes 50 restaurants after Chapter 11 bankrup...",
-    "✓ 股市动态: A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up ...",
-    "✓ 综合财经: AXT Inc. (AXTI) Soars 19.8% on Looming Indium Phosphide Pric..."
+    "✓ 综合财经: Analog Devices Tops Views On Strong Data Center, Industrial ...",
+    "✓ 经济数据: How Howard Hughes Holdings’ (HHH) Vantage Acquisition Sets t...",
+    "✗ 股市动态: Earnings live updates: La-Z-Boy stock plunges as 'uneven con...",
+    "✓ 货币政策: Stock Market Today: Dow Rises Ahead Of Fed Minutes; Moderna ...",
+    "✓ 综合财经: Costco launching Medicare Advantage plans with SCAN Group..."
   ],
-  "positive_count": 16,
-  "negative_count": 3,
-  "neutral_count": 11,
+  "positive_count": 12,
+  "negative_count": 2,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-19T06:36:29.764683",
+  "analyzed_at": "2026-08-19T12:37:35.901467",
   "categories_distribution": {
-    "股市动态": 16,
-    "综合财经": 25,
+    "综合财经": 22,
     "经济数据": 4,
-    "外汇市场": 3,
-    "国际贸易": 3,
-    "货币政策": 2,
-    "数字货币": 1
+    "股市动态": 16,
+    "货币政策": 6,
+    "国际贸易": 5,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
