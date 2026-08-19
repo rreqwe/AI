@@ -1,28 +1,28 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 货币政策: US Dollar Price Forecast: Fed Hike Bets Fade as EUR/USD and ...",
-    "✗ 股市动态: Home Depot Earnings Preview: Can Pro Demand Offset a Weak Ho...",
-    "✓ 综合财经: Costco launching Medicare Advantage plans with SCAN Group...",
-    "✓ 货币政策: Global borrowing costs hit fresh highs on oil, AI and inflat...",
+    "✓ 综合财经: GenAI Disruption Fears Pullback in Morningstar (MORN) Despit...",
+    "✓ 综合财经: ‘Never bet against America’: Scott Bessent endorses Warren B...",
+    "✗ 综合财经: What Chinese liquor maker Moutai's slump says about the coun...",
+    "✓ 综合财经: OpenAI rolls out ChatGPT for Teens experience with 'stronger...",
     "✗ 经济数据: US chip stocks slide as government borrowing costs hit multi..."
   ],
-  "positive_count": 6,
-  "negative_count": 4,
-  "neutral_count": 20,
+  "positive_count": 7,
+  "negative_count": 2,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-18T18:31:05.922792",
+  "analyzed_at": "2026-08-19T00:59:40.077103",
   "categories_distribution": {
-    "股市动态": 20,
-    "货币政策": 4,
+    "综合财经": 25,
+    "股市动态": 5,
     "大宗商品": 1,
-    "外汇市场": 1,
-    "综合财经": 24,
-    "经济数据": 3,
-    "国际贸易": 2
+    "国际贸易": 3,
+    "货币政策": 3,
+    "经济数据": 2,
+    "数字货币": 1
   },
   "ai_provider": "fallback_rules"
 }
