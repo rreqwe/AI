@@ -1,27 +1,27 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Analog Devices Tops Views On Strong Data Center, Industrial ...",
-    "✓ 经济数据: How Howard Hughes Holdings’ (HHH) Vantage Acquisition Sets t...",
-    "✗ 股市动态: Earnings live updates: La-Z-Boy stock plunges as 'uneven con...",
-    "✓ 货币政策: Stock Market Today: Dow Rises Ahead Of Fed Minutes; Moderna ...",
-    "✓ 综合财经: Costco launching Medicare Advantage plans with SCAN Group..."
+    "✓ 综合财经: Sylvamo’s (SLVM) Rocky Road To A Stronger Second Half...",
+    "✓ 外汇市场: European direct lending volume rebounds, amid support for so...",
+    "✓ 综合财经: Costco launching Medicare Advantage plans with SCAN Group...",
+    "✓ 股市动态: US Treasury to boost long-term bond purchases in bid to stea...",
+    "✓ 股市动态: Moderna, Merck cancer vaccine shows promise in late-stage tr..."
   ],
-  "positive_count": 12,
+  "positive_count": 10,
   "negative_count": 2,
-  "neutral_count": 16,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-19T12:37:35.901467",
+  "analyzed_at": "2026-08-19T18:27:56.661920",
   "categories_distribution": {
     "综合财经": 22,
-    "经济数据": 4,
-    "股市动态": 16,
-    "货币政策": 6,
-    "国际贸易": 5,
-    "外汇市场": 2
+    "股市动态": 21,
+    "外汇市场": 3,
+    "货币政策": 2,
+    "国际贸易": 3,
+    "经济数据": 4
   },
   "ai_provider": "fallback_rules"
 }
