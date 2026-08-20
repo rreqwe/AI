@@ -1,28 +1,28 @@
 {
-  "temperature_score": 51.67,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Intel Stock Has Plunged 32% — What Investors Need to Know Be...",
-    "✓ 综合财经: Why Shared Truckload Wins When Truckload Rates Rise...",
-    "✗ 综合财经: Klarna Falls On Lowered Guidance. Affirm Dips On News....",
-    "✗ 股市动态: Will the housing market crash in 2026? Gen Z is rooting for ...",
-    "✓ 综合财经: These Telltale Signs Cue Microsoft Investors Despite Earning..."
+    "✓ 经济数据: Earnings live updates: Advance Auto Parts stock drops as 'co...",
+    "✗ 综合财经: Jim Cramer drops stunning take on the economy...",
+    "✓ 综合财经: Brookdale Senior Living (BKD) Bets Big On Real Estate While ...",
+    "✗ 股市动态: Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Th...",
+    "✓ 综合财经: Harrow (HROW): Strong Product Momentum Meets A Steep H2 Reve..."
   ],
-  "positive_count": 8,
-  "negative_count": 7,
-  "neutral_count": 15,
+  "positive_count": 9,
+  "negative_count": 4,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-20T06:38:11.151702",
+  "analyzed_at": "2026-08-20T12:38:41.949533",
   "categories_distribution": {
+    "综合财经": 23,
+    "经济数据": 4,
     "股市动态": 20,
-    "综合财经": 22,
-    "货币政策": 3,
-    "外汇市场": 1,
-    "大宗商品": 1,
     "国际贸易": 4,
-    "经济数据": 2
+    "大宗商品": 1,
+    "外汇市场": 1,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
