@@ -1,27 +1,28 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Brookfield Corporation’s (BN) Strength Overshadowed by Secto...",
-    "✓ 经济数据: Meta Platforms’ (META) Strong Growth Backdrop Highlights Val...",
-    "✓ 综合财经: Costco launching Medicare Advantage plans with SCAN Group...",
-    "✓ 国际贸易: Japan exports beat estimates in July as robust chip shipment...",
-    "✓ 股市动态: Inside India newsletter: Chip squeeze hits Chinese smartphon..."
+    "✗ 股市动态: Intel Stock Has Plunged 32% — What Investors Need to Know Be...",
+    "✓ 综合财经: Why Shared Truckload Wins When Truckload Rates Rise...",
+    "✗ 综合财经: Klarna Falls On Lowered Guidance. Affirm Dips On News....",
+    "✗ 股市动态: Will the housing market crash in 2026? Gen Z is rooting for ...",
+    "✓ 综合财经: These Telltale Signs Cue Microsoft Investors Despite Earning..."
   ],
-  "positive_count": 12,
-  "negative_count": 2,
-  "neutral_count": 16,
+  "positive_count": 8,
+  "negative_count": 7,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-20T00:59:08.397062",
+  "analyzed_at": "2026-08-20T06:38:11.151702",
   "categories_distribution": {
-    "股市动态": 25,
-    "经济数据": 4,
-    "综合财经": 15,
-    "国际贸易": 5,
-    "货币政策": 4,
-    "外汇市场": 2
+    "股市动态": 20,
+    "综合财经": 22,
+    "货币政策": 3,
+    "外汇市场": 1,
+    "大宗商品": 1,
+    "国际贸易": 4,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
