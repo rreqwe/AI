@@ -1,27 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Earnings live updates: Advance Auto Parts stock drops as 'co...",
+    "✓ 综合财经: Unitree soars in Shanghai debut, a milestone for China's hum...",
+    "✗ 综合财经: SK Hynix plans $28.6 billion buyback after share price decli...",
+    "✓ 综合财经: Samsung hikes chipmaking prices by up to 15% on demand spike...",
     "✗ 综合财经: Jim Cramer drops stunning take on the economy...",
-    "✓ 综合财经: Brookdale Senior Living (BKD) Bets Big On Real Estate While ...",
-    "✗ 股市动态: Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Th...",
-    "✓ 综合财经: Harrow (HROW): Strong Product Momentum Meets A Steep H2 Reve..."
+    "✓ 综合财经: Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion..."
   ],
-  "positive_count": 9,
-  "negative_count": 4,
-  "neutral_count": 17,
+  "positive_count": 7,
+  "negative_count": 3,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-20T12:38:41.949533",
+  "analyzed_at": "2026-08-20T18:32:31.793869",
   "categories_distribution": {
-    "综合财经": 23,
-    "经济数据": 4,
-    "股市动态": 20,
-    "国际贸易": 4,
-    "大宗商品": 1,
+    "综合财经": 27,
+    "股市动态": 19,
     "外汇市场": 1,
+    "经济数据": 2,
+    "大宗商品": 3,
+    "国际贸易": 2,
     "货币政策": 1
   },
   "ai_provider": "fallback_rules"
