@@ -1,27 +1,27 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Sylvamo’s (SLVM) Rocky Road To A Stronger Second Half...",
-    "✓ 外汇市场: European direct lending volume rebounds, amid support for so...",
+    "✗ 股市动态: Brookfield Corporation’s (BN) Strength Overshadowed by Secto...",
+    "✓ 经济数据: Meta Platforms’ (META) Strong Growth Backdrop Highlights Val...",
     "✓ 综合财经: Costco launching Medicare Advantage plans with SCAN Group...",
-    "✓ 股市动态: US Treasury to boost long-term bond purchases in bid to stea...",
-    "✓ 股市动态: Moderna, Merck cancer vaccine shows promise in late-stage tr..."
+    "✓ 国际贸易: Japan exports beat estimates in July as robust chip shipment...",
+    "✓ 股市动态: Inside India newsletter: Chip squeeze hits Chinese smartphon..."
   ],
-  "positive_count": 10,
+  "positive_count": 12,
   "negative_count": 2,
-  "neutral_count": 18,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-19T18:27:56.661920",
+  "analyzed_at": "2026-08-20T00:59:08.397062",
   "categories_distribution": {
-    "综合财经": 22,
-    "股市动态": 21,
-    "外汇市场": 3,
-    "货币政策": 2,
-    "国际贸易": 3,
-    "经济数据": 4
+    "股市动态": 25,
+    "经济数据": 4,
+    "综合财经": 15,
+    "国际贸易": 5,
+    "货币政策": 4,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
