@@ -1,27 +1,29 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Amazon (AMZN) Sees Bigger AWS Growth, but Rising Competition...",
-    "✓ 经济数据: Microsoft Corporation’s (MSFT) Rich Innovation Legacy Anchor...",
-    "✓ 股市动态: Unitree, famous for its dancing robots, surges by 460% on it...",
-    "✓ 股市动态: Is Wall Street Bullish or Bearish on CoStar Group Stock?...",
-    "✗ 股市动态: Nike’s nightmare collapse deepens as shares crash 78% from h..."
+    "✗ 货币政策: Several Fed officials wanted to raise rates last month. If i...",
+    "✓ 综合财经: Imran Khan moved from Pakistan jail to hospital and back aga...",
+    "✓ 综合财经: 'Perfect storm' brews for global food supply this winter as ...",
+    "✓ 综合财经: 'A delicate dance': JD Vance says economic pressure is the b...",
+    "✓ 股市动态: Bearish Signal For Market Rally; Now What? - Investor's Busi..."
   ],
-  "positive_count": 8,
-  "negative_count": 5,
-  "neutral_count": 17,
+  "positive_count": 6,
+  "negative_count": 2,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-21T01:02:54.266082",
+  "analyzed_at": "2026-08-21T06:38:16.357206",
   "categories_distribution": {
-    "综合财经": 16,
-    "经济数据": 5,
-    "股市动态": 27,
+    "经济数据": 3,
+    "综合财经": 19,
+    "股市动态": 23,
+    "数字货币": 1,
+    "货币政策": 4,
+    "外汇市场": 1,
     "国际贸易": 2,
-    "大宗商品": 3,
-    "货币政策": 2
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
