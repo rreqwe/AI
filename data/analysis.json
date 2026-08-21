@@ -1,27 +1,26 @@
 {
-  "temperature_score": 65.0,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 75.0,
+  "sentiment": "乐观",
+  "sentiment_emoji": "😊",
+  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比15/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
   "key_factors": [
-    "✓ 大宗商品: Copper Just Overtook Iron Ore at BHP Group (BHP). Is Its Por...",
-    "✓ 经济数据: XP Inc. (XP) Beat Estimates. Is a U.S. Banking Operation Gro...",
-    "✓ 股市动态: Reddit (RDDT) Jumped 13% on S&P 500 Inclusion. Will Index De...",
-    "✓ 综合财经: Capricor (CAPR) Closed 58% Higher on an FDA Lifeline. Is App...",
-    "✓ 外汇市场: Bitcoin on track for 20% weekly gain as investor optimism fl..."
+    "✓ 股市动态: IBM vs. Accenture: One Trades at a 52-Week Low. The Better D...",
+    "✓ 经济数据: Compass Diversified (CODI): Branded Consumer Growth Masks In...",
+    "✓ 大宗商品: Middle East Oil Crisis Sends Supertanker Prices to Record Hi...",
+    "✓ 综合财经: AT&T stands to gain as Verizon loses a customer related batt...",
+    "✓ 综合财经: From Yellowcake to Commercial Scale: Can Ur-Energy (URG) Liv..."
   ],
-  "positive_count": 11,
-  "negative_count": 2,
-  "neutral_count": 17,
+  "positive_count": 15,
+  "negative_count": 0,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-21T12:37:41.707443",
+  "analyzed_at": "2026-08-21T18:30:26.435405",
   "categories_distribution": {
-    "大宗商品": 3,
-    "经济数据": 1,
-    "股市动态": 21,
-    "综合财经": 26,
-    "国际贸易": 1,
-    "外汇市场": 3
+    "股市动态": 22,
+    "经济数据": 2,
+    "大宗商品": 2,
+    "综合财经": 24,
+    "国际贸易": 5
   },
   "ai_provider": "fallback_rules"
 }
