@@ -2,27 +2,26 @@
   "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: WMT Stock Slides as Walmart Same-Store Sales Disappoint...",
-    "✓ 数字货币: SOL Strategies Evolving Into Broader Blockchain Platform – Q...",
+    "✓ 综合财经: Can Abbott Laboratories (ABT)’s Instinct Sensor Give MiniMed...",
     "✓ 综合财经: AT&T stands to gain as Verizon loses a customer related batt...",
-    "✗ 股市动态: 'We have more work to do', says Canada negotiator as US trad...",
-    "✓ 国际贸易: Trump to allow import of 300,000 metric tons of ground beef ..."
+    "✗ 国际贸易: Canada vows to match US tariffs as trade talks collapse...",
+    "✓ 综合财经: Trump’s economic challenge: $40tn debt, 6.7% mortgages and $...",
+    "✓ 股市动态: Bossing the bond market around never works..."
   ],
-  "positive_count": 11,
-  "negative_count": 4,
-  "neutral_count": 15,
+  "positive_count": 10,
+  "negative_count": 3,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-22T00:59:00.821549",
+  "analyzed_at": "2026-08-22T06:32:25.931857",
   "categories_distribution": {
-    "货币政策": 1,
-    "股市动态": 21,
-    "综合财经": 22,
-    "数字货币": 1,
-    "国际贸易": 6,
+    "综合财经": 28,
+    "股市动态": 18,
+    "国际贸易": 3,
+    "外汇市场": 1,
     "大宗商品": 2,
-    "经济数据": 1
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
