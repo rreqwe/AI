@@ -1,27 +1,27 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: BitFuFu (FUFU) Increased Hashrate Allocated to Self-Mining 4...",
-    "✓ 经济数据: Keysight (KEYS) Raised Its Outlook. Is AI Testing Becoming a...",
+    "✗ 综合财经: Billionaire Leon Cooperman says today's AI boom echoes a big...",
     "✓ 股市动态: 91-year-old supermarket chain closes stores, lays off employ...",
-    "✗ 股市动态: Klarna (KLAR) Posted a $9 Million Quarterly Profit. Why Did ...",
-    "✓ 外汇市场: US buyers snap up Europe’s asset managers at fastest rate in..."
+    "✗ 股市动态: Airbnb Just Hit a Four-Year High. The Downgrade Says That’s ...",
+    "✓ 综合财经: CrossCountry cancels 'almost all' UK services after power cu...",
+    "✗ 货币政策: Small UK power plant shut down after cyberattack linked to I..."
   ],
   "positive_count": 6,
-  "negative_count": 3,
-  "neutral_count": 21,
+  "negative_count": 4,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-23T06:33:36.076260",
+  "analyzed_at": "2026-08-23T12:31:11.034126",
   "categories_distribution": {
-    "综合财经": 27,
-    "经济数据": 3,
-    "股市动态": 16,
-    "外汇市场": 1,
-    "大宗商品": 2,
-    "国际贸易": 4
+    "综合财经": 29,
+    "货币政策": 2,
+    "股市动态": 15,
+    "经济数据": 5,
+    "国际贸易": 3,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
