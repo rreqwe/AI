@@ -1,24 +1,24 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Dow Jones Futures: Market Rally Repairs Some Damage As Nvidi...",
-    "✗ 股市动态: If a Stock Market Crash Is Coming, History Says Buying and H...",
-    "✓ 综合财经: Inside Coca-Cola’s secretive innovation labs: How the bevera...",
-    "✓ 综合财经: For young Americans, the workplace is the new phoneless fron...",
-    "✓ 综合财经: Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel..."
+    "✓ 股市动态: The $1 Billion Reason Why Cleveland-Cliffs Stock Is Up Today...",
+    "✗ 股市动态: Michael Burry Told Everyone to ‘Sell’ in January 2023. If Yo...",
+    "✗ 股市动态: Nike Stock Sinks to Multi-Year Lows: There’s No Quick Fix fo...",
+    "✓ 股市动态: MicroCloud Hologram Adds $15.76M Strategy Stake, Shares Rise...",
+    "✓ 综合财经: Nvidia customers reportedly warned about AI-related price hi..."
   ],
-  "positive_count": 4,
-  "negative_count": 1,
-  "neutral_count": 25,
+  "positive_count": 5,
+  "negative_count": 3,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-22T18:22:34.454259",
+  "analyzed_at": "2026-08-23T01:03:56.183142",
   "categories_distribution": {
-    "股市动态": 18,
-    "综合财经": 28,
-    "国际贸易": 4,
+    "综合财经": 26,
+    "股市动态": 21,
+    "国际贸易": 3,
     "经济数据": 2,
     "外汇市场": 1,
     "大宗商品": 1
