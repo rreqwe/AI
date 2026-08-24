@@ -1,26 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: HP exec reveals the Gen Z ‘superpower’ that he says helps yo...",
     "✓ 股市动态: 91-year-old supermarket chain closes stores, lays off employ...",
-    "✓ 综合财经: NVIDIA, Cloverleaf Partnering to Advance Data Center Develop...",
-    "✓ 国际贸易: Trump accused of risking more pain for Americans with Canada...",
-    "✓ 综合财经: CrossCountry cancels 'almost all' UK services after power cu..."
+    "✓ 股市动态: Nvidia Might Deliver Another ‘Beat and Raise’ Quarter, But I...",
+    "✗ 股市动态: What's bogging down the data center trade has nothing to do ...",
+    "✗ 综合财经: Treasury Secretary to announce Iran sanctions as Tehran dism...",
+    "✓ 股市动态: Japan’s stock market setup looks similar to late 2023. Here’..."
   ],
-  "positive_count": 7,
-  "negative_count": 1,
+  "positive_count": 6,
+  "negative_count": 2,
   "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-23T18:22:11.267276",
+  "analyzed_at": "2026-08-24T01:01:53.182817",
   "categories_distribution": {
+    "股市动态": 18,
     "综合财经": 26,
-    "股市动态": 17,
-    "货币政策": 3,
-    "国际贸易": 3,
-    "经济数据": 5,
+    "国际贸易": 4,
+    "货币政策": 2,
+    "经济数据": 4,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
