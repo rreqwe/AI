@@ -1,28 +1,28 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Nvidia Q2 Preview: Strong Earnings and Low Valuation Set the...",
-    "✓ 综合财经: David Einhorn Just Bet $61.5 Million on PayPal. Why PYPL Loo...",
-    "✓ 经济数据: Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuat...",
-    "✓ 股市动态: 91-year-old supermarket chain closes stores, lays off employ...",
-    "✓ 综合财经: CrossCountry train services resume after outage..."
+    "✗ 大宗商品: Oil falls ahead of US announcement of new sanctions on Iran...",
+    "✗ 股市动态: Stock Market Today: Dow Falls Ahead of 'Economic D-Day'; Ali...",
+    "✓ 经济数据: Apple vs. Adobe: Seasonal Peaks vs. Steady Growth in Revenue...",
+    "✓ 综合财经: Trip.com (TCOM): China’s Largest Travel Platform Set for Lon...",
+    "✓ 股市动态: U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trad..."
   ],
-  "positive_count": 7,
-  "negative_count": 2,
-  "neutral_count": 21,
+  "positive_count": 11,
+  "negative_count": 5,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-24T06:49:16.393330",
+  "analyzed_at": "2026-08-24T12:40:08.312661",
   "categories_distribution": {
-    "综合财经": 22,
-    "股市动态": 18,
-    "经济数据": 4,
-    "货币政策": 2,
+    "国际贸易": 3,
     "大宗商品": 2,
-    "外汇市场": 1,
-    "国际贸易": 4
+    "股市动态": 20,
+    "综合财经": 24,
+    "经济数据": 3,
+    "外汇市场": 2,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
