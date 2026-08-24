@@ -1,28 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 大宗商品: Oil falls ahead of US announcement of new sanctions on Iran...",
-    "✗ 股市动态: Stock Market Today: Dow Falls Ahead of 'Economic D-Day'; Ali...",
-    "✓ 经济数据: Apple vs. Adobe: Seasonal Peaks vs. Steady Growth in Revenue...",
-    "✓ 综合财经: Trip.com (TCOM): China’s Largest Travel Platform Set for Lon...",
-    "✓ 股市动态: U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trad..."
+    "✓ 经济数据: AWS Was Lagging Microsoft Azure and Google Cloud in Growth—I...",
+    "✗ 综合财经: New combines now list for $1 million as farm income drops 2....",
+    "✓ 综合财经: Gen Z needs a 'reality check,' says BofA: Is the 'little tre...",
+    "✓ 综合财经: Citibank exec says every 10-year delay in retirement savings...",
+    "✓ 国际贸易: Trump says US to increase tariffs on Canadian cars to 50%..."
   ],
-  "positive_count": 11,
+  "positive_count": 6,
   "negative_count": 5,
-  "neutral_count": 14,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-24T12:40:08.312661",
+  "analyzed_at": "2026-08-24T18:33:43.000022",
   "categories_distribution": {
-    "国际贸易": 3,
-    "大宗商品": 2,
-    "股市动态": 20,
-    "综合财经": 24,
+    "综合财经": 22,
+    "股市动态": 24,
     "经济数据": 3,
-    "外汇市场": 2,
-    "货币政策": 1
+    "国际贸易": 4,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
