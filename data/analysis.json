@@ -1,28 +1,28 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth S...",
-    "✓ 经济数据: Zoetis Earnings Reveal a Divided Business, But Can its Pipel...",
-    "✓ 经济数据: Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offer...",
-    "✓ 经济数据: AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zeg...",
-    "✓ 国际贸易: Trump targets Iran’s trade lifelines — here are the countrie..."
+    "✓ 股市动态: Stock Market Today: Dow Rises As Treasury Yields Fall; Nvidi...",
+    "✓ 股市动态: These 3 Tech ETFs Can Beat the S&P 500 This Year...",
+    "✗ 货币政策: Stock market today: S&P 500, Nasdaq futures recover in count...",
+    "✗ 大宗商品: Oil drops more than 3% on report U.S. plans to return evacua...",
+    "✓ 股市动态: Moderna Shares Are Up 350% in 2026. Is the Stock a Buy Now? ..."
   ],
-  "positive_count": 11,
-  "negative_count": 1,
+  "positive_count": 6,
+  "negative_count": 6,
   "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-25T06:38:52.689192",
+  "analyzed_at": "2026-08-25T12:39:06.818989",
   "categories_distribution": {
     "综合财经": 21,
-    "经济数据": 4,
-    "股市动态": 19,
-    "国际贸易": 6,
-    "外汇市场": 2,
-    "大宗商品": 1,
-    "货币政策": 1
+    "股市动态": 20,
+    "大宗商品": 4,
+    "货币政策": 2,
+    "经济数据": 3,
+    "国际贸易": 4,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
