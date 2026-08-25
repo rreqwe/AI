@@ -4,25 +4,26 @@
   "sentiment_emoji": "😐",
   "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Stock Market Today: Dow Rises As Treasury Yields Fall; Nvidi...",
-    "✓ 股市动态: These 3 Tech ETFs Can Beat the S&P 500 This Year...",
-    "✗ 货币政策: Stock market today: S&P 500, Nasdaq futures recover in count...",
-    "✗ 大宗商品: Oil drops more than 3% on report U.S. plans to return evacua...",
-    "✓ 股市动态: Moderna Shares Are Up 350% in 2026. Is the Stock a Buy Now? ..."
+    "✓ 综合财经: GE Vernova to supply technology for stage three of Supernode...",
+    "✗ 股市动态: Downsizing after retirement often makes no sense — are you l...",
+    "✓ 综合财经: Trump goes all in on Sen. Darline Graham in South Carolina, ...",
+    "✗ 经济数据: Iran and Oman discuss joint shipping route in Strait of Horm...",
+    "✓ 综合财经: SpaceX plans to build a $100 billion spaceport in Louisiana..."
   ],
   "positive_count": 6,
   "negative_count": 6,
   "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-25T12:39:06.818989",
+  "analyzed_at": "2026-08-25T18:33:40.085738",
   "categories_distribution": {
-    "综合财经": 21,
-    "股市动态": 20,
-    "大宗商品": 4,
-    "货币政策": 2,
-    "经济数据": 3,
-    "国际贸易": 4,
-    "外汇市场": 1
+    "外汇市场": 1,
+    "综合财经": 22,
+    "数字货币": 1,
+    "股市动态": 19,
+    "经济数据": 4,
+    "货币政策": 1,
+    "国际贸易": 5,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
