@@ -2,25 +2,25 @@
   "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: AWS Was Lagging Microsoft Azure and Google Cloud in Growth—I...",
-    "✗ 综合财经: New combines now list for $1 million as farm income drops 2....",
-    "✓ 综合财经: Gen Z needs a 'reality check,' says BofA: Is the 'little tre...",
-    "✓ 综合财经: Citibank exec says every 10-year delay in retirement savings...",
-    "✓ 国际贸易: Trump says US to increase tariffs on Canadian cars to 50%..."
+    "✓ 综合财经: HP exec reveals the Gen Z ‘superpower’ that he says helps yo...",
+    "✓ 综合财经: Paramount CEO David Ellison is at the final hurdle before bu...",
+    "✗ 股市动态: Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses...",
+    "✓ 国际贸易: Trump says US to increase tariffs on Canadian cars to 50%...",
+    "✗ 股市动态: Main Street Sports sues Comcast, Charter for underpaid licen..."
   ],
-  "positive_count": 6,
-  "negative_count": 5,
-  "neutral_count": 19,
+  "positive_count": 5,
+  "negative_count": 4,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-24T18:33:43.000022",
+  "analyzed_at": "2026-08-25T01:01:16.209519",
   "categories_distribution": {
-    "综合财经": 22,
+    "综合财经": 23,
     "股市动态": 24,
-    "经济数据": 3,
+    "货币政策": 3,
     "国际贸易": 4,
-    "大宗商品": 2
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
