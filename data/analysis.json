@@ -1,29 +1,27 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: GE Vernova to supply technology for stage three of Supernode...",
-    "✗ 股市动态: Downsizing after retirement often makes no sense — are you l...",
-    "✓ 综合财经: Trump goes all in on Sen. Darline Graham in South Carolina, ...",
-    "✗ 经济数据: Iran and Oman discuss joint shipping route in Strait of Horm...",
-    "✓ 综合财经: SpaceX plans to build a $100 billion spaceport in Louisiana..."
+    "✓ 综合财经: Tesla, Amazon and Microsoft Hold Gains at Key Technical Leve...",
+    "✓ 数字货币: Strategy Leaves Bitcoin Holdings Unchanged As Price Rises...",
+    "✗ 股市动态: Amazon service Bezos once called 'artificial artificial inte...",
+    "✓ 大宗商品: AI gold rush draws crypto firms away from Bitcoin...",
+    "✓ 综合财经: Firms scramble for battery power in Spain and Portugal..."
   ],
-  "positive_count": 6,
-  "negative_count": 6,
-  "neutral_count": 18,
+  "positive_count": 12,
+  "negative_count": 2,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-25T18:33:40.085738",
+  "analyzed_at": "2026-08-26T01:02:52.040189",
   "categories_distribution": {
-    "外汇市场": 1,
-    "综合财经": 22,
-    "数字货币": 1,
-    "股市动态": 19,
-    "经济数据": 4,
-    "货币政策": 1,
+    "综合财经": 26,
+    "数字货币": 2,
+    "股市动态": 18,
+    "大宗商品": 3,
     "国际贸易": 5,
-    "大宗商品": 2
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
