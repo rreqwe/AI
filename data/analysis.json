@@ -1,27 +1,27 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Tesla, Amazon and Microsoft Hold Gains at Key Technical Leve...",
-    "✓ 数字货币: Strategy Leaves Bitcoin Holdings Unchanged As Price Rises...",
-    "✗ 股市动态: Amazon service Bezos once called 'artificial artificial inte...",
-    "✓ 大宗商品: AI gold rush draws crypto firms away from Bitcoin...",
-    "✓ 综合财经: Firms scramble for battery power in Spain and Portugal..."
+    "✗ 股市动态: Applied Materials Drops 34%. Here’s Why You Should Buy the D...",
+    "✓ 综合财经: Temasek-backed investor behind Unitree pitches Singapore as ...",
+    "✓ 综合财经: Household energy bills to hit three-year high as Ofgem annou...",
+    "✗ 大宗商品: Oil falls as the U.S. pivots to economic pressure on Iran ...",
+    "✓ 综合财经: HP partners with U.S.-blacklisted Huawei for licensing the C..."
   ],
-  "positive_count": 12,
-  "negative_count": 2,
-  "neutral_count": 16,
+  "positive_count": 6,
+  "negative_count": 3,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-26T01:02:52.040189",
+  "analyzed_at": "2026-08-26T06:40:23.632959",
   "categories_distribution": {
-    "综合财经": 26,
-    "数字货币": 2,
-    "股市动态": 18,
-    "大宗商品": 3,
+    "股市动态": 21,
+    "综合财经": 22,
     "国际贸易": 5,
-    "经济数据": 1
+    "大宗商品": 3,
+    "货币政策": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
