@@ -1,27 +1,28 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Earnings live updates: Abercrombie & Fitch stock jumps on ea...",
-    "✓ 经济数据: Cybersecurity Stocks Are Priced For Big AI Growth. Why Earni...",
-    "✓ 大宗商品: Silver price today, Wednesday, August 26, 2026:  Silver pric...",
-    "✓ 货币政策: Fed’s preferred inflation gauge shows core prices rose 3.3% ...",
-    "✗ 股市动态: Amazon service Bezos once called 'artificial artificial inte..."
+    "✓ 数字货币: Ethereum Price Risks $2K Retest as Short-Liquidation Fuel Dr...",
+    "✓ 货币政策: Federal judge lifts final block on Trump mail-in voting orde...",
+    "✓ 综合财经: OpenAI says it took a week to detect its AI models had hacke...",
+    "✓ 货币政策: Fed, NASA and DOJ among victims of Chinese state-sponsored h...",
+    "✓ 货币政策: Meta to pay up to $18bn to settle claims its platforms harm ..."
   ],
-  "positive_count": 9,
+  "positive_count": 8,
   "negative_count": 2,
-  "neutral_count": 19,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-26T12:42:33.373334",
+  "analyzed_at": "2026-08-26T19:43:40.246612",
   "categories_distribution": {
-    "经济数据": 6,
-    "股市动态": 17,
-    "综合财经": 22,
-    "大宗商品": 3,
-    "货币政策": 3,
-    "国际贸易": 3
+    "综合财经": 25,
+    "股市动态": 16,
+    "国际贸易": 1,
+    "数字货币": 1,
+    "货币政策": 6,
+    "经济数据": 4,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
