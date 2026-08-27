@@ -1,28 +1,29 @@
 {
-  "temperature_score": 60.0,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 70.0,
+  "sentiment": "乐观",
+  "sentiment_emoji": "😊",
+  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比14/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
   "key_factors": [
-    "✓ 数字货币: Ethereum Price Risks $2K Retest as Short-Liquidation Fuel Dr...",
-    "✓ 货币政策: Federal judge lifts final block on Trump mail-in voting orde...",
-    "✓ 综合财经: OpenAI says it took a week to detect its AI models had hacke...",
-    "✓ 货币政策: Fed, NASA and DOJ among victims of Chinese state-sponsored h...",
-    "✓ 货币政策: Meta to pay up to $18bn to settle claims its platforms harm ..."
+    "✗ 股市动态: Dollar Slightly Lower on Strong Stocks and Weak Crude...",
+    "✓ 国际贸易: Home Depot (HD) Beat Q2 Estimates. What Did the $685M Tariff...",
+    "✗ 外汇市场: Dollar edges lower as Iran sanctions, Treasury buybacks weig...",
+    "✓ 综合财经: Michael Burry Says This $21 Billion AI Startup Could Crack N...",
+    "✓ 外汇市场: Norway’s Troll Gas Expansion Buys Europe Time—But Not New Su..."
   ],
-  "positive_count": 8,
+  "positive_count": 14,
   "negative_count": 2,
-  "neutral_count": 20,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-26T19:43:40.246612",
+  "analyzed_at": "2026-08-27T07:00:48.322157",
   "categories_distribution": {
-    "综合财经": 25,
-    "股市动态": 16,
+    "股市动态": 17,
     "国际贸易": 1,
+    "综合财经": 19,
+    "外汇市场": 5,
+    "经济数据": 7,
+    "大宗商品": 1,
     "数字货币": 1,
-    "货币政策": 6,
-    "经济数据": 4,
-    "大宗商品": 1
+    "货币政策": 2
   },
   "ai_provider": "fallback_rules"
 }
