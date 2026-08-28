@@ -1,26 +1,27 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: SUPER HI INTERNATIONAL HOLDING Ltd. American Depositary Shar...",
-    "✓ 股市动态: Nvidia Stock Turns Higher on Strong 2028 Outlook...",
-    "✗ 股市动态: Bank of America doubles down on Nvidia stock...",
-    "✓ 综合财经: Sports Direct founder attacks Burnham's 'populist' High Stre...",
-    "✗ 股市动态: Will the Stock Market Crash in 2026? Why Rising Fear Could B..."
+    "✗ 股市动态: DP World reportedly shutting down SeaRates digital freight p...",
+    "✓ 股市动态: Stocks Rally as Nvidia Earnings Boost AI Optimism...",
+    "✓ 综合财经: Could Credit Acceptance (CACC) Keep Rising as Credit Trends ...",
+    "✓ 经济数据: Nvidia Crushed Earnings Again. Here’s the Secret Growth Oppo...",
+    "✓ 综合财经: Why Nvidia spooked Apple investors... again..."
   ],
-  "positive_count": 10,
-  "negative_count": 2,
-  "neutral_count": 18,
+  "positive_count": 13,
+  "negative_count": 4,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-28T08:48:39.996747",
+  "analyzed_at": "2026-08-28T21:41:06.256197",
   "categories_distribution": {
-    "综合财经": 27,
-    "股市动态": 20,
-    "货币政策": 3,
-    "国际贸易": 2,
-    "经济数据": 2
+    "综合财经": 21,
+    "股市动态": 17,
+    "经济数据": 4,
+    "货币政策": 10,
+    "国际贸易": 1,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
