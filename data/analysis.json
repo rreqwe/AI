@@ -1,27 +1,28 @@
 {
-  "temperature_score": 65.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: DP World reportedly shutting down SeaRates digital freight p...",
-    "✓ 股市动态: Stocks Rally as Nvidia Earnings Boost AI Optimism...",
-    "✓ 综合财经: Could Credit Acceptance (CACC) Keep Rising as Credit Trends ...",
-    "✓ 经济数据: Nvidia Crushed Earnings Again. Here’s the Secret Growth Oppo...",
-    "✓ 综合财经: Why Nvidia spooked Apple investors... again..."
+    "✓ 综合财经: Tempus AI (TEM) Jumped on Moderna’s Melanoma Win. Did its $1...",
+    "✓ 综合财经: Vipshop (VIPS) Reported a 189% GAAP Profit Surge as Revenue ...",
+    "✗ 股市动态: Risk of a new age of financial repression is rising...",
+    "✓ 综合财经: Did AI write this? It’s getting harder to tell ...",
+    "✗ 大宗商品: Trump says US to take control of 65bn barrels of Venezuelan ..."
   ],
-  "positive_count": 13,
-  "negative_count": 4,
-  "neutral_count": 13,
+  "positive_count": 8,
+  "negative_count": 3,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-28T21:41:06.256197",
+  "analyzed_at": "2026-08-29T05:25:20.581834",
   "categories_distribution": {
-    "综合财经": 21,
-    "股市动态": 17,
-    "经济数据": 4,
-    "货币政策": 10,
-    "国际贸易": 1,
-    "外汇市场": 2
+    "数字货币": 1,
+    "综合财经": 24,
+    "股市动态": 5,
+    "外汇市场": 1,
+    "大宗商品": 3,
+    "货币政策": 5,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
