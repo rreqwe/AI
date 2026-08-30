@@ -1,26 +1,27 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: What Are The Top Defense Stocks This Year? These 5 Leaders W...",
-    "✓ 综合财经: A bankruptcy attorney explains exactly when creditors can — ...",
-    "✓ 综合财经: Best CD rates today, Saturday, August 29, 2026: Lock in up t...",
-    "✗ 综合财经: Sold Your Old Couch at a Loss? The 1099-K Doesn’t Know That....",
-    "✗ 股市动态: If a Stock Market Crash Is Coming, You'll Want to Hold Onto ..."
+    "✓ 综合财经: Kevin O'Leary, worth $400 million, compares paper towel pric...",
+    "✗ 股市动态: 1 Stat That Makes Hershey Stock Hard to Ignore Heading Into ...",
+    "✓ 综合财经: He beat Big Tobacco. Will the same playbook work against Met...",
+    "✗ 股市动态: Meta Stock Looks Undervalued. Is the Market Missing Somethin...",
+    "✓ 股市动态: Jobs report, Broadcom results pose next hurdles for stock ma..."
   ],
-  "positive_count": 5,
+  "positive_count": 6,
   "negative_count": 5,
-  "neutral_count": 20,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-30T11:08:53.152817",
+  "analyzed_at": "2026-08-30T15:57:13.214834",
   "categories_distribution": {
-    "综合财经": 29,
-    "股市动态": 15,
-    "大宗商品": 4,
-    "货币政策": 4,
+    "综合财经": 24,
+    "股市动态": 20,
+    "货币政策": 2,
+    "国际贸易": 2,
     "外汇市场": 1,
+    "大宗商品": 4,
     "经济数据": 2
   },
   "ai_provider": "fallback_rules"
