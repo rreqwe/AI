@@ -1,28 +1,27 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Pinterest’s (PINS) CFO Exit Tests Whether The Growth Story H...",
-    "✓ 经济数据: Miniso (MNSO) Booming Membership Growth Collides With A Stru...",
-    "✓ 综合财经: Big Tech profits get $160bn boost from gains on stakes in ot...",
-    "✓ 货币政策: Ukraine’s ex-defence minister touts ‘new history’ in war aga...",
-    "✓ 综合财经: He beat Big Tobacco. Will the same playbook work against Met..."
+    "✗ 综合财经: 72% of homebuyers have paused their search waiting for lower...",
+    "✓ 股市动态: A $2 Billion Reason to Buy UPS Stock...",
+    "✓ 经济数据: China's factory activity shrinks for second straight month, ...",
+    "✓ 大宗商品: Trump threatens to blow up Iran's Kharg Island oil hub as ho...",
+    "✓ 大宗商品: Oil rises over 1% after U.S. forces strike two Iranian rocke..."
   ],
   "positive_count": 9,
-  "negative_count": 1,
-  "neutral_count": 20,
+  "negative_count": 2,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-08-30T20:28:18.982371",
+  "analyzed_at": "2026-08-31T03:17:19.764825",
   "categories_distribution": {
-    "股市动态": 15,
-    "综合财经": 26,
+    "股市动态": 20,
+    "综合财经": 22,
     "经济数据": 4,
-    "货币政策": 3,
-    "国际贸易": 2,
-    "外汇市场": 1,
-    "大宗商品": 3
+    "大宗商品": 5,
+    "国际贸易": 1,
+    "货币政策": 2
   },
   "ai_provider": "fallback_rules"
 }

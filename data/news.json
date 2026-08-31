@@ -1,129 +1,321 @@
 {
-  "updated_at": "2026-08-30T20:28:18.982476",
+  "updated_at": "2026-08-31T03:17:19.764938",
   "total_count": 54,
   "news": [
     {
-      "id": -533357272482690234,
-      "title": "A Major $12.9 Billion Catalyst Is Brewing for Nvidia Stock",
+      "id": -8741291923389637207,
+      "title": "Johnson & Johnson Stock: Is JNJ Outperforming the Consumer Staples Sector?",
       "description": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/major-12-9-billion-catalyst-141502070.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-stock-jnj-outperforming-171212270.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-30T20:28:12.408806",
+      "published_at": "2026-08-31T03:17:13.176107",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-08-31T03:17:13.176111"
+    },
+    {
+      "id": -5801616435506875081,
+      "title": "Is Costco Stock Underperforming the Dow?",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-underperforming-dow-165446351.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-31T03:17:13.176098",
       "category": "股市动态",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:12.408811"
+      "fetched_at": "2026-08-31T03:17:13.176103"
     },
     {
-      "id": -8971878340473420872,
-      "title": "Man posed as a 49ers player and convinced 26 women to hand over $1.3 million in romance scam scheme",
+      "id": -6051651054941133089,
+      "title": "Is Oracle Stock Underperforming the S&P 500?",
       "description": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/man-posed-49ers-player-convinced-142000089.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-underperforming-p-500-164453386.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-30T20:28:12.408789",
+      "published_at": "2026-08-31T03:17:13.176090",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:13.176094"
+    },
+    {
+      "id": 4272221022042878652,
+      "title": "Is Visa Stock Underperforming the Dow?",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-underperforming-dow-145730618.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-31T03:17:13.176081",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-08-31T03:17:13.176085"
+    },
+    {
+      "id": -7617742275732541584,
+      "title": "This Nuclear IPO Stock Just Landed a Multiyear Fuel Deal. Is it a Buy?",
+      "description": "",
+      "url": "https://finance.yahoo.com/energy/articles/nuclear-ipo-stock-just-landed-160500388.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-31T03:17:13.176072",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-08-31T03:17:13.176076"
+    },
+    {
+      "id": -2615489670580919690,
+      "title": "72% of homebuyers have paused their search waiting for lower mortgage rates — and 41% already regret it",
+      "description": "",
+      "url": "https://finance.yahoo.com/real-estate/articles/72-homebuyers-paused-search-waiting-150000785.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-31T03:17:13.176056",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:13.176067"
+    },
+    {
+      "id": 8077757700653412154,
+      "title": "CrowdStrike CEO Says It Delivered Its Best Quarter Ever. Surprisingly, That May Be an Understatement.",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-ceo-says-delivered-best-150002644.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-31T03:17:13.176043",
       "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:12.408799"
+      "fetched_at": "2026-08-31T03:17:13.176052"
     },
     {
-      "id": -7384767278958478788,
-      "title": "How AI Power Demand Transformed Caterpillar (CAT) into a High-Multiple Tech Play",
+      "id": -1649023890907852449,
+      "title": "Nvidia Is Getting Bigger Without Getting Expensive",
       "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-power-demand-transformed-caterpillar-173543057.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-getting-bigger-without-getting-153002917.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-30T20:28:12.408772",
+      "published_at": "2026-08-31T03:17:13.176030",
       "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-08-31T03:17:13.176038"
+    },
+    {
+      "id": -442215781122215801,
+      "title": "A $2 Billion Reason to Buy UPS Stock",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-billion-reason-buy-ups-161356676.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-31T03:17:13.176019",
+      "category": "股市动态",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:12.408783"
+      "fetched_at": "2026-08-31T03:17:13.176024"
     },
     {
-      "id": -2511592339290761336,
-      "title": "What Affirm’s (AFRM) Blowout Quarter and Cautious CEO Say About the Consumer",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/affirm-afrm-blowout-quarter-cautious-175800405.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T20:28:12.408754",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:12.408766"
-    },
-    {
-      "id": -9053216527254958094,
-      "title": "Leaving Medicare Advantage Takes One Phone Call. Getting the Medigap Policy That Makes Leaving Affordable Can Require Medical Underwriting.",
-      "description": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/leaving-medicare-advantage-takes-one-200316917.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T20:28:12.408736",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:12.408748"
-    },
-    {
-      "id": 8018693285241449319,
-      "title": "Honda (HMC), Nissan Edge Toward a Software Alliance",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/honda-hmc-nissan-edge-toward-180935321.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T20:28:12.408719",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:12.408729"
-    },
-    {
-      "id": 8858984047836249002,
-      "title": "Pinterest’s (PINS) CFO Exit Tests Whether The Growth Story Holds",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-cfo-exit-tests-182159557.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T20:28:12.408705",
-      "category": "经济数据",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:12.408712"
-    },
-    {
-      "id": -5151003281436485298,
-      "title": "Frontline (FRO) Just Delivered Its Best Quarter Yet, But Can It Last?",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/frontline-fro-just-delivered-best-184112065.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T20:28:12.408687",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:12.408698"
-    },
-    {
-      "id": -1125457950490036748,
-      "title": "Miniso (MNSO) Booming Membership Growth Collides With A Struggling Global Expansion",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/miniso-mnso-booming-membership-growth-184952315.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T20:28:12.408671",
-      "category": "经济数据",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:12.408679"
-    },
-    {
-      "id": -8914673238251681983,
+      "id": -743638432062235335,
       "title": "Major fruit grower lays off nearly 1,000 workers",
       "description": "",
       "url": "https://finance.yahoo.com/small-business/articles/major-fruit-grower-lays-off-010300694.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-30T20:28:12.408628",
+      "published_at": "2026-08-31T03:17:13.175983",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:12.408657"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:13.176007"
     },
     {
-      "id": 2685783445268716204,
+      "id": 5064032462350822763,
+      "title": "China's factory activity shrinks for second straight month, contracting less than expected",
+      "description": "China's manufacturing activity shrank for a second straight month, keeping pressure on Beijing to support the economy as growth loses momentum.",
+      "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+      "source": "CNBC",
+      "published_at": "2026-08-31T03:15:01",
+      "category": "经济数据",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-08-31T03:17:16.400035"
+    },
+    {
+      "id": -7155159727869722414,
+      "title": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
+      "description": "The last major U.S. strikes on Iran were carried out in late July.",
+      "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+      "source": "CNBC",
+      "published_at": "2026-08-31T02:48:30",
+      "category": "大宗商品",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:16.399761"
+    },
+    {
+      "id": 9164632018741678936,
+      "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO",
+      "description": "India's largest digital and telecom operator, Jio Platforms, got a regulatory nod for an IPO, but the National Stock Exchange, another mega issue, is still awaiting regulatory clearance.",
+      "url": "https://www.cnbc.com/2026/08/31/jio-ipo-nse-india-shares-meta-google.html",
+      "source": "CNBC",
+      "published_at": "2026-08-31T02:35:53",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:16.400141"
+    },
+    {
+      "id": 431612595070260458,
+      "title": "Taliban makes overtures to Trump administration over mineral deals",
+      "description": "Afghanistan’s Islamist regime seeks sanctions relief and release of frozen assets five years after return to power",
+      "url": "https://www.ft.com/content/92cc40a7-3047-46d6-86f5-aa5f59f1d0ac?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-08-31T01:55:13",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:17.687891"
+    },
+    {
+      "id": -7297890677241094984,
+      "title": "Alejandro Betancourt: the man who would be Trump’s ‘viceroy’ in Venezuela",
+      "description": "The US has turned to a wily and divisive insider to help it develop the country’s oil reserves",
+      "url": "https://www.ft.com/content/9dbf9c9a-b3e2-4701-b584-dca72b349716?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-08-31T00:58:50",
+      "category": "大宗商品",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:17.687608"
+    },
+    {
+      "id": 405722151152069593,
+      "title": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island ",
+      "description": "Oil rises Monday, amid heightened concerns over supply disruptions after U.S. forces struck two Iranian rocket launchers on Larak Island on Sunday.",
+      "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
+      "source": "CNBC",
+      "published_at": "2026-08-31T00:46:46",
+      "category": "大宗商品",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:16.399833"
+    },
+    {
+      "id": 6676896771470646503,
+      "title": "A New Measure for the Economy: GDP to GLP - The Times of Israel",
+      "description": "A New Measure for the Economy: GDP to GLP  The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCTWFCendjUnJxWUVuTWRpSGxjSUU0WVRDYjJ1aVBBYWdWckMxV29NdXRLLXllU2FrQ2FMRERLVTZlYnFpSURvemgxTnBvMmJEUDFBNFFZT3FoYTctNFh3a1VDdzd2cThZOGF0bFdvMW40R0wtMXROOHh5MzdPQQ?oc=5",
+      "source": "Google News",
+      "published_at": "2026-08-31T00:36:00",
+      "category": "经济数据",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:10.949028"
+    },
+    {
+      "id": 6771078250261586051,
+      "title": "How the US-Canada trade war is being felt on both sides of the border",
+      "description": "The US-Canada trade war is being felt on both sides of the border.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-08-31T00:05:22",
+      "category": "国际贸易",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:15.344425"
+    },
+    {
+      "id": -1273572307909756961,
+      "title": "K-beauty giant APR's shares up 100% this year ahead of U.S. Costco launch in September",
+      "description": "APR is accelerating its U.S. retail expansion with a Costco launch in September, as the K-beauty company's shares have surged nearly 100% this year.",
+      "url": "https://www.cnbc.com/2026/08/31/k-beauty-apr-costco-launch-september.html",
+      "source": "CNBC",
+      "published_at": "2026-08-30T23:55:09",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:16.400351"
+    },
+    {
+      "id": 5507640210059568489,
+      "title": "US and Iran exchange fire for the first time in more than a month",
+      "description": "Oil prices rise after American military hits an island in the Strait of Hormuz and Tehran retaliates in Jordan",
+      "url": "https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-08-30T23:47:34",
+      "category": "大宗商品",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-08-31T03:17:17.687534"
+    },
+    {
+      "id": 5370592677826145004,
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+      "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-08-30T23:22:24",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-08-31T03:17:15.344304"
+    },
+    {
+      "id": -8698022849227334649,
+      "title": "[Stock Market Outlook for Today] Decline expected due to fall in U.S. stocks (31st) - Moomoo",
+      "description": "[Stock Market Outlook for Today] Decline expected due to fall in U.S. stocks (31st)  Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZG1YeHBTTWRzTkNjRjNiYklYT3pjTTlaV2FETEE1SXp2cVpfeDVGRi02S3p3SlNvVjVzdzQ1c2NObXB0VDJoR0VSbjQ1aEZCMFk2RWdxX20wbi1UQnZJd09EVktGaDl1bjRFbW5ZX1BOM1NiLWtoVDdxWlFIWU50TEtWUjlTOHJMMFNZblNYTkwyQm5JSy1vUWdPcnVUQXdvc1V3?oc=5",
+      "source": "Google News",
+      "published_at": "2026-08-30T22:57:38",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:10.949265"
+    },
+    {
+      "id": 463938127758090707,
+      "title": "Oil Rises on Iran Tensions, US Stock Futures Dip: Markets Wrap - Bloomberg.com",
+      "description": "Oil Rises on Iran Tensions, US Stock Futures Dip: Markets Wrap  Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHp5RFVLYlloVHZYSUlJanNQYlFKTFYtQXBINUx0ckd2SWthVldmYmo4dWNfTGVSUEMtdzNuYjBzOXBlM2h6YktUSndONkdpT1hmelE4VFBBVkRfRkM0X01JMlVTVHliOXdTQnpHX2JhS2Y5bWZFOUVhU2hJNjRpNnFwOHVYNF83NjlsR3gybldjQjJP?oc=5",
+      "source": "Google News",
+      "published_at": "2026-08-30T22:13:50",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:10.948768"
+    },
+    {
+      "id": -8862527189770518823,
+      "title": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
+      "description": "Aon is nearing a roughly $17 billion deal, including debt, to acquire insurance brokerage USI from KKR, the Journal reported.",
+      "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
+      "source": "CNBC",
+      "published_at": "2026-08-30T22:05:32",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-08-31T03:17:16.400091"
+    },
+    {
+      "id": 3027140220004085901,
+      "title": "Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund",
+      "description": "Mykhailo Fedorov seeks western capital to build and manage weapons development companies he says will help Kyiv resist Moscow",
+      "url": "https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-08-30T21:11:58",
+      "category": "货币政策",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:17.687833"
+    },
+    {
+      "id": -8832257016452018257,
+      "title": "What Happens When You Invest in the Stock Market at the Worst Possible Time? History Has Reassuring News for Investors. - The Motley Fool",
+      "description": "What Happens When You Invest in the Stock Market at the Worst Possible Time? History Has Reassuring News for Investors.  The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU9iYTJUcDdUWUI5TWtBZF9mRDdRWV9YYTg5T2ZtSXFvTi01MlNFLTZBTDJqMjhGSEk5b3dGS1hvTXRKeEVVamJSckVMVzlPNDM0cUI0cFBuWkVOek8wb2M5Vk1nM0t4TXV4N2RzWk45aTVncU5sOWtRU2EyMWFTcmM5Z1Brd3dFbHVEYnRJVEZMc0FFRHBfaQ?oc=5",
+      "source": "Google News",
+      "published_at": "2026-08-30T20:00:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-08-31T03:17:10.948526"
+    },
+    {
+      "id": -3944864563304998780,
       "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
       "description": "Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.",
       "url": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
@@ -131,23 +323,23 @@
       "published_at": "2026-08-30T19:40:52",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:15.522395"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:16.400194"
     },
     {
-      "id": 246067030963078582,
-      "title": "What Happens When You Invest in the Stock Market at the Worst Possible Time? History Has Reassuring News for Investors. - The Motley Fool",
-      "description": "What Happens When You Invest in the Stock Market at the Worst Possible Time? History Has Reassuring News for Investors.  The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU9iYTJUcDdUWUI5TWtBZF9mRDdRWV9YYTg5T2ZtSXFvTi01MlNFLTZBTDJqMjhGSEk5b3dGS1hvTXRKeEVVamJSckVMVzlPNDM0cUI0cFBuWkVOek8wb2M5Vk1nM0t4TXV4N2RzWk45aTVncU5sOWtRU2EyMWFTcmM5Z1Brd3dFbHVEYnRJVEZMc0FFRHBfaQ?oc=5",
+      "id": -3899096493669438922,
+      "title": "What Happens When You Invest in the Stock Market at the Worst Possible Time? History Has Reassuring News for Investors. - Yahoo Finance",
+      "description": "What Happens When You Invest in the Stock Market at the Worst Possible Time? History Has Reassuring News for Investors.  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjJUTHRvUmd0cm1oSklILVYzUjZ0UXU2dFlTSW1QR2RlODl3M0p1aFM5X3o3YmtZcHFFMXJCVXd2dThlVWZwdXRQeVRuV1Y5QXRYMVBYOVpaM3F4dnFHaTZ5Z1ZZemtFTENHNFJscFZfRVBkcTU0bGI1Z1ItaHQ2bVktYW5CTzRvUWVnLXhabW9MSTgwNzFCb2c5TV9JMXM?oc=5",
       "source": "Google News",
-      "published_at": "2026-08-30T19:31:34",
+      "published_at": "2026-08-30T19:20:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:10.253401"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:10.949777"
     },
     {
-      "id": -7139727894694946120,
+      "id": 5689119889796674334,
       "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies",
       "description": "Analysts say large paper windfalls on investments in OpenAI, Anthropic and SpaceX have muddied the tech sector’s earnings metrics",
       "url": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
@@ -155,35 +347,11 @@
       "published_at": "2026-08-30T19:00:05",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:16.856923"
-    },
-    {
-      "id": -276191712360503301,
-      "title": "Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for",
-      "description": "A federal lawsuit claims that fuel distributor KRSM failed to pay for $4 million worth of fuel, some of which the company sold to the Freedom Fuel network.",
-      "url": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
-      "source": "CNBC",
-      "published_at": "2026-08-30T18:06:41",
-      "category": "货币政策",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:15.522554"
-    },
-    {
-      "id": -5355313893667137102,
-      "title": "Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund",
-      "description": "Mykhailo Fedorov seeks western capital to build and manage weapons development companies he says will help Kyiv resist Moscow",
-      "url": "https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-08-30T17:57:32",
-      "category": "货币政策",
-      "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:16.857211"
+      "fetched_at": "2026-08-31T03:17:17.687786"
     },
     {
-      "id": -6753757929752685339,
+      "id": -4041718016412215630,
       "title": "The Stock Market Is Repeating a Pattern Not Seen Since 2000. Here's What History Says Comes Next. - The Motley Fool",
       "description": "The Stock Market Is Repeating a Pattern Not Seen Since 2000. Here's What History Says Comes Next.  The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeF9rcDFHcGtuTVlDLU5MQ0NMQzQ1aTRzQmVGU0ozU0VDUzlCUGlYRjZ6WVQwc2VxdnlKOE54SHVvazdBLVd4N2t5TzZfTUNzLUhkMTZaUG1yd0NJZ2xZWE4wQVVGdHdOSHk3VDdZbEttUXctQjBkTl80X3NQVl9tNm4yTzhQUXBDR3phZlhhNEJWSjJDaXc?oc=5",
@@ -191,11 +359,11 @@
       "published_at": "2026-08-30T16:45:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:10.252645"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:10.949576"
     },
     {
-      "id": 5346066349778600224,
+      "id": 4111645706947610554,
       "title": "The Stock Market Is Repeating a Pattern Not Seen Since 2000. Here's What History Says Comes Next. - Yahoo Finance",
       "description": "The Stock Market Is Repeating a Pattern Not Seen Since 2000. Here's What History Says Comes Next.  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUhMUHRNdnppX3JHRHlCZ21ybzJXdVJ4Z3duVkozQmNRZVVFX1c0WTNpbmgtc1NtTUtINGU2RkNRWTJUNTVvWXd0ajBSS1l5bXhpU3dBdE9nNVVGSWQ2Z05UUUpkcXRZZXlOUlZ3R2ZWazBHaWcySmpaazg2MXFPajJqUUhyWExmVndhendMSmthb0hkV3U4em16MGVqeHli?oc=5",
@@ -203,11 +371,11 @@
       "published_at": "2026-08-30T16:05:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:10.253951"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-08-31T03:17:10.949875"
     },
     {
-      "id": 7622105935988666681,
+      "id": 3023973665041086087,
       "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media?",
       "description": "Mike Moore beat Big Tobacco. Will the same playbook work against Meta and social media?",
       "url": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
@@ -215,23 +383,11 @@
       "published_at": "2026-08-30T15:48:10",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:15.522010"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:16.399979"
     },
     {
-      "id": 7562158194908629300,
-      "title": "Meta Stock Looks Undervalued. Is the Market Missing Something? - The Motley Fool",
-      "description": "Meta Stock Looks Undervalued. Is the Market Missing Something?  The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ21YcDFpMjktQkoxeTZra1Jya3FUQnF2LW5qVnJBdDhRV0xmcWdtdEg5T3hHTWVHZndjeDJyZVZnTndXanh4X2x2dmZqQU9ITWVYV2d6c241Sk1CaTJwQVA1TEZicVNPZkRwUkpIVEloWUVMcU1OVExRRlpWNFd0dXdBdHVmUXlkU3RkcGhvVGtHUWRqbjBGUA?oc=5",
-      "source": "Google News",
-      "published_at": "2026-08-30T15:15:00",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:10.254683"
-    },
-    {
-      "id": 3460540799973265628,
+      "id": 5356296730706546319,
       "title": "Americans feel they have lost their agency",
       "description": "People increasingly blame large corporations for the sense that they have ever less control over their own lives",
       "url": "https://www.ft.com/content/63e8a4f3-7c18-4ddc-b3b7-e472159a7adf?syn-25a6b1a6=1",
@@ -239,59 +395,23 @@
       "published_at": "2026-08-30T15:00:04",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:16.857021"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:17.687670"
     },
     {
-      "id": 3694029510830747899,
-      "title": "Iceland rejects talks on EU entry",
-      "description": "‘No’ vote prevails in knife-edge referendum prompted by Donald Trump’s threats to annex Greenland",
-      "url": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-08-30T14:12:23",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:16.857635"
-    },
-    {
-      "id": -2764383740614421997,
-      "title": "Jobs report, Broadcom results pose next hurdles for stock market rally By Reuters - Investing.com",
-      "description": "Jobs report, Broadcom results pose next hurdles for stock market rally By Reuters  Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWNiT1hKc2Etb21uUWJwOE5NX1lmN0d4T3dveTQtcXEtQUt2WU51emRYZy1tUGtkYldnenY4ZXUxWlBiMTZPWHVBb21RQUxrZDhnckE3RVkycFp1QThDeENOZHlOZ19LQi1sb1dBU3ZfRURBV1VqWUdrd2hTaDkzd21MQngzT1ZPTGpUZm9fSnpSY1plQ1Q2am1FbWN4MEQxQzFRb2ptU2ItU3A2bHpYdi1LOHI1Tmhya01FVjR3?oc=5",
+      "id": -2164789989403273266,
+      "title": "Here are the 3 big things we're watching in the stock market in the week ahead - CNBC",
+      "description": "Here are the 3 big things we're watching in the stock market in the week ahead  CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTW9EU05RS0NMM1VWUVY1aVJ1eVRDaDNwOS1sNEFmUXVTLVBXazhPNXZRQ29JRVJCUGgzSjB4UWRtaXVUWS1UY2p6TGVqSElNbnZtanliR1pQUjNUYU1OUEp6T2NkU24tS2Y3TnpmSnkxdWlaekdLYWR4ZVVESWh6c0E1RF9pS1dXUVp0bnJWSnFXMXBrNFplaU42cHRfd0FXVTRaTERZdjlxWWk1UG9OdzZ6VW4?oc=5",
       "source": "Google News",
-      "published_at": "2026-08-30T13:46:25",
+      "published_at": "2026-08-30T14:54:49",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:10.253019"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:10.949370"
     },
     {
-      "id": 3783684725737217355,
-      "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals - CNBC",
-      "description": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals  CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkczaThjMDgwN2t0TGpkZzBIOWVlNGF6ZHJWYjRKcTl0ZDhiSFNxNVNETEJuY0FtUnVHR19RbGlQdXowZUd2T1E3TUVIMVptdFNkR2s0eGdvLWZERG1sUjQxaGFmek9hVi1vREMwU294R3N5dzFLakgxVHUyYU9zRGRMSThBcVRGaFZsZDRsc1dZQW9HOTQwYkt30gGfAUFVX3lxTFA5b21UZDdNQUtCOUw1Q3AtclpxZ0g1NVNrckdQMEF6eHNGYXNGTkhxa0IyTzg1SlhHekFrTjh4VE1paUNrZ3Z0d1RLelh1dEtVZGwyTWpwQXFscFpHU3FESE5KTDN2dFY2MWVoYlk0Z1I2alpIOUpzTHpXUTRnMFREV1BqY3EzYllfVnR4MktjaXJoMG9DMkRkZE5iNHpUMA?oc=5",
-      "source": "Google News",
-      "published_at": "2026-08-30T13:00:01",
-      "category": "国际贸易",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:10.254346"
-    },
-    {
-      "id": 6490201439342976411,
-      "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
-      "description": "When the U.S.-Canada trade war erupted, the market repriced metals and materials stocks and ETFs, but longer-term investors should be wary.",
-      "url": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
-      "source": "CNBC",
-      "published_at": "2026-08-30T13:00:01",
-      "category": "股市动态",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:15.522482"
-    },
-    {
-      "id": 8428946719102237338,
+      "id": 888387405170655261,
       "title": "These charts show how leverage-happy investors are transforming the stock market - MarketWatch",
       "description": "These charts show how leverage-happy investors are transforming the stock market  MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlB4djNhRUJHcWRLb3BSVHNGWi1TTXBFRnIxaHJEVXE4RDV5eTE2Uk5qNzliNjJ0aEJTTkdmc2hsa1htMTdLZl9vLTVuUFZlbC1GQkktZTlXelp2QVdXWDJYVlZncUFsdEZ0WkpDeXNidXZYMmItZ2FDYWJIVFlQLVhseVlIUHN6NUkxMS04c2haZl9HamFSOWc2Zm1WNjlwZ0ZrYXRGM041aFBTLWF6MUdRcktpZFNuUEt6UXBzX1M?oc=5",
@@ -299,59 +419,11 @@
       "published_at": "2026-08-30T13:00:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:10.252450"
-    },
-    {
-      "id": -4513942502987964108,
-      "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
-      "description": "Icelanders voted 52.8% to 47.2% against reopening talks to join the European Union.",
-      "url": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
-      "source": "CNBC",
-      "published_at": "2026-08-30T12:32:44",
-      "category": "外汇市场",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:15.522304"
-    },
-    {
-      "id": -4183386862887032218,
-      "title": "Controversial Venezuelan executive courts investors after Trump oil deal",
-      "description": "Alejandro Betancourt is the US’s primary partner in a company that will control more than 65bn barrels of oil reserves",
-      "url": "https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-08-30T12:12:32",
-      "category": "大宗商品",
-      "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:16.857472"
+      "fetched_at": "2026-08-31T03:17:10.948651"
     },
     {
-      "id": -3680464514208967849,
-      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
-      "description": "Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.",
-      "url": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
-      "source": "CNBC",
-      "published_at": "2026-08-30T12:00:02",
-      "category": "国际贸易",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:15.522114"
-    },
-    {
-      "id": -9028856769680296103,
-      "title": "Friends with fiscal benefits",
-      "description": "Cross-class friendships appear to be one of the strongest predictors of upward mobility for people in low socio-economic groups",
-      "url": "https://www.ft.com/content/ce3139ac-e88e-4c0d-ab92-b36e79052836?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-08-30T11:00:02",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:16.857108"
-    },
-    {
-      "id": -2206443485879920244,
+      "id": 7493734274171736582,
       "title": "The Stock Market Is Doing Something That's Been Witnessed Just 3 Times Over Nearly 156 Years -- and This Signal Has Proven Disastrous for Wall Street - Yahoo Finance",
       "description": "The Stock Market Is Doing Something That's Been Witnessed Just 3 Times Over Nearly 156 Years -- and This Signal Has Proven Disastrous for Wall Street  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnRhY253MTZsaERyTW1pcmVDZEVQRmlCYlROTHNLZnB4NVdjcWxwSVhMbXd0OEhxclM1SzdRSWJNWEFheklscnRMd2VfMkFBOTlRWTdSRHBmZlFBUUNPNW8tOWFXc1pZSThaZjBEME5DQnZzT1ppZ181aTFDX3RGenkxcTFiY2ZjMHNYeHJ2MUVZZndMOWRVamhZSXg2c2RU?oc=5",
@@ -359,35 +431,23 @@
       "published_at": "2026-08-30T10:56:01",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:10.252221"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:10.948348"
     },
     {
-      "id": -1075803876070737867,
-      "title": "If a Stock Market Crash Is Coming, You'll Want to Hold Onto These 3 Warren Buffett Stocks - The Motley Fool",
-      "description": "If a Stock Market Crash Is Coming, You'll Want to Hold Onto These 3 Warren Buffett Stocks  The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGQ3eV8xVnNUX3phLUwyMmRraWZuZHE5eHlfXzJnNTFhRHhHempBUHBZY2YwcHJMLXhBOUw5THVlNFZMd2dtNGRlQVlwUXFfWGNXeTNXMnA1a2ZIeVVZV1ZWVF9ZU2Q1MFJHbWtiTDhrUE96Zjg2Mm9QWm82WWNNYS1vdWRKaG1RdC03VTBwSVRXa0pNSVhOUzVORWRxVkx1eFFTYlNYUkZyeVEwaEhQcDh5TlcxV1MwdkFvQi12RXVLN2tkTVB4MVZIQQ?oc=5",
-      "source": "Google News",
-      "published_at": "2026-08-30T10:43:00",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:10.254138"
+      "id": 5302401319209636896,
+      "title": "‘New York loves Canada’: US cities want their Canadian tourists back",
+      "description": "American tourism businesses try to overcome cross-border travel boycott over Trump administration’s hostility to its northern neighbour",
+      "url": "https://www.ft.com/content/25f48fea-ada2-41e1-ba33-07a864a8674a",
+      "source": "Financial Times",
+      "published_at": "2026-08-30T10:00:02",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:17.687730"
     },
     {
-      "id": 1142984495319133639,
-      "title": "Top Wall Street analysts suggest these 3 dividend stocks for consistent income",
-      "description": "These three dividend stocks offer steady income in turbulent markets.",
-      "url": "https://www.cnbc.com/2026/08/30/top-analysts-suggest-these-dividend-stocks-for-consistent-income.html",
-      "source": "CNBC",
-      "published_at": "2026-08-30T10:42:13",
-      "category": "股市动态",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:15.522628"
-    },
-    {
-      "id": -7356107244552301833,
+      "id": 5271589815154532764,
       "title": "Is a Stock Market Crash Imminent Under President Donald Trump? More Than 85 Years of Historical Precedent Offers an Answer. - Yahoo Finance",
       "description": "Is a Stock Market Crash Imminent Under President Donald Trump? More Than 85 Years of Historical Precedent Offers an Answer.  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2h0QjlLSTlBdjJIWVNYeVpsQVpWcWt5OG50VDNvYVpKSVdZVGJHX1BBVmtyTENVZWVGald6bGw2amJ4OEpXOUFpMVZmVExPRDliVmRwMmpUUDdERmMzNUdCRDlpWkg4RVMyREZPRjBpWkFVenRfOF8zU053VllFT21KaGtuS2VWN0x5eWZuLUN5NWVyVDZRbXNDSExYcE0?oc=5",
@@ -395,11 +455,11 @@
       "published_at": "2026-08-30T08:26:01",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:10.253220"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:10.949475"
     },
     {
-      "id": -8832625394189127655,
+      "id": 7490751554014872179,
       "title": "What’s the fiscal hit from higher yields?",
       "description": "A long answer to a simple question",
       "url": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
@@ -407,11 +467,11 @@
       "published_at": "2026-08-30T04:12:14",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:16.857391"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-08-31T03:17:17.688007"
     },
     {
-      "id": -8230232490525395020,
+      "id": 5895125081878971862,
       "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
       "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
@@ -419,11 +479,11 @@
       "published_at": "2026-08-30T04:01:02",
       "category": "大宗商品",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:14.466910"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:15.344486"
     },
     {
-      "id": -6135749853507348372,
+      "id": -8348591892918468909,
       "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
       "description": "World’s biggest developed economies face higher financing costs since start of US-Iran war, weighing on public finances",
       "url": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
@@ -432,34 +492,10 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:16.857305"
+      "fetched_at": "2026-08-31T03:17:17.687955"
     },
     {
-      "id": -5392604556589008497,
-      "title": "US oil deal denounced by both sides of Venezuelan politics",
-      "description": "Hardliners cast agreement with Trump as looting and betrayal while opposition decries Washington’s meddling in country",
-      "url": "https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-08-29T22:38:56",
-      "category": "大宗商品",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:16.857552"
-    },
-    {
-      "id": 6551998356182841800,
-      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-      "description": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.",
-      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-      "source": "CNBC",
-      "published_at": "2026-08-29T19:06:22",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:15.522891"
-    },
-    {
-      "id": -4131755121373872228,
+      "id": 6905527156026063226,
       "title": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites",
       "description": "The park service is backing the arch, despite finding that it would adversely affect historic sightlines and other visual relationships among nearby landmarks.",
       "url": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
@@ -467,11 +503,11 @@
       "published_at": "2026-08-29T18:23:57",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:15.522717"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:16.400251"
     },
     {
-      "id": -919814236372390738,
+      "id": -5925851566663538789,
       "title": "Trump administration weighs Yosemite land swap for private developer’s access road",
       "description": "The Trump administration is considering a Yosemite land exchange that could give a developer more direct park access.",
       "url": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
@@ -479,23 +515,11 @@
       "published_at": "2026-08-29T18:21:49",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:15.522803"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:16.400304"
     },
     {
-      "id": -4898345562233678472,
-      "title": "America's $40 trillion national debt boosts the odds of a lost decade for stocks, market researcher warns - Business Insider",
-      "description": "America's $40 trillion national debt boosts the odds of a lost decade for stocks, market researcher warns  Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGtuVjE5M3dNeHVzbk9GUmg0U1Y4U29MMmxDWkd6MmJnWGZlekMyT24xTmpMeEp0VmdtdzJhYXFYa2NGWUZ6em56eW1kY0RvSVlIZExIZlNyUU9Hb3FhbFpxWGd0c3Vhc1BKLUtCU3RqNFhtT0dvcmxrS1FFR1U1MW5nOVJSYjlCTVNPUUVuMDdJcFN3bnNoYnUzRldNNHhaVEpBZW5R?oc=5",
-      "source": "Google News",
-      "published_at": "2026-08-29T09:15:00",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:10.254848"
-    },
-    {
-      "id": 1509080624281005714,
+      "id": -7684503200145341946,
       "title": "Rate Concerns Take Their Toll; Amazon, Palantir, Nvidia In Focus - Video - Investor's Business Daily",
       "description": "Rate Concerns Take Their Toll; Amazon, Palantir, Nvidia In Focus - Video  Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QMTlBbmZja0d0a2lrSURwaGNRY0MwOTh5NE1EaGZPVlFOQW5ZNTRWdzUyQ3RHNS1wM2Y0YlVFX3dJZTNaRUZyNF91ODk?oc=5",
@@ -503,11 +527,11 @@
       "published_at": "2026-08-28T21:35:00",
       "category": "综合财经",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:10.252839"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:10.948889"
     },
     {
-      "id": -7194165003721208938,
+      "id": -3043111481540612435,
       "title": "Wife of man who died after turbulence sues airline",
       "description": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
       "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
@@ -516,22 +540,10 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:14.467096"
+      "fetched_at": "2026-08-31T03:17:15.344586"
     },
     {
-      "id": -7871294794074744359,
-      "title": "Gatwick Airport faced water outage after main burst",
-      "description": "SES Water says it has repaired a burst main which was affecting supply to the airport.",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-08-28T17:38:37",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:14.467768"
-    },
-    {
-      "id": 5175549203153690743,
+      "id": 1403668355604334145,
       "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says ",
       "description": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
       "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
@@ -540,10 +552,10 @@
       "category": "货币政策",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:14.467002"
+      "fetched_at": "2026-08-31T03:17:15.344535"
     },
     {
-      "id": -6246684202733664928,
+      "id": 3830890230955492700,
       "title": "Stock Market News for Aug 28, 2026 - Yahoo Finance",
       "description": "Stock Market News for Aug 28, 2026  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEhHMHpYczdFbUdmXzhIWHRnTndRS2t0Q0NCRzlqcjZjdTBJWGpaaFJTWERXXzhyQk1lU1FQTUkxLS01VUdiOGQ4V3pwOG5YMDJrZlIwSm52VFlucEV3bDQ5bDlBXzN4QTRfX2I3QkQ5M2lWSWtPb0ZzakRGZ3dzVzRsbUpjOWI4RUNGQmUwMmh4ZW8?oc=5",
@@ -551,11 +563,11 @@
       "published_at": "2026-08-28T13:34:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:10.254517"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:10.949985"
     },
     {
-      "id": -8524247987604350457,
+      "id": 8156396477380371212,
       "title": "'Not far enough' - US parents and teens on Meta's new limits for young users ",
       "description": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
@@ -563,11 +575,11 @@
       "published_at": "2026-08-28T09:32:14",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:14.467688"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-08-31T03:17:15.344850"
     },
     {
-      "id": -2193687881361771701,
+      "id": -616352320830089713,
       "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
       "description": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
       "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
@@ -575,11 +587,11 @@
       "published_at": "2026-08-28T05:53:05",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-08-30T20:28:14.467524"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:15.344745"
     },
     {
-      "id": -9199496285394067495,
+      "id": 2688526809131619735,
       "title": "Trump administration illegally retaliated against Anthropic, judge rules",
       "description": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
       "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
@@ -587,23 +599,11 @@
       "published_at": "2026-08-28T03:41:59",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:14.467351"
-    },
-    {
-      "id": -3649585408786356114,
-      "title": "Overcooked? Why robotic pizza makers are failing",
-      "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-      "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-08-27T23:16:02",
-      "category": "综合财经",
-      "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:14.467435"
+      "fetched_at": "2026-08-31T03:17:15.344690"
     },
     {
-      "id": 3562573856086408923,
+      "id": -9023880959339026729,
       "title": "Military veterans told they owe thousands of pounds over clerical error",
       "description": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
       "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
@@ -611,11 +611,11 @@
       "published_at": "2026-08-27T23:06:22",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:14.467604"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:15.344797"
     },
     {
-      "id": -2126219874466406065,
+      "id": 7448171557082440915,
       "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
       "description": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
       "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
@@ -623,11 +623,11 @@
       "published_at": "2026-08-27T23:04:21",
       "category": "经济数据",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-08-30T20:28:14.467259"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-08-31T03:17:15.344637"
     },
     {
-      "id": 2175265403832443614,
+      "id": -5352200799386602961,
       "title": "Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",
       "description": "Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs  Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORGlsbDRLVnA4ZnRBVjA1SHAySFRpV1ZyOFF1YnVkZUVYR1ROX2ZfNk9aMWJKLXAzVEE1aGEwQngwS19oYUotc3NZWUdYTGFHMk04U3BwOWk1Q3ZLTEdBSVJTOWNnN0R6S3h5dXY0SG54c3pyOGlORXBOdlhTd18xQnU5cGJwc1B4NXZYc0dZZ3NJLThoczM3NktqdDBCbXlUVEtUU0E0NGl6ajVGVzB2UTBoOTd1TGp4UU5sRUdfM0Q?oc=5",
@@ -635,11 +635,11 @@
       "published_at": "2026-08-26T20:26:00",
       "category": "经济数据",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-08-30T20:28:10.253774"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-08-31T03:17:10.949677"
     },
     {
-      "id": 1781648459892198855,
+      "id": 6308947448095551446,
       "title": "The World’s Craziest Stock Market Has Turned Into a Fright Ride - WSJ",
       "description": "The World’s Craziest Stock Market Has Turned Into a Fright Ride  WSJ",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHc1cktvMF9zTEkxYm0tVVhfR1doLVVORmZTZGdjanhnbEJTdEtnWEVFb3ZhT3ZTcnRrYXo1MjJDc0tMdmNwTHMyRnRFYnctZEtrVE9BWFNQRVZpOTJPZS1Gc3R2UjZzSFpkSDdOSkhZSk5pLXU2d2p3S1EwMUl2b0lCRQ?oc=5",
@@ -647,8 +647,8 @@
       "published_at": "2026-08-25T01:00:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-08-30T20:28:10.253596"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-08-31T03:17:10.949154"
     }
   ]
 }
