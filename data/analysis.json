@@ -1,27 +1,26 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Stock market today: Dow, S&P 500, Nasdaq drop as rising bond...",
-    "✓ 国际贸易: ‘I don’t want Canadian anything’: Trump ramps up trade war w...",
-    "✗ 综合财经: US construction spending drops to nearly three-year low in J...",
-    "✓ 综合财经: How soaring Treasury yields could hit your finances...",
-    "✓ 综合财经: UK long-term borrowing costs highest since 1998 ahead of Oct..."
+    "✓ 经济数据: India’s Economy Posts Robust Growth Despite Mideast Energy S...",
+    "✓ 综合财经: Denny’s rival dining chain files for Chapter 11 bankruptcy...",
+    "✓ 综合财经: Dell surges 10% after lifting fiscal 2027 forecast on AI ser...",
+    "✓ 股市动态: Palo Alto Networks beats quarterly estimates on AI demand, c...",
+    "✓ 综合财经: Pa. Gov. Shapiro says too many data center developers 'don't..."
   ],
-  "positive_count": 11,
-  "negative_count": 6,
-  "neutral_count": 13,
+  "positive_count": 9,
+  "negative_count": 2,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-01T15:59:36.546872",
+  "analyzed_at": "2026-09-01T20:28:05.566426",
   "categories_distribution": {
-    "股市动态": 18,
     "综合财经": 22,
-    "国际贸易": 2,
     "大宗商品": 3,
     "经济数据": 7,
-    "货币政策": 3
+    "股市动态": 21,
+    "货币政策": 2
   },
   "ai_provider": "fallback_rules"
 }
