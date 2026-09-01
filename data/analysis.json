@@ -1,28 +1,28 @@
 {
-  "temperature_score": 45.0,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比6/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 60.0,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Shein shares slide in long-awaited stock market debut...",
-    "✗ 股市动态: Fast-fashion giant Shein's shares drop 8% in Hong Kong marke...",
-    "✗ 股市动态: The $3 trillion oil market has just gotten more accessible t...",
-    "✗ 股市动态: Japan Inc is betting big on India as China risks deepen...",
-    "✓ 股市动态: Stock Market Today, Aug. 31: Stocks Edge Lower as Oil Prices..."
+    "✓ 综合财经: Cook hands Apple to Ternus: bigger and richer, but catching ...",
+    "✓ 综合财经: 5 clear signs you’re actually upper middle class in America ...",
+    "✓ 综合财经: India rejects court order to uphold decades-old water-sharin...",
+    "✓ 货币政策: Euro zone inflation is back above 3%. Higher interest rates ...",
+    "✗ 股市动态: AI could cause global economic downturn, Andrew Bailey warns..."
   ],
-  "positive_count": 3,
-  "negative_count": 6,
-  "neutral_count": 21,
+  "positive_count": 9,
+  "negative_count": 3,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-01T03:20:04.860407",
+  "analyzed_at": "2026-09-01T11:01:02.786430",
   "categories_distribution": {
-    "综合财经": 18,
-    "股市动态": 25,
-    "大宗商品": 6,
-    "外汇市场": 1,
-    "货币政策": 1,
-    "经济数据": 2,
-    "国际贸易": 1
+    "综合财经": 22,
+    "股市动态": 19,
+    "货币政策": 4,
+    "经济数据": 3,
+    "大宗商品": 4,
+    "国际贸易": 2,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
