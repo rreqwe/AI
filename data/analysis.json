@@ -1,28 +1,27 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Cook hands Apple to Ternus: bigger and richer, but catching ...",
-    "✓ 综合财经: 5 clear signs you’re actually upper middle class in America ...",
-    "✓ 综合财经: India rejects court order to uphold decades-old water-sharin...",
-    "✓ 货币政策: Euro zone inflation is back above 3%. Higher interest rates ...",
-    "✗ 股市动态: AI could cause global economic downturn, Andrew Bailey warns..."
+    "✗ 股市动态: Stock market today: Dow, S&P 500, Nasdaq drop as rising bond...",
+    "✓ 国际贸易: ‘I don’t want Canadian anything’: Trump ramps up trade war w...",
+    "✗ 综合财经: US construction spending drops to nearly three-year low in J...",
+    "✓ 综合财经: How soaring Treasury yields could hit your finances...",
+    "✓ 综合财经: UK long-term borrowing costs highest since 1998 ahead of Oct..."
   ],
-  "positive_count": 9,
-  "negative_count": 3,
-  "neutral_count": 18,
+  "positive_count": 11,
+  "negative_count": 6,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-01T11:01:02.786430",
+  "analyzed_at": "2026-09-01T15:59:36.546872",
   "categories_distribution": {
+    "股市动态": 18,
     "综合财经": 22,
-    "股市动态": 19,
-    "货币政策": 4,
-    "经济数据": 3,
-    "大宗商品": 4,
     "国际贸易": 2,
-    "外汇市场": 1
+    "大宗商品": 3,
+    "经济数据": 7,
+    "货币政策": 3
   },
   "ai_provider": "fallback_rules"
 }
