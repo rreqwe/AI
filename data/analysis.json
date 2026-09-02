@@ -1,25 +1,25 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Meta Vs. Google: Analyst Says AI Boost Puts Facebook Parent ...",
-    "✓ 股市动态: Cisco and Supermicro Are Joining Forces in the AI Data Cente...",
-    "✓ 综合财经: Denny’s rival dining chain files for Chapter 11 bankruptcy...",
-    "✓ 股市动态: Japanese green tea giant Ito En surges 8%, defying a broad m...",
-    "✓ 经济数据: Australia posts second-quarter growth of 2.1%, beating expec..."
+    "✓ 股市动态: Here's the biggest thing keeping AI stock investors up at ni...",
+    "✓ 综合财经: Best CD rates today, Wednesday, September 2, 2026: Earn up t...",
+    "✓ 货币政策: Mortgage and refinance interest rates today, Wednesday, Sept...",
+    "✓ 货币政策: Best high-yield savings interest rates today, Wednesday, Sep...",
+    "✗ 经济数据: Stock market today: Dow, S&P 500, Nasdaq futures fall as US-..."
   ],
-  "positive_count": 11,
-  "negative_count": 3,
+  "positive_count": 12,
+  "negative_count": 2,
   "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-02T02:37:59.353573",
+  "analyzed_at": "2026-09-02T10:31:13.505668",
   "categories_distribution": {
-    "综合财经": 24,
-    "股市动态": 24,
-    "经济数据": 6,
-    "大宗商品": 1
+    "股市动态": 10,
+    "综合财经": 22,
+    "货币政策": 3,
+    "经济数据": 4
   },
   "ai_provider": "fallback_rules"
 }
