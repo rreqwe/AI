@@ -1,26 +1,25 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: India’s Economy Posts Robust Growth Despite Mideast Energy S...",
+    "✓ 综合财经: Meta Vs. Google: Analyst Says AI Boost Puts Facebook Parent ...",
+    "✓ 股市动态: Cisco and Supermicro Are Joining Forces in the AI Data Cente...",
     "✓ 综合财经: Denny’s rival dining chain files for Chapter 11 bankruptcy...",
-    "✓ 综合财经: Dell surges 10% after lifting fiscal 2027 forecast on AI ser...",
-    "✓ 股市动态: Palo Alto Networks beats quarterly estimates on AI demand, c...",
-    "✓ 综合财经: Pa. Gov. Shapiro says too many data center developers 'don't..."
+    "✓ 股市动态: Japanese green tea giant Ito En surges 8%, defying a broad m...",
+    "✓ 经济数据: Australia posts second-quarter growth of 2.1%, beating expec..."
   ],
-  "positive_count": 9,
-  "negative_count": 2,
-  "neutral_count": 19,
+  "positive_count": 11,
+  "negative_count": 3,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-01T20:28:05.566426",
+  "analyzed_at": "2026-09-02T02:37:59.353573",
   "categories_distribution": {
-    "综合财经": 22,
-    "大宗商品": 3,
-    "经济数据": 7,
-    "股市动态": 21,
-    "货币政策": 2
+    "综合财经": 24,
+    "股市动态": 24,
+    "经济数据": 6,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
