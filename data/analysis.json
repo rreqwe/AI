@@ -1,27 +1,29 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Do You Believe Arthur J. Gallagher (AJG) Could Deliver Mid-T...",
-    "✗ 货币政策: Stock Market Today: Dow Leads Charge As Fed's Waller Signals...",
-    "✓ 综合财经: Here’s What Boosted Astrana Health (ASTH) in Q2...",
-    "✓ 综合财经: 'No steering wheel, no pedals': Tesla teases fans ahead of l...",
-    "✗ 股市动态: If a Stock Market Crash Is Coming, This Is Warren Buffett's ..."
+    "✓ 综合财经: This couple ditched 6-figure paychecks for 14 Airbnbs and $1...",
+    "✓ 股市动态: Here's the biggest thing keeping AI stock investors up at ni...",
+    "✓ 股市动态: Zscaler stock rises on earnings beat, upbeat guidance...",
+    "✓ 股市动态: Options volume erupts in retail trading favorites as Robinho...",
+    "✗ 货币政策: Vance says Fed should lower interest rates: 'Would be nice t..."
   ],
-  "positive_count": 8,
-  "negative_count": 3,
-  "neutral_count": 19,
+  "positive_count": 10,
+  "negative_count": 2,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-03T15:42:34.147363",
+  "analyzed_at": "2026-09-03T20:26:01.337570",
   "categories_distribution": {
-    "综合财经": 26,
-    "股市动态": 17,
-    "大宗商品": 2,
-    "经济数据": 4,
+    "股市动态": 20,
+    "综合财经": 24,
+    "数字货币": 1,
+    "大宗商品": 1,
     "货币政策": 4,
-    "外汇市场": 2
+    "外汇市场": 3,
+    "国际贸易": 1,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
