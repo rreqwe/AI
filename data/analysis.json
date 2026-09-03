@@ -1,27 +1,28 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✗ 股市动态: Costco shuts down key service without notice...",
-    "✓ 综合财经: Last-mile costs rise 12% for a second year...",
+    "✓ 经济数据: Alphabet (GOOG) Reports Strong Growth Fueled by AI Demand an...",
+    "✓ 股市动态: Why Analysts Think Sellas Life Sciences Stock Can Gain 150% ...",
     "✓ 综合财经: Denny’s rival dining chain files for Chapter 11 bankruptcy...",
-    "✗ 股市动态: Broadcom's stock drops 5% as weak guidance overshadows earni...",
-    "✓ 综合财经: Google spared break-up of online advertising monopoly ..."
+    "✓ 经济数据: Broadcom delivers strong earnings view as CEO touts growth w..."
   ],
-  "positive_count": 11,
-  "negative_count": 3,
-  "neutral_count": 16,
+  "positive_count": 9,
+  "negative_count": 2,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-02T20:27:13.560285",
+  "analyzed_at": "2026-09-03T02:44:13.003279",
   "categories_distribution": {
-    "综合财经": 24,
-    "股市动态": 21,
-    "货币政策": 4,
-    "国际贸易": 1,
-    "大宗商品": 1,
-    "经济数据": 3
+    "综合财经": 15,
+    "股市动态": 22,
+    "国际贸易": 2,
+    "经济数据": 5,
+    "外汇市场": 4,
+    "货币政策": 3,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
