@@ -1,27 +1,27 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: 10 best money market accounts and rates for September 2026: ...",
-    "✓ 综合财经: 15 best new bank account promotions and bonuses for Septembe...",
-    "✗ 股市动态: Costco shuts down key service without notice...",
-    "✓ 综合财经: Friedrich Merz sidelined as party fights far-right in region...",
-    "✓ 外汇市场: Hidden China risks are emerging in America’s multibillion-do..."
+    "✓ 经济数据: Do You Believe Arthur J. Gallagher (AJG) Could Deliver Mid-T...",
+    "✗ 货币政策: Stock Market Today: Dow Leads Charge As Fed's Waller Signals...",
+    "✓ 综合财经: Here’s What Boosted Astrana Health (ASTH) in Q2...",
+    "✓ 综合财经: 'No steering wheel, no pedals': Tesla teases fans ahead of l...",
+    "✗ 股市动态: If a Stock Market Crash Is Coming, This Is Warren Buffett's ..."
   ],
-  "positive_count": 10,
+  "positive_count": 8,
   "negative_count": 3,
-  "neutral_count": 17,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-03T10:36:17.488580",
+  "analyzed_at": "2026-09-03T15:42:34.147363",
   "categories_distribution": {
-    "综合财经": 24,
-    "股市动态": 18,
-    "货币政策": 3,
-    "外汇市场": 3,
+    "综合财经": 26,
+    "股市动态": 17,
+    "大宗商品": 2,
     "经济数据": 4,
-    "大宗商品": 1
+    "货币政策": 4,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
