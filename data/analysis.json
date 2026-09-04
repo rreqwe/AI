@@ -4,24 +4,23 @@
   "sentiment_emoji": "😐",
   "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Volkswagen board approves plan to cut another 50,000 jobs...",
-    "✓ 综合财经: South Korea's AI rally is reshaping romance, reality shows a...",
-    "✓ 货币政策: Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cyberc...",
-    "✓ 综合财经: What are the latest claims against Nigel Farage?...",
-    "✓ 综合财经: From cake to pizza: How to get the best birthday freebies (a..."
+    "✓ 综合财经: Solana Foundation president sees a 'token supercycle' reshap...",
+    "✗ 股市动态: Will the housing market crash in 2026? Numbers look steady...",
+    "✓ 综合财经: Mortgage & refinance rates today, Wednesday, September 2, 20...",
+    "✓ 大宗商品: US diesel prices hit an all-time-high...",
+    "✓ 股市动态: Volkswagen to slash up to 50,000 jobs in historic restructur..."
   ],
   "positive_count": 9,
   "negative_count": 1,
   "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-04T02:41:27.217894",
+  "analyzed_at": "2026-09-04T10:29:05.786504",
   "categories_distribution": {
-    "综合财经": 30,
-    "外汇市场": 3,
-    "股市动态": 16,
-    "大宗商品": 2,
-    "货币政策": 3,
-    "经济数据": 1
+    "综合财经": 24,
+    "股市动态": 21,
+    "大宗商品": 5,
+    "国际贸易": 1,
+    "货币政策": 2
   },
   "ai_provider": "fallback_rules"
 }
