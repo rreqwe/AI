@@ -1,26 +1,26 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Solana Foundation president sees a 'token supercycle' reshap...",
-    "✗ 股市动态: Will the housing market crash in 2026? Numbers look steady...",
-    "✓ 综合财经: Mortgage & refinance rates today, Wednesday, September 2, 20...",
-    "✓ 大宗商品: US diesel prices hit an all-time-high...",
-    "✓ 股市动态: Volkswagen to slash up to 50,000 jobs in historic restructur..."
+    "✓ 股市动态: Acquisition Premium Injects Immediate Boost into MGM Resorts...",
+    "✗ 综合财经: PG&E (PCG) Sub Says California’s Wildfire Bill Leaves Financ...",
+    "✓ 股市动态: After an 80% Gain on the Year, Is Palo Alto Networks Stock a...",
+    "✓ 股市动态: Nvidia stock extends gains to hover close to new all-time hi...",
+    "✓ 综合财经: Ballard Power (BLDP) Bought GeoPura at an Enterprise Value o..."
   ],
-  "positive_count": 9,
-  "negative_count": 1,
-  "neutral_count": 20,
+  "positive_count": 11,
+  "negative_count": 5,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-04T10:29:05.786504",
+  "analyzed_at": "2026-09-04T15:41:00.441348",
   "categories_distribution": {
-    "综合财经": 24,
-    "股市动态": 21,
+    "股市动态": 22,
+    "综合财经": 21,
+    "货币政策": 4,
     "大宗商品": 5,
-    "国际贸易": 1,
-    "货币政策": 2
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
