@@ -2,25 +2,25 @@
   "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Acquisition Premium Injects Immediate Boost into MGM Resorts...",
-    "✗ 综合财经: PG&E (PCG) Sub Says California’s Wildfire Bill Leaves Financ...",
-    "✓ 股市动态: After an 80% Gain on the Year, Is Palo Alto Networks Stock a...",
-    "✓ 股市动态: Nvidia stock extends gains to hover close to new all-time hi...",
-    "✓ 综合财经: Ballard Power (BLDP) Bought GeoPura at an Enterprise Value o..."
+    "✗ 股市动态: PENN Entertainment (PENN) Swings To Profit As Debt Comes Dow...",
+    "✓ 股市动态: Snowflake Shares Rise After Q2 Revenue and Earnings Exceed E...",
+    "✓ 综合财经: Trump says he will spend up to $500 million of 'my money' to...",
+    "✗ 货币政策: Trump doubles down on threat to halt trade with top partners...",
+    "✓ 经济数据: The Stock Market Survived a Strong Jobs Report. Can It Survi..."
   ],
-  "positive_count": 11,
-  "negative_count": 5,
-  "neutral_count": 14,
+  "positive_count": 9,
+  "negative_count": 3,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-04T15:41:00.441348",
+  "analyzed_at": "2026-09-04T20:12:36.318885",
   "categories_distribution": {
-    "股市动态": 22,
-    "综合财经": 21,
-    "货币政策": 4,
+    "股市动态": 21,
+    "综合财经": 19,
+    "货币政策": 5,
     "大宗商品": 5,
-    "经济数据": 3
+    "经济数据": 5
   },
   "ai_provider": "fallback_rules"
 }
