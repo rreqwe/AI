@@ -1,26 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: PENN Entertainment (PENN) Swings To Profit As Debt Comes Dow...",
-    "✓ 股市动态: Snowflake Shares Rise After Q2 Revenue and Earnings Exceed E...",
-    "✓ 综合财经: Trump says he will spend up to $500 million of 'my money' to...",
-    "✗ 货币政策: Trump doubles down on threat to halt trade with top partners...",
-    "✓ 经济数据: The Stock Market Survived a Strong Jobs Report. Can It Survi..."
+    "✓ 大宗商品: U.S. Global Investors swings to $3.1M profit in fiscal 2026 ...",
+    "✓ 股市动态: Stock Market Today: Nasdaq Posts Back-To-Back Gains; Tesla, ...",
+    "✓ 货币政策: Stocks Finish Sharply Higher on Reduced Fed Rate Hike Chance...",
+    "✓ 综合财经: U.S. Hiring Jumps, an Encouraging Sign for the Economy - nyt...",
+    "✓ 综合财经: U.S. sanctions Turkish bank accused of enabling Iran as Bess..."
   ],
-  "positive_count": 9,
-  "negative_count": 3,
+  "positive_count": 10,
+  "negative_count": 2,
   "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-04T20:12:36.318885",
+  "analyzed_at": "2026-09-05T02:43:05.114813",
   "categories_distribution": {
-    "股市动态": 21,
-    "综合财经": 19,
-    "货币政策": 5,
+    "综合财经": 24,
     "大宗商品": 5,
-    "经济数据": 5
+    "股市动态": 17,
+    "货币政策": 6,
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
