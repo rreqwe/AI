@@ -1,26 +1,28 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 大宗商品: U.S. Global Investors swings to $3.1M profit in fiscal 2026 ...",
-    "✓ 股市动态: Stock Market Today: Nasdaq Posts Back-To-Back Gains; Tesla, ...",
-    "✓ 货币政策: Stocks Finish Sharply Higher on Reduced Fed Rate Hike Chance...",
-    "✓ 综合财经: U.S. Hiring Jumps, an Encouraging Sign for the Economy - nyt...",
-    "✓ 综合财经: U.S. sanctions Turkish bank accused of enabling Iran as Bess..."
+    "✓ 经济数据: Ooma (OOMA) Rides A Phone Line Extinction Into Faster Growth...",
+    "✗ 外汇市场: US Dollar Price Forecast: DXY Weakens Ahead of NFP; EUR/USD ...",
+    "✓ 综合财经: Jefferies fund caught with $500mn exposure to second alleged...",
+    "✗ 综合财经: The other side of the 1990s...",
+    "✓ 股市动态: US Republicans revolt against Flock AI surveillance as tech ..."
   ],
-  "positive_count": 10,
-  "negative_count": 2,
-  "neutral_count": 18,
+  "positive_count": 6,
+  "negative_count": 3,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-05T02:43:05.114813",
+  "analyzed_at": "2026-09-05T09:53:42.910486",
   "categories_distribution": {
-    "综合财经": 24,
-    "大宗商品": 5,
-    "股市动态": 17,
-    "货币政策": 6,
-    "经济数据": 3
+    "综合财经": 23,
+    "经济数据": 2,
+    "数字货币": 1,
+    "外汇市场": 1,
+    "股市动态": 20,
+    "货币政策": 5,
+    "大宗商品": 3
   },
   "ai_provider": "fallback_rules"
 }
