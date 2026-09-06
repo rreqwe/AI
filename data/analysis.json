@@ -1,27 +1,28 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Casella’s (CWST) Growth Machine Is Outrunning Its Own Profit...",
-    "✓ 股市动态: Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped M...",
-    "✓ 股市动态: These 2 AI Storage Stocks Soared as the S&P 500 Fell...",
-    "✓ 股市动态: The S&P 500 Fell, but These 2 AI Memory Stocks Exploded High...",
-    "✓ 经济数据: Intuitive Surgical's Growth Has Cooled From Its Post-Pandemi..."
+    "✗ 综合财经: Lululemon sinks after cutting forecast as revenue declines...",
+    "✗ 股市动态: Top Funds Sink Their Teeth Into Apple Stock. Sweet Breakout ...",
+    "✓ 股市动态: LeBron James teases partnership with Polymarket...",
+    "✓ 货币政策: Trump turns up the heat on Warsh as Fed rate hike looms...",
+    "✓ 综合财经: Trump and Musk Super Pacs boost spending on midterm election..."
   ],
-  "positive_count": 11,
-  "negative_count": 3,
-  "neutral_count": 16,
+  "positive_count": 5,
+  "negative_count": 5,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-05T19:51:58.555577",
+  "analyzed_at": "2026-09-06T02:40:40.433051",
   "categories_distribution": {
-    "经济数据": 5,
-    "股市动态": 19,
-    "综合财经": 23,
-    "货币政策": 2,
+    "数字货币": 1,
+    "股市动态": 22,
+    "综合财经": 19,
+    "货币政策": 5,
     "大宗商品": 5,
-    "国际贸易": 1
+    "国际贸易": 1,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
