@@ -1,27 +1,27 @@
 {
-  "temperature_score": 51.67,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极8条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Sprinklr’s Revenue Grew Just 1% and the Stock Fell 9%. Can A...",
-    "✓ 股市动态: bioAffinity’s AI Lung-Cancer Stock Jumped Nearly 48% After a...",
-    "✓ 综合财经: A Judge Spared Alphabet From an Ad-Tech Breakup but Ordered ...",
-    "✓ 股市动态: Why Atlassian Stock Skyrocketed 92% Higher in August and Why...",
-    "✗ 股市动态: If a Stock Market Crash Is Coming, History Says Investors Wh..."
+    "✗ 货币政策: Scott Bessent Said Interest Rates Have Fallen During Trump’s...",
+    "✓ 综合财经: Palantir Jumped 7.7% on an Expanded PwC Alliance as Globant ...",
+    "✓ 综合财经: Replenish Nutrients CEO talks major scale-up - ICYMI...",
+    "✓ 股市动态: Sugar is outperforming the stock market this year. Here's wh...",
+    "✓ 综合财经: ‘Model fatigue’ sets in as AI labs race to roll out new vers..."
   ],
-  "positive_count": 9,
-  "negative_count": 8,
-  "neutral_count": 13,
+  "positive_count": 7,
+  "negative_count": 5,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-06T10:11:28.274164",
+  "analyzed_at": "2026-09-06T14:50:47.915425",
   "categories_distribution": {
-    "综合财经": 22,
-    "股市动态": 21,
-    "货币政策": 3,
+    "货币政策": 4,
+    "综合财经": 23,
+    "股市动态": 20,
     "外汇市场": 3,
-    "大宗商品": 4,
-    "经济数据": 1
+    "国际贸易": 1,
+    "大宗商品": 3
   },
   "ai_provider": "fallback_rules"
 }
