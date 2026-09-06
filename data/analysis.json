@@ -1,27 +1,27 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 货币政策: Scott Bessent Said Interest Rates Have Fallen During Trump’s...",
-    "✓ 综合财经: Palantir Jumped 7.7% on an Expanded PwC Alliance as Globant ...",
-    "✓ 综合财经: Replenish Nutrients CEO talks major scale-up - ICYMI...",
-    "✓ 股市动态: Sugar is outperforming the stock market this year. Here's wh...",
-    "✓ 综合财经: ‘Model fatigue’ sets in as AI labs race to roll out new vers..."
+    "✓ 综合财经: Mohamed El-Erian says an influx of hyperscaler bonds is comp...",
+    "✓ 综合财经: Okta Jumps 20% as AI-Driven Security Fears Fuel a Beat-and-R...",
+    "✓ 综合财经: U.S. Energy Secretary Wright says Iran nuclear deal may neve...",
+    "✗ 综合财经: The risky mission to de-mine the Strait of Hormuz...",
+    "✓ 综合财经: SEC sues ISS as Trump administration ramps up scrutiny of pr..."
   ],
-  "positive_count": 7,
-  "negative_count": 5,
-  "neutral_count": 18,
+  "positive_count": 8,
+  "negative_count": 3,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-06T14:50:47.915425",
+  "analyzed_at": "2026-09-06T19:55:44.881431",
   "categories_distribution": {
-    "货币政策": 4,
-    "综合财经": 23,
-    "股市动态": 20,
-    "外汇市场": 3,
+    "股市动态": 19,
+    "综合财经": 27,
     "国际贸易": 1,
-    "大宗商品": 3
+    "外汇市场": 2,
+    "货币政策": 3,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
