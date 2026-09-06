@@ -1,28 +1,27 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极8条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: Lululemon sinks after cutting forecast as revenue declines...",
-    "✗ 股市动态: Top Funds Sink Their Teeth Into Apple Stock. Sweet Breakout ...",
-    "✓ 股市动态: LeBron James teases partnership with Polymarket...",
-    "✓ 货币政策: Trump turns up the heat on Warsh as Fed rate hike looms...",
-    "✓ 综合财经: Trump and Musk Super Pacs boost spending on midterm election..."
+    "✗ 股市动态: Sprinklr’s Revenue Grew Just 1% and the Stock Fell 9%. Can A...",
+    "✓ 股市动态: bioAffinity’s AI Lung-Cancer Stock Jumped Nearly 48% After a...",
+    "✓ 综合财经: A Judge Spared Alphabet From an Ad-Tech Breakup but Ordered ...",
+    "✓ 股市动态: Why Atlassian Stock Skyrocketed 92% Higher in August and Why...",
+    "✗ 股市动态: If a Stock Market Crash Is Coming, History Says Investors Wh..."
   ],
-  "positive_count": 5,
-  "negative_count": 5,
-  "neutral_count": 20,
+  "positive_count": 9,
+  "negative_count": 8,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-06T02:40:40.433051",
+  "analyzed_at": "2026-09-06T10:11:28.274164",
   "categories_distribution": {
-    "数字货币": 1,
-    "股市动态": 22,
-    "综合财经": 19,
-    "货币政策": 5,
-    "大宗商品": 5,
-    "国际贸易": 1,
-    "经济数据": 2
+    "综合财经": 22,
+    "股市动态": 21,
+    "货币政策": 3,
+    "外汇市场": 3,
+    "大宗商品": 4,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
