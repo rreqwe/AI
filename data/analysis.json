@@ -1,27 +1,27 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Bernie Sanders Wants to Ban Superintelligence. What It Means...",
-    "✓ 股市动态: These 2 AI Power Stocks Jumped While the S&P 500 Fell...",
-    "✗ 综合财经: Loss of Costco deal helps push beverage brand into Chapter 1...",
-    "✗ 货币政策: Far-right AfD landslide in German state piles pressure on fe...",
-    "✓ 大宗商品: Oil prices rise to 6-week high after Iran and U.S. trade blo..."
+    "✓ 综合财经: A bankruptcy attorney explains exactly when creditors can — ...",
+    "✓ 综合财经: ‘Listen up’: Suze Orman says Americans are miscalculating 1 ...",
+    "✓ 经济数据: OraSure (OSUR) Returns To Profit, But Growth Remains Elusive...",
+    "✓ 国际贸易: Trump calls for US boycott of Canada’s Bombardier jets...",
+    "✗ 经济数据: Dow Jones Futures Fall With U.S. Markets Shut; Iran, Apple, ..."
   ],
-  "positive_count": 10,
+  "positive_count": 9,
   "negative_count": 4,
-  "neutral_count": 16,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-07T17:08:28.211233",
+  "analyzed_at": "2026-09-07T21:03:25.373592",
   "categories_distribution": {
-    "综合财经": 24,
-    "大宗商品": 5,
-    "股市动态": 19,
+    "综合财经": 25,
+    "经济数据": 4,
+    "股市动态": 16,
+    "国际贸易": 4,
     "货币政策": 2,
-    "经济数据": 3,
-    "国际贸易": 2
+    "大宗商品": 4
   },
   "ai_provider": "fallback_rules"
 }
