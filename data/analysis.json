@@ -1,27 +1,26 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Mohamed El-Erian says an influx of hyperscaler bonds is comp...",
-    "✓ 综合财经: Okta Jumps 20% as AI-Driven Security Fears Fuel a Beat-and-R...",
-    "✓ 综合财经: U.S. Energy Secretary Wright says Iran nuclear deal may neve...",
-    "✗ 综合财经: The risky mission to de-mine the Strait of Hormuz...",
-    "✓ 综合财经: SEC sues ISS as Trump administration ramps up scrutiny of pr..."
+    "✗ 股市动态: If a Downturn Is Coming, 50 Years of Market History Says Thi...",
+    "✓ 综合财经: Why Anterix (ATEX) Surged 169.6% in Q2, According to Gabelli...",
+    "✓ 综合财经: 39-year-old ammunition manufacturer files Chapter 11 bankrup...",
+    "✓ 综合财经: China to pump $54bn into state banks and insurers to boost e...",
+    "✓ 综合财经: Indonesia shuts airports as volcano erupts..."
   ],
   "positive_count": 8,
-  "negative_count": 3,
-  "neutral_count": 19,
+  "negative_count": 5,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-06T19:55:44.881431",
+  "analyzed_at": "2026-09-07T02:38:23.926512",
   "categories_distribution": {
-    "股市动态": 19,
-    "综合财经": 27,
-    "国际贸易": 1,
-    "外汇市场": 2,
-    "货币政策": 3,
-    "大宗商品": 2
+    "股市动态": 18,
+    "综合财经": 29,
+    "经济数据": 2,
+    "大宗商品": 2,
+    "货币政策": 3
   },
   "ai_provider": "fallback_rules"
 }
