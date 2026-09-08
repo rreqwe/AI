@@ -1,27 +1,28 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Mohamed El-Erian says an influx of hyperscaler bonds is comp...",
-    "✗ 股市动态: Nvidia supplier Wistron's shares drop after it announces $1....",
-    "✗ 股市动态: Is a Stock Market Crash Imminent Under President Donald Trum...",
-    "✓ 综合财经: Iran foreign ministry takes aim at Canada for support of U.S...",
-    "✓ 大宗商品: Oil extends gains as renewed Mideast hostilities raise worri..."
+    "✗ 股市动态: Over 200 US seniors hand over fortunes in $250M gold scheme ...",
+    "✓ 国际贸易: The yen's sudden surge upsets the carry trade faithful...",
+    "✗ 综合财经: Loss of Costco deal helps push beverage brand into Chapter 1...",
+    "✓ 货币政策: Best high-yield savings interest rates today, Tuesday, Septe...",
+    "✓ 综合财经: Best CD rates today, Tuesday, September 8, 2026: Lock in up ..."
   ],
-  "positive_count": 5,
-  "negative_count": 3,
-  "neutral_count": 22,
+  "positive_count": 6,
+  "negative_count": 5,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-08T02:50:51.990934",
+  "analyzed_at": "2026-09-08T10:30:14.289027",
   "categories_distribution": {
-    "经济数据": 2,
-    "股市动态": 21,
-    "货币政策": 2,
-    "综合财经": 22,
+    "股市动态": 20,
     "国际贸易": 6,
-    "大宗商品": 2
+    "综合财经": 23,
+    "货币政策": 2,
+    "大宗商品": 1,
+    "经济数据": 1,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
