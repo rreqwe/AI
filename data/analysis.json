@@ -1,27 +1,28 @@
 {
-  "temperature_score": 51.67,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Over 200 US seniors hand over fortunes in $250M gold scheme ...",
-    "✓ 国际贸易: The yen's sudden surge upsets the carry trade faithful...",
+    "✓ 数字货币: Bitmine Buys $69M in Ether, Closes In on 5% of Ethereum Supp...",
+    "✓ 综合财经: GE Aerospace To Buy Key Industry Castings Supplier CPP For N...",
     "✗ 综合财经: Loss of Costco deal helps push beverage brand into Chapter 1...",
-    "✓ 货币政策: Best high-yield savings interest rates today, Tuesday, Septe...",
-    "✓ 综合财经: Best CD rates today, Tuesday, September 8, 2026: Lock in up ..."
+    "✗ 综合财经: Borrowers expecting mortgage rates to drop have hopes dashed...",
+    "✓ 股市动态: Here’s where rental demand is heading and what it means for ..."
   ],
-  "positive_count": 6,
-  "negative_count": 5,
-  "neutral_count": 19,
+  "positive_count": 9,
+  "negative_count": 4,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-08T10:30:14.289027",
+  "analyzed_at": "2026-09-08T15:54:46.879573",
   "categories_distribution": {
-    "股市动态": 20,
-    "国际贸易": 6,
-    "综合财经": 23,
     "货币政策": 2,
-    "大宗商品": 1,
-    "经济数据": 1,
+    "综合财经": 21,
+    "股市动态": 16,
+    "数字货币": 1,
+    "大宗商品": 6,
+    "经济数据": 2,
+    "国际贸易": 5,
     "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
