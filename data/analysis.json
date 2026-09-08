@@ -1,27 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: A bankruptcy attorney explains exactly when creditors can — ...",
-    "✓ 综合财经: ‘Listen up’: Suze Orman says Americans are miscalculating 1 ...",
-    "✓ 经济数据: OraSure (OSUR) Returns To Profit, But Growth Remains Elusive...",
-    "✓ 国际贸易: Trump calls for US boycott of Canada’s Bombardier jets...",
-    "✗ 经济数据: Dow Jones Futures Fall With U.S. Markets Shut; Iran, Apple, ..."
+    "✓ 综合财经: Mohamed El-Erian says an influx of hyperscaler bonds is comp...",
+    "✗ 股市动态: Nvidia supplier Wistron's shares drop after it announces $1....",
+    "✗ 股市动态: Is a Stock Market Crash Imminent Under President Donald Trum...",
+    "✓ 综合财经: Iran foreign ministry takes aim at Canada for support of U.S...",
+    "✓ 大宗商品: Oil extends gains as renewed Mideast hostilities raise worri..."
   ],
-  "positive_count": 9,
-  "negative_count": 4,
-  "neutral_count": 17,
+  "positive_count": 5,
+  "negative_count": 3,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-07T21:03:25.373592",
+  "analyzed_at": "2026-09-08T02:50:51.990934",
   "categories_distribution": {
-    "综合财经": 25,
-    "经济数据": 4,
-    "股市动态": 16,
-    "国际贸易": 4,
+    "经济数据": 2,
+    "股市动态": 21,
     "货币政策": 2,
-    "大宗商品": 4
+    "综合财经": 22,
+    "国际贸易": 6,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
