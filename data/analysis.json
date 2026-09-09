@@ -1,28 +1,29 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: These 2 AI Power Stocks Jumped While the S&P 500 Fell...",
-    "✓ 综合财经: Bernie Sanders Wants to Ban Superintelligence. What It Means...",
-    "✗ 综合财经: Loss of Costco deal helps push beverage brand into Chapter 1...",
-    "✓ 经济数据: China's wholesale inflation tops estimates in August on comm...",
-    "✓ 股市动态: Fundraising frenzy for China AI lab DeepSeek spawns costly s..."
+    "✓ 货币政策: Best high-yield savings interest rates today, Wednesday, Sep...",
+    "✓ 综合财经: Best CD rates today, Wednesday, September 9, 2026: Earn up t...",
+    "✗ 股市动态: Dow Jones Futures Fall As Oil Prices Push Stocks Toward Brea...",
+    "✓ 综合财经: Apple’s (AAPL) “Surprise and Shine” Event Tests Its Foldable...",
+    "✓ 股市动态: How much does it cost to move a midterm prediction market? N..."
   ],
-  "positive_count": 6,
-  "negative_count": 4,
-  "neutral_count": 20,
+  "positive_count": 8,
+  "negative_count": 3,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-09T02:50:46.085719",
+  "analyzed_at": "2026-09-09T10:41:25.752585",
   "categories_distribution": {
-    "综合财经": 21,
-    "股市动态": 16,
-    "大宗商品": 7,
-    "经济数据": 3,
-    "国际贸易": 5,
-    "货币政策": 1,
-    "外汇市场": 1
+    "货币政策": 2,
+    "综合财经": 24,
+    "股市动态": 17,
+    "外汇市场": 4,
+    "大宗商品": 3,
+    "国际贸易": 3,
+    "数字货币": 1,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
