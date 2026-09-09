@@ -1,27 +1,28 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Trump wants your 401(k) in private equity — but 54% of the b...",
-    "✓ 股市动态: How Is American International Group’s Stock Performance Comp...",
-    "✓ 综合财经: Apple’s New CEO Just Teed Up a ‘Phenomenal’ Launch on Sept. ...",
-    "✓ 外汇市场: Audi introduces new compact EV in bid to boost European sale...",
-    "✗ 综合财经: Loss of Costco deal helps push beverage brand into Chapter 1..."
+    "✓ 股市动态: These 2 AI Power Stocks Jumped While the S&P 500 Fell...",
+    "✓ 综合财经: Bernie Sanders Wants to Ban Superintelligence. What It Means...",
+    "✗ 综合财经: Loss of Costco deal helps push beverage brand into Chapter 1...",
+    "✓ 经济数据: China's wholesale inflation tops estimates in August on comm...",
+    "✓ 股市动态: Fundraising frenzy for China AI lab DeepSeek spawns costly s..."
   ],
-  "positive_count": 9,
+  "positive_count": 6,
   "negative_count": 4,
-  "neutral_count": 17,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-08T20:38:42.890314",
+  "analyzed_at": "2026-09-09T02:50:46.085719",
   "categories_distribution": {
-    "综合财经": 24,
-    "股市动态": 17,
-    "外汇市场": 4,
-    "大宗商品": 4,
-    "国际贸易": 4,
-    "经济数据": 2
+    "综合财经": 21,
+    "股市动态": 16,
+    "大宗商品": 7,
+    "经济数据": 3,
+    "国际贸易": 5,
+    "货币政策": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
