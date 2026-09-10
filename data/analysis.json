@@ -1,26 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Hewlett Packard Enterprise Company (HPE) Jumps on Surging AI...",
-    "✗ 股市动态: Here’s Why Analysts Downgraded Matador Resources Company (MT...",
-    "✓ 综合财经: Closing Traceability Gaps with Origin Verification: Why Prov...",
-    "✓ 股市动态: Arrow Electronics (ARW) Stock Rises Sharply Amid AI Infrastr...",
-    "✓ 股市动态: China warns bankers not to flood IPO market..."
+    "✓ 综合财经: Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens...",
+    "✓ 股市动态: Palantir Stock Continues to Grow on the Back of Enterprise P...",
+    "✓ 综合财经: 401(k) savers are setting records. How to catch up if you're...",
+    "✗ 股市动态: OpenAI, Anthropic researchers ramp up calls for AI slowdown ...",
+    "✓ 综合财经: 'Fear gauge' VIX is starting to attract hedges into historic..."
   ],
-  "positive_count": 7,
+  "positive_count": 11,
   "negative_count": 3,
-  "neutral_count": 20,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-10T02:51:59.203559",
+  "analyzed_at": "2026-09-10T10:30:04.627530",
   "categories_distribution": {
-    "综合财经": 27,
-    "股市动态": 24,
-    "经济数据": 1,
-    "大宗商品": 2,
-    "外汇市场": 1
+    "综合财经": 31,
+    "股市动态": 13,
+    "经济数据": 5,
+    "货币政策": 2,
+    "大宗商品": 3,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
