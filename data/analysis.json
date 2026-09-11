@@ -1,28 +1,28 @@
 {
-  "temperature_score": 68.33,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Stock Market Falls On Soaring Oil Prices, Yields, But Finish...",
-    "✓ 综合财经: Positive Lung Cancer Data Lifts the Case for Amgen and Astra...",
+    "✓ 综合财经: FBI issues warning to US homeowners with 100% paid-off mortg...",
+    "✗ 股市动态: Should you draw down your 401(k) to delay Social Security? T...",
     "✓ 综合财经: HIVE brings in enterprise veteran to scale BUZZ HPC's AI clo...",
-    "✓ 经济数据: Stock Market Today: Dow Rallies On Surprise Inflation Data; ...",
-    "✗ 综合财经: Metaplanet Slashes Series 10 Share Pool by 41% Amid Dilution..."
+    "✓ 经济数据: U.S. Stock Futures Slip as Oil Extends Gains, PPI Data and O...",
+    "✗ 股市动态: Saudi Arabia shut down East-West crude oil pipeline after mu..."
   ],
-  "positive_count": 12,
-  "negative_count": 1,
+  "positive_count": 9,
+  "negative_count": 4,
   "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-11T15:47:13.411285",
+  "analyzed_at": "2026-09-11T20:22:43.561732",
   "categories_distribution": {
-    "经济数据": 14,
-    "综合财经": 18,
-    "大宗商品": 1,
-    "外汇市场": 3,
-    "货币政策": 5,
-    "股市动态": 13,
-    "国际贸易": 1
+    "国际贸易": 2,
+    "货币政策": 4,
+    "综合财经": 13,
+    "股市动态": 20,
+    "经济数据": 11,
+    "大宗商品": 2,
+    "外汇市场": 3
   },
   "ai_provider": "fallback_rules"
 }
