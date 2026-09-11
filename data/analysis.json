@@ -1,28 +1,28 @@
 {
-  "temperature_score": 68.33,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: CoreWeave struggling to keep up with demand for Nvidia chips...",
-    "✓ 数字货币: Hassett kept up to $5 million Coinbase stake as Trump reshap...",
-    "✓ 股市动态: Chinese Nvidia rival Enflame soars 206% on stock market debu...",
-    "✓ 股市动态: Chinese Nvidia rival Enflame soars 206% on stock market debu...",
-    "✓ 综合财经: Trump says he has no regrets about starting the Iran war as ..."
+    "✗ 股市动态: When will gas prices go down? Prices hit records as Iran war...",
+    "✓ 综合财经: Strong Q1 Cash Flows Mask Order Softness for Daktronics (DAK...",
+    "✓ 综合财经: Investors Brush Off Bessent’s Surge in Buybacks...",
+    "✓ 综合财经: HIVE brings in enterprise veteran to scale BUZZ HPC's AI clo...",
+    "✗ 股市动态: Will the housing market crash in 2026? Probably not..."
   ],
-  "positive_count": 13,
-  "negative_count": 2,
-  "neutral_count": 15,
+  "positive_count": 10,
+  "negative_count": 3,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-11T02:46:27.449917",
+  "analyzed_at": "2026-09-11T10:31:32.743426",
   "categories_distribution": {
-    "综合财经": 26,
-    "股市动态": 20,
+    "股市动态": 17,
+    "综合财经": 22,
+    "经济数据": 8,
+    "大宗商品": 2,
+    "货币政策": 4,
     "数字货币": 1,
-    "外汇市场": 1,
-    "货币政策": 2,
-    "经济数据": 2,
-    "大宗商品": 3
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
