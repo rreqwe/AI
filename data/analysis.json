@@ -1,26 +1,28 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 68.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Okta Earnings, AI Offerings Drive Shares Up 94% YTD...",
-    "✓ 经济数据: Zeta Global Near All-Time High on Platform Growth, Strong Ea...",
-    "✓ 股市动态: Oracle's stock jumps 7% on earnings beat as cloud infrastruc...",
-    "✓ 大宗商品: Global bond sell-off reignites as oil jumps to $107...",
-    "✓ 大宗商品: Oil, gas and borrowing costs surge as fears over Middle East..."
+    "✓ 综合财经: CoreWeave struggling to keep up with demand for Nvidia chips...",
+    "✓ 数字货币: Hassett kept up to $5 million Coinbase stake as Trump reshap...",
+    "✓ 股市动态: Chinese Nvidia rival Enflame soars 206% on stock market debu...",
+    "✓ 股市动态: Chinese Nvidia rival Enflame soars 206% on stock market debu...",
+    "✓ 综合财经: Trump says he has no regrets about starting the Iran war as ..."
   ],
-  "positive_count": 10,
-  "negative_count": 0,
-  "neutral_count": 20,
+  "positive_count": 13,
+  "negative_count": 2,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-10T20:22:19.051415",
+  "analyzed_at": "2026-09-11T02:46:27.449917",
   "categories_distribution": {
-    "股市动态": 22,
-    "综合财经": 20,
-    "大宗商品": 4,
-    "经济数据": 6,
-    "货币政策": 3
+    "综合财经": 26,
+    "股市动态": 20,
+    "数字货币": 1,
+    "外汇市场": 1,
+    "货币政策": 2,
+    "经济数据": 2,
+    "大宗商品": 3
   },
   "ai_provider": "fallback_rules"
 }
