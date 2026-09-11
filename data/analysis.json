@@ -1,28 +1,28 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 68.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: When will gas prices go down? Prices hit records as Iran war...",
-    "✓ 综合财经: Strong Q1 Cash Flows Mask Order Softness for Daktronics (DAK...",
-    "✓ 综合财经: Investors Brush Off Bessent’s Surge in Buybacks...",
+    "✓ 经济数据: Stock Market Falls On Soaring Oil Prices, Yields, But Finish...",
+    "✓ 综合财经: Positive Lung Cancer Data Lifts the Case for Amgen and Astra...",
     "✓ 综合财经: HIVE brings in enterprise veteran to scale BUZZ HPC's AI clo...",
-    "✗ 股市动态: Will the housing market crash in 2026? Probably not..."
+    "✓ 经济数据: Stock Market Today: Dow Rallies On Surprise Inflation Data; ...",
+    "✗ 综合财经: Metaplanet Slashes Series 10 Share Pool by 41% Amid Dilution..."
   ],
-  "positive_count": 10,
-  "negative_count": 3,
+  "positive_count": 12,
+  "negative_count": 1,
   "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-11T10:31:32.743426",
+  "analyzed_at": "2026-09-11T15:47:13.411285",
   "categories_distribution": {
-    "股市动态": 17,
-    "综合财经": 22,
-    "经济数据": 8,
-    "大宗商品": 2,
-    "货币政策": 4,
-    "数字货币": 1,
-    "外汇市场": 1
+    "经济数据": 14,
+    "综合财经": 18,
+    "大宗商品": 1,
+    "外汇市场": 3,
+    "货币政策": 5,
+    "股市动态": 13,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
