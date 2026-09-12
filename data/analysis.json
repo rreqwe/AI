@@ -1,28 +1,28 @@
 {
-  "temperature_score": 48.33,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比8/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 60.0,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: Zura Bio (ZURA) Hits Enrollment Milestones As Losses Widen S...",
-    "✓ 货币政策: 172-year-old bank sees 400% upside for 'federal bank' token...",
-    "✗ 综合财经: Solid Power’s (SLDP) Widening Losses Come With A Liquidity C...",
-    "✓ 综合财经: HIVE brings in enterprise veteran to scale BUZZ HPC's AI clo...",
-    "✓ 综合财经: Man declares bankruptcy with 34 cents while hiding millions..."
+    "✓ 综合财经: ABM Industries’ (ABM) Cash Flow Jump Masks A Split Business ...",
+    "✗ 综合财经: Scott Bessent dismisses 'Bloomberg Terminal bros' as 10-year...",
+    "✓ 综合财经: $2.3 Billion in Daily Profits: Why Betting Against the Magni...",
+    "✓ 综合财经: Frequency Electronics (FEIM) Soars After Record Revenue...",
+    "✓ 综合财经: Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% U..."
   ],
-  "positive_count": 7,
-  "negative_count": 8,
-  "neutral_count": 15,
+  "positive_count": 10,
+  "negative_count": 4,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-12T09:59:54.441636",
+  "analyzed_at": "2026-09-12T14:54:59.098178",
   "categories_distribution": {
-    "综合财经": 19,
-    "货币政策": 5,
+    "综合财经": 23,
+    "货币政策": 3,
     "股市动态": 16,
-    "国际贸易": 3,
-    "外汇市场": 3,
-    "大宗商品": 2,
-    "经济数据": 6
+    "国际贸易": 2,
+    "大宗商品": 3,
+    "经济数据": 6,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
