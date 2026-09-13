@@ -1,28 +1,28 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 66.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 综合财经: BRP (DOO) Posts A Quarterly Loss And Raises Its Outlook Anyw...",
-    "✓ 综合财经: eGain’s (EGAN) Bold AI Pivot Just Won A Big Believer...",
-    "✓ 综合财经: Ciena’s (CIEN) Backlog Just Hit $8.5B and Keeps Climbing...",
-    "✓ 综合财经: Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FD...",
-    "✓ 股市动态: BioMarin Shares Jump 5% After Global Patent Settlement With ..."
+    "✓ 货币政策: Fed rate hike odds surge to 90% on monthly jump in core pric...",
+    "✓ 股市动态: Exelixis, An IBD 50 Stock, Pulls A Bearish Move With Surpris...",
+    "✓ 综合财经: SpaceX CFO Touts New $13 Billion AI Deal, Upcoming Starship ...",
+    "✓ 综合财经: Jim Cramer Sees Enterprise Products Partners (EPD) as a Pipe...",
+    "✓ 货币政策: 172-year-old bank sees 400% upside for 'federal bank' token..."
   ],
-  "positive_count": 12,
-  "negative_count": 5,
-  "neutral_count": 13,
+  "positive_count": 13,
+  "negative_count": 3,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-12T20:06:58.767954",
+  "analyzed_at": "2026-09-13T02:54:16.036884",
   "categories_distribution": {
-    "综合财经": 15,
     "股市动态": 20,
-    "外汇市场": 3,
     "货币政策": 5,
+    "经济数据": 7,
+    "综合财经": 15,
     "国际贸易": 2,
-    "经济数据": 6,
-    "大宗商品": 1
+    "大宗商品": 1,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
