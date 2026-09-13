@@ -1,129 +1,333 @@
 {
-  "updated_at": "2026-09-13T11:00:49.769572",
+  "updated_at": "2026-09-13T15:32:00.239766",
   "total_count": 55,
   "news": [
     {
-      "id": 3939079176303483537,
-      "title": "Jim Cramer on Tapestry (TPR): “I Want to Be With the Company”",
+      "id": 3402264771710873249,
+      "title": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
       "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tapestry-tpr-want-090843782.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-13T11:00:43.234075",
+      "published_at": "2026-09-13T15:31:53.497390",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:53.497402"
+    },
+    {
+      "id": -5700420337157653136,
+      "title": "The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-posts-record-sales-134612583.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-13T15:31:53.497375",
       "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:43.234086"
+      "fetched_at": "2026-09-13T15:31:53.497384"
     },
     {
-      "id": -2981054867135966623,
-      "title": "Jim Cramer Calls Akamai (AKAM) “Terrific” and Cloudflare (NET) One of His Favorites",
+      "id": 500838178418257700,
+      "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
       "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-akamai-akam-090349309.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-grows-134921293.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-13T11:00:43.234057",
+      "published_at": "2026-09-13T15:31:53.497359",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:53.497369"
+    },
+    {
+      "id": -832736069709013084,
+      "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-13T15:31:53.497341",
       "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-09-13T11:00:43.234069"
+      "fetched_at": "2026-09-13T15:31:53.497353"
     },
     {
-      "id": 6362177415091193,
-      "title": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics?",
+      "id": 1007862191130004947,
+      "title": "Retiring in 2027? 3 Essential Financial Moves to Make",
       "description": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-building-sovereign-ai-085205506.html",
+      "url": "https://finance.yahoo.com/markets/articles/retiring-2027-3-essential-financial-152000740.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-13T11:00:43.234041",
+      "published_at": "2026-09-13T15:31:53.497325",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:43.234051"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-09-13T15:31:53.497334"
     },
     {
-      "id": -7732571773628277805,
-      "title": "Jim Cramer on Builders FirstSource (BLDR): “No, Thank You”",
+      "id": -9098352147204366703,
+      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
       "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-builders-firstsource-bldr-084935902.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-13T11:00:43.234024",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:43.234035"
-    },
-    {
-      "id": -955706020584308256,
-      "title": "Is a Stock Market Crash Looming Under President Donald Trump? Nearly 156 Years of History Offers Up an Unpleasant Truth for Wall Street.",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-looming-under-082601234.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-13T11:00:43.234011",
-      "category": "股市动态",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:43.234018"
-    },
-    {
-      "id": -4393783539255211019,
-      "title": "Investors Title’s (ITIC) Profit Surge Isn’t As Clean As It Looks",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-title-itic-profit-surge-081740418.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-13T11:00:43.233994",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:43.234005"
-    },
-    {
-      "id": 75210947582735385,
-      "title": "Meta May Overtake Google Search in Ad Revenue This Year, Bernstein Says",
-      "description": "",
-      "url": "https://finance.yahoo.com/media-advertising/articles/meta-may-overtake-google-search-084633342.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-13T11:00:43.233977",
+      "published_at": "2026-09-13T15:31:53.497308",
       "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:43.233987"
+      "fetched_at": "2026-09-13T15:31:53.497319"
     },
     {
-      "id": 4566262521161985832,
-      "title": "Krispy Kreme’s (DNUT) Turnaround Math Still Has A Revenue Problem",
+      "id": -7933619796747174378,
+      "title": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
       "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/krispy-kreme-dnut-turnaround-math-084300822.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-13T11:00:43.233957",
+      "published_at": "2026-09-13T15:31:53.497287",
       "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:43.233970"
+      "fetched_at": "2026-09-13T15:31:53.497301"
     },
     {
-      "id": -4057524590364754336,
-      "title": "3D Systems (DDD) Finally Turns The Corner, But Cracks Remain",
+      "id": 2407345077491165410,
+      "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
       "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3d-systems-ddd-finally-turns-083804802.html",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-13T11:00:43.233936",
+      "published_at": "2026-09-13T15:31:53.497275",
+      "category": "货币政策",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-09-13T15:31:53.497279"
+    },
+    {
+      "id": 2287107236881884894,
+      "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
+      "description": "",
+      "url": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-13T15:31:53.497261",
+      "category": "货币政策",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:53.497266"
+    },
+    {
+      "id": -7716475663877641304,
+      "title": "Berkshire Hathaway Has Nearly 14% of Its $359 Billion Portfolio Invested in This Winning Stock That's Doubled in 5 Years",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-nearly-14-359-152200373.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-13T15:31:53.497224",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:53.497244"
+    },
+    {
+      "id": -3715374797348700543,
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-09-13T14:53:40",
+      "category": "股市动态",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-09-13T15:31:55.629293"
+    },
+    {
+      "id": 7112437100370022193,
+      "title": "Russia hits evacuated Kyiv-Warsaw train on line used by foreign leaders ",
+      "description": "Engine carriage struck on route used minutes earlier by ex-Swedish PM Carl Bildt and other officials returning from summit",
+      "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-09-13T14:04:41",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:58.051425"
+    },
+    {
+      "id": 2193225648535127595,
+      "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
+      "description": "The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping through the strait.",
+      "url": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
+      "source": "CNBC",
+      "published_at": "2026-09-13T13:38:23",
+      "category": "经济数据",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:56.688723"
+    },
+    {
+      "id": 595957515834072395,
+      "title": "Taxing high earners to help fund Social Security gains bipartisan attention — what it could mean for benefits",
+      "description": "With Social Security due to reach a funding shortfall in six years, more lawmakers are opening up to the idea of taxing high earners to help fund the program.",
+      "url": "https://www.cnbc.com/2026/09/13/social-security-payroll-tax-cap.html",
+      "source": "CNBC",
+      "published_at": "2026-09-13T13:30:01",
       "category": "综合财经",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-09-13T11:00:43.233948"
+      "fetched_at": "2026-09-13T15:31:56.689341"
     },
     {
-      "id": -1630466444141174797,
-      "title": "1 Top Warren Buffett Stock for Dividend Investors",
-      "description": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-top-warren-buffett-stock-083500151.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-13T11:00:43.233902",
+      "id": -3480284032540021910,
+      "title": "Saudi shares drop after pipeline attack, leading Gulf decline - Reuters",
+      "description": "Saudi shares drop after pipeline attack, leading Gulf decline  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOel9YQnZiN2dhLU1ROHQtdHR3WHlDN2gxakJzdUZIaTlBa19JNVM2RlNHcVdiRG5EQ1pQRmlRemQ5S2RLVUt6MGw5eU92YjYwWHNfQnk2c1k5bktpNGlhaGx0a0kwX0lzeVZTaHE5ekdneFlYbVhGOXgtMklVZzFWT1prTzFjYlpDWW1zQXltUEt4ZlRGOUlpQW9zclFYaVR3NnlLalAwZ2xZb3dYWUFxa2ttSWdrdw?oc=5",
+      "source": "Google News",
+      "published_at": "2026-09-13T13:21:02",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-09-13T15:31:51.456125"
+    },
+    {
+      "id": 8727257196466454173,
+      "title": "Stock Market Sell-Offs Are Painful. But History Shows Why Investors Should Hope for One. - Yahoo Finance",
+      "description": "Stock Market Sell-Offs Are Painful. But History Shows Why Investors Should Hope for One.  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRi1WZzE0REVqektIQ1pzam9JYmtncWZWaXVqczhBUEZYVHRkOWNjTVRzb09ERmRCWFRGNEtUa0VDNjBURHdBMDFuZjVVU2FCYTVZNUg5MWVTV24wMEQ2VjBuMHdvRm83UF81UVF6TmNNUmRsamdmTHNJOFJGLURPUzNsSWFFS2s0ZVowTXdpRnVQck92Mm5zRko2SQ?oc=5",
+      "source": "Google News",
+      "published_at": "2026-09-13T13:09:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:51.456297"
+    },
+    {
+      "id": 3593843680762272668,
+      "title": "Iraq’s militias grow bolder in Iran war",
+      "description": "Baghdad is seeking to reduce the power of Tehran-linked forces accused of striking a Saudi oil pipeline",
+      "url": "https://www.ft.com/content/b60624fb-0a09-45e6-b148-b7a5ca38f83e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-09-13T12:39:59",
+      "category": "大宗商品",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:58.051858"
+    },
+    {
+      "id": -3718341688894062053,
+      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+      "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
+      "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+      "source": "CNBC",
+      "published_at": "2026-09-13T12:29:49",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-09-13T15:31:56.688624"
+    },
+    {
+      "id": 4313781506982690464,
+      "title": "The calculated desperation of Trump-a-palooza ",
+      "description": "Whatever happens in midterm elections, the president wants the world to know that he is the only person who matters in the Republican Party",
+      "url": "https://www.ft.com/content/d4604abb-d357-4ebd-b709-23902d1e1868?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-09-13T12:00:05",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-09-13T15:31:58.051259"
+    },
+    {
+      "id": -2059534332711297938,
+      "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
+      "description": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting business performance.",
+      "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
+      "source": "CNBC",
+      "published_at": "2026-09-13T11:53:35",
       "category": "股市动态",
       "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:43.233922"
+      "fetched_at": "2026-09-13T15:31:56.689250"
     },
     {
-      "id": 3458064562072321994,
+      "id": 6118711717261706225,
+      "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+      "description": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
+      "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+      "source": "CNBC",
+      "published_at": "2026-09-13T11:52:33",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:56.688925"
+    },
+    {
+      "id": 549852444344541063,
+      "title": "As the Stock Market Flashes a Warning Signal Seen Only Once Before, History Is Telling Investors to Do This Now. - Yahoo Finance",
+      "description": "As the Stock Market Flashes a Warning Signal Seen Only Once Before, History Is Telling Investors to Do This Now.  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTm1NSnA3d0hIdHFuYU1hbS1MY21FOW9JaXlUbmt6T1VfYThvblJlaDlqN0ZQeGJvVnoxZDZiWkdsNXpQaFhkMVRwZGU0WmpPRTFxRUpHU3E3R1RaQzhzZUpTZk8xVlRRZmZUdzc4ZTR1YmpSN0FQOEZsX3dMNXlKdXF1c2V4S0xuclAzWV9aYTctSFFNVWRBMEtialJ5TUJRenc?oc=5",
+      "source": "Google News",
+      "published_at": "2026-09-13T11:40:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-09-13T15:31:51.456645"
+    },
+    {
+      "id": -311618840966954519,
+      "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
+      "description": "China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said.",
+      "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+      "source": "CNBC",
+      "published_at": "2026-09-13T11:17:12",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:56.689093"
+    },
+    {
+      "id": -7971791932629077407,
+      "title": "Bank of America sends strong warning to stock market investors - thestreet.com",
+      "description": "Bank of America sends strong warning to stock market investors  thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUdHWkZFMUhTMmtBaFhyYlRJNVNaR09iZHZHSVBMMGtYbmFMQ1JNZFhCSG1aM05SdE0tbF9rY0FZbkRDOWxvY3BwcC1WM0l6QVJuRElUaXZpc3R5d09FOExpeXBweDJ0TUZkQWlGNVZpUjF3T1BaeGVMLXhOTmxnVDdncVdueXljTkZ2ZmpxRVdrcXNRdHp2VkpoLUo5bko1MG9jNUZkc3Q?oc=5",
+      "source": "Google News",
+      "published_at": "2026-09-13T11:17:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-09-13T15:31:51.455180"
+    },
+    {
+      "id": 7708338966950502619,
+      "title": "Why teenagers are doing worse at school",
+      "description": "Falling global test scores underscore the importance of core knowledge, attention and mindset",
+      "url": "https://www.ft.com/content/dc5012ed-cb82-469e-9be8-e65ac7f6745c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-09-13T11:00:05",
+      "category": "国际贸易",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:58.051343"
+    },
+    {
+      "id": 8405947202853332018,
+      "title": "‘Trumpism’ spawns rare unity at Brics summit",
+      "description": "Historically unruly bloc finds easy consensus amid worries over Gulf war, tariffs and US sanctions",
+      "url": "https://www.ft.com/content/d17cda71-1c35-4abd-b4d5-773550b109cc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-09-13T10:50:58",
+      "category": "国际贸易",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-09-13T15:31:58.051756"
+    },
+    {
+      "id": 8161576117798869493,
+      "title": "3 Stocks to Buy and Hold Even If There's a Stock Market Sell-Off in September - The Motley Fool",
+      "description": "3 Stocks to Buy and Hold Even If There's a Stock Market Sell-Off in September  The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0c2eVlKbTV3YjNJLWQtbTlmWnlFTzNZNndTa3hvekZWMVVOdk5udzhRQVlqZHRmVEk4SlJ1NTR4WmtDckNlLWJiN3l1SGJScC14WW8zSm1oLWNyeC15ZlFURWszbzNYMUdWQWFMZGVveDFjYk1rSHZ6bC0wM2RZd29MN3BzYU84RUx6MW9iQ09ZU3NuSjRhMQ?oc=5",
+      "source": "Google News",
+      "published_at": "2026-09-13T10:05:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:51.457012"
+    },
+    {
+      "id": -8675920899160895643,
       "title": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week - Yahoo Finance",
       "description": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTF9DbUNxR215Z2N2eFhmb2N2cXZsemw3UkhRNVViQUY2bEpZbDNZMWRXaDBZRi1jRWFZT05MSkpuU0pYdnJGWk5YYzc0VnE1b3NOTEc1RmhOWjkwZlNpdTY2cjMxd2YtWVpHMGVCV3o1UkkyLXNIMG8xakxoZjZiOURDck1wVVZhV3JwRXhZWHNjX0ZoaWJnSzhaVl9EOEhLc1NoYThOVTJPTllLTVl0ZnJPQlJ3VHJHSkxVTk9BQUdlVjdndHhxNTVyV09Yc0Z2Uk5ack1QZU1GZUJkWnZyWjJzeFZibHExa2hGbw?oc=5",
@@ -131,11 +335,23 @@
       "published_at": "2026-09-13T10:00:00",
       "category": "货币政策",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:41.141210"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-09-13T15:31:51.454901"
     },
     {
-      "id": -5173933421708364746,
+      "id": -2350354145438307450,
+      "title": "Prediction: A Stock Market Crash Is Coming. This Is the Best Move Investors Can Make. - The Motley Fool",
+      "description": "Prediction: A Stock Market Crash Is Coming. This Is the Best Move Investors Can Make.  The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTHp6cGtjV05NLWszVGc3ZlpibDQ3d19JSXpSVXR3TFRad0U5ZThjQTBFempNZFJDb0dobkJQVWItWmRmdllPTG9tSnpvSVZZbEIxM0dWWnNhWWlSR0VkcVZqdnZlZWl4OW1oYm1WV2ZPd01DbXlva3RVSUpqZ0Q0bVZwOHRCTzhnbzNUWDFzeklIUmMybXVrYlJkVmRwQQ?oc=5",
+      "source": "Google News",
+      "published_at": "2026-09-13T09:48:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:51.455369"
+    },
+    {
+      "id": -4034224426022154383,
       "title": "China's Xi urges BRICS nations to work towards peace in the Middle East",
       "description": "China, Iran's biggest trading partner and a key customer of Tehran's energy exports, is willing to work with BRICS towards peace in the region, Xi said.",
       "url": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
@@ -143,11 +359,23 @@
       "published_at": "2026-09-13T09:41:53",
       "category": "股市动态",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:46.426580"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-09-13T15:31:56.689172"
     },
     {
-      "id": 4574290850932297964,
+      "id": -1271479254028455962,
+      "title": "Stock market today: what investors should watch before the open - eciks.org",
+      "description": "Stock market today: what investors should watch before the open  eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YaVVMMW95SDgxWG8yLV9qNGpEUlJITlFKMDFKRVBkOUY0eUVQSEliczhrSHBmX3hGbXFPWXFqVUt0eGpTTkpES18tR21yMWtpR1dpV3N1WkpsS2tfQmw0dUVCc0diWEk?oc=5",
+      "source": "Google News",
+      "published_at": "2026-09-13T09:34:38",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:51.455549"
+    },
+    {
+      "id": -6177761245009037311,
       "title": "CT pension fund hits $76B as stock market roars. In first for state one retired state employee pulls in $400K - Hartford Courant",
       "description": "CT pension fund hits $76B as stock market roars. In first for state one retired state employee pulls in $400K  Hartford Courant",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWRZVnR3ZnJDSmZOVktGLU9PRUZ1amZaazd1MHRwUUdoQS1aT1FNUWpkSnJ0UzRPLU5GNzF6cnR5bjBmZ0wzSy1UNDlqOVMxZzZ6VTQ0dy13dEJiQXNESVBIRlA0eG9VOXF3S0ktUkRxbVdqV2xrN295MUduVWkwZEo1T08tekc0R2x6RzZYX3ZwMTlxQ3MwSlNabzlmQko4LU1PV3NHSU0yVm9NVERwbTBnQk5Yb0dGZ3Nj?oc=5",
@@ -155,47 +383,11 @@
       "published_at": "2026-09-13T09:28:49",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:41.141457"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:51.455947"
     },
     {
-      "id": 2319592102257058027,
-      "title": "3 Stocks to Buy and Hold Even If There's a Stock Market Sell-Off in September - The Motley Fool",
-      "description": "3 Stocks to Buy and Hold Even If There's a Stock Market Sell-Off in September  The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0c2eVlKbTV3YjNJLWQtbTlmWnlFTzNZNndTa3hvekZWMVVOdk5udzhRQVlqZHRmVEk4SlJ1NTR4WmtDckNlLWJiN3l1SGJScC14WW8zSm1oLWNyeC15ZlFURWszbzNYMUdWQWFMZGVveDFjYk1rSHZ6bC0wM2RZd29MN3BzYU84RUx6MW9iQ09ZU3NuSjRhMQ?oc=5",
-      "source": "Google News",
-      "published_at": "2026-09-13T09:28:32",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:41.141825"
-    },
-    {
-      "id": 8593568304241212913,
-      "title": "3 Stocks to Buy and Hold Even If There's a Stock Market Sell-Off in September - Yahoo Finance",
-      "description": "3 Stocks to Buy and Hold Even If There's a Stock Market Sell-Off in September  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVpUd1RTMlZrenUweVFHVkdHNUxsRlRPTjhwS3NxMjlPb3d4ZXVjS3UyNU93eFM1b3dWYU1JeEdpQUtGRUFTWnkxX0dzU3dvZnNSUmt5QWxTMHVmMmdTUWFJTnJmQ2VZa1RZc2g0c3VQXzNZdHk4ODRQLU9IaUVXTXNLNnYydEppclg0el80elU?oc=5",
-      "source": "Google News",
-      "published_at": "2026-09-13T09:25:00",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:41.142937"
-    },
-    {
-      "id": 8905671886282005424,
-      "title": "Prediction: A Stock Market Crash Is Coming. This Is the Best Move Investors Can Make. - The Motley Fool",
-      "description": "Prediction: A Stock Market Crash Is Coming. This Is the Best Move Investors Can Make.  The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTHp6cGtjV05NLWszVGc3ZlpibDQ3d19JSXpSVXR3TFRad0U5ZThjQTBFempNZFJDb0dobkJQVWItWmRmdllPTG9tSnpvSVZZbEIxM0dWWnNhWWlSR0VkcVZqdnZlZWl4OW1oYm1WV2ZPd01DbXlva3RVSUpqZ0Q0bVZwOHRCTzhnbzNUWDFzeklIUmMybXVrYlJkVmRwQQ?oc=5",
-      "source": "Google News",
-      "published_at": "2026-09-13T09:12:25",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:41.142762"
-    },
-    {
-      "id": -7201737636654593527,
+      "id": -4047323655555821332,
       "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
       "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
       "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
@@ -203,83 +395,11 @@
       "published_at": "2026-09-13T09:05:10",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:45.365860"
-    },
-    {
-      "id": 7260239662935499689,
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-09-13T07:06:41",
-      "category": "股市动态",
-      "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:45.365759"
+      "fetched_at": "2026-09-13T15:31:55.629403"
     },
     {
-      "id": 30984612372401089,
-      "title": "Why I’ve just invested £5,175 in this stock market leader - The Twelfth Magpie",
-      "description": "Why I’ve just invested £5,175 in this stock market leader  The Twelfth Magpie",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEgyUVRrREJrV1h1dHNkc19taURWVEI3Zm5wbFVRVUVPWnpMS09WN1JGM0ZaTmNPUEVNT3RNa1BRcm53dlJWMzAtUGxoZmx6THJXaDk2aHY5MmtWZnYtTXlGTjU3Um5VYV9oMzhNZ3M4SmhuUEctMVpiUWYxNm5uVVpBbTM0d1poOU9GWkZGVXRkRC1uNkR1cFhtTWk?oc=5",
-      "source": "Google News",
-      "published_at": "2026-09-13T06:46:00",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:41.142391"
-    },
-    {
-      "id": -6340411853840412725,
-      "title": "PwC shakes up Indian operations as AI threat looms over consulting sector",
-      "description": "Big Four firm’s US and Indian units to pool outsourcing and advisory operations in 40,000-person joint venture",
-      "url": "https://www.ft.com/content/bf1f8def-98ce-4976-acc3-cd80f0956ab0?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-09-13T05:40:53",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:47.682657"
-    },
-    {
-      "id": 3079769157720782839,
-      "title": "As Europe’s memory fades, radicalism is returning",
-      "description": "For younger voters, both communism and fascism belong to a distant past that no longer defines their political choices",
-      "url": "https://www.ft.com/content/65181a27-bea2-4ac0-96df-2d0d8dfe0b58",
-      "source": "Financial Times",
-      "published_at": "2026-09-13T04:00:12",
-      "category": "外汇市场",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:47.682092"
-    },
-    {
-      "id": 626825556187628621,
-      "title": "The perils of headphones in the office",
-      "description": "Listening to music at work can send a lot of unhelpful messages",
-      "url": "https://www.ft.com/content/abd98f82-7be0-4d84-b41c-4837cf5167a8?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-09-13T04:00:12",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:47.682174"
-    },
-    {
-      "id": -7325035955356854255,
-      "title": "Boom-era PE funds will fall short on promises, executives warn",
-      "description": "Returns from funds launched during the frenzied period of 2019 to 2021 are likely to struggle to meet expectations",
-      "url": "https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-09-13T04:00:12",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:47.682318"
-    },
-    {
-      "id": -4111700101999141350,
+      "id": -2604355960456622468,
       "title": "How Russia’s new drones are changing the air war",
       "description": "Jet-powered Geran-5 model proves Kremlin’s military is also capable of innovation",
       "url": "https://www.ft.com/content/7f01b434-0209-4783-b8eb-5a095ca5bd4f?syn-25a6b1a6=1",
@@ -288,10 +408,10 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:47.682816"
+      "fetched_at": "2026-09-13T15:31:58.051511"
     },
     {
-      "id": -752321615836984771,
+      "id": -6713540757073607342,
       "title": "The anti-AI portfolio: fountain pens, Warhammer and film cameras",
       "description": "Journaling, sudoku, puzzle books and other non-digital pursuits are staging a comeback",
       "url": "https://www.ft.com/content/4ffff2a7-b2aa-42aa-a68b-037f9a3fd603?syn-25a6b1a6=1",
@@ -299,11 +419,11 @@
       "published_at": "2026-09-13T04:00:03",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-09-13T11:00:47.682006"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:58.051169"
     },
     {
-      "id": -5980117349886617847,
+      "id": -5972539664996553787,
       "title": "Musk’s secretive backer builds $40bn SpaceX stake",
       "description": "Low-profile venture capital firm Vy Capital has emerged as one of the rocket maker’s largest shareholders",
       "url": "https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4?syn-25a6b1a6=1",
@@ -311,23 +431,23 @@
       "published_at": "2026-09-13T04:00:03",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-09-13T11:00:47.682494"
-    },
-    {
-      "id": -147678847217808818,
-      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-      "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
-      "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-      "source": "CNBC",
-      "published_at": "2026-09-12T23:20:43",
-      "category": "综合财经",
-      "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:46.426298"
+      "fetched_at": "2026-09-13T15:31:58.051596"
     },
     {
-      "id": 3993222678545767123,
+      "id": -889346160980295094,
+      "title": "Jim Cramer sends strong message to stock market investors - thestreet.com",
+      "description": "Jim Cramer sends strong message to stock market investors  thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONG1xbmVCV0p5TTRUclJETFMyUzJabHQ5UXhtdF8tRXFUSmdIZkNTNnB6LXMwTlRfYXBiRUxzVnRaalBkNnItWmZxbWNUdHFZX0s5ZG9qVl91ajZ0UjVnYjFpZjJraUlIaVh2V1FJSWwtWFRrcmpMRkp0dFlOVWZGdmR6SUNOMGdxMlZyTHdNTlFTbGVWVXVmbFZMRGZSbU1YeWVpOA?oc=5",
+      "source": "Google News",
+      "published_at": "2026-09-12T21:44:40",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-09-13T15:31:51.456470"
+    },
+    {
+      "id": -3134004517568419744,
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
       "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
@@ -335,11 +455,11 @@
       "published_at": "2026-09-12T21:16:47",
       "category": "股市动态",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:45.365946"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-09-13T15:31:55.629489"
     },
     {
-      "id": -5894753351354477123,
+      "id": 858475432394079783,
       "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves ",
       "description": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
       "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
@@ -348,10 +468,10 @@
       "category": "股市动态",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-09-13T11:00:45.366231"
+      "fetched_at": "2026-09-13T15:31:55.629730"
     },
     {
-      "id": -3137992097334874579,
+      "id": 4702945268464455824,
       "title": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown ",
       "description": "Warring tech bosses unite behind warnings that humans could lose control of the technology",
       "url": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
@@ -359,11 +479,11 @@
       "published_at": "2026-09-12T18:14:06",
       "category": "股市动态",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:47.681909"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-09-13T15:31:58.051067"
     },
     {
-      "id": -259559130729998064,
+      "id": 6702779879468286320,
       "title": "Larry Ellison cancels $7.5bn Oracle share sale",
       "description": "About-face comes a day after a filing revealed plans to sell up to 50mn shares by the end of October",
       "url": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1",
@@ -371,11 +491,11 @@
       "published_at": "2026-09-12T17:18:43",
       "category": "股市动态",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:47.682571"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-09-13T15:31:58.051674"
     },
     {
-      "id": -7316751897421260844,
+      "id": 6793978947184057425,
       "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock ",
       "description": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.",
       "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
@@ -383,35 +503,11 @@
       "published_at": "2026-09-12T17:14:56",
       "category": "股市动态",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-09-13T11:00:46.426416"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:56.689006"
     },
     {
-      "id": -5951728811550781419,
-      "title": "India’s central bank tells Tata Sons to take conglomerate public",
-      "description": "RBI rejects group’s appeal against forced listing, setting the stage for what could become India’s biggest IPO",
-      "url": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-09-12T16:20:04",
-      "category": "货币政策",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:47.682732"
-    },
-    {
-      "id": 5782999318031592054,
-      "title": "Indian Prime Minister Modi says border peace is key to India-China ties",
-      "description": "Indian Prime Minister Narendra Modi and Chinese President Xi Jinping addressed concerns around border dispute and the trade imbalance.",
-      "url": "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
-      "source": "CNBC",
-      "published_at": "2026-09-12T15:12:56",
-      "category": "国际贸易",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-09-13T11:00:46.426668"
-    },
-    {
-      "id": 5757055500493520904,
+      "id": -6250879727986277111,
       "title": "Will Midterm Elections Cause the Stock Market to Plunge? 75 Years of History Offer an Unexpected Answer. - Yahoo Finance",
       "description": "Will Midterm Elections Cause the Stock Market to Plunge? 75 Years of History Offer an Unexpected Answer.  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlRCZElyWEVlR29TbGIxSVN2VXotR1N6ZmJnUXo5SGdMS3VZYmxxckdiZkVmc3ExUHlLZUNjVFdMd3psaTFXRTNEaUNfVWdSQmhSRmFKaFh3M1R4RUtWYlRaSWlvYnlKaEVnWFBFeVl0Z0hXRDczUDlxWDZ2UmdxZWVsRDZCNGw3WkxnV2hwZ2hnVTVmX1U0X2w3eWZ2Y05ER0tN?oc=5",
@@ -419,11 +515,11 @@
       "published_at": "2026-09-12T13:26:01",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:41.143292"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:51.457182"
     },
     {
-      "id": -1653552666315505134,
+      "id": 8211330543179439100,
       "title": "If a Stock Market Crash Is Coming, History Says This 1 Move Protects Investors Every Single Time - Yahoo Finance",
       "description": "If a Stock Market Crash Is Coming, History Says This 1 Move Protects Investors Every Single Time  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQS02Q29NVXVkUTdscU9MNVZCejBWQ0Nld3cxcDVRR0EzU1NTaUxhMmdVTXdXTzlNSGJMUVFmMVltdGpvZWYwU1Mzc0FLVEdLeG9fSmMtdlo0MktJdXZLNy1XQU9FOC1aUXM4QUdjVGtBejQ0aGZRWEw0QnlqdjVpcERfbWtKMk9fNXpkdGtreTJzZGhkcHdFUVdtaEd6MHM?oc=5",
@@ -431,47 +527,11 @@
       "published_at": "2026-09-12T13:20:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:41.142586"
-    },
-    {
-      "id": -6389399952248527577,
-      "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-      "description": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
-      "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-      "source": "CNBC",
-      "published_at": "2026-09-12T13:15:04",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:46.426915"
-    },
-    {
-      "id": -7578220488806831832,
-      "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
-      "description": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
-      "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-      "source": "CNBC",
-      "published_at": "2026-09-12T12:49:15",
-      "category": "经济数据",
-      "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:46.426825"
+      "fetched_at": "2026-09-13T15:31:51.456838"
     },
     {
-      "id": -5253616622214429934,
-      "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
-      "description": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.",
-      "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
-      "source": "CNBC",
-      "published_at": "2026-09-12T12:40:05",
-      "category": "大宗商品",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:46.426747"
-    },
-    {
-      "id": 855134564537947929,
+      "id": -7522516747279226974,
       "title": "A veteran economist tells us why he sees a recession and a stock crash by the end of 2027 - Business Insider",
       "description": "A veteran economist tells us why he sees a recession and a stock crash by the end of 2027  Business Insider",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1NNNE5KRzJyTWxFU2wwYkZiMGZIWUF6SFpuMlhwbThHajI0SVFmSUU5bTNsU09XQURRYVdRaTlkRVp5UjZ4eXZoNU9TblhNUWllMW5MTF9XODg0dEFrWnVJN2pvallaY25XQUtzYnQ4aXpGOU9mdlUwTDF6MjMxRDZISGFzaV9LT3FEUERya0RZZzQ0OXYwU2dtSi0?oc=5",
@@ -480,22 +540,10 @@
       "category": "股市动态",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:41.142178"
+      "fetched_at": "2026-09-13T15:31:51.457523"
     },
     {
-      "id": -366539030551073363,
-      "title": "Cramer: This market has eerie parallels with 2018. Here's what investors should do",
-      "description": "CNBC's Jim Cramer sees parallels between today’s market and the fall of 2018, when rising rates and geopolitical tensions preceded a 20% S&P 500 sell-off.",
-      "url": "https://www.cnbc.com/2026/09/11/cramer-market-eerie-parallels-2018-what-it-means-for-investors.html",
-      "source": "CNBC",
-      "published_at": "2026-09-11T23:09:35",
-      "category": "股市动态",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:46.427169"
-    },
-    {
-      "id": -7315264475840301509,
+      "id": 4511863574827670504,
       "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
       "description": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary.",
       "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
@@ -503,11 +551,11 @@
       "published_at": "2026-09-11T22:42:14",
       "category": "国际贸易",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:46.427075"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:56.689502"
     },
     {
-      "id": -1462945722147770827,
+      "id": -5537264038012975481,
       "title": "Stock Market Today: Dow Soars 500 Points Amid Rate-Hike Bets; Apple Advances - Investor's Business Daily",
       "description": "Stock Market Today: Dow Soars 500 Points Amid Rate-Hike Bets; Apple Advances  Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORzJRNTdMeWZaNzgybTBpVlVuaGJfT0ozeHVzXy13Sm1XVGVJcmxvbUxyT20xeVVaeThJRTd0ZGVPdW5wMUhoVzZpZjFyTmhMSjFjOFVucW9WQmY5c0pJOXkyQWNzbUdwVUVYT2FmMW9TRV9YQmdDcjhaQnFkblpvcGh2a21YdkQybnN1YTBQRjF1cDF3U1BlOVg3OFBQRl93NnBPS2RsMHNMNU5SSFpiSjl5N1hzRHZRTzdoVQ?oc=5",
@@ -515,11 +563,11 @@
       "published_at": "2026-09-11T20:41:00",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:41.142005"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-09-13T15:31:51.457349"
     },
     {
-      "id": 6019490066168698248,
+      "id": 8407920302195771271,
       "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
       "description": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
       "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
@@ -527,11 +575,11 @@
       "published_at": "2026-09-11T15:37:25",
       "category": "外汇市场",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-09-13T11:00:45.366131"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:55.629648"
     },
     {
-      "id": -2723845894998774442,
+      "id": -848478865170091131,
       "title": "Alstom to build new battery-electric train fleet",
       "description": "The government says the work will support thousands of jobs across the UK.",
       "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
@@ -539,11 +587,11 @@
       "published_at": "2026-09-11T14:43:33",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:45.366545"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-09-13T15:31:55.629991"
     },
     {
-      "id": -6049324886616798432,
+      "id": 3060149234265659886,
       "title": "US prices remain high as fuel costs squeeze household budgets",
       "description": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
       "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
@@ -551,11 +599,11 @@
       "published_at": "2026-09-11T14:22:42",
       "category": "经济数据",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:45.366026"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-09-13T15:31:55.629568"
     },
     {
-      "id": 1853941767499251231,
+      "id": 7750174927147708354,
       "title": "Interest rates could rise again across the world – here's why ",
       "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
       "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
@@ -563,11 +611,11 @@
       "published_at": "2026-09-11T13:35:29",
       "category": "货币政策",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:45.366309"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-09-13T15:31:55.629827"
     },
     {
-      "id": 8853100992547592578,
+      "id": 2292573375701992035,
       "title": "Sub-$100 smartphones becoming a rarity as AI memory prices soar",
       "description": "The days of the sub-$100 smartphone may be numbered, including in China.",
       "url": "https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html",
@@ -575,11 +623,11 @@
       "published_at": "2026-09-11T11:59:39",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:46.426994"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-09-13T15:31:56.689421"
     },
     {
-      "id": -9016568022927548489,
+      "id": -2132845874053742963,
       "title": "AI boom helps drive surprise UK growth in July",
       "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
       "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
@@ -587,23 +635,11 @@
       "published_at": "2026-09-11T10:17:28",
       "category": "经济数据",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-09-13T11:00:45.366426"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-09-13T15:31:55.629909"
     },
     {
-      "id": 3511169465168662319,
-      "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot - CNBC",
-      "description": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot  CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3NRZnFyUlUzaHZKaEZCV19MVjJ6U0tHRnh3eXc1NzBTRWk0U3VYOEZrSlJLaWdxdWRaaFh1MXVpbjRzb3lKNzBtY0NrQ3ZabmxKNXdWVHJaeW5Pb1ZHemIyTmtwQ2RxMTBWRXVfUjBxZjhoRzNWSjFtWDlPYUpTNFZRVlBEZF9YOWdXdEdzMETSAZYBQVVfeXFMT2gyeDQ0M2xEdTM5MFh5MHdoYUd6elJxSUxVYTdQaGtpdkgxelRnRUpCYTczQzN3dDRHc0kzaHBDdnNJTGdCOXk4eXlhOWdBbHgzVjFfRF9Nc19pblI3MnZmOVBqUmRIMlNET3R1SGUwaUl2Y3hnVi1RdmcxLU1GbUNzdDdJeF9fdXZVcnBkTkJpazB0XzlB?oc=5",
-      "source": "Google News",
-      "published_at": "2026-09-11T01:53:00",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:41.143662"
-    },
-    {
-      "id": -304883114651546191,
+      "id": 7752476295338956114,
       "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000' ",
       "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
       "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
@@ -612,22 +648,10 @@
       "category": "股市动态",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:45.366640"
+      "fetched_at": "2026-09-13T15:31:55.630072"
     },
     {
-      "id": -5880508610009514143,
-      "title": "Apple's foldable phone, Macy's earnings, Treasury buybacks and more in Morning Squawk - CNBC",
-      "description": "Apple's foldable phone, Macy's earnings, Treasury buybacks and more in Morning Squawk  CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX1otNmt5b2RuRHVmWVNwNGtMeEozejBTdkFZMmpCVm1Ud014SlM3bXhOTjlWNy1pZjQwU0Zoc3JpcmpDYU1EWEl6cURzeHpPbllqMDd1OU5kMzA1anNjaDlnRHVMWFJYMXBpd2pyUVFXaFEzQ2FjYl9YMWJNT3d5N1dVbHJ4NExaNFdv0gGQAUFVX3lxTE1Pd204aG85YVpqeWI5Rkw2UVlnRGpqeERvYkdhajJVdXdncE5tRW5qOEdub0ZDVURxTWo0ekYzaTJOY1l5NGRjazNhWlRxNVZWMDVBT0xTSW5fZS1ibGt1N1RLRmpBNmdTR3p0YXliNnY3QkhJU1lLb25xS2Jfb2VlN0ZDYmNhbHFuVFRPcUVJTA?oc=5",
-      "source": "Google News",
-      "published_at": "2026-09-10T12:51:36",
-      "category": "综合财经",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:41.143116"
-    },
-    {
-      "id": -3417123498990693282,
+      "id": -4924712124104232446,
       "title": "Worried About a Stock Market Bubble? Here Are 5 Ways to Stay Invested - Morningstar",
       "description": "Worried About a Stock Market Bubble? Here Are 5 Ways to Stay Invested  Morningstar",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDJlQ0lxSUhkMUxsamNyc3RucHNYbXFVWFBob1pUb3pQTnBhTWdIZnNmUURfQjJ5WnhpREpMUzFHeHlQRjZOYnZQbW95SjlVb0dpVXpWWjFOaVl6c2d0dmxObk1ZVVhET092UEpQeGZnbkNpNHY5YWUzOWpIenZ5YXNLdUoyUUdBUzJSLUdzS2VOUTdLQUVHTU9pV0k2di1aOHhsRUVJTlBmNEE?oc=5",
@@ -636,31 +660,7 @@
       "category": "股市动态",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-09-13T11:00:41.141647"
-    },
-    {
-      "id": -9086803043597460280,
-      "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades. History Says This Will Happen Next. - Yahoo Finance",
-      "description": "The Stock Market Is Repeating a Pattern Not Seen in Decades. History Says This Will Happen Next.  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHcwUjdKQTJvSEhMZnl5ejVaUXJlT2g2Z1NDU2pfOWZJTVlUOWk2ZmJVVmtYTWg3cFFoVk5oM2NGaV90N2xjc1BaSlFqM0p2UzZzeVI2ZXFZYXcyWGV4cWJBOXpxTjJQdExDQUdvVEJQbWU0bTlpSnZNY1JoV1BtS2llcU1pWEZqbDMwTlRQVmpsVjNTOGFEdmc0S3FLcGhP?oc=5",
-      "source": "Google News",
-      "published_at": "2026-09-08T09:08:01",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-09-13T11:00:41.143832"
-    },
-    {
-      "id": 2666436545424903917,
-      "title": "Is the stock market open on Labor Day? - Yahoo Finance",
-      "description": "Is the stock market open on Labor Day?  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEk5Y1dsRFdDNXBxZ1hFN1pFQ1QtUGN4YUhvMWJsUjdIMVBieGdaRFp0a0d6U0dPQW4ySkdNR3pVVmRobkp2VEhzMl93OFVoREUxZ1lLck9EWHA0ZWhZR2F0QTJZb1VQZUVxTEM5eXJGa1hrZzh1V1J6QVpzYmZmYmhyeW0xTmdwaHc0SVNzV2VQRDJGRXNnaGt2WG9xS0FOMWZ0RFNTZFA0bGx0Rmt4V1FuMA?oc=5",
-      "source": "Google News",
-      "published_at": "2026-09-07T16:28:05",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-09-13T11:00:41.143490"
+      "fetched_at": "2026-09-13T15:31:51.455726"
     }
   ]
 }
