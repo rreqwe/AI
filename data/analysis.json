@@ -1,28 +1,28 @@
 {
-  "temperature_score": 66.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极13条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 46.67,
+  "sentiment": "谨慎",
+  "sentiment_emoji": "😟",
+  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比5/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
   "key_factors": [
-    "✓ 货币政策: Fed rate hike odds surge to 90% on monthly jump in core pric...",
-    "✓ 股市动态: Exelixis, An IBD 50 Stock, Pulls A Bearish Move With Surpris...",
-    "✓ 综合财经: SpaceX CFO Touts New $13 Billion AI Deal, Upcoming Starship ...",
-    "✓ 综合财经: Jim Cramer Sees Enterprise Products Partners (EPD) as a Pipe...",
-    "✓ 货币政策: 172-year-old bank sees 400% upside for 'federal bank' token..."
+    "✓ 综合财经: Investors Title’s (ITIC) Profit Surge Isn’t As Clean As It L...",
+    "✗ 股市动态: Prediction: A Stock Market Crash Is Coming. This Is the Best...",
+    "✗ 综合财经: Dramatic insider warnings over AI fall flat with some in Sil...",
+    "✗ 股市动态: AI staff 'genuinely frightened' for humanity's future, ex-An...",
+    "✓ 综合财经: PwC shakes up Indian operations as AI threat looms over cons..."
   ],
-  "positive_count": 13,
-  "negative_count": 3,
-  "neutral_count": 14,
+  "positive_count": 3,
+  "negative_count": 5,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-13T02:54:16.036884",
+  "analyzed_at": "2026-09-13T11:00:49.769445",
   "categories_distribution": {
-    "股市动态": 20,
-    "货币政策": 5,
-    "经济数据": 7,
-    "综合财经": 15,
+    "综合财经": 20,
+    "股市动态": 24,
+    "货币政策": 3,
+    "外汇市场": 2,
     "国际贸易": 2,
-    "大宗商品": 1,
-    "外汇市场": 2
+    "经济数据": 3,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
