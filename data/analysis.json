@@ -1,29 +1,28 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Stock Market Today: Dow Tries For A Gain, Trump Hits Out At ...",
-    "✓ 股市动态: This Bull Call Spread In Oil Provides A Hedge Against Stocks...",
+    "✗ 综合财经: 1-800-Flowers (FLWS) Bets On Discipline While Revenue Keeps ...",
+    "✓ 综合财经: Wall Street Is Betting Against Designer Brands (DBI) Even as...",
+    "✓ 经济数据: IBEX (IBEX) Turns The AI Threat Into Its Biggest Growth Engi...",
     "✓ 综合财经: Another coffeehouse files for Chapter 11 as costs, prices ri...",
-    "✗ 股市动态: Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's...",
-    "✗ 股市动态: Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls o..."
+    "✓ 经济数据: Trump goes scorched earth on AI warnings, raging about data ..."
   ],
-  "positive_count": 8,
+  "positive_count": 7,
   "negative_count": 6,
-  "neutral_count": 16,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-14T17:33:30.911396",
+  "analyzed_at": "2026-09-14T21:22:58.256841",
   "categories_distribution": {
-    "综合财经": 17,
-    "股市动态": 24,
-    "货币政策": 5,
-    "数字货币": 1,
-    "经济数据": 3,
-    "大宗商品": 2,
-    "外汇市场": 2,
-    "国际贸易": 1
+    "综合财经": 24,
+    "货币政策": 3,
+    "大宗商品": 3,
+    "经济数据": 4,
+    "股市动态": 19,
+    "国际贸易": 1,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
