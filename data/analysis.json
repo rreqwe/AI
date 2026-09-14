@@ -1,28 +1,29 @@
 {
-  "temperature_score": 50.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极8条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: I owe $13,000 on my car, but it suddenly needs a new $9,000 ...",
-    "✓ 股市动态: Euronext, Deutsche Boerse Shares Rise After CEO’s Merger Com...",
-    "✗ 大宗商品: Gold prices today, Monday, September 14, 2026: Gold sinks fo...",
-    "✗ 货币政策: Dow Jones Futures: Techs Tumble As Anthropic Leads Call For ...",
-    "✗ 大宗商品: Silver prices today, Monday, September 14, 2026: Silver slid..."
+    "✓ 股市动态: Stock Market Today: Dow Tries For A Gain, Trump Hits Out At ...",
+    "✓ 股市动态: This Bull Call Spread In Oil Provides A Hedge Against Stocks...",
+    "✓ 综合财经: Another coffeehouse files for Chapter 11 as costs, prices ri...",
+    "✗ 股市动态: Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's...",
+    "✗ 股市动态: Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls o..."
   ],
   "positive_count": 8,
-  "negative_count": 8,
-  "neutral_count": 14,
+  "negative_count": 6,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-14T11:38:51.220951",
+  "analyzed_at": "2026-09-14T17:33:30.911396",
   "categories_distribution": {
-    "综合财经": 18,
-    "股市动态": 22,
-    "大宗商品": 5,
-    "货币政策": 4,
+    "综合财经": 17,
+    "股市动态": 24,
+    "货币政策": 5,
     "数字货币": 1,
     "经济数据": 3,
-    "国际贸易": 2
+    "大宗商品": 2,
+    "外汇市场": 2,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
