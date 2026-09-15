@@ -2,26 +2,25 @@
   "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 货币政策: Fed Decision, Retail Sales and Other Can't Miss Items This W...",
-    "✗ 综合财经: Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aero...",
-    "✓ 股市动态: Pay is back on the rise for job switchers, even in low-hire ...",
+    "✗ 综合财经: Legendary investor made an estimated $100 million on 1987 cr...",
+    "✓ 综合财经: Brent rises above $107 as attacks, pipeline outage deepen Sa...",
+    "✓ 货币政策: Moody's Mark Zandi warns of a 'serious' mistake if the Fed h...",
     "✓ 综合财经: Another coffeehouse files for Chapter 11 as costs, prices ri...",
-    "✓ 股市动态: Oil and Treasury yields haven’t moved this closely in seven ..."
+    "✓ 货币政策: 10-year Treasury yield rises to highest since 2007 as Fed ra..."
   ],
-  "positive_count": 11,
-  "negative_count": 5,
-  "neutral_count": 14,
+  "positive_count": 10,
+  "negative_count": 4,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-15T03:09:43.914024",
+  "analyzed_at": "2026-09-15T10:57:21.665182",
   "categories_distribution": {
-    "货币政策": 4,
-    "股市动态": 16,
-    "综合财经": 25,
-    "经济数据": 3,
-    "大宗商品": 3,
-    "外汇市场": 2
+    "综合财经": 30,
+    "货币政策": 5,
+    "股市动态": 13,
+    "大宗商品": 4,
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
