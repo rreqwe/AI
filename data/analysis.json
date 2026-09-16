@@ -1,28 +1,28 @@
 {
-  "temperature_score": 61.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 71.67,
+  "sentiment": "乐观",
+  "sentiment_emoji": "😊",
+  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比15/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
   "key_factors": [
-    "✓ 综合财经: Energy Transfer’s Texas Listing Could Boost Visibility, but ...",
-    "✓ 股市动态: How Is Tractor Supply's Stock Performance Compared to Other ...",
-    "✗ 股市动态: ‘Whoever Wins, AI Wins’: Trump Brushes Aside Slowdown Calls ...",
-    "✓ 综合财经: Walmart (WMT) Delivery Push Gains Momentum with Papa John’s ...",
-    "✓ 股市动态: How Cloud Infrastructure Strategy Can Keep Taking Oracle Sto..."
+    "✓ 经济数据: MicroAge Deal Signals Shift to Growth-Focused Strategy for S...",
+    "✓ 货币政策: Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys...",
+    "✗ 综合财经: Rich Dad Poor Dad author warns biggest crash in history has ...",
+    "✓ 经济数据: Zscaler, Inc. (ZS)’s Growth Engine Is Strong, But Slowing AR...",
+    "✓ 综合财经: How a Costco partner's bankruptcy could benefit its biggest ..."
   ],
-  "positive_count": 11,
-  "negative_count": 4,
-  "neutral_count": 15,
+  "positive_count": 15,
+  "negative_count": 2,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-16T03:06:20.392355",
+  "analyzed_at": "2026-09-16T10:46:21.399861",
   "categories_distribution": {
-    "综合财经": 23,
-    "股市动态": 17,
-    "外汇市场": 3,
-    "货币政策": 4,
-    "大宗商品": 2,
+    "货币政策": 8,
+    "经济数据": 7,
+    "综合财经": 21,
     "国际贸易": 1,
-    "经济数据": 3
+    "股市动态": 16,
+    "外汇市场": 1,
+    "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
 }
