@@ -1,26 +1,27 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: How a Costco partner's bankruptcy could benefit its biggest ...",
-    "✗ 股市动态: Dow Jones Futures Fall, Techs Tumble As Oil Prices Rise, Ant...",
-    "✓ 综合财经: Etihad Airways sees strong demand, higher passenger capacity...",
-    "✓ 货币政策: Americans' incomes rose and poverty fell in 2025, Census Bur...",
-    "✗ 货币政策: Trump’s Iran war has cost US $38bn and caused munitions ‘sho..."
+    "✓ 综合财经: Energy Transfer’s Texas Listing Could Boost Visibility, but ...",
+    "✓ 股市动态: How Is Tractor Supply's Stock Performance Compared to Other ...",
+    "✗ 股市动态: ‘Whoever Wins, AI Wins’: Trump Brushes Aside Slowdown Calls ...",
+    "✓ 综合财经: Walmart (WMT) Delivery Push Gains Momentum with Papa John’s ...",
+    "✓ 股市动态: How Cloud Infrastructure Strategy Can Keep Taking Oracle Sto..."
   ],
-  "positive_count": 7,
+  "positive_count": 11,
   "negative_count": 4,
-  "neutral_count": 19,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-15T20:48:52.648028",
+  "analyzed_at": "2026-09-16T03:06:20.392355",
   "categories_distribution": {
+    "综合财经": 23,
     "股市动态": 17,
-    "数字货币": 2,
-    "综合财经": 25,
-    "大宗商品": 3,
-    "货币政策": 5,
+    "外汇市场": 3,
+    "货币政策": 4,
+    "大宗商品": 2,
+    "国际贸易": 1,
     "经济数据": 3
   },
   "ai_provider": "fallback_rules"
