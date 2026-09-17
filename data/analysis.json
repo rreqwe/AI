@@ -1,29 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: The Grid’s Wasted-Power Problem Has a Sector-Coupling Fix...",
-    "✓ 综合财经: ‘Stronger together’: Carney welcomes EU invite for Canada to...",
-    "✓ 经济数据: NASCAR CEO Steve O’Donnell talks growth opportunities, possi...",
-    "✓ 股市动态: Futures Rise, Trump Fumes; AMD, Bloom Lead 5 Stocks To Watch...",
-    "✗ 股市动态: If the Stock Market Crashes, History Says This 1 Investing M..."
+    "✓ 综合财经: Novartis (NVS) and Ionis (IONS)’ Big Cholesterol Bet Comes U...",
+    "✗ 股市动态: Nike (NKE) Is Down 40% YTD: Will the Turnaround Strategy Wor...",
+    "✓ 经济数据: Tempus AI Is Ripping 30% Higher This Week After Morgan Stanl...",
+    "✓ 股市动态: SEC Clears Path For Tokenized Stock Trading. These Stocks Ra...",
+    "✓ 综合财经: ETSY Gets a Bullish Upgrade: What Investors Should Know..."
   ],
-  "positive_count": 6,
-  "negative_count": 1,
-  "neutral_count": 23,
+  "positive_count": 11,
+  "negative_count": 5,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-17T10:53:00.090278",
+  "analyzed_at": "2026-09-17T16:08:35.631391",
   "categories_distribution": {
-    "数字货币": 1,
-    "大宗商品": 1,
-    "股市动态": 11,
     "综合财经": 22,
-    "货币政策": 14,
+    "货币政策": 10,
+    "股市动态": 17,
     "经济数据": 2,
-    "国际贸易": 3,
-    "外汇市场": 1
+    "外汇市场": 2,
+    "国际贸易": 2
   },
   "ai_provider": "fallback_rules"
 }
