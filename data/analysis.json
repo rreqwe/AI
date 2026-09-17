@@ -1,28 +1,29 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 大宗商品: Crude Prices Soar as Global Oil Supplies Continue to Tighten...",
-    "✓ 综合财经: The Fund’s Largest Relative Detractor: Unowned Advanced Micr...",
-    "✗ 综合财经: Rich Dad Poor Dad author warns biggest crash in history has ...",
-    "✓ 货币政策: Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, ...",
-    "✗ 大宗商品: Oil extends losses as Saudi Arabia reportedly offers ship-to..."
+    "✓ 综合财经: The Grid’s Wasted-Power Problem Has a Sector-Coupling Fix...",
+    "✓ 综合财经: ‘Stronger together’: Carney welcomes EU invite for Canada to...",
+    "✓ 经济数据: NASCAR CEO Steve O’Donnell talks growth opportunities, possi...",
+    "✓ 股市动态: Futures Rise, Trump Fumes; AMD, Bloom Lead 5 Stocks To Watch...",
+    "✗ 股市动态: If the Stock Market Crashes, History Says This 1 Investing M..."
   ],
-  "positive_count": 7,
-  "negative_count": 5,
-  "neutral_count": 18,
+  "positive_count": 6,
+  "negative_count": 1,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-17T03:10:26.276615",
+  "analyzed_at": "2026-09-17T10:53:00.090278",
   "categories_distribution": {
+    "数字货币": 1,
+    "大宗商品": 1,
     "股市动态": 11,
-    "大宗商品": 2,
     "综合财经": 22,
     "货币政策": 14,
-    "外汇市场": 1,
-    "国际贸易": 2,
-    "经济数据": 2
+    "经济数据": 2,
+    "国际贸易": 3,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
