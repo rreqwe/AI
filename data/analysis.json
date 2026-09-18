@@ -1,28 +1,26 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Rate rise could exacerbate longstanding problems for the US ...",
-    "✗ 股市动态: Berkshire Hathaway names Howard Buffett as chair ...",
-    "✗ 经济数据: Warren Buffett stepping down as chairman of Berkshire Hathaw...",
-    "✗ 外汇市场: Yen sinks after BoJ raises rates to highest level since 1995...",
-    "✓ 综合财经: An intense boardroom battle is brewing at India's giant Tata..."
+    "✓ 综合财经: Thermo Fisher Scientific (TMO) is Positioned for Resurgence...",
+    "✓ 综合财经: Apple's iPhone leasing program: How it works, what to consid...",
+    "✗ 股市动态: Why Palo Alto Networks Stock Dropped Today...",
+    "✗ 股市动态: Caleb Hammer blasts 27-year-old who cashed out her 401(k) tw...",
+    "✓ 综合财经: Ticket prices rise for Macklemore solo concert after Ed Shee..."
   ],
-  "positive_count": 7,
-  "negative_count": 4,
-  "neutral_count": 19,
+  "positive_count": 9,
+  "negative_count": 5,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-18T10:28:30.610525",
+  "analyzed_at": "2026-09-18T15:44:14.249142",
   "categories_distribution": {
-    "综合财经": 24,
-    "货币政策": 11,
-    "股市动态": 12,
+    "综合财经": 23,
+    "股市动态": 17,
+    "货币政策": 9,
     "经济数据": 1,
-    "外汇市场": 3,
-    "大宗商品": 2,
-    "国际贸易": 1
+    "外汇市场": 3
   },
   "ai_provider": "fallback_rules"
 }
