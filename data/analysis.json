@@ -1,26 +1,28 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Thermo Fisher Scientific (TMO) is Positioned for Resurgence...",
-    "✓ 综合财经: Apple's iPhone leasing program: How it works, what to consid...",
-    "✗ 股市动态: Why Palo Alto Networks Stock Dropped Today...",
-    "✗ 股市动态: Caleb Hammer blasts 27-year-old who cashed out her 401(k) tw...",
-    "✓ 综合财经: Ticket prices rise for Macklemore solo concert after Ed Shee..."
+    "✓ 经济数据: 3 AI Growth Giants That Are Looking Like Value Stocks...",
+    "✓ 综合财经: Nike parts ways with Kylian Mbappé; soccer superstar signs w...",
+    "✓ 综合财经: Ex-Apollo executive admits to improperly using company docum...",
+    "✓ 综合财经: Elon Musk talks up AI safety while fighting regulation in wi...",
+    "✓ 综合财经: JPMorgan, Citigroup CEOs attending Trump's state dinner for ..."
   ],
-  "positive_count": 9,
-  "negative_count": 5,
-  "neutral_count": 16,
+  "positive_count": 8,
+  "negative_count": 2,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-18T15:44:14.249142",
+  "analyzed_at": "2026-09-18T20:19:26.465645",
   "categories_distribution": {
-    "综合财经": 23,
-    "股市动态": 17,
-    "货币政策": 9,
-    "经济数据": 1,
-    "外汇市场": 3
+    "综合财经": 25,
+    "股市动态": 15,
+    "经济数据": 2,
+    "货币政策": 6,
+    "大宗商品": 3,
+    "外汇市场": 2,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
