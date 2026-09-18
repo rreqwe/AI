@@ -1,28 +1,28 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: Alluvium Raised Its McKesson (MCK) Stake as Long-Term Growth...",
-    "✗ 经济数据: Why Is XRP Dropping Today?...",
-    "✓ 综合财经: Vallourec Pipes Up With Another Brazilian Win...",
-    "✓ 股市动态: How Is Hewlett Packard Enterprise's Stock Performance Compar...",
-    "✗ 综合财经: 5 things you need to know about Mission Lane credit cards..."
+    "✓ 综合财经: Rate rise could exacerbate longstanding problems for the US ...",
+    "✗ 股市动态: Berkshire Hathaway names Howard Buffett as chair ...",
+    "✗ 经济数据: Warren Buffett stepping down as chairman of Berkshire Hathaw...",
+    "✗ 外汇市场: Yen sinks after BoJ raises rates to highest level since 1995...",
+    "✓ 综合财经: An intense boardroom battle is brewing at India's giant Tata..."
   ],
   "positive_count": 7,
-  "negative_count": 3,
-  "neutral_count": 20,
+  "negative_count": 4,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-18T02:57:49.025460",
+  "analyzed_at": "2026-09-18T10:28:30.610525",
   "categories_distribution": {
     "综合财经": 24,
-    "经济数据": 4,
-    "股市动态": 18,
-    "货币政策": 6,
-    "大宗商品": 1,
-    "外汇市场": 1,
-    "数字货币": 1
+    "货币政策": 11,
+    "股市动态": 12,
+    "经济数据": 1,
+    "外汇市场": 3,
+    "大宗商品": 2,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
