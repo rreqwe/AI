@@ -1,28 +1,27 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 经济数据: 3 AI Growth Giants That Are Looking Like Value Stocks...",
-    "✓ 综合财经: Nike parts ways with Kylian Mbappé; soccer superstar signs w...",
-    "✓ 综合财经: Ex-Apollo executive admits to improperly using company docum...",
-    "✓ 综合财经: Elon Musk talks up AI safety while fighting regulation in wi...",
-    "✓ 综合财经: JPMorgan, Citigroup CEOs attending Trump's state dinner for ..."
+    "✓ 综合财经: Ascendis Pharma (ASND) Will Regain Metabolic Drug Rights. Is...",
+    "✓ 经济数据: U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now...",
+    "✓ 综合财经: Academy Sports and Outdoors (ASO): Target Hikes Follow Q2, b...",
+    "✓ 综合财经: ETF League Tables: Capital Group Nears $160B In AUM...",
+    "✓ 经济数据: Wall Street Splits on Phreesia (PHR) as Margins Improve but ..."
   ],
-  "positive_count": 8,
-  "negative_count": 2,
-  "neutral_count": 20,
+  "positive_count": 11,
+  "negative_count": 4,
+  "neutral_count": 15,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-18T20:19:26.465645",
+  "analyzed_at": "2026-09-19T02:55:34.977616",
   "categories_distribution": {
-    "综合财经": 25,
-    "股市动态": 15,
-    "经济数据": 2,
-    "货币政策": 6,
-    "大宗商品": 3,
-    "外汇市场": 2,
-    "国际贸易": 1
+    "综合财经": 27,
+    "股市动态": 19,
+    "经济数据": 3,
+    "外汇市场": 3,
+    "货币政策": 1,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
