@@ -1,28 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 国际贸易: China’s Fuel Exports Surge as Global Diesel Shortage Deepens...",
-    "✓ 货币政策: Stock Futures Rise as Post-Fed Tech Rally Rages On...",
-    "✓ 经济数据: Wall Street week ahead: housing market, unemployment updates...",
-    "✓ 股市动态: Today in History: September 19, mortgage crisis bailout plan...",
-    "✗ 综合财经: A new arms race is unfolding on the ocean floor..."
+    "✓ 综合财经: Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnin...",
+    "✓ 股市动态: Dow Jones Futures: Will The Market Rally Take Flight? Robinh...",
+    "✓ 股市动态: Warren Buffett Watched Alphabet's Stock Price Climb 9,000% B...",
+    "✓ 经济数据: Flames reported near Saudi capital airport as Pakistan press...",
+    "✓ 综合财经: Student loan borrowers exiting SAVE may face sharply higher ..."
   ],
-  "positive_count": 8,
-  "negative_count": 3,
-  "neutral_count": 19,
+  "positive_count": 10,
+  "negative_count": 6,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-19T10:13:53.647398",
+  "analyzed_at": "2026-09-19T15:15:31.142340",
   "categories_distribution": {
-    "股市动态": 18,
-    "经济数据": 2,
-    "综合财经": 26,
-    "国际贸易": 1,
-    "货币政策": 4,
+    "股市动态": 19,
+    "综合财经": 27,
+    "货币政策": 3,
+    "经济数据": 3,
     "大宗商品": 2,
-    "外汇市场": 2
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
