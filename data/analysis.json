@@ -1,27 +1,28 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Ascendis Pharma (ASND) Will Regain Metabolic Drug Rights. Is...",
-    "✓ 经济数据: U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now...",
-    "✓ 综合财经: Academy Sports and Outdoors (ASO): Target Hikes Follow Q2, b...",
-    "✓ 综合财经: ETF League Tables: Capital Group Nears $160B In AUM...",
-    "✓ 经济数据: Wall Street Splits on Phreesia (PHR) as Margins Improve but ..."
+    "✓ 国际贸易: China’s Fuel Exports Surge as Global Diesel Shortage Deepens...",
+    "✓ 货币政策: Stock Futures Rise as Post-Fed Tech Rally Rages On...",
+    "✓ 经济数据: Wall Street week ahead: housing market, unemployment updates...",
+    "✓ 股市动态: Today in History: September 19, mortgage crisis bailout plan...",
+    "✗ 综合财经: A new arms race is unfolding on the ocean floor..."
   ],
-  "positive_count": 11,
-  "negative_count": 4,
-  "neutral_count": 15,
+  "positive_count": 8,
+  "negative_count": 3,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-19T02:55:34.977616",
+  "analyzed_at": "2026-09-19T10:13:53.647398",
   "categories_distribution": {
-    "综合财经": 27,
-    "股市动态": 19,
-    "经济数据": 3,
-    "外汇市场": 3,
-    "货币政策": 1,
-    "大宗商品": 2
+    "股市动态": 18,
+    "经济数据": 2,
+    "综合财经": 26,
+    "国际贸易": 1,
+    "货币政策": 4,
+    "大宗商品": 2,
+    "外汇市场": 2
   },
   "ai_provider": "fallback_rules"
 }
