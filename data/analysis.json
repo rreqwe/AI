@@ -1,26 +1,26 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnin...",
-    "✓ 股市动态: Dow Jones Futures: Will The Market Rally Take Flight? Robinh...",
-    "✓ 股市动态: Warren Buffett Watched Alphabet's Stock Price Climb 9,000% B...",
+    "✓ 综合财经: Jim Cramer Suggests Against Holding Dominion (D) Through the...",
+    "✓ 综合财经: Trump announces ‘AI Force’ as alarm grows over technology’s ...",
     "✓ 经济数据: Flames reported near Saudi capital airport as Pakistan press...",
-    "✓ 综合财经: Student loan borrowers exiting SAVE may face sharply higher ..."
+    "✓ 综合财经: Student loan borrowers exiting SAVE may face sharply higher ...",
+    "✗ 股市动态: What History Reveals About Investing Through a Stock Market ..."
   ],
-  "positive_count": 10,
+  "positive_count": 6,
   "negative_count": 6,
-  "neutral_count": 14,
+  "neutral_count": 18,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-19T15:15:31.142340",
+  "analyzed_at": "2026-09-19T19:58:39.708281",
   "categories_distribution": {
-    "股市动态": 19,
-    "综合财经": 27,
-    "货币政策": 3,
+    "综合财经": 31,
+    "股市动态": 16,
+    "大宗商品": 3,
     "经济数据": 3,
-    "大宗商品": 2,
+    "货币政策": 1,
     "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
