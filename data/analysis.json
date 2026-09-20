@@ -2,27 +2,26 @@
   "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Marketing Discipline Pays Off as GDEV Improves Operating Cas...",
-    "✓ 经济数据: ResMed Inc. (RMD)’s Sleep Apnea Leadership Supports Growth D...",
-    "✓ 经济数据: Can NextEra (NEE) Preserve Its Earnings and Dividend Growth ...",
-    "✓ 综合财经: Intel Corporation (INTC)’s Terafab Partnership Could Give It...",
-    "✓ 经济数据: Can Accenture (ACN) Turn Its AI Strategy Into Sustainable Gr..."
+    "✓ 综合财经: Ed Davey calls for immediate 10p cut to fuel duty...",
+    "✓ 综合财经: U.S. urges Americans to reconsider Middle East travel as Ira...",
+    "✓ 经济数据: Lib Dems vow to end 'computer says no' economy to boost grow...",
+    "✓ 货币政策: Federal Reserve rate hike reflects new world of sticky infla...",
+    "✓ 货币政策: ‘It's awful’: How tariffs, soaring fuel costs and higher int..."
   ],
-  "positive_count": 11,
-  "negative_count": 5,
-  "neutral_count": 14,
+  "positive_count": 10,
+  "negative_count": 4,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-20T10:32:18.506947",
+  "analyzed_at": "2026-09-20T15:20:49.343457",
   "categories_distribution": {
-    "综合财经": 26,
-    "股市动态": 14,
-    "经济数据": 6,
-    "大宗商品": 2,
-    "货币政策": 5,
-    "外汇市场": 1,
-    "国际贸易": 1
+    "股市动态": 17,
+    "综合财经": 25,
+    "经济数据": 4,
+    "货币政策": 4,
+    "国际贸易": 2,
+    "大宗商品": 3
   },
   "ai_provider": "fallback_rules"
 }
