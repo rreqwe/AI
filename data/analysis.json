@@ -1,26 +1,27 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 国际贸易: Vera Bradley (VRA) Returns to Operating Profit. Can the Reco...",
-    "✓ 大宗商品: Chevron CEO sends a strong message on oil price and the econ...",
-    "✓ 综合财经: Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What...",
-    "✗ 股市动态: Are global stock markets heading for a crash? - The Guardian...",
-    "✓ 综合财经: Wall Street expects US to issue about $1tn of short-term deb..."
+    "✓ 综合财经: Marvell (MRVL) and GlobalFoundries (GFS) Rise on Expanded De...",
+    "✓ 大宗商品: Oil falls as crude flows remain 'surprisingly strong'...",
+    "✗ 综合财经: German chancellor Merz vows to stay on despite ‘disaster’ in...",
+    "✓ 股市动态: The Stock Market's Best Quarter of the Year Is About to Star...",
+    "✓ 股市动态: The Stock Market's Best Quarter of the Year Is About to Star..."
   ],
-  "positive_count": 9,
-  "negative_count": 4,
-  "neutral_count": 17,
+  "positive_count": 6,
+  "negative_count": 2,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-20T20:14:34.338947",
+  "analyzed_at": "2026-09-21T03:04:58.166211",
   "categories_distribution": {
-    "国际贸易": 3,
-    "综合财经": 30,
+    "综合财经": 29,
+    "股市动态": 16,
+    "国际贸易": 2,
     "大宗商品": 3,
-    "货币政策": 4,
-    "股市动态": 13,
+    "外汇市场": 1,
+    "货币政策": 2,
     "经济数据": 2
   },
   "ai_provider": "fallback_rules"
