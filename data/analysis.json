@@ -1,26 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: ‘Bull crap’: Why Dave Ramsey says moving to conservative bon...",
-    "✓ 经济数据: Forget the growth-stage funding gap, Europe is facing an ear...",
-    "✗ 股市动态: “Our Targets Haven’t Changed”: Broadcom’s CEO Pushes Back on...",
-    "✓ 股市动态: Stock Market, Trump, China, Oil, Iran, AI Rally | September ...",
-    "✓ 股市动态: Bitcoin hits highest level since January at $85,000, as the ..."
+    "✓ 经济数据: Craneware Gets a Painful Growth Reset...",
+    "✓ 股市动态: Jim Cramer sends strong signal to Apple stock investors...",
+    "✓ 股市动态: Chip Stocks Rise As Four New Names Join SOX Index. AMD Break...",
+    "✓ 股市动态: Stock market today: Nasdaq leads Dow, S&P 500 higher as chip...",
+    "✗ 综合财经: OpenAI joins call for US-led global AI standards..."
   ],
   "positive_count": 8,
-  "negative_count": 4,
-  "neutral_count": 18,
+  "negative_count": 3,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-21T11:52:04.885799",
+  "analyzed_at": "2026-09-21T17:46:35.382053",
   "categories_distribution": {
-    "综合财经": 26,
-    "经济数据": 5,
-    "外汇市场": 3,
-    "货币政策": 4,
-    "股市动态": 16,
+    "经济数据": 2,
+    "综合财经": 28,
+    "国际贸易": 1,
+    "股市动态": 20,
+    "外汇市场": 2,
+    "货币政策": 1,
     "大宗商品": 1
   },
   "ai_provider": "fallback_rules"
