@@ -1,27 +1,28 @@
 {
-  "temperature_score": 66.67,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 大宗商品: Chevron (CVX) Supercharges its Venezuela Bet with More Oil R...",
-    "✓ 综合财经: NextEra’s Nuclear Bet Just Got a $1.9 Billion Boost...",
-    "✓ 综合财经: Morgan Stanley Sees More Fuel for Valero’s (VLO) Rally...",
-    "✓ 股市动态: Jim Cramer sends strong signal to Apple stock investors...",
-    "✓ 股市动态: Tesla makes a move on Southeast Asia's largest EV market. A ..."
+    "✓ 综合财经: Airlines are cutting capacity again amid $1B surge in Q4 fue...",
+    "✗ 股市动态: Iran reportedly says it can reopen Strait of Hormuz within 7...",
+    "✓ 大宗商品: Oil prices reverse gains as United Nations General Assembly ...",
+    "✗ 股市动态: Novo defends diversification push as CEO eyes deals beyond o...",
+    "✗ 股市动态: Prediction: A Stock Market Crash Is Coming. Here's What Inve..."
   ],
-  "positive_count": 11,
-  "negative_count": 1,
-  "neutral_count": 18,
+  "positive_count": 7,
+  "negative_count": 3,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-22T03:04:33.756396",
+  "analyzed_at": "2026-09-22T10:52:53.361772",
   "categories_distribution": {
-    "大宗商品": 2,
-    "综合财经": 31,
-    "股市动态": 17,
-    "国际贸易": 1,
-    "经济数据": 2,
-    "外汇市场": 2
+    "综合财经": 29,
+    "股市动态": 14,
+    "外汇市场": 2,
+    "大宗商品": 3,
+    "货币政策": 4,
+    "经济数据": 1,
+    "国际贸易": 2
   },
   "ai_provider": "fallback_rules"
 }
