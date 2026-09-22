@@ -1,28 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Airlines are cutting capacity again amid $1B surge in Q4 fue...",
-    "✗ 股市动态: Iran reportedly says it can reopen Strait of Hormuz within 7...",
-    "✓ 大宗商品: Oil prices reverse gains as United Nations General Assembly ...",
-    "✗ 股市动态: Novo defends diversification push as CEO eyes deals beyond o...",
-    "✗ 股市动态: Prediction: A Stock Market Crash Is Coming. Here's What Inve..."
+    "✓ 股市动态: Intel stock up 25% in last 5 days, on CPU demand as AI agent...",
+    "✓ 股市动态: Maximus’ (MMS) Tech Capabilities and Beaten-Down Valuation P...",
+    "✓ 综合财经: Trump slams Iran and Cuba, boasts about record in United Nat...",
+    "✓ 综合财经: Autonomous trucking company Aurora looks to accelerate towar...",
+    "✓ 股市动态: Stock Market, Oil Prices, Iran Hormuz, Meta Muse Boost | Sep..."
   ],
   "positive_count": 7,
-  "negative_count": 3,
-  "neutral_count": 20,
+  "negative_count": 1,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-22T10:52:53.361772",
+  "analyzed_at": "2026-09-22T16:10:41.741281",
   "categories_distribution": {
-    "综合财经": 29,
-    "股市动态": 14,
-    "外汇市场": 2,
-    "大宗商品": 3,
-    "货币政策": 4,
+    "大宗商品": 2,
+    "股市动态": 23,
+    "综合财经": 25,
     "经济数据": 1,
-    "国际贸易": 2
+    "国际贸易": 2,
+    "货币政策": 2
   },
   "ai_provider": "fallback_rules"
 }
