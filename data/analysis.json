@@ -1,28 +1,28 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 国际贸易: Trump says he would back ban on diesel exports...",
-    "✓ 股市动态: Nasdaq 100 rises to new high as ‘AI Fomo’ returns...",
-    "✓ 国际贸易: Trump says he would back US diesel export ban ...",
-    "✓ 大宗商品: US government and Gulf billionaires back Todd Boehly bid for...",
-    "✗ 股市动态: Anthropic and OpenAI roll out cheaper models in first releas..."
+    "✓ 综合财经: Super Ego’s Mimic notches win in court case; settlement comi...",
+    "✓ 股市动态: Paramount, Warner Bros. shares rally on report of merger set...",
+    "✓ 综合财经: Will Trump's AI rebrand as 'super intelligence' catch on?...",
+    "✗ 大宗商品: Oil falls after U.S. and Iran talk for hours at UN meeting ...",
+    "✓ 综合财经: 'I don't have a buoyancy aid': Living without the Bank of Mu..."
   ],
-  "positive_count": 7,
-  "negative_count": 3,
+  "positive_count": 8,
+  "negative_count": 2,
   "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-22T20:49:01.033128",
+  "analyzed_at": "2026-09-23T03:04:30.192735",
   "categories_distribution": {
-    "股市动态": 24,
-    "综合财经": 19,
-    "货币政策": 2,
-    "国际贸易": 4,
-    "大宗商品": 3,
+    "综合财经": 22,
+    "股市动态": 21,
     "经济数据": 2,
-    "外汇市场": 1
+    "大宗商品": 5,
+    "国际贸易": 2,
+    "外汇市场": 2,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
