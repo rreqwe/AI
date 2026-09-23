@@ -1,28 +1,29 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: NYSE Teams Up With Blockchain.com to Offer Tokenized Stocks...",
-    "✓ 股市动态: Home Depot (HD) is Positioned to benefit from Housing Market...",
-    "✗ 股市动态: Michael Burry Shorts Micron, Palantir; Famed Investor Expect...",
-    "✗ 综合财经: MindWalk (HYFT) Is Pivoting to Recurring AI Revenue. Can Ree...",
-    "✗ 股市动态: Stock Market Today: Small Caps Lead Dip Amid Hot Economic Da..."
+    "✓ 综合财经: Soybeans Fading Back After Monday’s Rally...",
+    "✗ 综合财经: 'SICK conspiracy': Trump dismisses calls to rein in AI as hi...",
+    "✗ 综合财经: Judge hears arguments on Trump White House media ban, hopes ...",
+    "✓ 股市动态: AI Agents Are Upending a Big Slice of the Stock Market - Blo...",
+    "✓ 货币政策: US Treasury yields soar most since ‘liberation day’ tariffs ..."
   ],
-  "positive_count": 12,
-  "negative_count": 4,
-  "neutral_count": 14,
+  "positive_count": 8,
+  "negative_count": 3,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-23T16:00:04.674754",
+  "analyzed_at": "2026-09-23T21:00:29.791780",
   "categories_distribution": {
+    "综合财经": 27,
+    "外汇市场": 3,
+    "股市动态": 14,
+    "数字货币": 1,
     "货币政策": 3,
-    "股市动态": 23,
-    "综合财经": 17,
-    "经济数据": 6,
-    "外汇市场": 2,
-    "大宗商品": 2,
-    "国际贸易": 2
+    "大宗商品": 3,
+    "国际贸易": 1,
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
