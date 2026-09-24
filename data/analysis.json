@@ -2,28 +2,28 @@
   "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Soybeans Fading Back After Monday’s Rally...",
-    "✗ 综合财经: 'SICK conspiracy': Trump dismisses calls to rein in AI as hi...",
-    "✗ 综合财经: Judge hears arguments on Trump White House media ban, hopes ...",
-    "✓ 股市动态: AI Agents Are Upending a Big Slice of the Stock Market - Blo...",
-    "✓ 货币政策: US Treasury yields soar most since ‘liberation day’ tariffs ..."
+    "✗ 股市动态: Marram Exits PayPal Holdings (PYPL) Due to Thesis Breakdown...",
+    "✓ 股市动态: Intel stock up 25% in last 5 days on CPU demand as AI agents...",
+    "✓ 综合财经: What Makes Berkshire Hathaway (BRK-B) a Strong Investment?...",
+    "✓ 综合财经: Japan's 10-year bond yield hits 30-year high following sell-...",
+    "✗ 综合财经: OpenAI agent 'infiltrated' Australian government website, PM..."
   ],
-  "positive_count": 8,
-  "negative_count": 3,
-  "neutral_count": 19,
+  "positive_count": 9,
+  "negative_count": 4,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-23T21:00:29.791780",
+  "analyzed_at": "2026-09-24T02:56:07.171390",
   "categories_distribution": {
-    "综合财经": 27,
-    "外汇市场": 3,
-    "股市动态": 14,
+    "股市动态": 6,
+    "货币政策": 4,
+    "大宗商品": 5,
+    "综合财经": 19,
     "数字货币": 1,
-    "货币政策": 3,
-    "大宗商品": 3,
-    "国际贸易": 1,
-    "经济数据": 3
+    "国际贸易": 2,
+    "经济数据": 2,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
