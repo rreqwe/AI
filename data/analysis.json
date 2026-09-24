@@ -1,28 +1,29 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✓ 综合财经: White House defies court order and blocks access to news out...",
-    "✓ 股市动态: 30-year Treasury yield hits highest level since 2004 as bond...",
-    "✓ 经济数据: Analysis: Higher Treasury yields deliver a reality check on ...",
-    "✓ 货币政策: Analysis: Higher Treasury yields deliver a reality check on ..."
+    "✓ 股市动态: History shows financial calamities occur when rates rise rap...",
+    "✗ 股市动态: Senate narrowly votes down resolution calling for end to Ira...",
+    "✓ 综合财经: SoftBank pays steep price for record bond sale to fund OpenA...",
+    "✓ 股市动态: New York sues Polymarket U.S., two months after filing lawsu..."
   ],
-  "positive_count": 7,
+  "positive_count": 8,
   "negative_count": 2,
-  "neutral_count": 21,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-24T16:24:33.056792",
+  "analyzed_at": "2026-09-24T21:05:23.896898",
   "categories_distribution": {
-    "国际贸易": 4,
-    "综合财经": 22,
-    "股市动态": 19,
-    "大宗商品": 3,
+    "国际贸易": 1,
+    "综合财经": 19,
+    "股市动态": 21,
+    "大宗商品": 5,
     "外汇市场": 1,
-    "经济数据": 3,
-    "货币政策": 3
+    "数字货币": 1,
+    "货币政策": 2,
+    "经济数据": 4
   },
   "ai_provider": "fallback_rules"
 }
