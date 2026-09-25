@@ -1,28 +1,28 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✓ 国际贸易: China saw 'surprise' jump in U.S. orders ahead of Trump-Xi s...",
-    "✓ 外汇市场: US seizes bank accounts of payments group linked to Tether...",
-    "✓ 综合财经: US backs Elon Musk's bid to overturn €120m EU fine against X...",
-    "✗ 综合财经: Iran offers to reopen Strait of Hormuz within 7 days and res..."
+    "✓ 货币政策: U.S. appeals court upholds Pentagon designation of Anthropic...",
+    "✓ 综合财经: Sir David Beckham nets £38.5m after World Cup ad deals...",
+    "✓ 综合财经: Microsoft packages business AI in single app as it tries to ...",
+    "✗ 股市动态: Stock Market Split As Nasdaq Hits High, Dow Jones Slides Ami..."
   ],
   "positive_count": 6,
-  "negative_count": 3,
-  "neutral_count": 21,
+  "negative_count": 2,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-25T11:01:46.276141",
+  "analyzed_at": "2026-09-25T16:24:45.295710",
   "categories_distribution": {
     "国际贸易": 2,
-    "综合财经": 27,
-    "股市动态": 16,
+    "综合财经": 31,
+    "股市动态": 15,
     "大宗商品": 1,
-    "外汇市场": 4,
-    "货币政策": 1,
-    "经济数据": 3
+    "外汇市场": 2,
+    "货币政策": 2,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
