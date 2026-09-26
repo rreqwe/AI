@@ -1,27 +1,28 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 65.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极0条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
     "✓ 经济数据: Coca-Cola hires Rob Gehring from Monster Energy to run its N...",
-    "✓ 综合财经: Blackstone’s top private equity executive prepares exit for ...",
-    "✓ 综合财经: Soaring bond yields ‘not even close’ to cooling red-hot US e...",
-    "✓ 综合财经: Airlines waive change fees ahead of nor'easter as flight del..."
+    "✓ 股市动态: IonQ, Inc. (IONQ) Outpaces Stock Market Gains: What You Shou...",
+    "✓ 股市动态: Caterpillar (CAT) Beats Stock Market Upswing: What Investors...",
+    "✓ 经济数据: Market Bounces To Cap Strong Week For Growth; Microsoft, Amp..."
   ],
-  "positive_count": 8,
-  "negative_count": 2,
-  "neutral_count": 20,
+  "positive_count": 9,
+  "negative_count": 0,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-25T21:02:40.937704",
+  "analyzed_at": "2026-09-26T03:16:38.593674",
   "categories_distribution": {
-    "国际贸易": 1,
-    "综合财经": 28,
-    "股市动态": 18,
-    "大宗商品": 4,
+    "国际贸易": 2,
+    "综合财经": 27,
+    "股市动态": 19,
+    "大宗商品": 2,
     "外汇市场": 1,
-    "经济数据": 3
+    "经济数据": 3,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
