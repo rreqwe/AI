@@ -1,28 +1,28 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✓ 综合财经: Debt-hungry AI companies face increased risk as bond yields ...",
-    "✗ 综合财经: Meta's Muse agent is attacking one of the economy's most pro...",
-    "✓ 综合财经: Airlines waive change fees ahead of nor'easter as flight dis...",
-    "✓ 股市动态: This Stock's 10% Yield Beats the Market. Its 10-Year Return ..."
+    "✗ 综合财经: Anthropic CEO Amodei set to meet with Trump after missing st...",
+    "✓ 综合财经: Nor'easter delays hundreds of flights, airlines waive change...",
+    "✓ 股市动态: President Trump rejects Iran's latest proposal, gas and mort...",
+    "✓ 综合财经: Debt-hungry AI companies face increased risk as bond yields ..."
   ],
-  "positive_count": 6,
+  "positive_count": 4,
   "negative_count": 3,
-  "neutral_count": 21,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-27T16:18:34.434596",
+  "analyzed_at": "2026-09-27T20:47:15.357689",
   "categories_distribution": {
-    "国际贸易": 4,
-    "综合财经": 26,
-    "股市动态": 18,
-    "大宗商品": 3,
+    "国际贸易": 3,
+    "综合财经": 27,
+    "股市动态": 17,
+    "大宗商品": 2,
     "外汇市场": 2,
-    "货币政策": 1,
-    "经济数据": 1
+    "经济数据": 2,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
