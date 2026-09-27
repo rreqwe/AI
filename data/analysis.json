@@ -1,28 +1,28 @@
 {
-  "temperature_score": 51.67,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极3条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✗ 综合财经: Boeing flags 737 Max software glitch affecting some automate...",
-    "✗ 股市动态: Here's What 60 Years of History Tells Us About Stock Market ...",
-    "✓ 经济数据: The 10-year Treasury yield is at its highest in nearly two d...",
-    "✓ 股市动态: Berkshire adds to nearly doubled stake in slumping homebuild..."
+    "✗ 股市动态: Prediction: A Stock Market Crash Is Coming. Here’s the One M...",
+    "✓ 综合财经: Debt-hungry AI companies face increased risk as bond yields ...",
+    "✓ 股市动态: As Stock Market Warning Signs Pile Up, Here's What History S...",
+    "✗ 股市动态: Prediction: A Stock Market Crash Is on the Way. Investors Wh..."
   ],
-  "positive_count": 3,
-  "negative_count": 2,
-  "neutral_count": 25,
+  "positive_count": 6,
+  "negative_count": 4,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-27T03:24:22.847756",
+  "analyzed_at": "2026-09-27T11:17:54.110313",
   "categories_distribution": {
     "国际贸易": 3,
-    "综合财经": 27,
-    "股市动态": 18,
-    "大宗商品": 1,
-    "外汇市场": 1,
-    "经济数据": 3,
-    "货币政策": 1
+    "综合财经": 29,
+    "股市动态": 16,
+    "大宗商品": 2,
+    "外汇市场": 2,
+    "货币政策": 1,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
