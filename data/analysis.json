@@ -1,28 +1,27 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 58.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✓ 综合财经: LeBron James is already boosting ticket and merchandise dema...",
-    "✓ 综合财经: AMD to buy Fei-Fei Li’s AI start-up for $8bn...",
-    "✓ 大宗商品: Bond sell-off deepens and oil rises as Iran-US deal hopes fa...",
-    "✓ 综合财经: Trump announces plan for $15 billion steel plant, would be l..."
+    "✓ 大宗商品: Oil extends gains as Middle East supply concerns persist ...",
+    "✓ 综合财经: Senate advances college sports bill aimed at regulating NIL ...",
+    "✗ 股市动态: Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Mu...",
+    "✗ 股市动态: ‘No definitive timeline’ for Solomon to step down as CEO, sa..."
   ],
   "positive_count": 7,
-  "negative_count": 4,
-  "neutral_count": 19,
+  "negative_count": 2,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-28T22:53:44.273247",
+  "analyzed_at": "2026-09-29T03:58:32.976755",
   "categories_distribution": {
     "国际贸易": 3,
-    "综合财经": 26,
-    "股市动态": 17,
+    "综合财经": 28,
+    "股市动态": 15,
     "大宗商品": 4,
     "外汇市场": 2,
-    "经济数据": 1,
-    "货币政策": 1
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
