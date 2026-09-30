@@ -1,28 +1,28 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✓ 综合财经: Mortgage rates jump for the sixth straight week, hitting bot...",
-    "✗ 综合财经: UAE-Israel flight diverted after pilots injured in ‘incident...",
-    "✓ 经济数据: Holiday retail sales are expected to top $1 trillion as infl...",
-    "✓ 国际贸易: Russia extends diesel export ban ..."
+    "✗ 货币政策: US competition watchdog expands investigation of Anthropic a...",
+    "✓ 货币政策: S&P 500, Nasdaq advance as soft inflation tempers Fed rate-h...",
+    "✓ 经济数据: 'The economy is increasingly reliant on AI gains': U.S. GDP ...",
+    "✗ 综合财经: One pilot of Israel-bound flight stabbed the other and tried..."
   ],
-  "positive_count": 8,
+  "positive_count": 5,
   "negative_count": 3,
-  "neutral_count": 19,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-09-30T11:50:30.455920",
+  "analyzed_at": "2026-09-30T17:31:17.958958",
   "categories_distribution": {
     "国际贸易": 3,
     "综合财经": 26,
-    "股市动态": 15,
-    "大宗商品": 3,
+    "股市动态": 8,
+    "大宗商品": 2,
     "外汇市场": 1,
-    "经济数据": 4,
-    "货币政策": 2
+    "货币政策": 9,
+    "经济数据": 6
   },
   "ai_provider": "fallback_rules"
 }
