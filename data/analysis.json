@@ -1,28 +1,28 @@
 {
-  "temperature_score": 58.33,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✓ 综合财经: Trump's AI rebrand causes 'unprecedented' demand for Sloveni...",
-    "✗ 股市动态: Stock Market Crash Phase One: Technical Carnage Hard To Igno...",
-    "✓ 股市动态: Accenture shares surge as consultancy boosts sales ...",
-    "✓ 大宗商品: Oil prices rise as Chinese refiners reportedly ban October f..."
+    "✓ 经济数据: Nike shares drop as retailer posts disappointing sales, anno...",
+    "✓ 综合财经: US sanctions Kremlin-backed fintech A7 for allegedly assisti...",
+    "✓ 综合财经: Boeing engineers and technical workers approve new contract,...",
+    "✓ 股市动态: US mortgage rates jump the most in four years in blow to hou..."
   ],
   "positive_count": 7,
-  "negative_count": 2,
-  "neutral_count": 21,
+  "negative_count": 1,
+  "neutral_count": 22,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-01T12:20:17.060564",
+  "analyzed_at": "2026-10-01T22:16:54.676644",
   "categories_distribution": {
-    "国际贸易": 1,
-    "综合财经": 28,
-    "股市动态": 16,
-    "大宗商品": 2,
+    "国际贸易": 2,
+    "综合财经": 24,
+    "股市动态": 17,
+    "大宗商品": 3,
     "外汇市场": 3,
-    "货币政策": 3,
-    "经济数据": 2
+    "经济数据": 2,
+    "货币政策": 4
   },
   "ai_provider": "fallback_rules"
 }
