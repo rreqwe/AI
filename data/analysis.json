@@ -1,28 +1,27 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✓ 国际贸易: Suppliers pile pressure on government over energy bills...",
-    "✗ 股市动态: As stock market crash alarm bells ring, here’s my action pla...",
-    "✗ 股市动态: Are we soon to see a crashing stock market? - Yahoo Finance ...",
-    "✓ 股市动态: Cerebras stock hits post-IPO low, tumbling 20% for the week ..."
+    "✓ 经济数据: Novig credits Sydney Sweeney-backed campaign for platform’s ...",
+    "✓ 股市动态: Lula or Bolsonaro: Wall Street braces for two wildly differe...",
+    "✓ 股市动态: A Scary Stock Market Divided Has Opened Up. Where It Goes Ne...",
+    "✗ 综合财经: FlyDubai plane attack by co-pilot was an attempted 'terroris..."
   ],
-  "positive_count": 4,
-  "negative_count": 2,
-  "neutral_count": 24,
+  "positive_count": 6,
+  "negative_count": 3,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-03T11:02:06.894409",
+  "analyzed_at": "2026-10-03T15:38:14.383251",
   "categories_distribution": {
     "国际贸易": 2,
-    "综合财经": 22,
-    "股市动态": 19,
-    "大宗商品": 3,
+    "综合财经": 25,
+    "股市动态": 16,
+    "大宗商品": 4,
     "外汇市场": 4,
-    "货币政策": 1,
-    "经济数据": 2
+    "经济数据": 3
   },
   "ai_provider": "fallback_rules"
 }
