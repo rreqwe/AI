@@ -1,28 +1,28 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 53.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✗ 股市动态: What a hiring slowdown signals about the state of the U.S. e...",
-    "✓ 股市动态: Cerebras stock hits post-IPO low, tumbling 20% for the week ...",
-    "✓ 股市动态: Stock Market Today, Oct. 2: Tesla Rises on Q3 Delivery Beat ...",
-    "✓ 股市动态: Applied Materials (AMAT) Outpaces Stock Market Gains: What Y..."
+    "✓ 国际贸易: Suppliers pile pressure on government over energy bills...",
+    "✗ 股市动态: As stock market crash alarm bells ring, here’s my action pla...",
+    "✗ 股市动态: Are we soon to see a crashing stock market? - Yahoo Finance ...",
+    "✓ 股市动态: Cerebras stock hits post-IPO low, tumbling 20% for the week ..."
   ],
-  "positive_count": 8,
+  "positive_count": 4,
   "negative_count": 2,
-  "neutral_count": 20,
+  "neutral_count": 24,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-03T03:34:58.263395",
+  "analyzed_at": "2026-10-03T11:02:06.894409",
   "categories_distribution": {
     "国际贸易": 2,
-    "综合财经": 19,
-    "股市动态": 20,
-    "大宗商品": 4,
-    "外汇市场": 2,
-    "货币政策": 3,
-    "经济数据": 5
+    "综合财经": 22,
+    "股市动态": 19,
+    "大宗商品": 3,
+    "外汇市场": 4,
+    "货币政策": 1,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
