@@ -1,27 +1,27 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
     "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✗ 股市动态: If a Stock Market Crash Is Coming, These 3 ETFs Could Be Sma...",
-    "✓ 综合财经: Legal risks pile up for Altman as OpenAI uncovers dozens of ...",
-    "✗ 股市动态: Why the IPO market is booming and busting...",
-    "✓ 综合财经: Ukraine’s surprise robot offensive exposes a vulnerability i..."
+    "✗ 经济数据: Hassett defends Trump economy despite voter concerns on infl...",
+    "✓ 经济数据: Top Wall Street analysts are upbeat about the prospects for ...",
+    "✗ 综合财经: A 'weird' IPO pull, a tainted reputation and the stalled bre...",
+    "✗ 股市动态: Worried About a Stock Market Crash? History Says Not So Fast..."
   ],
   "positive_count": 6,
-  "negative_count": 3,
-  "neutral_count": 21,
+  "negative_count": 5,
+  "neutral_count": 19,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-04T11:44:26.445586",
+  "analyzed_at": "2026-10-04T16:22:09.946915",
   "categories_distribution": {
     "国际贸易": 2,
-    "综合财经": 24,
-    "股市动态": 20,
-    "大宗商品": 4,
+    "综合财经": 22,
+    "股市动态": 21,
+    "大宗商品": 3,
     "外汇市场": 2,
-    "经济数据": 3
+    "经济数据": 5
   },
   "ai_provider": "fallback_rules"
 }
