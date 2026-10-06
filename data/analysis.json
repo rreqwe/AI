@@ -1,25 +1,26 @@
 {
-  "temperature_score": 56.67,
-  "sentiment": "中性",
-  "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "temperature_score": 71.67,
+  "sentiment": "乐观",
+  "sentiment_emoji": "😊",
+  "analysis_text": "当前全球经济新闻整体偏向积极（积极新闻占比15/30），市场情绪乐观。多项经济指标表现良好，投资者信心较强。建议适度增加风险资产配置，关注科技、消费等成长性板块。",
   "key_factors": [
-    "✗ 综合财经: Russia’s neighbor backs push to lift ban on nuclear weapons,...",
-    "✓ 综合财经: Meta Muse gives AMD a boost as AI momentum shifts to persona...",
-    "✗ 大宗商品: Treasury yields fall as oil prices slide...",
-    "✓ 股市动态: SpaceX stock is taking off again, but with one key differenc...",
-    "✓ 综合财经: Trump allows cheaper, dyed diesel on highways to blunt histo..."
+    "✓ 股市动态: Stock Market Today, Oct. 6: Corteva Rallies 12% on Analyst U...",
+    "✓ 股市动态: Stock Market Today, Oct. 6: Marvell Stock Is Up as the Compa...",
+    "✓ 股市动态: Chart: A look at the S&P 500's remarkable and defiant trip t...",
+    "✓ 股市动态: Eli Lilly (LLY) Outpaces Stock Market Gains: What You Should...",
+    "✗ 综合财经: Paramount takes over Warner Bros in $110bn Hollywood merger..."
   ],
-  "positive_count": 7,
-  "negative_count": 3,
-  "neutral_count": 20,
+  "positive_count": 15,
+  "negative_count": 2,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-06T12:40:21.182665",
+  "analyzed_at": "2026-10-06T22:14:44.715166",
   "categories_distribution": {
-    "综合财经": 21,
-    "大宗商品": 1,
-    "股市动态": 19,
-    "经济数据": 3,
+    "股市动态": 18,
+    "综合财经": 22,
+    "货币政策": 1,
+    "数字货币": 1,
+    "大宗商品": 2,
     "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
