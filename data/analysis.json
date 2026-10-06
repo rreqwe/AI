@@ -1,28 +1,26 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 国际贸易: Lumentum Jumped Nearly 10% While Corning Barely Moved. Is th...",
-    "✗ 经济数据: World Bank warns of AI concentration risks as it lifts East ...",
-    "✓ 股市动态: Surge in borrowing costs hits corporate America...",
-    "✓ 股市动态: Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, E...",
-    "✓ 综合财经: Trump offers U.S. help to Russia after plague death; WHO ass..."
+    "✗ 综合财经: Russia’s neighbor backs push to lift ban on nuclear weapons,...",
+    "✓ 综合财经: Meta Muse gives AMD a boost as AI momentum shifts to persona...",
+    "✗ 大宗商品: Treasury yields fall as oil prices slide...",
+    "✓ 股市动态: SpaceX stock is taking off again, but with one key differenc...",
+    "✓ 综合财经: Trump allows cheaper, dyed diesel on highways to blunt histo..."
   ],
-  "positive_count": 5,
+  "positive_count": 7,
   "negative_count": 3,
-  "neutral_count": 22,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-06T04:37:16.159813",
+  "analyzed_at": "2026-10-06T12:40:21.182665",
   "categories_distribution": {
-    "国际贸易": 2,
-    "综合财经": 24,
-    "股市动态": 21,
-    "大宗商品": 2,
-    "外汇市场": 1,
+    "综合财经": 21,
+    "大宗商品": 1,
+    "股市动态": 19,
     "经济数据": 3,
-    "货币政策": 1
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
