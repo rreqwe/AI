@@ -1,27 +1,27 @@
 {
-  "temperature_score": 63.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: The taxman comes for China’s offshore riches...",
-    "✓ 综合财经: Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s ...",
-    "✓ 大宗商品: Oil rises as concerns over Houthi attacks on Saudi Arabia ec...",
-    "✗ 股市动态: Michael Burry warns the stock market is in the first stage o...",
-    "✓ 综合财经: Trump says he will speak with Putin about pneumonic plague ..."
+    "✓ 大宗商品: Treasury yields rise as traders await key 10-year note aucti...",
+    "✗ 综合财经: ICE came to town and left behind weakened economies...",
+    "✓ 货币政策: French central bank chief says ECB intervention not needed t...",
+    "✗ 综合财经: Rubio says Tehran missed 'multiple' chances for nuclear deal...",
+    "✗ 综合财经: Futures Fall As Yields Rebound; Six New AI Buys - Investor's..."
   ],
-  "positive_count": 12,
-  "negative_count": 4,
-  "neutral_count": 14,
+  "positive_count": 9,
+  "negative_count": 5,
+  "neutral_count": 16,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-07T04:03:03.791863",
+  "analyzed_at": "2026-10-07T12:33:47.827545",
   "categories_distribution": {
-    "股市动态": 17,
     "综合财经": 19,
-    "大宗商品": 4,
-    "数字货币": 2,
-    "经济数据": 2,
-    "货币政策": 1
+    "大宗商品": 3,
+    "货币政策": 2,
+    "股市动态": 17,
+    "外汇市场": 2,
+    "经济数据": 2
   },
   "ai_provider": "fallback_rules"
 }
