@@ -1,28 +1,25 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极9条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Opinion: Higher yields are taking their toll on all areas of...",
-    "✓ 股市动态: Ray Dalio warns the stock market's cushion against rising bo...",
-    "✓ 综合财经: Asos hackers took more personal details than first revealed,...",
-    "✗ 股市动态: Rising yields are quietly crashing the stock market’s earlie...",
-    "✓ 股市动态: NFL tells Supreme Court prediction markets are gambling and ..."
+    "✗ 股市动态: Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI...",
+    "✓ 股市动态: Stock Market Today, Oct. 8: Chipotle Surges 6% on New Starbu...",
+    "✓ 综合财经: OpenAI annualised revenues $20bn less than previously signal...",
+    "✗ 货币政策: Treasury yields are lower after reaching multiyear highs, tr...",
+    "✗ 股市动态: Treasury yields are 'really, really high' but can come down ..."
   ],
-  "positive_count": 9,
-  "negative_count": 2,
-  "neutral_count": 19,
+  "positive_count": 8,
+  "negative_count": 5,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-08T12:43:25.548808",
+  "analyzed_at": "2026-10-08T22:48:26.750128",
   "categories_distribution": {
-    "综合财经": 17,
-    "国际贸易": 3,
-    "货币政策": 1,
-    "股市动态": 19,
-    "大宗商品": 2,
-    "数字货币": 1,
-    "外汇市场": 1
+    "股市动态": 22,
+    "综合财经": 18,
+    "货币政策": 3,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
