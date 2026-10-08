@@ -1,27 +1,27 @@
 {
-  "temperature_score": 46.67,
-  "sentiment": "谨慎",
-  "sentiment_emoji": "😟",
-  "analysis_text": "当前全球经济新闻偏向消极（消极新闻占比7/30），市场存在较多不确定性。建议降低风险敞口，增加防御性资产配置，如债券、黄金等避险资产。",
+  "temperature_score": 55.0,
+  "sentiment": "中性",
+  "sentiment_emoji": "😐",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Stock Market Today, Oct. 7: Webull Plunges 19% on House Chin...",
-    "✓ 国际贸易: Levi Strauss hikes profit guidance after tariff refunds, but...",
-    "✗ 股市动态: Stock Market Falls After Hitting Record Highs. What Changed ...",
-    "✓ 经济数据: Supertanker chartered from Gulf Coast to China for $76 milli...",
-    "✓ 股市动态: US government bonds steady after strong 10-year Treasury auc..."
+    "✓ 大宗商品: Oil gains as Middle East hostilities, potential escalation s...",
+    "✓ 综合财经: Samsung profit surges ninefold to $80bn on AI chip demand...",
+    "✓ 综合财经: AI chip boom pushes Samsung profits to record $80bn...",
+    "✗ 股市动态: Wall Street retreats from its record as stocks fall worldwid...",
+    "✓ 综合财经: We spent thousands on a Tui river cruise but ended up on coa..."
   ],
-  "positive_count": 5,
-  "negative_count": 7,
-  "neutral_count": 18,
+  "positive_count": 6,
+  "negative_count": 3,
+  "neutral_count": 21,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-07T22:36:17.332330",
+  "analyzed_at": "2026-10-08T04:15:38.894986",
   "categories_distribution": {
-    "综合财经": 20,
-    "股市动态": 14,
-    "国际贸易": 2,
-    "经济数据": 5,
-    "货币政策": 2,
-    "大宗商品": 2
+    "综合财经": 18,
+    "大宗商品": 3,
+    "股市动态": 18,
+    "经济数据": 1,
+    "国际贸易": 1,
+    "货币政策": 3
   },
   "ai_provider": "fallback_rules"
 }
