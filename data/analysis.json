@@ -1,26 +1,27 @@
 {
-  "temperature_score": 61.67,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极1条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: Delta Air Lines cuts 2026 forecast on fuel surge, but CEO sa...",
-    "✓ 大宗商品: Computer scientist David Silver: ‘Where are we going without...",
-    "✓ 股市动态: Aging bull: Why the four-year old stock-market rally can sti...",
-    "✓ 股市动态: Living with Mom and trading on margin. The regular investor ...",
-    "✓ 综合财经: Everton owners consider selling club two years after takeove..."
+    "✗ 股市动态: Stock Market Today, Oct. 9: AST SpaceMobile Slides on SpaceX...",
+    "✓ 经济数据: The hazy OpenAI growth metric driving Wall Street...",
+    "✓ 股市动态: UnitedHealth Group (UNH) Beats Stock Market Upswing: What In...",
+    "✓ 股市动态: Visa (V) Beats Stock Market Upswing: What Investors Need to ...",
+    "✓ 股市动态: Trump strikes deal with Putin to supply Russian diesel to U...."
   ],
-  "positive_count": 8,
-  "negative_count": 1,
-  "neutral_count": 21,
+  "positive_count": 11,
+  "negative_count": 5,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-09T12:29:59.023074",
+  "analyzed_at": "2026-10-09T22:10:52.858867",
   "categories_distribution": {
     "综合财经": 18,
-    "股市动态": 19,
-    "货币政策": 5,
-    "大宗商品": 2,
-    "经济数据": 1
+    "股市动态": 18,
+    "经济数据": 2,
+    "货币政策": 3,
+    "国际贸易": 2,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
