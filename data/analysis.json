@@ -1,25 +1,25 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极4条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
+    "✓ 综合财经: U.S. East Asian envoy says investors are overpricing Taiwan ...",
+    "✓ 股市动态: Tokenization could unleash tens of billions of dollars in tr...",
     "✗ 股市动态: Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI...",
-    "✓ 股市动态: Stock Market Today, Oct. 8: Chipotle Surges 6% on New Starbu...",
-    "✓ 综合财经: OpenAI annualised revenues $20bn less than previously signal...",
-    "✗ 货币政策: Treasury yields are lower after reaching multiyear highs, tr...",
-    "✗ 股市动态: Treasury yields are 'really, really high' but can come down ..."
+    "✓ 综合财经: Singapore gears up for smog-choked Grand Prix...",
+    "✓ 综合财经: OpenAI annualised revenues $20bn less than previously signal..."
   ],
-  "positive_count": 8,
-  "negative_count": 5,
-  "neutral_count": 17,
+  "positive_count": 4,
+  "negative_count": 3,
+  "neutral_count": 23,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-08T22:48:26.750128",
+  "analyzed_at": "2026-10-09T04:20:49.993974",
   "categories_distribution": {
-    "股市动态": 22,
-    "综合财经": 18,
-    "货币政策": 3,
-    "大宗商品": 2
+    "综合财经": 20,
+    "股市动态": 21,
+    "货币政策": 2,
+    "经济数据": 1
   },
   "ai_provider": "fallback_rules"
 }
