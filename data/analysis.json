@@ -2,25 +2,24 @@
   "temperature_score": 51.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极6条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极6条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
+    "✓ 综合财经: Microsoft's Nadella says AI needs an ‘emergency brake’ that ...",
     "✗ 股市动态: Police arrest leader of India’s ‘Cockroach’ movement as prot...",
-    "✓ 综合财经: Putin relayed Iran war proposal to Trump, Kremlin says...",
-    "✓ 综合财经: Pokémon card values are soaring. What collectors should know...",
-    "✗ 股市动态: How Likely Is it That the Stock Market Crashes Under Preside...",
-    "✓ 综合财经: How Supreme Court justices are leaning in major 401(k) case ..."
+    "✗ 综合财经: Riyadh airport suspends operations after missile strike inju...",
+    "✓ 综合财经: Nvidia in talks to acquire US ‘open’ model start-up Reflecti...",
+    "✗ 股市动态: How Likely Is it That the Stock Market Crashes Under Preside..."
   ],
-  "positive_count": 6,
-  "negative_count": 5,
-  "neutral_count": 19,
+  "positive_count": 7,
+  "negative_count": 6,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-10T16:52:44.415656",
+  "analyzed_at": "2026-10-10T21:05:00.030581",
   "categories_distribution": {
-    "股市动态": 19,
-    "综合财经": 22,
-    "经济数据": 1,
-    "货币政策": 1,
-    "国际贸易": 2
+    "综合财经": 25,
+    "股市动态": 17,
+    "货币政策": 2,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
