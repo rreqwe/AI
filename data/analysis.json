@@ -1,24 +1,24 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 63.33,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极11条，消极5条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极12条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✗ 股市动态: Stock Market Today, Oct. 9: AST SpaceMobile Slides on SpaceX...",
+    "✓ 股市动态: Zoetis (ZTS) Outpaces Stock Market Gains: What You Should Kn...",
+    "✓ 股市动态: Nucor (NUE) Beats Stock Market Upswing: What Investors Need ...",
+    "✗ 股市动态: If a Stock Market Crash Is Coming, Billionaire Investor Bill...",
     "✓ 经济数据: The hazy OpenAI growth metric driving Wall Street...",
-    "✓ 股市动态: UnitedHealth Group (UNH) Beats Stock Market Upswing: What In...",
-    "✓ 股市动态: Visa (V) Beats Stock Market Upswing: What Investors Need to ...",
-    "✓ 股市动态: Trump strikes deal with Putin to supply Russian diesel to U...."
+    "✓ 股市动态: UnitedHealth Group (UNH) Beats Stock Market Upswing: What In..."
   ],
-  "positive_count": 11,
-  "negative_count": 5,
+  "positive_count": 12,
+  "negative_count": 4,
   "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-09T22:10:52.858867",
+  "analyzed_at": "2026-10-10T04:06:09.607417",
   "categories_distribution": {
-    "综合财经": 18,
-    "股市动态": 18,
     "经济数据": 2,
+    "综合财经": 19,
+    "股市动态": 17,
     "货币政策": 3,
     "国际贸易": 2,
     "大宗商品": 2
