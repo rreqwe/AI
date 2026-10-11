@@ -1,24 +1,25 @@
 {
-  "temperature_score": 55.0,
+  "temperature_score": 50.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极8条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year - ...",
-    "✗ 综合财经: Missile strike on Riyadh airport kills 12 and injures hundre...",
-    "✓ 综合财经: Microsoft's Nadella says AI needs an ‘emergency brake’ that ...",
-    "✗ 股市动态: Police arrest leader of India’s ‘Cockroach’ movement as prot...",
-    "✓ 综合财经: Nvidia in talks to acquire US ‘open’ model start-up Reflecti..."
+    "✓ 综合财经: Trump says he is 'going to look at' joining Saudi Arabia in ...",
+    "✓ 经济数据: AI’s quiet safety gatekeepers are stepping into the spotligh...",
+    "✗ 股市动态: Stock Market Crash Hits 54% Of Stocks—Is The S&P 500 Next? -...",
+    "✗ 股市动态: The Stock Market Is on the Verge of Doing Something for the ...",
+    "✗ 股市动态: The Stock Market Is on the Verge of Doing Something for the ..."
   ],
-  "positive_count": 7,
-  "negative_count": 4,
-  "neutral_count": 19,
+  "positive_count": 8,
+  "negative_count": 8,
+  "neutral_count": 14,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-11T03:42:16.361278",
+  "analyzed_at": "2026-10-11T12:01:19.965789",
   "categories_distribution": {
-    "综合财经": 26,
-    "股市动态": 17,
-    "货币政策": 1,
+    "综合财经": 25,
+    "外汇市场": 2,
+    "经济数据": 2,
+    "股市动态": 15,
     "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
