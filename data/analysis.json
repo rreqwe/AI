@@ -1,26 +1,28 @@
 {
-  "temperature_score": 53.33,
+  "temperature_score": 56.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极5条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 大宗商品: Futures Rise Amid Trump Claims, Oil-Related News - Investor'...",
-    "✓ 股市动态: Plenty is working against this market. Here's why I'm stayin...",
-    "✗ 综合财经: Debt advice that may leave you owing even more money...",
-    "✓ 股市动态: Oil Rises on Mideast Attacks, Dollar Edges Higher: Markets W...",
-    "✓ 综合财经: Trump says he is 'going to look at' joining Saudi Arabia in ..."
+    "✓ 股市动态: Stock Market Today: S&P 500 Futures Pause Near Record Highs ...",
+    "✓ 外汇市场: Nato’s supreme commander warns Moscow against attacks in Eur...",
+    "✓ 综合财经: FAA warns U.S. airlines of safety risks over Saudi Arabia af...",
+    "✓ 股市动态: Banks are set to report this week. Here's what the options m...",
+    "✓ 综合财经: Diesel prices slip after Trump claims ‘energy ceasefire’ in ..."
   ],
-  "positive_count": 5,
+  "positive_count": 7,
   "negative_count": 3,
-  "neutral_count": 22,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-12T04:05:21.658810",
+  "analyzed_at": "2026-10-12T14:17:30.339431",
   "categories_distribution": {
+    "综合财经": 21,
     "股市动态": 15,
+    "外汇市场": 2,
+    "货币政策": 1,
     "大宗商品": 4,
-    "综合财经": 22,
-    "国际贸易": 2,
-    "外汇市场": 2
+    "经济数据": 1,
+    "国际贸易": 1
   },
   "ai_provider": "fallback_rules"
 }
