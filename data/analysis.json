@@ -1,28 +1,26 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 61.67,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极7条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极3条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Stock Market Today: S&P 500 Futures Pause Near Record Highs ...",
-    "✓ 外汇市场: Nato’s supreme commander warns Moscow against attacks in Eur...",
-    "✓ 综合财经: FAA warns U.S. airlines of safety risks over Saudi Arabia af...",
-    "✓ 股市动态: Banks are set to report this week. Here's what the options m...",
-    "✓ 综合财经: Diesel prices slip after Trump claims ‘energy ceasefire’ in ..."
+    "✓ 大宗商品: Heating oil customers face tough winter despite shake-up pro...",
+    "✗ 综合财经: Trump says he is ‘looking at’ firing envoy to Greece over al...",
+    "✓ 股市动态: Stock Market Today, Oct. 12: Dow Gains as Memory Stocks Weig...",
+    "✓ 股市动态: Stock Market Today, Oct. 12: Iren Surges on Reports of Anthr...",
+    "✓ 货币政策: Elon Musk gives $276 million to Republican groups, becomes b..."
   ],
-  "positive_count": 7,
+  "positive_count": 10,
   "negative_count": 3,
-  "neutral_count": 20,
+  "neutral_count": 17,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-12T14:17:30.339431",
+  "analyzed_at": "2026-10-13T00:04:59.588040",
   "categories_distribution": {
-    "综合财经": 21,
-    "股市动态": 15,
-    "外汇市场": 2,
-    "货币政策": 1,
-    "大宗商品": 4,
-    "经济数据": 1,
-    "国际贸易": 1
+    "大宗商品": 1,
+    "综合财经": 20,
+    "股市动态": 18,
+    "货币政策": 3,
+    "外汇市场": 1
   },
   "ai_provider": "fallback_rules"
 }
