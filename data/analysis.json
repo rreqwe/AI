@@ -1,27 +1,27 @@
 {
-  "temperature_score": 56.67,
+  "temperature_score": 60.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极4条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 综合财经: China's producer prices rise at fastest pace since June 2022...",
-    "✓ 大宗商品: China’s exports surge 36% as AI-related shipments boom...",
-    "✓ 国际贸易: China's exports and imports surge past expectations in Septe...",
-    "✓ 经济数据: Tech Futures Rise: Meta, AMD Lead 5 Buys; ASML, CPI Inflatio...",
-    "✓ 大宗商品: Oil rises amid growing Mideast tensions between Iran-backed ..."
+    "✓ 股市动态: Oil prices rise after IEA warns on market constraints; Saudi...",
+    "✓ 综合财经: General Atlantic plans early 2027 IPO at up to $10bn valuati...",
+    "✓ 综合财经: South Texas Latino voters who flipped for Trump in 2024 are ...",
+    "✓ 经济数据: Dow Futures Rise; ASML Earnings Beat, CPI Inflation Due - In...",
+    "✓ 经济数据: Scott Bessent's growth plans aren't enough to tame surging d..."
   ],
   "positive_count": 8,
-  "negative_count": 4,
-  "neutral_count": 18,
+  "negative_count": 2,
+  "neutral_count": 20,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-14T03:20:06.687245",
+  "analyzed_at": "2026-10-14T11:04:32.831164",
   "categories_distribution": {
-    "综合财经": 17,
-    "大宗商品": 5,
+    "综合财经": 22,
+    "股市动态": 13,
     "国际贸易": 1,
-    "经济数据": 5,
-    "股市动态": 15,
-    "货币政策": 1
+    "经济数据": 6,
+    "外汇市场": 1,
+    "大宗商品": 2
   },
   "ai_provider": "fallback_rules"
 }
