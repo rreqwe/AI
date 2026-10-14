@@ -1,27 +1,26 @@
 {
-  "temperature_score": 60.0,
+  "temperature_score": 55.0,
   "sentiment": "中性",
   "sentiment_emoji": "😐",
-  "analysis_text": "当前全球经济新闻喜忧参半（积极8条，消极2条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
+  "analysis_text": "当前全球经济新闻喜忧参半（积极10条，消极7条），市场情绪相对中性。经济数据有好有坏，建议保持均衡配置，关注市场变化，适时调整投资组合。",
   "key_factors": [
-    "✓ 股市动态: Oil prices rise after IEA warns on market constraints; Saudi...",
-    "✓ 综合财经: General Atlantic plans early 2027 IPO at up to $10bn valuati...",
-    "✓ 综合财经: South Texas Latino voters who flipped for Trump in 2024 are ...",
-    "✓ 经济数据: Dow Futures Rise; ASML Earnings Beat, CPI Inflation Due - In...",
-    "✓ 经济数据: Scott Bessent's growth plans aren't enough to tame surging d..."
+    "✓ 综合财经: Treasury says largest U.S. banks let politics influence who ...",
+    "✓ 股市动态: Inside Wealth: Stock market drives wealth higher - CNBC...",
+    "✗ 经济数据: Wall St slides as hot CPI data fuels rate-hike bets; chips, ...",
+    "✓ 经济数据: Surging Inflation Complicates Trump’s Final Push to Sell Vot...",
+    "✓ 经济数据: US inflation rises more than expected - here's what is happe..."
   ],
-  "positive_count": 8,
-  "negative_count": 2,
-  "neutral_count": 20,
+  "positive_count": 10,
+  "negative_count": 7,
+  "neutral_count": 13,
   "analyzed_news_count": 30,
-  "analyzed_at": "2026-10-14T11:04:32.831164",
+  "analyzed_at": "2026-10-14T16:24:54.166677",
   "categories_distribution": {
-    "综合财经": 22,
-    "股市动态": 13,
-    "国际贸易": 1,
-    "经济数据": 6,
-    "外汇市场": 1,
-    "大宗商品": 2
+    "综合财经": 17,
+    "股市动态": 11,
+    "经济数据": 13,
+    "大宗商品": 3,
+    "货币政策": 1
   },
   "ai_provider": "fallback_rules"
 }
