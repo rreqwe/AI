@@ -1,45 +1,309 @@
 {
-  "updated_at": "2026-10-14T16:24:54.166802",
+  "updated_at": "2026-10-14T21:14:36.017683",
   "total_count": 45,
   "news": [
     {
-      "id": 8444941568178460475,
+      "id": -452772761125501167,
+      "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
+      "description": "\"Like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream,\" his criminal defense lawyer said Wednesday.",
+      "url": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
+      "source": "CNBC",
+      "published_at": "2026-10-14T21:12:08",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-10-14T21:14:32.468829"
+    },
+    {
+      "id": -4013132002618452257,
+      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+      "description": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
+      "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+      "source": "CNBC",
+      "published_at": "2026-10-14T20:46:32",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:32.469100"
+    },
+    {
+      "id": -4100256625796190247,
+      "title": "US stocks drop to their worst day since July as inflation worsens - AP News",
+      "description": "US stocks drop to their worst day since July as inflation worsens  AP News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pMamlGY0kzT3haV2dhdGc2UlQwNVo5dS11TzZNNFJlcEZhb0dmNWJRZE95aXY0N3FUc3I4SlNqVC1tVjlOcWswTHJqREI4OHFNWnpScU94UGk5ajJUMkZyRVlNLWZsWFhad2ptaHlrcnBEckN5ekxIZ21PLXhKbmg0aFY2b0UzZm5xTG95ZnhMVUE1WTVEQU1yWWdOaVlfZzlFUkJMSi1pbTl3UFR1Qk9B?oc=5",
+      "source": "Google News",
+      "published_at": "2026-10-14T20:45:00",
+      "category": "经济数据",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-10-14T21:14:27.123446"
+    },
+    {
+      "id": 7501459064033288689,
+      "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
+      "description": "Investors rush into Treasuries as sell-off triggers demand for haven assets",
+      "url": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-10-14T20:36:40",
+      "category": "经济数据",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-10-14T21:14:33.891491"
+    },
+    {
+      "id": -5964381089882237193,
+      "title": "Anduril employee tender offer would value the defense tech startup at $90 billion",
+      "description": "Anduril has been a major winner of the growing U.S. defense tech boom and President Donald Trump's plans to reindustrialize the U.S. military",
+      "url": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
+      "source": "CNBC",
+      "published_at": "2026-10-14T20:24:13",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:32.469435"
+    },
+    {
+      "id": 8847153284717517459,
+      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+      "description": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
+      "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+      "source": "CNBC",
+      "published_at": "2026-10-14T20:19:25",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-10-14T21:14:32.469011"
+    },
+    {
+      "id": 6292902737058617246,
+      "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters",
+      "description": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
+      "source": "Google News",
+      "published_at": "2026-10-14T20:19:18",
+      "category": "经济数据",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:27.123745"
+    },
+    {
+      "id": -4289572499867167058,
+      "title": "Perella Weinberg and Piper Sandler abandon merger talks",
+      "description": "A deal would have created an independent investment bank with an equity value of more than $6bn",
+      "url": "https://www.ft.com/content/dadac221-a4dd-4935-897e-7f7faebe8f17?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-10-14T20:16:29",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-10-14T21:14:33.892136"
+    },
+    {
+      "id": 7780006295957976853,
+      "title": "Bending Spoons stock soars on new Berkshire Hathaway investment - Yahoo Finance",
+      "description": "Bending Spoons stock soars on new Berkshire Hathaway investment  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFBFNi1sMW5LRzJsT3hudVYyZ0hlQnluX21CdEFOa3dIUXRzdFVTMVNwVFlyYV9mSXR6ekRKQjVacEdxMG05cUNuREtPYmIzSUY4ZFdGTmJ3OWJLZ0xCSlRLMV9XOXM1ZlJSbmtPUGhHZnhhU3BwTi1fY3NpRkxubHpVRnlCcW4zTVhZMERFZEMwWXJvYVZ3dzZpTkk4bEgycUlTX1ZYdzF2dDQ1dlRBRFUzOU4zOE9FMUZLOA?oc=5",
+      "source": "Google News",
+      "published_at": "2026-10-14T20:11:59",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-10-14T21:14:27.125764"
+    },
+    {
+      "id": 7183805233882710178,
+      "title": "US inflation jumps to 3.7% as Iran war drives up prices",
+      "description": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
+      "url": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-10-14T20:06:12",
+      "category": "经济数据",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-10-14T21:14:33.891609"
+    },
+    {
+      "id": -7701563068983129097,
+      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "description": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
+      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "source": "CNBC",
+      "published_at": "2026-10-14T19:22:00",
+      "category": "大宗商品",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-10-14T21:14:32.468715"
+    },
+    {
+      "id": -3381818368700177965,
+      "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+      "description": "As a key corner of the artificial intelligence trade takes a beating on Wednesday, traders are betting it could get even worse.",
+      "url": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+      "source": "CNBC",
+      "published_at": "2026-10-14T19:03:44",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-10-14T21:14:32.469260"
+    },
+    {
+      "id": -3724745204190420954,
+      "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+      "description": "U.S. District Judge Timothy Kelly had ruled that the three outlets targeted by President Donald Trump can keep their access to the White House complex.",
+      "url": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
+      "source": "CNBC",
+      "published_at": "2026-10-14T19:01:39",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:32.469519"
+    },
+    {
+      "id": 3224925410073833015,
       "title": "Treasury says largest U.S. banks let politics influence who received banking services",
       "description": "New Treasury Department findings may lend weight to President Donald Trump’s long-running grievance that major banks have discriminated against conservatives.",
       "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
       "source": "CNBC",
-      "published_at": "2026-10-14T16:13:10",
+      "published_at": "2026-10-14T18:51:42",
       "category": "综合财经",
       "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:50.550548"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-10-14T21:14:32.469351"
     },
     {
-      "id": 5510106561328353595,
-      "title": "Inside Wealth: Stock market drives wealth higher - CNBC",
-      "description": "Inside Wealth: Stock market drives wealth higher  CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTcyQ0g2bWE1cFBhNUVVN1RSNWdnUU95ZW1pcjZrQnBLWTBNcXRjc1djazQ1V3FOWnRleTE0eUJkMEdETVJvckkzME43TGVKank3QXB4ejhRNUFOdmZOXzd3Rl9PVmxWMFA5STU2UU52OTNHTWQ3a1dLRnlVb2o2TGMwdEZnMGI5aGQ0MWRPUWJneW5T?oc=5",
+      "id": 781829890462645158,
+      "title": "CPI Report Live Updates: New Insights on Inflation, U.S. Economy and the Fed - The New York Times",
+      "description": "CPI Report Live Updates: New Insights on Inflation, U.S. Economy and the Fed  The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5",
       "source": "Google News",
-      "published_at": "2026-10-14T16:04:54",
-      "category": "股市动态",
+      "published_at": "2026-10-14T18:45:05",
+      "category": "货币政策",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:45.153845"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:27.125166"
     },
     {
-      "id": 698022525984602173,
-      "title": "Wall St slides as hot CPI data fuels rate-hike bets; chips, banks weigh - Reuters",
-      "description": "Wall St slides as hot CPI data fuels rate-hike bets; chips, banks weigh  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
+      "id": -7632959955030745231,
+      "title": "Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy - The New York Times",
+      "description": "Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy  The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmd3X2RzWFdvcnpaNHlGQnItT2JJNlU1akJaWUtJbmdjMVhJT0tha3h6WDlfaEZBN2M5OFloMjRQcW5yUXRtc0FrUW9kaVNhZllXNmx1WEphWUw0SEtsaldkYzZaUEtXTFRpOG1GR0JRdWRFOHhLVWg3T2lNNXNhYmNESW02VmVYTWxv?oc=5",
       "source": "Google News",
-      "published_at": "2026-10-14T15:58:13",
+      "published_at": "2026-10-14T18:42:13",
       "category": "经济数据",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:45.153180"
+      "fetched_at": "2026-10-14T21:14:27.123953"
     },
     {
-      "id": -5951426937173398822,
+      "id": 4552697736875584973,
+      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+      "description": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-10-14T17:46:30",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:31.410304"
+    },
+    {
+      "id": -8196331927015677250,
+      "title": "If a Stock Market Crash Is Coming, Here's What Warren Buffett Would Do to Stay Ahead - Yahoo Finance",
+      "description": "If a Stock Market Crash Is Coming, Here's What Warren Buffett Would Do to Stay Ahead  Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGstZG5JZkdicVV1QWpaSlVfcGlDczZRNXBnTjFqckhET0tFcDVBd2VlNm9iX3RxTW1kekp0b2tlSl9MQk1NOS03YnkyQlhWT2UxSWJHVmgtejl5aHdHcG5yenU4WnQ3OVZ0SkpOaGJRdVRKSmVXNkk2UDA1VHFYT2ZYMVNKTW1UYzl1UHgtY0JUWm1RMjNfRVJWdk0?oc=5",
+      "source": "Google News",
+      "published_at": "2026-10-14T17:37:00",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-10-14T21:14:27.125360"
+    },
+    {
+      "id": 3590354666185839261,
+      "title": "Burnham wants to ‘repair bridges’ between Trump and Zelenskyy",
+      "description": "UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia",
+      "url": "https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-10-14T17:23:04",
+      "category": "股市动态",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-10-14T21:14:33.892054"
+    },
+    {
+      "id": 8233239465225670088,
+      "title": "Fannie Mae sharply raises mortgage rate forecast for 2027 ",
+      "description": "Fannie Mae just put out its latest forecast for mortgage rates, and they are much higher than previous estimates.",
+      "url": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
+      "source": "CNBC",
+      "published_at": "2026-10-14T17:08:07",
+      "category": "综合财经",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:32.469183"
+    },
+    {
+      "id": -9080977617920657434,
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-10-14T16:47:32",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:31.410404"
+    },
+    {
+      "id": 1535579348628769621,
+      "title": "Trump's diesel dilemma — by the numbers",
+      "description": "Conflicts in Ukraine and Iran have created major ripple effects across global energy markets causing major price swings.",
+      "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
+      "source": "CNBC",
+      "published_at": "2026-10-14T16:45:26",
+      "category": "股市动态",
+      "country": "USA",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:32.469622"
+    },
+    {
+      "id": -2929846646922752509,
+      "title": "Hot Inflation Puts the Stock Market’s Autumn Rally to the Test - Barron's",
+      "description": "Hot Inflation Puts the Stock Market’s Autumn Rally to the Test  Barron's",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXAxQVIzbUt1VUEweUtTc29naFRpeFg0YkJtRWpvbTVQUW1yMEp0UU10NmV1R2ZSbE5qSndaV0VwNEdONlVVVkRraUxmT1NlclNBcnJ4SUJYUEZ2emJIQkp1dVFOQlIyNU5JRVJwMFJrSnJKemlzOURjcHpXdmxnUzFJWUNtbENKM1BEa2x6YjN0UQ?oc=5",
+      "source": "Google News",
+      "published_at": "2026-10-14T16:28:00",
+      "category": "经济数据",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-10-14T21:14:27.124563"
+    },
+    {
+      "id": 3100608373741587899,
+      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge - CNBC",
+      "description": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge  CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44TUtWMDVLMlhGOWlMNGsxeWNBQ0R4QVdhS1Z4cmtReVN1dEJTOV9zQ1MycHZJVGo3WGpOdE42YlRzdm9kRHczVWplV1NYZXRfU1RodmIxRTZOVlhLbTJBZ1hRclQ4VHdpMnFjcEVWOGFpN3lvREE0Y09KWWM?oc=5",
+      "source": "Google News",
+      "published_at": "2026-10-14T16:24:51",
+      "category": "股市动态",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
+      "fetched_at": "2026-10-14T21:14:27.126462"
+    },
+    {
+      "id": -869752891133302487,
+      "title": "Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote, too - CNN",
+      "description": "Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote, too  CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhQXJ5Q21Ma1ZBU1cwNGFTanFZN3RzcWVwUUdDLWxiRU5CV3Y4d3JKX2h3blVyNXZoeE9oazNVemc4UzNNZ29yVXEyZzJjMXhKdjQwZjNZTU01SU1ZTHdVWnFHdnV3akt2alkyNkNPNi1md2RRVENZbg?oc=5",
+      "source": "Google News",
+      "published_at": "2026-10-14T16:00:41",
+      "category": "综合财经",
+      "country": "Global",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-10-14T21:14:27.124886"
+    },
+    {
+      "id": 7715932012941063941,
       "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
       "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
@@ -47,47 +311,23 @@
       "published_at": "2026-10-14T15:54:04",
       "category": "大宗商品",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-10-14T16:24:49.431366"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:31.410489"
     },
     {
-      "id": 7669131190068503475,
-      "title": "Netflix to cut 1,000 jobs worldwide",
-      "description": "The cuts - the steepest since 2022 - equates to around 6% of its total workforce worldwide.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-10-14T15:51:01",
+      "id": 1925094456435025787,
+      "title": "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal",
+      "description": "Exchange discussed putting legal tech unit into separate entity before valuations fall",
+      "url": "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-10-14T15:48:09",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:49.431295"
-    },
-    {
-      "id": 2662837373181853811,
-      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "description": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
-      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-      "source": "CNBC",
-      "published_at": "2026-10-14T15:47:29",
-      "category": "大宗商品",
-      "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:50.550411"
+      "fetched_at": "2026-10-14T21:14:33.892305"
     },
     {
-      "id": 3999396120046087053,
-      "title": "Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy - The New York Times",
-      "description": "Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy  The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmd3X2RzWFdvcnpaNHlGQnItT2JJNlU1akJaWUtJbmdjMVhJT0tha3h6WDlfaEZBN2M5OFloMjRQcW5yUXRtc0FrUW9kaVNhZllXNmx1WEphWUw0SEtsaldkYzZaUEtXTFRpOG1GR0JRdWRFOHhLVWg3T2lNNXNhYmNESW02VmVYTWxv?oc=5",
-      "source": "Google News",
-      "published_at": "2026-10-14T15:35:02",
-      "category": "经济数据",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:45.153063"
-    },
-    {
-      "id": -8086058970323595922,
+      "id": -4658461943861758161,
       "title": "US inflation rises more than expected - here's what is happening with prices",
       "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
       "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
@@ -95,107 +335,11 @@
       "published_at": "2026-10-14T15:26:14",
       "category": "经济数据",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-10-14T16:24:49.431527"
-    },
-    {
-      "id": -7927462536567736222,
-      "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027 ",
-      "description": "With a 3.6% COLA for 2027, Social Security retirement benefit checks will go up by $75 per month, on average, the agency said.",
-      "url": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-      "source": "CNBC",
-      "published_at": "2026-10-14T15:25:42",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-10-14T16:24:50.550712"
-    },
-    {
-      "id": -6072494793829268482,
-      "title": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons",
-      "description": "Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back",
-      "url": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-10-14T15:23:53",
-      "category": "经济数据",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:51.969070"
-    },
-    {
-      "id": 1925391617240384302,
-      "title": "Fannie Mae sharply raises mortgage rate forecast for 2027 ",
-      "description": "Fannie Mae just put out its latest forecast for mortgage rates, and they are much higher than previous estimates.",
-      "url": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
-      "source": "CNBC",
-      "published_at": "2026-10-14T15:20:53",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-10-14T16:24:50.550660"
-    },
-    {
-      "id": 1826513388567288384,
-      "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
-      "description": "Local opposition to data center construction has been a feature of the midterm elections set for Tuesday, Nov. 3.",
-      "url": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
-      "source": "CNBC",
-      "published_at": "2026-10-14T15:19:08",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-10-14T16:24:50.550778"
-    },
-    {
-      "id": -1008315897171537930,
-      "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce ",
-      "description": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC.",
-      "url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
-      "source": "CNBC",
-      "published_at": "2026-10-14T15:03:59",
-      "category": "综合财经",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-10-14T16:24:50.550606"
-    },
-    {
-      "id": 4841307576066755190,
-      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
-      "description": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "source": "CNBC",
-      "published_at": "2026-10-14T15:00:33",
-      "category": "股市动态",
-      "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:50.550824"
+      "fetched_at": "2026-10-14T21:14:31.410897"
     },
     {
-      "id": 6290639716767635842,
-      "title": "Netflix to cut 1,000 jobs as growth concerns mount ",
-      "description": "Streaming group faces pressure to boost viewer engagement after shares fall more than 40% in a year",
-      "url": "https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-10-14T14:57:17",
-      "category": "经济数据",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:51.969114"
-    },
-    {
-      "id": -8382615177766302459,
-      "title": "Here's the inflation breakdown for September 2026 — in one chart",
-      "description": "The consumer price index rose by 3.7% in September, on the back of higher gasoline and energy prices largely due to the Iran war.",
-      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
-      "source": "CNBC",
-      "published_at": "2026-10-14T14:56:25",
-      "category": "经济数据",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-10-14T16:24:50.550339"
-    },
-    {
-      "id": -3959602620401427406,
+      "id": -8724971281049509032,
       "title": "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper",
       "description": "Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected",
       "url": "https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1",
@@ -203,71 +347,11 @@
       "published_at": "2026-10-14T14:40:47",
       "category": "大宗商品",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:51.968875"
-    },
-    {
-      "id": 4099911195765614807,
-      "title": "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
-      "description": "Berkshire's latest investment follows the $600 million it invested in the company's IPO this July.",
-      "url": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
-      "source": "CNBC",
-      "published_at": "2026-10-14T14:39:21",
-      "category": "综合财经",
-      "country": "USA",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:50.550871"
+      "fetched_at": "2026-10-14T21:14:33.891791"
     },
     {
-      "id": 6817696388083293223,
-      "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
-      "description": "Food manufacturers warn of impact on consumers ahead of midterm elections",
-      "url": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-10-14T14:14:28",
-      "category": "经济数据",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-10-14T16:24:51.968735"
-    },
-    {
-      "id": -2518295936957405432,
-      "title": "Stocks Turn Lower After Hot Inflation Reading - WSJ",
-      "description": "Stocks Turn Lower After Hot Inflation Reading  WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDg0c0hqOWpocm5NRkdFQUVhdHlsbUFoTDloRFFRdW12ZUhwQzRRRGFYZXhRQUQ5WFoyMm93Q0tJd2JkbWpQR3JDZVM4Q3MzdWhXTzhkWTJDUm0wZlZSSGg2WWhVdWtEaXNVanNPNElNMjFpc2J4dnl2cTMzejFPUWp2c1pvN29sQW4zSk5OSjBYSF80MEhTd2xXa1RaSmpqQlhpS0J6QUFqeVZncXo2azFMQ2Y?oc=5",
-      "source": "Google News",
-      "published_at": "2026-10-14T13:56:00",
-      "category": "经济数据",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-10-14T16:24:45.154258"
-    },
-    {
-      "id": -4625356318175522333,
-      "title": "Stock Market Today (Oct. 14, 2026): S&P 500 falls on hot inflation data - Yahoo Finance",
-      "description": "Stock Market Today (Oct. 14, 2026): S&P 500 falls on hot inflation data  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2x1TWFHUWVuczZKaVpGZjlSX1Jvc0hIOWtxbWxfbTZLUTJPOEhUTi1BRF9XN3pwRXBqVUZXdExfZTZPUXhvMHNubW9Pbm01QVBkeGVDTXo5S2FiSi1YSi1RTjNvMTV1YTN0Y011eFhoZy1nLTRUVFRiNFVNcWwyajhxLXNfLVRPRUJpcDZreVlJSVlQ?oc=5",
-      "source": "Google News",
-      "published_at": "2026-10-14T13:52:49",
-      "category": "经济数据",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-10-14T16:24:45.153725"
-    },
-    {
-      "id": -3028866201376878514,
-      "title": "US inflation jumps to 3.7% as Iran war drives up prices",
-      "description": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
-      "url": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-10-14T13:51:24",
-      "category": "经济数据",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:51.968669"
-    },
-    {
-      "id": -4777858621834282492,
+      "id": -7470365547369749879,
       "title": "Driving test waits fall to two-year low - but still average 20 weeks",
       "description": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
       "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
@@ -276,10 +360,10 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-10-14T16:24:49.431478"
+      "fetched_at": "2026-10-14T21:14:31.410729"
     },
     {
-      "id": -5931344807699411947,
+      "id": 2695176555731795125,
       "title": "Inflation worsened last month to 3.7% as midterm elections near - PBS",
       "description": "Inflation worsened last month to 3.7% as midterm elections near  PBS",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzNzT3F6RjJZVUtoZ0Npa0I4Z3ZLN0h4cDFUT3c5N28yOXdpMThMc3RnNGN4ZThBZkgtaXdmR0twX3pGS2plUTVJSEtObEQ1R29UUktWWkV3c0pqN0N6Wk5aaTdVRTZ6OTJ2SnNQVU5hWFRBSUxwTGxCN1Y4dFNwNVh4eDh0WHJxSjUweU1uMmw5cDJFb1pCZUkwTzg2MGcx0gGmAUFVX3lxTFBOSzJhUVluSm9IX0IxVTdFM0hiTzBONU1NMTNaV0Etdno0d2RKOC1VTVB5VGluak9VMkR5aDNPWjJ2MlN1MWlFQTRCX3NzNlMya0V5WVU5T0s3ZTM4UHo2ZHBZei1wbGVIY1E1U1RZWFZteGNqYnBBSjRWb0dyNGh5VTQzcDIycDZFNHhlcWVWeUdpNHA0Q2JzMkZMSXNtWmRFOWMwbGc?oc=5",
@@ -288,22 +372,10 @@
       "category": "经济数据",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:45.152804"
+      "fetched_at": "2026-10-14T21:14:27.124331"
     },
     {
-      "id": 713316026643232262,
-      "title": "Trump's diesel dilemma — by the numbers",
-      "description": "Conflicts in Ukraine and Iran have created major ripple effects across global energy markets causing major price swings.",
-      "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
-      "source": "CNBC",
-      "published_at": "2026-10-14T13:35:46",
-      "category": "股市动态",
-      "country": "USA",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:50.550917"
-    },
-    {
-      "id": 3142599252697257027,
+      "id": 7178523831484786438,
       "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play - 24/7 Wall St.",
       "description": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play  24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmpNMXhBd3IzV2lBX21jMFhkRXpUcXlvUXdaTGhveHZZRFdhRk9XNTBxMnlBcVU0dUxnM01lYnFldm4ydzQyTUhVa3pRUzdoY3haSU5SVnBYSzc4MjRxNFdvSVQwM2E5dXBjLTRnZGJCbTUwbVlWbTZCS1RzZ0c4dnVFS1BxRWpzNXd1Tl8tNXZHQ0YzcldWR2FWSjQ5alVaVTlYMnFnQ2ZKN29RMVItS0lfcEI1X2NaZElfVTViMElwLUJwV25EMVZ4LVpOYWI2MU00?oc=5",
@@ -311,11 +383,11 @@
       "published_at": "2026-10-14T13:27:00",
       "category": "货币政策",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-10-14T16:24:45.152601"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-10-14T21:14:27.124142"
     },
     {
-      "id": -1600476367381390508,
+      "id": 8435128893279055629,
       "title": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk - CNBC",
       "description": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk  CNBC",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaEVJSnFaVlRVbWh3Z0pBSFZjSllsNG1qdm1xNXVIMGhYbU93VktCLWVDZDBsNGJIbE52SC1yZ0FXM1EtbVNwZ3FMTGhWbjMxVHk4TDdfeHZXNFVqZXdPeGNfVFdvRDQ2T0tCckJuOFNGSF9vREdmbmgwTzhiY2ZST09nemNQZFd6ZE1n0gGQAUFVX3lxTE9VcjVvR1NTbnFfeEw1Szd1Rm5ZX2pfdGNCeEU0LURES1ZsZjJBd2xZVmZQRDRqNVlZcTdmT3VpbWM3ekptZjV2WDBIOW9iVHdrVnREMEdNNkVYVmJrY2lqVTkxQkxVRVI2R2wtc2N3OC1VYWlWUkY4WVdSZG5iODY1V1NZNFdiVl9mVTRjOV9mMw?oc=5",
@@ -323,11 +395,11 @@
       "published_at": "2026-10-14T12:37:18",
       "category": "经济数据",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:45.153398"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:27.125573"
     },
     {
-      "id": -6135995766589335718,
+      "id": 4313403321667592879,
       "title": "Stock Market News for Oct 14, 2026 - Yahoo Finance",
       "description": "Stock Market News for Oct 14, 2026  Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlRFNU1JR0RveXJJdURuNnBhTjFKUGpQSWFIVlhVeWpINnZ1QnpKS1hnak5qSDlOM1hrUy1WV3AxZjN3S2lrc0haRUZIVkpBYmEwM2lNaGVUb3QwZDdUeXVkRmU0VTA0Mnhsa1Q1Yktja19oWHBHZV92enlFRmdYT1h5MjI5emRMWm91ODRwMFhpU28?oc=5",
@@ -336,10 +408,10 @@
       "category": "股市动态",
       "country": "Global",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-10-14T16:24:45.153608"
+      "fetched_at": "2026-10-14T21:14:27.125940"
     },
     {
-      "id": -3729042620190325386,
+      "id": 2119404141170918966,
       "title": "Wayfair among firms fined millions for misleading sales tactics",
       "description": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
       "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
@@ -347,35 +419,11 @@
       "published_at": "2026-10-14T12:09:45",
       "category": "股市动态",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-10-14T16:24:49.431685"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-10-14T21:14:31.411057"
     },
     {
-      "id": 1483893699847944452,
-      "title": "5 Things to Know Before the Stock Market Opens on Wednesday - Investopedia",
-      "description": "5 Things to Know Before the Stock Market Opens on Wednesday  Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjBVaFNSR2hpNUhNQm5GLUNMOXRnVHJCLXd4bk5oSHVZRUIwMEJOV2hBc3pfaXlDZEJGeWRjQ3M2Nmp0ekk1ZGw0WXl5V1NYZkRQeVY5OFh5Q0hqVjFTSExYUUpTV0U0eTloQ0oyYnpDclItamVhSmU1T2hVYldLLTFheU5CdjJOSHgxbE1wZmFGcGRZbU5aWk1xRXNZX3JXTEpSSnp4dzFmMFhTVlZoUkR1TQ?oc=5",
-      "source": "Google News",
-      "published_at": "2026-10-14T12:07:09",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:45.153948"
-    },
-    {
-      "id": -8960222091084017168,
-      "title": "Europe’s defence stocks send a geopolitical distress signal",
-      "description": "Even when governments do sign big cheques, it takes a while for defence contractors to ramp up production",
-      "url": "https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-10-14T11:59:38",
-      "category": "股市动态",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
-      "fetched_at": "2026-10-14T16:24:51.969027"
-    },
-    {
-      "id": 2032718417683285488,
+      "id": 116735622670885679,
       "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
       "description": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
       "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
@@ -384,10 +432,10 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:49.431636"
+      "fetched_at": "2026-10-14T21:14:31.410978"
     },
     {
-      "id": -2499877541477615727,
+      "id": 2134716185012450960,
       "title": "Iran's stock market surges despite war, currency crisis, worsening economy - The Jerusalem Post",
       "description": "Iran's stock market surges despite war, currency crisis, worsening economy  The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oOWZzN0xuczlzSDZUd2dxR1MyUDdsOC1sd3Y1cUdnMlFxU2xGYTJiZVlnbDVHblhUN0U2MFhiUlVqeGd6TWhteDhNX0JpbmlMNEhaQmIyVHJhdm5LYlF5QXB3VEZ5QTViNlE?oc=5",
@@ -395,11 +443,11 @@
       "published_at": "2026-10-14T11:29:20",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-10-14T16:24:45.153291"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-10-14T21:14:27.126291"
     },
     {
-      "id": 4690147100366268963,
+      "id": 1497867407661536015,
       "title": "Ukraine blindsided by Starlink restrictions and intelligence gaps ",
       "description": "Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network",
       "url": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1",
@@ -407,11 +455,11 @@
       "published_at": "2026-10-14T11:09:54",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:51.968982"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:33.891972"
     },
     {
-      "id": -42231631067943538,
+      "id": -5505994052509290970,
       "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
       "description": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
       "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
@@ -419,11 +467,11 @@
       "published_at": "2026-10-14T11:04:12",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:49.431425"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-10-14T21:14:31.410630"
     },
     {
-      "id": -168029715669027571,
+      "id": -3649501869569301094,
       "title": "Marine Le Pen: ‘All the warning signs are flashing red’",
       "description": "In a wide-ranging interview with the FT, the far-right leader declares that France is ready to close the chapter on mainstream politics",
       "url": "https://www.ft.com/content/73cfaf41-d3ea-4202-bd9b-f355c9e5b504?syn-25a6b1a6=1",
@@ -431,23 +479,23 @@
       "published_at": "2026-10-14T11:02:02",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-10-14T16:24:51.968821"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-10-14T21:14:33.891708"
     },
     {
-      "id": 6923055890515704187,
-      "title": "Stock Market Today: Big Banks Earn Billions, Bumble Soars on Buyout - ChartMill",
-      "description": "Stock Market Today: Big Banks Earn Billions, Bumble Soars on Buyout  ChartMill",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanlZNjI0ZjdTUG02eVNraGRfMzVRYUduYTdyRXlRdTFtUWRIb0RGa2YtQWtRRFM4bVd2NnkxQmkweUprNTJta3E0bm9QcjV6OVdxS0RIQU0tSVV6OHFFNkozQ1dKOHE5V2JjTURCTHNVZUN6M0hNdlg3Y3c5VWVGMnRwUTVTNU1YYlNkb2pZNE5lTTFRRW55eUNvRjZrTHg1bTdsSTczZVJ2WGs?oc=5",
-      "source": "Google News",
-      "published_at": "2026-10-14T10:56:49",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-10-14T16:24:45.154049"
+      "id": 1780816810270819416,
+      "title": "General Atlantic plans IPO at up to $10bn valuation ",
+      "description": "Private capital group looks to fund ambitious expansion plan to keep pace with rivals Blackstone and Apollo Global",
+      "url": "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "2026-10-14T10:00:02",
+      "category": "综合财经",
+      "country": "UK",
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
+      "fetched_at": "2026-10-14T21:14:33.892221"
     },
     {
-      "id": 6310089677417231965,
+      "id": 4459871358679903630,
       "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
       "description": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
       "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
@@ -455,35 +503,11 @@
       "published_at": "2026-10-14T08:27:17",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:49.431737"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-10-14T21:14:31.411139"
     },
     {
-      "id": 5167532872444940093,
-      "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Traders Brace For CPI - Yahoo Finance",
-      "description": "US Stock Market Today: S&P 500 Futures Edge Higher As Traders Brace For CPI  Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQll0OVhRZnFvWjZIaG1WQmFxaDZ3QlRMamVZSTVveFRBOExzZE5uWWF1VEpDNWV5TWIySG5GRkVITDEzaTdORTlmVEdCNnhpZE0xQm1WTVB6R1VyYlVVOUZhMnV1VlRvbWRtQk4zVVFiNmlSdlVkeWR2Q2Q0aW11eFVEVVQxeGxYLUlBcmJuT1lJdw?oc=5",
-      "source": "Google News",
-      "published_at": "2026-10-14T08:14:05",
-      "category": "经济数据",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:45.154155"
-    },
-    {
-      "id": -4821997695681411240,
-      "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
-      "description": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-10-14T07:18:08",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:49.431801"
-    },
-    {
-      "id": -3206705579272493453,
+      "id": -1328764340776659805,
       "title": "The global economy and the art of living dangerously",
       "description": "It would be nice to think that the world will become less shock-prone, but it probably won’t",
       "url": "https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1",
@@ -491,23 +515,11 @@
       "published_at": "2026-10-14T04:00:21",
       "category": "综合财经",
       "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/d73313bb-1da1-4247-8ca6-de693c674018/image_1761210124_5_1.png",
-      "fetched_at": "2026-10-14T16:24:51.968928"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
+      "fetched_at": "2026-10-14T21:14:33.891880"
     },
     {
-      "id": -900274888295766864,
-      "title": "UK’s Schillings sets up private investigations business with US law firm Clare Locke",
-      "description": "Groups known for battling the press set up US intelligence company co-led by a former senior CIA official",
-      "url": "https://www.ft.com/content/42209791-2167-4c4e-81a0-f610a981b745?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "published_at": "2026-10-14T04:00:21",
-      "category": "综合财经",
-      "country": "UK",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/c114dc3c-72a6-44d4-93a8-b97d0608ad58/image_1761210122_4_1.png",
-      "fetched_at": "2026-10-14T16:24:51.969165"
-    },
-    {
-      "id": -2775966940599506560,
+      "id": -7925860727413076951,
       "title": "USU Study Finds Why Some Companies Face Greater Stock Market Penalties for Missing Earnings Forecasts - Utah State University",
       "description": "USU Study Finds Why Some Companies Face Greater Stock Market Penalties for Missing Earnings Forecasts  Utah State University",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLVJjUzI5YjRfaEdxVTZQalQ0RFVwNVJTQjJQS3lhOEtzUmVuUTktMmd1N1JSTkY0c0RVajBzbFVHaXlQOEhXRGxiRDQyQVQwVHJOZjZQNXh3QUZFenl2SFJiYnFJZzY1Y3AtR2VsNEp1WllIU3JYT1FINUdZWlBqRFhvWXF4UHJrV0plcTB5ODZCS3laWHFYZkxXaGgwbUFGemtwNFhHbmJXZmZUTHhPVmZicVFNbTQ0ZDJOc0JPT1cwdGhsOVNUaWpjdUNVQQ?oc=5",
@@ -515,11 +527,11 @@
       "published_at": "2026-10-14T03:02:04",
       "category": "股市动态",
       "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:45.152934"
+      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/5f2cdbe0-ff90-4dd6-847d-f845db12d841/image_1761210122_6_1.jpg",
+      "fetched_at": "2026-10-14T21:14:27.126117"
     },
     {
-      "id": -6085645176037963072,
+      "id": 7185682632653738582,
       "title": "How long will humans be needed for translation?",
       "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
       "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
@@ -528,19 +540,7 @@
       "category": "综合财经",
       "country": "UK",
       "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:49.431582"
-    },
-    {
-      "id": 7180750372670316605,
-      "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market - CNBC",
-      "description": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market  CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWJtYzA4SkFobVRHU0EzQ04tRmVrTkJ4NlVnSEx3djE3cVczaXdmcTFUUVNzbnJrWmRJeEF4NVlpT3lwNkFYOXNMRlVRY1ZFc0tLZmlkSXpnaXJ3TmdERUNwSGRmWlFtRlMwQkxvMmV1ck5aM2c1el9FMzFkUk5LcWhxM1JTQ3VCUmfSAY8BQVVfeXFMUHF6Q1lNTzFBMHB4dWcyZjlPYkYyR0hENE9jY2p1ZzNxNWQ5WUNEWGhFSTZCZWJuRDFoWjNXQl95Ukxxb0N1T1ZFZXNHUnVObll4RGxiN3ZjX09RMkJOdHpWaVhJS3cwZlZRSlY0aFBtVlJJZkYwb3F4cDdsckExZHRya1F6aVh0bXZfbWl6WGM?oc=5",
-      "source": "Google News",
-      "published_at": "2026-10-13T12:40:16",
-      "category": "股市动态",
-      "country": "Global",
-      "image_url": "https://zhiyan-ai-agent-with-1258344702.cos.ap-guangzhou.tencentcos.cn/with/e21eb98a-5751-440c-8dc6-b04471809fc8/image_1761210124_7_1.png",
-      "fetched_at": "2026-10-14T16:24:45.153503"
+      "fetched_at": "2026-10-14T21:14:31.410821"
     }
   ]
 }
